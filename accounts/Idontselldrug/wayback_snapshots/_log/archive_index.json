@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T19:40:15",
+  "last_updated": "2026-08-01T19:41:43",
   "html": {
     "https://web.archive.org/web/20251108012212if_/https://twitter.com/Idontselldrug/status/1986967459153453224": {
       "status": "done",
@@ -20509,58 +20509,58 @@
       "last_updated": "2026-08-01T17:16:23"
     },
     "https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/720x1280/JuaehN4673PL7D3x.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251114125310_twitter_com_Idontselldrug_status_1989315670455075262.json"
       ],
-      "last_updated": "2026-08-01T19:15:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114125310if_/https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/720x1280/JuaehN4673PL7D3x.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e47a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:40:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251114125310/https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/720x1280/JuaehN4673PL7D3x.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/720x1280/sS16yBb-SVKGaReV.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251114125310_twitter_com_Idontselldrug_status_1989315670455075262.json"
       ],
-      "last_updated": "2026-08-01T19:15:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114125310im_/https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/720x1280/sS16yBb-SVKGaReV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab27e5940>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:40:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251114125310/https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/720x1280/sS16yBb-SVKGaReV.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/1280x720/oqdy66BMNEQYPQTh.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251114125310_twitter_com_Idontselldrug_status_1989315670455075262.json"
       ],
-      "last_updated": "2026-08-01T19:15:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114125310im_/https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/1280x720/oqdy66BMNEQYPQTh.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e5ee0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:40:55",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251114125310/https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/1280x720/oqdy66BMNEQYPQTh.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989291881633878016/pu/vid/avc1/720x1280/hgNzxUxyhyYFJowm.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251114142025_twitter_com_Idontselldrug_status_1989337627125047391.json"
       ],
-      "last_updated": "2026-08-01T19:15:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989291881633878016/pu/vid/avc1/720x1280/hgNzxUxyhyYFJowm.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e7a40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989291881633878016/pu/vid/avc1/720x1280/hgNzxUxyhyYFJowm.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a097950>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989291950898630656/pu/vid/avc1/720x1280/3y3_1qVlwMAl6-In.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251114142025_twitter_com_Idontselldrug_status_1989337627125047391.json"
       ],
-      "last_updated": "2026-08-01T19:15:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989291950898630656/pu/vid/avc1/720x1280/3y3_1qVlwMAl6-In.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e7050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989291950898630656/pu/vid/avc1/720x1280/3y3_1qVlwMAl6-In.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a6778f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989329333903908864/pu/vid/avc1/1280x720/HhhdaCG-HmLPqff3.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251114142025_twitter_com_Idontselldrug_status_1989337627125047391.json"
       ],
-      "last_updated": "2026-08-01T19:15:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989329333903908864/pu/vid/avc1/1280x720/HhhdaCG-HmLPqff3.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e5130>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114142025im_/https://video.twimg.com/ext_tw_video/1989329333903908864/pu/vid/avc1/1280x720/HhhdaCG-HmLPqff3.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a675ac0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G5vpWZ-a8AAGihD.mp4": {
       "status": "done",
@@ -20602,18 +20602,18 @@
       "referenced_by": [
         "20251117231803_twitter_com_Idontselldrug_status_1990560090521559170.json"
       ],
-      "last_updated": "2026-08-01T19:15:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117231803im_/https://video.twimg.com/amplify_video/1990404498943361024/vid/avc1/1280x720/-bf4M5j3jtLRJEm2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14b76e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117231803im_/https://video.twimg.com/amplify_video/1990404498943361024/vid/avc1/1280x720/-bf4M5j3jtLRJEm2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a6ad010>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1990404500654559232/vid/avc1/1280x720/9x3wJ4vYNhschOjo.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251117231803_twitter_com_Idontselldrug_status_1990560090521559170.json"
       ],
-      "last_updated": "2026-08-01T19:16:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117231803im_/https://video.twimg.com/amplify_video/1990404500654559232/vid/avc1/1280x720/9x3wJ4vYNhschOjo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab156d040>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117231803im_/https://video.twimg.com/amplify_video/1990404500654559232/vid/avc1/1280x720/9x3wJ4vYNhschOjo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a6acbf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1990056072103538688/vid/avc1/576x1022/9qbZQHwB-RKvnmlP.mp4": {
       "status": "done",
@@ -20683,9 +20683,9 @@
       "referenced_by": [
         "20251129032317_twitter_com_Idontselldrug_status_1994608072170627090.json"
       ],
-      "last_updated": "2026-08-01T19:16:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251129032317im_/https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/1080x1920/_Rv7Aeeezn8VAWj4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e4950>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251129032317im_/https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/1080x1920/_Rv7Aeeezn8VAWj4.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a674650>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1995123768717709312/vid/avc1/720x972/L9DpZTwM5BZF22Es.mp4": {
       "status": "done",
@@ -20797,9 +20797,9 @@
       "referenced_by": [
         "20251218002131_twitter_com_Idontselldrug_status_2001447699430646224.json"
       ],
-      "last_updated": "2026-08-01T19:16:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251218002131im_/https://video.twimg.com/tweet_video/G8PaaUyXcAU-dBG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e6e40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251218002131im_/https://video.twimg.com/tweet_video/G8PaaUyXcAU-dBG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a677080>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G8hArQfWoAAFBu-.mp4": {
       "status": "done",
@@ -21012,9 +21012,9 @@
       "referenced_by": [
         "20260108172412_twitter_com_Idontselldrug_status_2009315212265181433.json"
       ],
-      "last_updated": "2026-08-01T19:16:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108172412im_/https://video.twimg.com/tweet_video/G-KFiGwa0AUvatl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e7590>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108172412im_/https://video.twimg.com/tweet_video/G-KFiGwa0AUvatl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a097b30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G-KL6HZaQAEpECr.mp4": {
       "status": "done",
@@ -21049,9 +21049,9 @@
       "referenced_by": [
         "20260111223942_twitter_com_Idontselldrug_status_2010481772514173261.json"
       ],
-      "last_updated": "2026-08-01T19:16:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260111223942im_/https://video.twimg.com/ext_tw_video/2010481708026761216/pu/vid/avc1/720x1280/kq1lasy-ckQygvdZ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab156ed50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260111223942im_/https://video.twimg.com/ext_tw_video/2010481708026761216/pu/vid/avc1/720x1280/kq1lasy-ckQygvdZ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a6ad580>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2010483397899280384/pu/vid/avc1/720x1280/DIaWQXpxjfWj8ZA6.mp4?tag=12": {
       "status": "done",
@@ -21685,9 +21685,9 @@
       "referenced_by": [
         "20260715172401_twitter_com_Idontselldrug_status_2077444083581333693.json"
       ],
-      "last_updated": "2026-08-01T19:16:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260715172401im_/https://video.twimg.com/tweet_video/HNSQYJLbAAAndeI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0ab14e50a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T19:41:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260715172401im_/https://video.twimg.com/tweet_video/HNSQYJLbAAAndeI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a6775f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HNWgfy-a8AAZD2p.mp4": {
       "status": "done",
@@ -21781,13 +21781,13 @@
       "last_updated": "2026-08-01T17:16:25"
     },
     "https://video.twimg.com/tweet_video/HB-X0C3aMAEN9Fi.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260225035125_twitter_com_Idontselldrug_status_2026505287998537996.json"
       ],
-      "last_updated": "2026-08-01T19:15:13",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260225035125/https://video.twimg.com/tweet_video/HB-X0C3aMAEN9Fi.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-01T19:41:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260225035125im_/https://video.twimg.com/tweet_video/HB-X0C3aMAEN9Fi.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff87a096b70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     }
   },
   "avatars": {
@@ -33704,7 +33704,7 @@
       "last_updated": "2026-08-01T17:17:52"
     },
     "20251114125310_twitter_com_Idontselldrug_status_1989315670455075262.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -33716,7 +33716,7 @@
           "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T19:15:23",
+      "last_updated": "2026-08-01T19:40:55",
       "miss_count": 2
     },
     "20251114142025_twitter_com_Idontselldrug_status_1989337627125047391.json": {
@@ -69261,7 +69261,7 @@
       "last_updated": "2026-08-01T19:04:04"
     },
     "20260225035125_twitter_com_Idontselldrug_status_2026505287998537996.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -69273,7 +69273,7 @@
           "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T19:17:03",
+      "last_updated": "2026-08-01T19:41:39",
       "miss_count": 1
     },
     "20260314005224_twitter_com_Idontselldrug_status_2032620828689670338.json": {
