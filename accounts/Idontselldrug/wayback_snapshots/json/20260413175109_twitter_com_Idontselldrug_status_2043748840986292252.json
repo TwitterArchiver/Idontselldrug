@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043704700118376814",
+    "created_at": "2026-04-13T17:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043748840986292252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        },
+        {
+          "end": 27,
+          "id": "1690530117171453952",
+          "start": 15,
+          "username": "AgNo3_XQ719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043748840986292252",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043732444797645040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 @AgNo3_XQ719 好奇是怎么骗的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043704700118376814",
+        "created_at": "2026-04-13T17:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043748840986292252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            },
+            {
+              "end": 27,
+              "id": "1690530117171453952",
+              "start": 15,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043748840986292252",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043732444797645040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 @AgNo3_XQ719 好奇是怎么骗的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2043704700118376814",
+        "created_at": "2026-04-13T16:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043732444797645040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690530117171453952",
+              "start": 0,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043732444797645040",
+        "in_reply_to_user_id": "1690530117171453952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043704700118376814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ719 我也遇到这种人了，同样的骗术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 251,
+          "like_count": 1729,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 337,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 328
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜09｜双相情感障碍｜istp-t｜互fo欢迎｜🚪52 88 188 288 520｜爱人@NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2041871190642585663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041358000955518976/9zUWm5kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 298,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 461
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      }
+    ]
+  }
+}
