@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081217569697280000"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2081218385816199321",
+    "created_at": "2026-07-26T03:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081218385816199321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jI0euZWiN",
+          "end": 60,
+          "expanded_url": "https://x.com/Idontselldrug/status/2081218385816199321/photo/1",
+          "media_key": "3_2081217569697280000",
+          "start": 37,
+          "url": "https://t.co/7jI0euZWiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081218385816199321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么中国还有山寨的vetements，logo一模一样我刚开始还被吓一跳 https://t.co/7jI0euZWiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2081217569697280000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH4WlYbsAALzk1.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081217569697280000"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2081218385816199321",
+        "created_at": "2026-07-26T03:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081218385816199321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jI0euZWiN",
+              "end": 60,
+              "expanded_url": "https://x.com/Idontselldrug/status/2081218385816199321/photo/1",
+              "media_key": "3_2081217569697280000",
+              "start": 37,
+              "url": "https://t.co/7jI0euZWiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081218385816199321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么中国还有山寨的vetements，logo一模一样我刚开始还被吓一跳 https://t.co/7jI0euZWiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 311,
+          "like_count": 2756,
+          "listed_count": 1,
+          "media_count": 536,
+          "tweet_count": 3257
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

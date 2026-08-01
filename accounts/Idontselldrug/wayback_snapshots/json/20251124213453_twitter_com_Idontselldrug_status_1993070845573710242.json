@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1992980250939314241",
+    "created_at": "2025-11-24T21:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993070845573710242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881002090637557760",
+          "start": 0,
+          "username": "SharuruHolmes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993070845573710242",
+    "in_reply_to_user_id": "881002090637557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992980250939314241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharuruHolmes 是不是什么软路由，我爹也搞过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1992980250939314241",
+        "created_at": "2025-11-24T21:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993070845573710242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881002090637557760",
+              "start": 0,
+              "username": "SharuruHolmes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993070845573710242",
+        "in_reply_to_user_id": "881002090637557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992980250939314241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharuruHolmes 是不是什么软路由，我爹也搞过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881002090637557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1992980250939314241",
+        "created_at": "2025-11-24T15:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992980250939314241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992980250939314241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得以前在家翻墙都不用vpn,连家里的一个wifi就行了，不知道我家里人对这个wifi搞了什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 164,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T04:10:41.000Z",
+        "description": "179 54 双鱼ENTJ男高 #智商超高 #拉爆你男友 #大孝子 #欺骗女人的事我做不到 #魅上照毁了我的卡密梦 #基拉 #沉淀 #清纯小白花 #恋爱脑 #40秒憋笑挑战 #35秒后就宣布胜利吧 #感谢L #死神感谢我 #局长是我爸 #其他人能做到吗 #你的冥字 #隔着屏薄纱杀你 #那场大雨毁了我的成神梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "智商超高"
+              },
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "拉爆你男友"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "大孝子"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "tag": "欺骗女人的事我做不到"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "tag": "魅上照毁了我的卡密梦"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "基拉"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "沉淀"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "清纯小白花"
+              },
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "恋爱脑"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "40秒憋笑挑战"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "tag": "35秒后就宣布胜利吧"
+              },
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "感谢L"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "死神感谢我"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "局长是我爸"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "其他人能做到吗"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "你的冥字"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "隔着屏薄纱杀你"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "那场大雨毁了我的成神梦"
+              }
+            ]
+          }
+        },
+        "id": "881002090637557760",
+        "location": "不在天堂亦不在地狱",
+        "name": "夜神月",
+        "pinned_tweet_id": "1695649764392546797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907933753277636608/AUgOFyXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1019,
+          "like_count": 37614,
+          "listed_count": 7,
+          "media_count": 2929,
+          "tweet_count": 20113
+        },
+        "username": "SharuruHolmes",
+        "verified": false
+      }
+    ]
+  }
+}

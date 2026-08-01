@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988509772669480961"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988509793351614487",
+    "created_at": "2025-11-12T07:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988509793351614487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fo6kPNV54",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988509793351614487/video/1",
+          "media_key": "7_1988509772669480961",
+          "start": 0,
+          "url": "https://t.co/2fo6kPNV54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988509793351614487",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2fo6kPNV54"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 1280,
+        "media_key": "7_1988509772669480961",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988509772669480961/pu/img/68jTVSz31xW1yBxp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988509772669480961/pu/vid/avc1/320x568/wqmGpGKilS2HPAAL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988509772669480961/pu/vid/avc1/480x852/N0_R-w8-SAs1eAqA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988509772669480961/pu/vid/avc1/720x1280/jVQRRqNTP980B22b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988509772669480961/pu/pl/MhbnUF6WJT3Oxn5E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988509772669480961"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988509793351614487",
+        "created_at": "2025-11-12T07:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988509793351614487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fo6kPNV54",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988509793351614487/video/1",
+              "media_key": "7_1988509772669480961",
+              "start": 0,
+              "url": "https://t.co/2fo6kPNV54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988509793351614487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2fo6kPNV54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 133,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 85
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

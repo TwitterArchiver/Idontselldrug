@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2058872162895949932",
+    "created_at": "2026-05-25T11:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058872162895949932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033556291600445440",
+          "start": 3,
+          "username": "M1L4GR03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058872162895949932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053408494254981140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M1L4GR03: Ranking every LGBT:\n1-gays : they hate foids\n2-FTM Trans: they hate being foid\n3-Bisexuals : still chance of not dating foids…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2053408481764409351",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HH8sIn5XgAcYAy1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HH8sIn5XgAcYAy1.mp4"
+          }
+        ],
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2058872162895949932",
+        "created_at": "2026-05-25T11:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058872162895949932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033556291600445440",
+              "start": 3,
+              "username": "M1L4GR03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872162895949932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053408494254981140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M1L4GR03: Ranking every LGBT:\n1-gays : they hate foids\n2-FTM Trans: they hate being foid\n3-Bisexuals : still chance of not dating foids…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053408481764409351"
+          ]
+        },
+        "author_id": "2033556291600445440",
+        "conversation_id": "2053408494254981140",
+        "created_at": "2026-05-10T09:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053408494254981140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZaQhtP7FF",
+              "end": 206,
+              "expanded_url": "https://x.com/M1L4GR03/status/2053408494254981140/photo/1",
+              "media_key": "16_2053408481764409351",
+              "start": 183,
+              "url": "https://t.co/6ZaQhtP7FF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053408494254981140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1191,
+          "impression_count": 207549,
+          "like_count": 11840,
+          "quote_count": 67,
+          "reply_count": 92,
+          "retweet_count": 1385
+        },
+        "reply_settings": "everyone",
+        "text": "Ranking every LGBT:\n1-gays : they hate foids\n2-FTM Trans: they hate being foid\n3-Bisexuals : still chance of not dating foids\n4:MTF trans: smarter foids\n5: lesbians: they are foids👎👎 https://t.co/6ZaQhtP7FF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 287,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T14:49:56.000Z",
+        "description": "#viscaBarca💙❤️  #wethenorth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "viscaBarca"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "wethenorth"
+              }
+            ]
+          }
+        },
+        "id": "2033556291600445440",
+        "name": "🇦🇫",
+        "pinned_tweet_id": "2033600577901351268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483138403844096/INRiek10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 383,
+          "like_count": 14566,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 2343
+        },
+        "username": "M1L4GR03",
+        "verified": true
+      }
+    ]
+  }
+}

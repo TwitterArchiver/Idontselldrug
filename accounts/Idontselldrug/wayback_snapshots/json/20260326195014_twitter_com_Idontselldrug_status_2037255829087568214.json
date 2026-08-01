@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2037254219192017308",
+    "created_at": "2026-03-26T19:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T20:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037255829087568214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037255829087568214",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037254219192017308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 吃狗肉那个好像是典，看到过好多次了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2037254219192017308",
+        "created_at": "2026-03-26T19:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037255829087568214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037255829087568214",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037254219192017308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 吃狗肉那个好像是典，看到过好多次了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2037254219192017308",
+        "created_at": "2026-03-26T19:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037254219192017308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037254219192017308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "翻推特看到一条野狗转发了一条关于吃狗肉的文字，使我想到幻男的知名文章了。\n文章名为叫《爱犬的肉很好吃》，内容像是幻男真情流露。\n\n“         \n         对事不相信不反对不赞成。现在回想，种种迹象表明应该就是他们合伙宰杀了肉松，记得这件事之前我妈就偶尔问我什么节到了，能不能把狗杀了来吃。再者下药如果是毒药，怎么还敢吃它肉。\n         就算肉松能活过来，我也不再是跟它亲近的那个我了，这感觉在看到它被退了毛的身体时就涌现了，当事物变化到与自己的认识中不同，可以被判定为不再是原事物时，我就能把对原事物的感情从新事物上切断，而不会把对原事物的感情迁移到原事物变化后的新事物上。\n         所以在吃它的肉的时候我想到的是在吃肉，最多是它的肉，而不会想成在吃它。确实挺好吃。     ”\n\n这篇文章的讽刺的确有水平，幻男真不是人云亦云拾人牙慧鹦鹉学舌的观众。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻推特看到一条野狗转发了一条关于吃狗肉的文字，使我想到幻男的知名文章了。\n文章名为叫《爱犬的肉很好吃》，内容像是幻男真情流露。\n\n“"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 237,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ \n旧名义：仿生喹硫平/\n梨❤️@Eternal1uv9/\n涘🧊@winterfruit_1 /\n渡 🚣‍♂️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /\n聖 🍜@shungleemain /\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "shungleemain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 143,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 120,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 861,
+          "like_count": 3669,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

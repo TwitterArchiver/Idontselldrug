@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058805656032100352"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2058805659618144504",
+    "created_at": "2026-05-25T07:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058805659618144504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811843582229381123",
+          "start": 0,
+          "username": "RainduRhinns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5VNAZeTRwe",
+          "end": 53,
+          "expanded_url": "https://x.com/Idontselldrug/status/2058805659618144504/photo/1",
+          "media_key": "3_2058805656032100352",
+          "start": 30,
+          "url": "https://t.co/5VNAZeTRwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058805659618144504",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@RainduRhinns 疑似被马斯克拿下了\n我们怀念他 https://t.co/5VNAZeTRwe"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [RainduRhinns].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "RainduRhinns",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "RainduRhinns"
+    },
+    {
+      "detail": "User has been suspended: [1811843582229381123].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1811843582229381123",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1811843582229381123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2058805656032100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJY1g1bwAA3ut0.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058805656032100352"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2058805659618144504",
+        "created_at": "2026-05-25T07:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058805659618144504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VNAZeTRwe",
+              "end": 53,
+              "expanded_url": "https://x.com/Idontselldrug/status/2058805659618144504/photo/1",
+              "media_key": "3_2058805656032100352",
+              "start": 30,
+              "url": "https://t.co/5VNAZeTRwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058805659618144504",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 疑似被马斯克拿下了\n我们怀念他 https://t.co/5VNAZeTRwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 287,
+          "like_count": 2312,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 2910
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

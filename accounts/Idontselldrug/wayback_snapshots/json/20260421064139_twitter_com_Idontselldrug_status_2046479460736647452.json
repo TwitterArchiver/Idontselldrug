@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2046479460736647452",
+    "created_at": "2026-04-21T06:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046479460736647452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1204492775829442565",
+          "start": 3,
+          "username": "gloccnem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046479460736647452",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046361157343047950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gloccnem: if big Kirk had drip instead of that fuck ass haircut he’d still be alive"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2046479460736647452",
+        "created_at": "2026-04-21T06:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046479460736647452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1204492775829442565",
+              "start": 3,
+              "username": "gloccnem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046479460736647452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046361157343047950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gloccnem: if big Kirk had drip instead of that fuck ass haircut he’d still be alive"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1204492775829442565",
+        "conversation_id": "2046361157343047950",
+        "created_at": "2026-04-20T22:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046361157343047950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deeore5/status…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/deeore5/status/2046357497259188431",
+              "start": 74,
+              "url": "https://t.co/NGrUoAr2BN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046361157343047950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 161251,
+          "like_count": 8523,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046357497259188431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "if big Kirk had drip instead of that fuck ass haircut he’d still be alive https://t.co/NGrUoAr2BN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 257,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-10T20:07:17.000Z",
+        "description": "professional self thinker • dm noti for a fb 🫗 @roobet partnered with @luckyfun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "roobet"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "luckyfun"
+              }
+            ]
+          }
+        },
+        "id": "1204492775829442565",
+        "location": "dm for promo",
+        "name": "glock ☦︎",
+        "pinned_tweet_id": "2046361157343047950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009090906247303168/36xAipFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120498,
+          "following_count": 16689,
+          "like_count": 84152,
+          "listed_count": 294,
+          "media_count": 652,
+          "tweet_count": 6734
+        },
+        "username": "gloccnem",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035242062925504514"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2035242064515145757",
+    "created_at": "2026-03-21T06:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035242064515145757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "回答100個專家精心準備的問題以了解您的漢語識字量，無需付費，無需註冊",
+          "display_url": "arealme.com/how-many-chine…",
+          "end": 39,
+          "expanded_url": "https://www.arealme.com/how-many-chinese-characters-do-i-know/zh/580306",
+          "images": [
+            {
+              "height": 670,
+              "url": "https://pbs.twimg.com/news_img/2035242066838790150/7fBjiVAx?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2035242066838790150/7fBjiVAx?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "我在漢語識字量測試中得分是：【5328】。快來看看你能得多少分！",
+          "unwound_url": "https://www.arealme.com/how-many-chinese-characters-do-i-know/zh/580306",
+          "url": "https://t.co/6LTP9Uftmv"
+        },
+        {
+          "display_url": "pic.x.com/B6JJUQAjTZ",
+          "end": 63,
+          "expanded_url": "https://x.com/Idontselldrug/status/2035242064515145757/photo/1",
+          "media_key": "3_2035242062925504514",
+          "start": 40,
+          "url": "https://t.co/B6JJUQAjTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035242064515145757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "得分没我高的不准说自己是中国人 https://t.co/6LTP9Uftmv https://t.co/B6JJUQAjTZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035242062925504514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6h34CboAIOgpf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035242062925504514"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2035242064515145757",
+        "created_at": "2026-03-21T06:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035242064515145757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "回答100個專家精心準備的問題以了解您的漢語識字量，無需付費，無需註冊",
+              "display_url": "arealme.com/how-many-chine…",
+              "end": 39,
+              "expanded_url": "https://www.arealme.com/how-many-chinese-characters-do-i-know/zh/580306",
+              "images": [
+                {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/news_img/2035242066838790150/7fBjiVAx?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035242066838790150/7fBjiVAx?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "我在漢語識字量測試中得分是：【5328】。快來看看你能得多少分！",
+              "unwound_url": "https://www.arealme.com/how-many-chinese-characters-do-i-know/zh/580306",
+              "url": "https://t.co/6LTP9Uftmv"
+            },
+            {
+              "display_url": "pic.x.com/B6JJUQAjTZ",
+              "end": 63,
+              "expanded_url": "https://x.com/Idontselldrug/status/2035242064515145757/photo/1",
+              "media_key": "3_2035242062925504514",
+              "start": 40,
+              "url": "https://t.co/B6JJUQAjTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035242064515145757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得分没我高的不准说自己是中国人 https://t.co/6LTP9Uftmv https://t.co/B6JJUQAjTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 237,
+          "like_count": 1400,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

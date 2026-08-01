@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047760445147324416"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2047589305347100867",
+    "created_at": "2026-04-24T19:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047760447244571031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649492757977747474",
+          "start": 0,
+          "username": "cervus_999"
+        },
+        {
+          "end": 22,
+          "id": "1633888340",
+          "start": 12,
+          "username": "rushdick1"
+        },
+        {
+          "end": 38,
+          "id": "1168205827578060800",
+          "start": 23,
+          "username": "_2young2simple"
+        },
+        {
+          "end": 48,
+          "id": "1271652280438308864",
+          "start": 39,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQeQfazSNK",
+          "end": 81,
+          "expanded_url": "https://x.com/Idontselldrug/status/2047760447244571031/photo/1",
+          "media_key": "3_2047760445147324416",
+          "start": 58,
+          "url": "https://t.co/IQeQfazSNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047760447244571031",
+    "in_reply_to_user_id": "1649492757977747474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047671183890387344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cervus_999 @rushdick1 @_2young2simple @Jaciezyt 明确一下国家可以 https://t.co/IQeQfazSNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047760445147324416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsbRn4aIAAabwp.jpg",
+        "width": 945
+      },
+      {
+        "height": 1165,
+        "media_key": "3_2047671180480397312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrKFvFWwAATvMq.jpg",
+        "width": 1283
+      },
+      {
+        "height": 1045,
+        "media_key": "3_2047671180509782016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrKFvMXIAAVwXR.jpg",
+        "width": 1283
+      },
+      {
+        "height": 1013,
+        "media_key": "3_2047671180518158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrKFvOW8AAG4BT.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047760445147324416"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047589305347100867",
+        "created_at": "2026-04-24T19:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047760447244571031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649492757977747474",
+              "start": 0,
+              "username": "cervus_999"
+            },
+            {
+              "end": 22,
+              "id": "1633888340",
+              "start": 12,
+              "username": "rushdick1"
+            },
+            {
+              "end": 38,
+              "id": "1168205827578060800",
+              "start": 23,
+              "username": "_2young2simple"
+            },
+            {
+              "end": 48,
+              "id": "1271652280438308864",
+              "start": 39,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQeQfazSNK",
+              "end": 81,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047760447244571031/photo/1",
+              "media_key": "3_2047760445147324416",
+              "start": 58,
+              "url": "https://t.co/IQeQfazSNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047760447244571031",
+        "in_reply_to_user_id": "1649492757977747474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047671183890387344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cervus_999 @rushdick1 @_2young2simple @Jaciezyt 明确一下国家可以 https://t.co/IQeQfazSNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047671180480397312",
+            "3_2047671180509782016",
+            "3_2047671180518158336"
+          ]
+        },
+        "author_id": "1649492757977747474",
+        "conversation_id": "2047589305347100867",
+        "created_at": "2026-04-24T13:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047671183890387344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633888340",
+              "start": 0,
+              "username": "rushdick1"
+            },
+            {
+              "end": 26,
+              "id": "1168205827578060800",
+              "start": 11,
+              "username": "_2young2simple"
+            },
+            {
+              "end": 36,
+              "id": "1271652280438308864",
+              "start": 27,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehoES3LmUn",
+              "end": 70,
+              "expanded_url": "https://x.com/cervus_999/status/2047671183890387344/photo/1",
+              "media_key": "3_2047671180480397312",
+              "start": 47,
+              "url": "https://t.co/ehoES3LmUn"
+            },
+            {
+              "display_url": "pic.x.com/ehoES3LmUn",
+              "end": 70,
+              "expanded_url": "https://x.com/cervus_999/status/2047671183890387344/photo/1",
+              "media_key": "3_2047671180509782016",
+              "start": 47,
+              "url": "https://t.co/ehoES3LmUn"
+            },
+            {
+              "display_url": "pic.x.com/ehoES3LmUn",
+              "end": 70,
+              "expanded_url": "https://x.com/cervus_999/status/2047671183890387344/photo/1",
+              "media_key": "3_2047671180518158336",
+              "start": 47,
+              "url": "https://t.co/ehoES3LmUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047671183890387344",
+        "in_reply_to_user_id": "1633888340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047670347382567074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rushdick1 @_2young2simple @Jaciezyt Same shit https://t.co/ehoES3LmUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 264,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T19:18:22.000Z",
+        "description": "probably autistic",
+        "id": "1649492757977747474",
+        "location": "Toronto, Ontario",
+        "name": "Mentovira",
+        "pinned_tweet_id": "2005052455151861886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005451168139427841/NeVi0qwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 107,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 712
+        },
+        "username": "cervus_999",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-30T21:38:22.000Z",
+        "description": "決定不了出生地，但慶幸可以選擇居住地。",
+        "id": "1633888340",
+        "location": "🏳️‍🌈",
+        "name": "Biu Biu Biu",
+        "pinned_tweet_id": "1834437655431426197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000216550947/1f34553069e6a85ad7f61d294c01cb0e_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 12,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 484
+        },
+        "username": "rushdick1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-01T16:56:07.000Z",
+        "description": "清者自清，浊者自浊，通者自通，无需多言。",
+        "id": "1168205827578060800",
+        "location": "兰溪镇",
+        "name": "李耳",
+        "pinned_tweet_id": "1652535580306333698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1168210604294692867/Ljz_j8Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2555,
+          "like_count": 17667,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 2141
+        },
+        "username": "_2young2simple",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3993,
+          "following_count": 913,
+          "like_count": 62451,
+          "listed_count": 12,
+          "media_count": 1309,
+          "tweet_count": 15203
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

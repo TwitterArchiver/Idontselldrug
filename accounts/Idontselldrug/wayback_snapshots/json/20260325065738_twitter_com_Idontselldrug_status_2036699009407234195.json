@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2036699009407234195",
+    "created_at": "2026-03-25T06:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036699009407234195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2034536092305907786",
+          "start": 80,
+          "url": "https://t.co/AEDuPm85KU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036699009407234195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034536092305907786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "搞了点bpc157的口服片 这是一种肽类 据说可以很好的修复人体 口服可以帮助一些肠胃问题 我想试试看用它缓解我犯恶心的症状\n如果快递不出错的话 明天就能到了 https://t.co/AEDuPm85KU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2036699009407234195",
+        "created_at": "2026-03-25T06:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036699009407234195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2034536092305907786",
+              "start": 80,
+              "url": "https://t.co/AEDuPm85KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036699009407234195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034536092305907786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搞了点bpc157的口服片 这是一种肽类 据说可以很好的修复人体 口服可以帮助一些肠胃问题 我想试试看用它缓解我犯恶心的症状\n如果快递不出错的话 明天就能到了 https://t.co/AEDuPm85KU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034536092305907786",
+        "created_at": "2026-03-19T07:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034536092305907786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034536092305907786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关节一直在痛 我得想办法搞点bpc157来 不过肯定要等我离开埃德蒙顿再说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 239,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

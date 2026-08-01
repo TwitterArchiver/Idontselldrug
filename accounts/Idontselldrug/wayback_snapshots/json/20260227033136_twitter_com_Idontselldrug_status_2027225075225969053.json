@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027225075225969053",
+    "created_at": "2026-02-27T03:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027225075225969053"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027225075225969053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人以为我是什么药推天天嗑药，实际上我已经不怎么磕了。\n嗑药都会发推上，没发就是没磕，现在我连大麻都不抽了，上次使用致幻剂是两个月前2CB抗抑郁，已经彻底变成日常推了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027225075225969053",
+        "created_at": "2026-02-27T03:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027225075225969053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027225075225969053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人以为我是什么药推天天嗑药，实际上我已经不怎么磕了。\n嗑药都会发推上，没发就是没磕，现在我连大麻都不抽了，上次使用致幻剂是两个月前2CB抗抑郁，已经彻底变成日常推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 229,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

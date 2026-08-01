@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2049701536020955155",
+    "created_at": "2026-05-02T02:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050396490405974447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050396490405974447",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049714851576992035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 瑞他三靶点很强 比替西还强 很多biohacker或者搞那什么lookmaxxing的洋人甚至从中国的小作坊里提前订购非法产品\n现在好像大部分网上诊所都在使劲清仓司美和替西，因为大家都知道要是瑞他上市了就没人买这俩了，不过还要一两年远得很\n我发这个帖子第二天lly就涨了10%，因为财报数据很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2049701536020955155",
+        "created_at": "2026-05-02T02:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050396490405974447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050396490405974447",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049714851576992035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 瑞他三靶点很强 比替西还强 很多biohacker或者搞那什么lookmaxxing的洋人甚至从中国的小作坊里提前订购非法产品\n现在好像大部分网上诊所都在使劲清仓司美和替西，因为大家都知道要是瑞他上市了就没人买这俩了，不过还要一两年远得很\n我发这个帖子第二天lly就涨了10%，因为财报数据很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2049701536020955155",
+        "created_at": "2026-04-30T04:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049714851576992035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049714851576992035",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049701536020955155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 可以更具体的讲一下瑞他么 LLY股票之前就因为司美飞升过(当时还在炒股群听别人说过他重仓)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 280,
+          "like_count": 2072,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "ENBY\n🇨🇦EN/🇨🇳CN 🇫🇷FR学习中\n星战 | 星河 | 枪械 | 高达 | 战锤 | 做饭 | 摸鱼 \n什么都玩都看 美帅家妻：@MYBLOODY_VALENT \n高级会员制餐厅：https://t.co/3JPTMygoBL\n请给我打钱：https://t.co/kdPl4R7UaA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "MYBLOODY_VALENT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/MwmPCuEsc",
+                "end": 118,
+                "expanded_url": "http://discord.gg/MwmPCuEsc",
+                "start": 95,
+                "url": "https://t.co/3JPTMygoBL"
+              },
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 148,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 125,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ratchetrealm89…",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ratchetrealm8964",
+                "start": 0,
+                "url": "https://t.co/gEQdpKdSlm"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片",
+        "pinned_tweet_id": "2039047177863905372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035584401178775552/Y64IybTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 97,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/gEQdpKdSlm",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

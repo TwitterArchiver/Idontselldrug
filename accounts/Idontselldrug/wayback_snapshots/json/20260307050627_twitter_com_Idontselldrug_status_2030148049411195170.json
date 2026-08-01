@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+          "id": "1557697218248773632",
+          "name": "Retail Business"
+        }
+      }
+    ],
+    "conversation_id": "2030148049411195170",
+    "created_at": "2026-03-07T05:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T06:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030148049411195170"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "amazon",
+          "probability": 0.7466,
+          "start": 43,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1360367297500741642",
+          "start": 3,
+          "username": "RatOrthodox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030148049411195170",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030026430382555175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RatOrthodox: it is very progressive of amazon to offer a \"used -very good\" discount on 23g butterfly needles, but i think i will go wit…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2030026264220995584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwaIbubEAAdLm4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+              "id": "1557697218248773632",
+              "name": "Retail Business"
+            }
+          }
+        ],
+        "conversation_id": "2030148049411195170",
+        "created_at": "2026-03-07T05:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030148049411195170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "amazon",
+              "probability": 0.7466,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1360367297500741642",
+              "start": 3,
+              "username": "RatOrthodox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030148049411195170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030026430382555175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RatOrthodox: it is very progressive of amazon to offer a \"used -very good\" discount on 23g butterfly needles, but i think i will go wit…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030026264220995584"
+          ]
+        },
+        "author_id": "1360367297500741642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+              "id": "1557697218248773632",
+              "name": "Retail Business"
+            }
+          }
+        ],
+        "conversation_id": "2030026430382555175",
+        "created_at": "2026-03-06T21:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T22:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030026430382555175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "amazon",
+              "probability": 0.7213,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdSfixGS3N",
+              "end": 157,
+              "expanded_url": "https://x.com/RatOrthodox/status/2030026430382555175/photo/1",
+              "media_key": "3_2030026264220995584",
+              "start": 134,
+              "url": "https://t.co/PdSfixGS3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030026430382555175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 208882,
+          "like_count": 12332,
+          "quote_count": 13,
+          "reply_count": 30,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "it is very progressive of amazon to offer a \"used -very good\" discount on 23g butterfly needles, but i think i will go with \"buy new\" https://t.co/PdSfixGS3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 231,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T23:17:19.000Z",
+        "description": "Philosophy and exhibitionism. Sentences starting with a lowercase letter may not be assertions, eg, joke, sarcasm, exaggeration, parable, etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ratorthodox",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ratorthodox",
+                "start": 0,
+                "url": "https://t.co/OskZ8HIFb7"
+              }
+            ]
+          }
+        },
+        "id": "1360367297500741642",
+        "location": "Berkeley, CA",
+        "name": "Brangus🔍⏹️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992726045490126849/LyLxV1fk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 329,
+          "like_count": 32921,
+          "listed_count": 57,
+          "media_count": 204,
+          "tweet_count": 11971
+        },
+        "url": "https://t.co/OskZ8HIFb7",
+        "username": "RatOrthodox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045295696824446976"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045295699227746410",
+    "created_at": "2026-04-18T00:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045295699227746410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T9lM9RMpJc",
+          "end": 168,
+          "expanded_url": "https://x.com/Idontselldrug/status/2045295699227746410/photo/1",
+          "media_key": "3_2045295696824446976",
+          "start": 145,
+          "url": "https://t.co/T9lM9RMpJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045295699227746410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "复视，晕，共济失调，情绪波动没那么想死了\n每次吃镇定剂我都很愧疚，给我一种我自己已经堕落了然后拿药物麻痹自己的感觉，我非常不想这样子，我想要健全生活，我想像limitless电影里一样吃促智药攻克难题，活出潇洒人生。\n口水鸡，凉菜，很辣很好吃，我如果睡觉是不是要侧卧，防止梦里被呕吐物呛死 https://t.co/T9lM9RMpJc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045295696824446976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJZmY3bMAAnKlf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045295696824446976"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045295699227746410",
+        "created_at": "2026-04-18T00:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045295699227746410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9lM9RMpJc",
+              "end": 168,
+              "expanded_url": "https://x.com/Idontselldrug/status/2045295699227746410/photo/1",
+              "media_key": "3_2045295696824446976",
+              "start": 145,
+              "url": "https://t.co/T9lM9RMpJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045295699227746410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复视，晕，共济失调，情绪波动没那么想死了\n每次吃镇定剂我都很愧疚，给我一种我自己已经堕落了然后拿药物麻痹自己的感觉，我非常不想这样子，我想要健全生活，我想像limitless电影里一样吃促智药攻克难题，活出潇洒人生。\n口水鸡，凉菜，很辣很好吃，我如果睡觉是不是要侧卧，防止梦里被呕吐物呛死 https://t.co/T9lM9RMpJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 256,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048096870367735808"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048096871697248376",
+    "created_at": "2026-04-25T17:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048096871697248376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OekecjEsav",
+          "end": 50,
+          "expanded_url": "https://x.com/Idontselldrug/status/2048096871697248376/photo/1",
+          "media_key": "3_2048096870367735808",
+          "start": 27,
+          "url": "https://t.co/OekecjEsav"
+        },
+        {
+          "display_url": "x.com/553078693Meng/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/553078693Meng/status/2047622198274499034",
+          "start": 51,
+          "url": "https://t.co/GsiH5uc7jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048096871697248376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047622198274499034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要拿这个隐翅虫给我扎出带状疱疹然后去医院开普瑞巴林 https://t.co/OekecjEsav https://t.co/GsiH5uc7jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 365,
+        "media_key": "3_2048096870367735808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxNQJfbsAAs8uu.jpg",
+        "width": 547
+      },
+      {
+        "height": 1506,
+        "media_key": "3_2047622189915226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqdiHAawAAb-8u.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048096870367735808"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048096871697248376",
+        "created_at": "2026-04-25T17:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048096871697248376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OekecjEsav",
+              "end": 50,
+              "expanded_url": "https://x.com/Idontselldrug/status/2048096871697248376/photo/1",
+              "media_key": "3_2048096870367735808",
+              "start": 27,
+              "url": "https://t.co/OekecjEsav"
+            },
+            {
+              "display_url": "x.com/553078693Meng/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/553078693Meng/status/2047622198274499034",
+              "start": 51,
+              "url": "https://t.co/GsiH5uc7jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048096871697248376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047622198274499034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要拿这个隐翅虫给我扎出带状疱疹然后去医院开普瑞巴林 https://t.co/OekecjEsav https://t.co/GsiH5uc7jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047622189915226112"
+          ]
+        },
+        "author_id": "1657693850700509185",
+        "conversation_id": "2047622198274499034",
+        "created_at": "2026-04-24T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047622198274499034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHDVA1HRfV",
+              "end": 60,
+              "expanded_url": "https://x.com/553078693Meng/status/2047622198274499034/photo/1",
+              "media_key": "3_2047622189915226112",
+              "start": 37,
+              "url": "https://t.co/jHDVA1HRfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047622198274499034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1392,
+          "impression_count": 12961636,
+          "like_count": 6752,
+          "quote_count": 444,
+          "reply_count": 16084,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么，下午睡了一觉起来就这样了，而且很痒啊  \n兄弟们\n这是什么啊？ https://t.co/jHDVA1HRfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 269,
+          "like_count": 1971,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T10:26:53.000Z",
+        "description": "做时间的朋友，而非波动的囚徒。",
+        "id": "1657693850700509185",
+        "name": "招财猫",
+        "pinned_tweet_id": "2047694257205756264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597079430742016/mCfSLsRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5304,
+          "following_count": 4893,
+          "like_count": 3278,
+          "listed_count": 8,
+          "media_count": 687,
+          "tweet_count": 6493
+        },
+        "username": "553078693Meng",
+        "verified": true
+      }
+    ]
+  }
+}

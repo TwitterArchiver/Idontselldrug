@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079564371676876800"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2079564597724594406",
+    "created_at": "2026-07-21T13:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079564597724594406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2Q4Y7JMrg",
+          "end": 40,
+          "expanded_url": "https://x.com/Idontselldrug/status/2079564597724594406/photo/1",
+          "media_key": "3_2079564371676876800",
+          "start": 17,
+          "url": "https://t.co/v2Q4Y7JMrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079564597724594406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "警官，这些东西我只拍照，我不碰的 https://t.co/v2Q4Y7JMrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079564371676876800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwYxy1b0AAQA_c.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079564371676876800"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2079564597724594406",
+        "created_at": "2026-07-21T13:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079564597724594406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2Q4Y7JMrg",
+              "end": 40,
+              "expanded_url": "https://x.com/Idontselldrug/status/2079564597724594406/photo/1",
+              "media_key": "3_2079564371676876800",
+              "start": 17,
+              "url": "https://t.co/v2Q4Y7JMrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079564597724594406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警官，这些东西我只拍照，我不碰的 https://t.co/v2Q4Y7JMrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 310,
+          "like_count": 2691,
+          "listed_count": 1,
+          "media_count": 527,
+          "tweet_count": 3202
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056598291517939712",
+        "3_2056598294860857344"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2056598297087975804",
+    "created_at": "2026-05-19T04:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056598297087975804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A4bsSh5Ejh",
+          "end": 40,
+          "expanded_url": "https://x.com/Idontselldrug/status/2056598297087975804/photo/1",
+          "media_key": "3_2056598291517939712",
+          "start": 17,
+          "url": "https://t.co/A4bsSh5Ejh"
+        },
+        {
+          "display_url": "pic.x.com/A4bsSh5Ejh",
+          "end": 40,
+          "expanded_url": "https://x.com/Idontselldrug/status/2056598297087975804/photo/1",
+          "media_key": "3_2056598294860857344",
+          "start": 17,
+          "url": "https://t.co/A4bsSh5Ejh"
+        },
+        {
+          "display_url": "x.com/faateofallfool…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/faateofallfools/status/2056460252409713012",
+          "start": 41,
+          "url": "https://t.co/TPFB2tUntt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056598297087975804",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056460252409713012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "K1llin myself rn https://t.co/A4bsSh5Ejh https://t.co/TPFB2tUntt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056598291517939712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBP_OaIAAGov-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056598294860857344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqBQLrbAAAaikm.jpg",
+        "width": 945
+      },
+      {
+        "height": 894,
+        "media_key": "3_2056460244515958784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoDsmEWMAAF5Lx.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056598291517939712",
+            "3_2056598294860857344"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2056598297087975804",
+        "created_at": "2026-05-19T04:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056598297087975804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4bsSh5Ejh",
+              "end": 40,
+              "expanded_url": "https://x.com/Idontselldrug/status/2056598297087975804/photo/1",
+              "media_key": "3_2056598291517939712",
+              "start": 17,
+              "url": "https://t.co/A4bsSh5Ejh"
+            },
+            {
+              "display_url": "pic.x.com/A4bsSh5Ejh",
+              "end": 40,
+              "expanded_url": "https://x.com/Idontselldrug/status/2056598297087975804/photo/1",
+              "media_key": "3_2056598294860857344",
+              "start": 17,
+              "url": "https://t.co/A4bsSh5Ejh"
+            },
+            {
+              "display_url": "x.com/faateofallfool…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/faateofallfools/status/2056460252409713012",
+              "start": 41,
+              "url": "https://t.co/TPFB2tUntt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056598297087975804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056460252409713012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "K1llin myself rn https://t.co/A4bsSh5Ejh https://t.co/TPFB2tUntt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056460244515958784"
+          ]
+        },
+        "author_id": "1951620264812498944",
+        "conversation_id": "2056460252409713012",
+        "created_at": "2026-05-18T19:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056460252409713012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HOklqrxJu",
+              "end": 48,
+              "expanded_url": "https://x.com/faateofallfools/status/2056460252409713012/photo/1",
+              "media_key": "3_2056460244515958784",
+              "start": 25,
+              "url": "https://t.co/8HOklqrxJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056460252409713012",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1431,
+          "impression_count": 301939,
+          "like_count": 20252,
+          "quote_count": 91,
+          "reply_count": 134,
+          "retweet_count": 1867
+        },
+        "reply_settings": "everyone",
+        "text": "i was not talking to you https://t.co/8HOklqrxJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 281,
+          "like_count": 2239,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T12:25:10.000Z",
+        "description": "20 year old sensitive young man",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "phink.straw.page",
+                "end": 23,
+                "expanded_url": "https://phink.straw.page",
+                "start": 0,
+                "url": "https://t.co/U8vNHxEteB"
+              }
+            ]
+          }
+        },
+        "id": "1951620264812498944",
+        "location": "🔞✝️",
+        "name": "Phink",
+        "pinned_tweet_id": "2054651926751465771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004973554375282688/u0pXDveM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 182,
+          "like_count": 33749,
+          "listed_count": 5,
+          "media_count": 1110,
+          "tweet_count": 5100
+        },
+        "url": "https://t.co/U8vNHxEteB",
+        "username": "faateofallfools",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2074790117198434778",
+    "created_at": "2026-07-08T09:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074790117198434778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2074786706235224498",
+          "start": 69,
+          "url": "https://t.co/l3IMbuvylg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074790117198434778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074786706235224498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这医生让我联用达利雷生和思诺思，说我之前换着吃是错误的，让我联用两周后撤掉一个，我觉得好离谱，有人评价一下吗？是医生水平低还是我水平低？ https://t.co/l3IMbuvylg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2074790117198434778",
+        "created_at": "2026-07-08T09:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074790117198434778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2074786706235224498",
+              "start": 69,
+              "url": "https://t.co/l3IMbuvylg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074790117198434778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074786706235224498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这医生让我联用达利雷生和思诺思，说我之前换着吃是错误的，让我联用两周后撤掉一个，我觉得好离谱，有人评价一下吗？是医生水平低还是我水平低？ https://t.co/l3IMbuvylg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2074786706235224498",
+        "created_at": "2026-07-08T09:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074786706235224498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074786706235224498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去看精神科，医生很不耐烦，我回家跟我妈抱怨，我妈看了眼医生的名字，发现医生是我初中语文老师的老公💀💀💀\n世界真小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 291,
+          "like_count": 2554,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

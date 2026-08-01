@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988116831220178977",
+    "created_at": "2025-11-11T05:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T06:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988116831220178977"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988116831220178977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "越来越觉得人脑敏感脆弱了，几微克神秘物质放舌头上就能颠覆对世界的认知，少吃两天多动症药就能在床上抑郁躺尸，要是几年前我只觉得这种话空虚广泛毫无意义，但是现在我是真的亲身体验到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988116831220178977",
+        "created_at": "2025-11-11T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988116831220178977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988116831220178977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越觉得人脑敏感脆弱了，几微克神秘物质放舌头上就能颠覆对世界的认知，少吃两天多动症药就能在床上抑郁躺尸，要是几年前我只觉得这种话空虚广泛毫无意义，但是现在我是真的亲身体验到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 128,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2005873329018662922",
+    "created_at": "2025-12-30T07:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T08:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005896718542369151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763125349875933184",
+          "start": 0,
+          "username": "mud592428447038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005896718542369151",
+    "in_reply_to_user_id": "1763125349875933184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005895566979637382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mud592428447038 还行吧，确实比k之类的贵很多，但是不是大毒虫慢慢吸的话一百刀能吸几十次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2005873329018662922",
+        "created_at": "2025-12-30T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005896718542369151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763125349875933184",
+              "start": 0,
+              "username": "mud592428447038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005896718542369151",
+        "in_reply_to_user_id": "1763125349875933184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005895566979637382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mud592428447038 还行吧，确实比k之类的贵很多，但是不是大毒虫慢慢吸的话一百刀能吸几十次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763125349875933184",
+        "conversation_id": "2005873329018662922",
+        "created_at": "2025-12-30T06:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005895566979637382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005895566979637382",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005873329018662922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我的天这玩意可贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 205,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T08:54:29.000Z",
+        "description": "大图书馆私人防卫公司ceo，法律顾问:脱口秀达人林淏泽，深度烧烤冮方法\n电话:13934514716\n@Asha84313842 原号推友找回\n爱人:@yulu1824\nlibertarian，ANCAP🐍💛🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Asha84313842"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "yulu1824"
+              }
+            ]
+          }
+        },
+        "id": "1763125349875933184",
+        "name": "入艏宅急送📖📚",
+        "pinned_tweet_id": "2005613733041844543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889007454589190144/RgkzURII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 1439,
+          "like_count": 26122,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 8800
+        },
+        "username": "mud592428447038",
+        "verified": false
+      }
+    ]
+  }
+}

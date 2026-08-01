@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2025045118143828220",
+    "created_at": "2026-02-21T07:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025114466816589929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025114466816589929",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025045118143828220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 我也刷到了笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2025045086644699138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpnxvObgAI9_-K.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2025045118143828220",
+        "created_at": "2026-02-21T07:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025114466816589929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025114466816589929",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025045118143828220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 我也刷到了笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025045086644699138"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "2025045118143828220",
+        "created_at": "2026-02-21T03:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025045118143828220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiT388NBtu",
+              "end": 38,
+              "expanded_url": "https://x.com/ErQiu8013/status/2025045118143828220/photo/1",
+              "media_key": "3_2025045086644699138",
+              "start": 15,
+              "url": "https://t.co/kiT388NBtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025045118143828220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧pdd法力，来点去痛片? https://t.co/kiT388NBtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 225,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，超かぐや姫!，……/genshin，hsr\n   薬物changing……，低能量changing……，日常/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By59d0"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2014930115562741788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1702,
+          "like_count": 23218,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 4686
+        },
+        "url": "https://t.co/Azm3By59d0",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

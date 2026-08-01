@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055574073980370944"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2055575884682416628",
+    "created_at": "2026-05-16T09:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055575884682416628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKM9p8NqRi",
+          "end": 30,
+          "expanded_url": "https://x.com/Idontselldrug/status/2055575884682416628/photo/1",
+          "media_key": "3_2055574073980370944",
+          "start": 7,
+          "url": "https://t.co/WKM9p8NqRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055575884682416628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最满意的一套 https://t.co/WKM9p8NqRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2055574073980370944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbdurkaQAARRw0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055574073980370944"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2055575884682416628",
+        "created_at": "2026-05-16T09:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055575884682416628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKM9p8NqRi",
+              "end": 30,
+              "expanded_url": "https://x.com/Idontselldrug/status/2055575884682416628/photo/1",
+              "media_key": "3_2055574073980370944",
+              "start": 7,
+              "url": "https://t.co/WKM9p8NqRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055575884682416628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最满意的一套 https://t.co/WKM9p8NqRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 281,
+          "like_count": 2223,
+          "listed_count": 1,
+          "media_count": 489,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

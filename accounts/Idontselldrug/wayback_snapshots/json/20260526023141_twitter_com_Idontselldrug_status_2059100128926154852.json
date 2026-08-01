@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059100125096730625",
+        "3_2059100084114268160",
+        "3_2059100084437221376"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2059100128926154852",
+    "created_at": "2026-05-26T02:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059100128926154852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ll0Y1cOD6t",
+          "end": 117,
+          "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+          "media_key": "3_2059100125096730625",
+          "start": 94,
+          "url": "https://t.co/Ll0Y1cOD6t"
+        },
+        {
+          "display_url": "pic.x.com/Ll0Y1cOD6t",
+          "end": 117,
+          "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+          "media_key": "3_2059100084114268160",
+          "start": 94,
+          "url": "https://t.co/Ll0Y1cOD6t"
+        },
+        {
+          "display_url": "pic.x.com/Ll0Y1cOD6t",
+          "end": 117,
+          "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+          "media_key": "3_2059100084437221376",
+          "start": 94,
+          "url": "https://t.co/Ll0Y1cOD6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059100128926154852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坐在列车上我试图通过观察户外景色而不是手机来修复多巴胺，很成功。风景很新奇，很多景色我在加拿大都没见过，一大部分原因是因为加拿大少有这种列车，大家都在坐飞机\n不知道什么树和不知道什么地貌 https://t.co/Ll0Y1cOD6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059100125096730625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNkp3laYAExj8D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059100084114268160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNkne6boAA6p4_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059100084437221376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNkngHbgAAOShD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059100125096730625",
+            "3_2059100084114268160",
+            "3_2059100084437221376"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2059100128926154852",
+        "created_at": "2026-05-26T02:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059100128926154852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll0Y1cOD6t",
+              "end": 117,
+              "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+              "media_key": "3_2059100125096730625",
+              "start": 94,
+              "url": "https://t.co/Ll0Y1cOD6t"
+            },
+            {
+              "display_url": "pic.x.com/Ll0Y1cOD6t",
+              "end": 117,
+              "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+              "media_key": "3_2059100084114268160",
+              "start": 94,
+              "url": "https://t.co/Ll0Y1cOD6t"
+            },
+            {
+              "display_url": "pic.x.com/Ll0Y1cOD6t",
+              "end": 117,
+              "expanded_url": "https://x.com/Idontselldrug/status/2059100128926154852/photo/1",
+              "media_key": "3_2059100084437221376",
+              "start": 94,
+              "url": "https://t.co/Ll0Y1cOD6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059100128926154852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐在列车上我试图通过观察户外景色而不是手机来修复多巴胺，很成功。风景很新奇，很多景色我在加拿大都没见过，一大部分原因是因为加拿大少有这种列车，大家都在坐飞机\n不知道什么树和不知道什么地貌 https://t.co/Ll0Y1cOD6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 287,
+          "like_count": 2326,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 2920
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

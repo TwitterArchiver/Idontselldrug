@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988301098101469220",
+    "created_at": "2025-11-11T17:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988301098101469220"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988301098101469220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Vyvanse戒断第六天\n昨晚死活睡不着，microdose了一点大麻，大麻电子烟真的很好，抽一丁点也不会浪费\n早上九点多就醒了，也似乎没有嗜睡，但是只睡了五六个小时，我吃了nac和维生素，尝试补觉\n戒断的不适似乎发生在第3-5天之间，难道我要戒药成功了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988301098101469220",
+        "created_at": "2025-11-11T17:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988301098101469220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988301098101469220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vyvanse戒断第六天\n昨晚死活睡不着，microdose了一点大麻，大麻电子烟真的很好，抽一丁点也不会浪费\n早上九点多就醒了，也似乎没有嗜睡，但是只睡了五六个小时，我吃了nac和维生素，尝试补觉\n戒断的不适似乎发生在第3-5天之间，难道我要戒药成功了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 132,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 73
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

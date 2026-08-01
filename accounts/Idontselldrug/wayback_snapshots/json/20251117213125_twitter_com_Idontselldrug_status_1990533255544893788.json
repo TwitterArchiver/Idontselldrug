@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990533248284569603",
+        "3_1990533248993378304",
+        "3_1990533249387659264",
+        "3_1990533249974894592"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1990533255544893788",
+    "created_at": "2025-11-17T21:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990533255544893788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmbwQwwuVk",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+          "media_key": "3_1990533248284569603",
+          "start": 68,
+          "url": "https://t.co/hmbwQwwuVk"
+        },
+        {
+          "display_url": "pic.x.com/hmbwQwwuVk",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+          "media_key": "3_1990533248993378304",
+          "start": 68,
+          "url": "https://t.co/hmbwQwwuVk"
+        },
+        {
+          "display_url": "pic.x.com/hmbwQwwuVk",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+          "media_key": "3_1990533249387659264",
+          "start": 68,
+          "url": "https://t.co/hmbwQwwuVk"
+        },
+        {
+          "display_url": "pic.x.com/hmbwQwwuVk",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+          "media_key": "3_1990533249974894592",
+          "start": 68,
+          "url": "https://t.co/hmbwQwwuVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990533255544893788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老广食物，来自时代文华，40刀\n分量不少，吃不完，味道中规中矩，感觉不如点都得好吃，但是是红米肠所以一百分，茶还是送的，比我想的要慷慨 https://t.co/hmbwQwwuVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990533248284569603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_LcWmbMAMoJhB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990533248993378304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_LcZPawAAVzUu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990533249387659264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_LcatbAAA5xdM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990533249974894592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_Lcc5bgAAJSos.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990533248284569603",
+            "3_1990533248993378304",
+            "3_1990533249387659264",
+            "3_1990533249974894592"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990533255544893788",
+        "created_at": "2025-11-17T21:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T22:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990533255544893788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmbwQwwuVk",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+              "media_key": "3_1990533248284569603",
+              "start": 68,
+              "url": "https://t.co/hmbwQwwuVk"
+            },
+            {
+              "display_url": "pic.x.com/hmbwQwwuVk",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+              "media_key": "3_1990533248993378304",
+              "start": 68,
+              "url": "https://t.co/hmbwQwwuVk"
+            },
+            {
+              "display_url": "pic.x.com/hmbwQwwuVk",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+              "media_key": "3_1990533249387659264",
+              "start": 68,
+              "url": "https://t.co/hmbwQwwuVk"
+            },
+            {
+              "display_url": "pic.x.com/hmbwQwwuVk",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990533255544893788/photo/1",
+              "media_key": "3_1990533249974894592",
+              "start": 68,
+              "url": "https://t.co/hmbwQwwuVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990533255544893788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老广食物，来自时代文华，40刀\n分量不少，吃不完，味道中规中矩，感觉不如点都得好吃，但是是红米肠所以一百分，茶还是送的，比我想的要慷慨 https://t.co/hmbwQwwuVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 144,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

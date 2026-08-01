@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051802550203240448",
+        "3_2051802551574749184",
+        "3_2051802553185443840",
+        "3_2051802553621598209"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051802556343706028",
+    "created_at": "2026-05-05T23:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051802556343706028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y2K4TCd6Gq",
+          "end": 115,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+          "media_key": "3_2051802550203240448",
+          "start": 92,
+          "url": "https://t.co/y2K4TCd6Gq"
+        },
+        {
+          "display_url": "pic.x.com/y2K4TCd6Gq",
+          "end": 115,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+          "media_key": "3_2051802551574749184",
+          "start": 92,
+          "url": "https://t.co/y2K4TCd6Gq"
+        },
+        {
+          "display_url": "pic.x.com/y2K4TCd6Gq",
+          "end": 115,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+          "media_key": "3_2051802553185443840",
+          "start": 92,
+          "url": "https://t.co/y2K4TCd6Gq"
+        },
+        {
+          "display_url": "pic.x.com/y2K4TCd6Gq",
+          "end": 115,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+          "media_key": "3_2051802553621598209",
+          "start": 92,
+          "url": "https://t.co/y2K4TCd6Gq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051802556343706028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你好，除了检测试剂都给我来一份”\n这玩意贵的很，要三四百人民币，买完了我马上后悔了，想给自己来一巴掌。三四百人民币在台湾只够买一份检测试剂，但在加拿大够把它能检测的这些毒品都来一遍 https://t.co/y2K4TCd6Gq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2051802550203240448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl3jGoa0AAydZD.jpg",
+        "width": 745
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051802551574749184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl3jLvaYAAwrXl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051802553185443840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl3jRvboAATwM0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051802553621598209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHl3jTXa0AEOTRx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051802550203240448",
+            "3_2051802551574749184",
+            "3_2051802553185443840",
+            "3_2051802553621598209"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051802556343706028",
+        "created_at": "2026-05-05T23:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051802556343706028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2K4TCd6Gq",
+              "end": 115,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+              "media_key": "3_2051802550203240448",
+              "start": 92,
+              "url": "https://t.co/y2K4TCd6Gq"
+            },
+            {
+              "display_url": "pic.x.com/y2K4TCd6Gq",
+              "end": 115,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+              "media_key": "3_2051802551574749184",
+              "start": 92,
+              "url": "https://t.co/y2K4TCd6Gq"
+            },
+            {
+              "display_url": "pic.x.com/y2K4TCd6Gq",
+              "end": 115,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+              "media_key": "3_2051802553185443840",
+              "start": 92,
+              "url": "https://t.co/y2K4TCd6Gq"
+            },
+            {
+              "display_url": "pic.x.com/y2K4TCd6Gq",
+              "end": 115,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051802556343706028/photo/1",
+              "media_key": "3_2051802553621598209",
+              "start": 92,
+              "url": "https://t.co/y2K4TCd6Gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051802556343706028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你好，除了检测试剂都给我来一份”\n这玩意贵的很，要三四百人民币，买完了我马上后悔了，想给自己来一巴掌。三四百人民币在台湾只够买一份检测试剂，但在加拿大够把它能检测的这些毒品都来一遍 https://t.co/y2K4TCd6Gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 282,
+          "like_count": 2117,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2077364970120155312",
+    "created_at": "2026-07-15T12:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077364970120155312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1839570888401772544",
+          "start": 3,
+          "username": "fatmustyincel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077364970120155312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077159217933291988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fatmustyincel: You are not a sensitive lover boy You are a faggot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2077364970120155312",
+        "created_at": "2026-07-15T12:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077364970120155312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1839570888401772544",
+              "start": 3,
+              "username": "fatmustyincel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077364970120155312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077159217933291988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fatmustyincel: You are not a sensitive lover boy You are a faggot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839570888401772544",
+        "conversation_id": "2077159217933291988",
+        "created_at": "2026-07-14T22:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T23:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077159217933291988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077159217933291988",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1148,
+          "impression_count": 445815,
+          "like_count": 22938,
+          "quote_count": 293,
+          "reply_count": 147,
+          "retweet_count": 3197
+        },
+        "reply_settings": "everyone",
+        "text": "You are not a sensitive lover boy You are a faggot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 306,
+          "like_count": 2622,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T07:41:07.000Z",
+        "description": "#Pon3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "Pon3"
+              }
+            ]
+          }
+        },
+        "id": "1839570888401772544",
+        "location": "toronto 21",
+        "name": "ang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068990653845880832/FZiojDql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 317,
+          "like_count": 9608,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 3863
+        },
+        "url": "",
+        "username": "fatmustyincel",
+        "verified": false
+      }
+    ]
+  }
+}

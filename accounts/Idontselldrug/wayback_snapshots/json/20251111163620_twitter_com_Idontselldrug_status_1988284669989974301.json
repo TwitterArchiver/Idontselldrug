@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1988284663610437635"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988198686657274105",
+    "created_at": "2025-11-11T16:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T17:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988284669989974301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 29,
+          "id": "1726969617850286080",
+          "start": 17,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 44,
+          "id": "1355178308460187653",
+          "start": 30,
+          "username": "CoilofFaraday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Akf8R3Wa8G",
+          "end": 68,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988284669989974301/photo/1",
+          "media_key": "16_1988284663610437635",
+          "start": 45,
+          "url": "https://t.co/Akf8R3Wa8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988284669989974301",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988199111842230348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @NashiMoe233 @CoilofFaraday https://t.co/Akf8R3Wa8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 92,
+        "media_key": "16_1988284663610437635",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5fOXf7bcAMflQK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5fOXf7bcAMflQK.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988284663610437635"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988198686657274105",
+        "created_at": "2025-11-11T16:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988284669989974301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 29,
+              "id": "1726969617850286080",
+              "start": 17,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 44,
+              "id": "1355178308460187653",
+              "start": 30,
+              "username": "CoilofFaraday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Akf8R3Wa8G",
+              "end": 68,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988284669989974301/photo/1",
+              "media_key": "16_1988284663610437635",
+              "start": 45,
+              "url": "https://t.co/Akf8R3Wa8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988284669989974301",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988199111842230348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @NashiMoe233 @CoilofFaraday https://t.co/Akf8R3Wa8G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1988198686657274105",
+        "created_at": "2025-11-11T10:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988199111842230348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1986452594206838785",
+              "start": 4,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 32,
+              "id": "1726969617850286080",
+              "start": 20,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 48,
+              "id": "1355178308460187653",
+              "start": 34,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988199111842230348",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988198686657274105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的就是@Idontselldrug  @NashiMoe233  @CoilofFaraday"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 131,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9846,
+          "following_count": 543,
+          "like_count": 8015,
+          "listed_count": 27,
+          "media_count": 1639,
+          "tweet_count": 13701
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨不回答药物滥用相关问题丨💜@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978850989756014592/OU24UMSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 198,
+          "like_count": 20757,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 11849
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987410658934358016/69Dk5ABQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 507,
+          "like_count": 434,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

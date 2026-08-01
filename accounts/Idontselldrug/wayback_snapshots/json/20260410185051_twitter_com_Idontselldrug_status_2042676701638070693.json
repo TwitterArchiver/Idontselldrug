@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2042676701638070693",
+    "created_at": "2026-04-10T18:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042676701638070693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3705319875",
+          "start": 3,
+          "username": "MAR_icon_ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042676701638070693",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4035
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042544074595434717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAR_icon_ela: Si salvas a la novia te deja por tener  esposa. Si salvas a la esposa te deja por tener amante. La madre crocodilo puede…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2042676701638070693",
+        "created_at": "2026-04-10T18:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042676701638070693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3705319875",
+              "start": 3,
+              "username": "MAR_icon_ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042676701638070693",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4035
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042544074595434717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MAR_icon_ela: Si salvas a la novia te deja por tener  esposa. Si salvas a la esposa te deja por tener amante. La madre crocodilo puede…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3705319875",
+        "conversation_id": "2042544074595434717",
+        "created_at": "2026-04-10T10:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042544074595434717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NexusGlobal14/…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/NexusGlobal14/status/2042195354431455528",
+              "start": 188,
+              "url": "https://t.co/BuUSXCvgMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042544074595434717",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3146,
+          "impression_count": 6054853,
+          "like_count": 87754,
+          "quote_count": 222,
+          "reply_count": 352,
+          "retweet_count": 4035
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042195354431455528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Si salvas a la novia te deja por tener  esposa. Si salvas a la esposa te deja por tener amante. La madre crocodilo puede sobrevivir en el agua. La señora random no la conozco. \n\nEl dinero https://t.co/BuUSXCvgMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 244,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-19T08:44:31.000Z",
+        "description": "Us weirdos have to stick together \n\n💜Bisaster ditch😎\n\nson galega, bisexual, non binaria e versátil. non me pidades que tome ningunha decisión",
+        "id": "3705319875",
+        "location": "Galicia, España",
+        "name": "MAR",
+        "pinned_tweet_id": "1993378566827131007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031695581567909888/I7LyVuP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 2177,
+          "like_count": 16216,
+          "listed_count": 5,
+          "media_count": 28688,
+          "tweet_count": 110007
+        },
+        "username": "MAR_icon_ela",
+        "verified": false
+      }
+    ]
+  }
+}

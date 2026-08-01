@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989554745024114688"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      }
+    ],
+    "conversation_id": "1989554747905331412",
+    "created_at": "2025-11-15T04:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989554747905331412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k6uwltgqgx",
+          "end": 165,
+          "expanded_url": "https://x.com/Idontselldrug/status/1989554747905331412/photo/1",
+          "media_key": "3_1989554745024114688",
+          "start": 142,
+          "url": "https://t.co/k6uwltgqgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989554747905331412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没花钱顺了五张芬太尼的测试纸，简单爆下加拿大人的税金\n检测方式很简单，把一点点药粉放进纸杯，加水搅拌，把试纸放进去就可以看了\n这个试纸比较垃圾测不了芬太尼的衍生物，不知道意义何在因为加拿大很多毒品掺的都是卡芬氟芬或者乙酰芬太尼之类奇奇怪怪的东西 dancesafe的好像可以测衍生物 https://t.co/k6uwltgqgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989554745024114688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xRf95a8AAF-x6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989554745024114688"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "1989554747905331412",
+        "created_at": "2025-11-15T04:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989554747905331412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6uwltgqgx",
+              "end": 165,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989554747905331412/photo/1",
+              "media_key": "3_1989554745024114688",
+              "start": 142,
+              "url": "https://t.co/k6uwltgqgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989554747905331412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没花钱顺了五张芬太尼的测试纸，简单爆下加拿大人的税金\n检测方式很简单，把一点点药粉放进纸杯，加水搅拌，把试纸放进去就可以看了\n这个试纸比较垃圾测不了芬太尼的衍生物，不知道意义何在因为加拿大很多毒品掺的都是卡芬氟芬或者乙酰芬太尼之类奇奇怪怪的东西 dancesafe的好像可以测衍生物 https://t.co/k6uwltgqgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 141,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 176
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

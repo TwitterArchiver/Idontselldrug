@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2000446840181785066",
+    "created_at": "2025-12-15T06:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000446840181785066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/1998205790042427512",
+          "start": 16,
+          "url": "https://t.co/PFePGEgWJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000446840181785066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998205790042427512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卖家说没货给我退款了，急死我了 https://t.co/PFePGEgWJD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2000446840181785066",
+        "created_at": "2025-12-15T06:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000446840181785066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/1998205790042427512",
+              "start": 16,
+              "url": "https://t.co/PFePGEgWJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000446840181785066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998205790042427512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卖家说没货给我退款了，急死我了 https://t.co/PFePGEgWJD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1998205790042427512",
+        "created_at": "2025-12-09T01:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T02:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998205790042427512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998205790042427512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2930,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买莫达芬尼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 188,
+          "like_count": 359,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

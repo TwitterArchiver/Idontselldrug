@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996708698773926241",
+    "created_at": "2025-12-04T22:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T23:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996708698773926241"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996708698773926241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首先，这一句的前半句“我很难受”既表现了毛主席对自己身体情况的认识，说明了毛主席对自己的问题有意识，是毛主席的谦卑和对自己搞个人崇拜的反对，又在同时说明了毛主席感觉事态的严重性，因为“难受”的对象是毛主席，并且这个“难受的程度”让毛主席不得不亲口说出。\n\n这一句的后半句，“叫医生来”，说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996708698773926241",
+        "created_at": "2025-12-04T22:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996708698773926241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996708698773926241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先，这一句的前半句“我很难受”既表现了毛主席对自己身体情况的认识，说明了毛主席对自己的问题有意识，是毛主席的谦卑和对自己搞个人崇拜的反对，又在同时说明了毛主席感觉事态的严重性，因为“难受”的对象是毛主席，并且这个“难受的程度”让毛主席不得不亲口说出。\n\n这一句的后半句，“叫医生来”，说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 182,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

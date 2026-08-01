@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073427187038846976"
+      ],
+      "media_source_tweet_id": [
+        "2073427189370884472"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893638",
+          "name": "Apple - Siri"
+        }
+      }
+    ],
+    "conversation_id": "2073615582780588151",
+    "created_at": "2026-07-05T03:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073615582780588151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2007833079994589184",
+          "start": 3,
+          "username": "akutagawastea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XdYAmqKgcf",
+          "end": 137,
+          "expanded_url": "https://x.com/akutagawastea/status/2073427189370884472/photo/1",
+          "media_key": "3_2073427187038846976",
+          "start": 114,
+          "url": "https://t.co/XdYAmqKgcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073615582780588151",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5091
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073427189370884472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akutagawastea: Me: “hey siri call my friends”\n\n🤖no “friends” detected🤖\n\nMe: sorry i meant “tools”\n\n🤖calling…🤖 https://t.co/XdYAmqKgcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2073427187038846976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZLCocWgAAVg5b.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073427187038846976"
+          ],
+          "media_source_tweet_id": [
+            "2073427189370884472"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2073615582780588151",
+        "created_at": "2026-07-05T03:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073615582780588151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2007833079994589184",
+              "start": 3,
+              "username": "akutagawastea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdYAmqKgcf",
+              "end": 137,
+              "expanded_url": "https://x.com/akutagawastea/status/2073427189370884472/photo/1",
+              "media_key": "3_2073427187038846976",
+              "start": 114,
+              "url": "https://t.co/XdYAmqKgcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073615582780588151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5091
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073427189370884472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akutagawastea: Me: “hey siri call my friends”\n\n🤖no “friends” detected🤖\n\nMe: sorry i meant “tools”\n\n🤖calling…🤖 https://t.co/XdYAmqKgcf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073427187038846976"
+          ]
+        },
+        "author_id": "2007833079994589184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2073427189370884472",
+        "created_at": "2026-07-04T15:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073427189370884472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdYAmqKgcf",
+              "end": 118,
+              "expanded_url": "https://x.com/akutagawastea/status/2073427189370884472/photo/1",
+              "media_key": "3_2073427187038846976",
+              "start": 95,
+              "url": "https://t.co/XdYAmqKgcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073427189370884472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2615,
+          "impression_count": 345167,
+          "like_count": 34862,
+          "quote_count": 170,
+          "reply_count": 106,
+          "retweet_count": 5091
+        },
+        "reply_settings": "everyone",
+        "text": "Me: “hey siri call my friends”\n\n🤖no “friends” detected🤖\n\nMe: sorry i meant “tools”\n\n🤖calling…🤖 https://t.co/XdYAmqKgcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 286,
+          "like_count": 2484,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-04T15:14:54.000Z",
+        "description": "diablo shady facts",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akutagawashadyfacts.straw.page",
+                "end": 23,
+                "expanded_url": "https://akutagawashadyfacts.straw.page",
+                "start": 0,
+                "url": "https://t.co/93r0VjJ2O8"
+              }
+            ]
+          }
+        },
+        "id": "2007833079994589184",
+        "location": "20 she/her 🐯👿 hb to unf",
+        "name": "Akutagawa Shady Facts | IFB",
+        "pinned_tweet_id": "2023710503436955696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072538323826954240/ecLN0ATN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 839,
+          "like_count": 13866,
+          "listed_count": 6,
+          "media_count": 560,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/93r0VjJ2O8",
+        "username": "akutagawastea",
+        "verified": false
+      }
+    ]
+  }
+}

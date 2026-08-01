@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2025575175312523734",
+    "created_at": "2026-02-22T14:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025575175312523734"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025575175312523734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了达利雷生做噩梦了\n先是梦到用中国手机号给推友打电话被开盒了，别人把我开了我还回复认领说是我给你打的电话，凌晨两点顶着药效被吓醒了，当时真的分不清是真的还是在做梦\n然后睡回去又做了第二个噩梦，梦到回到初中被学霸霸凌，被打的皮开肉绽的，他让我不准报警不然打我打的更狠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2025575175312523734",
+        "created_at": "2026-02-22T14:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025575175312523734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025575175312523734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了达利雷生做噩梦了\n先是梦到用中国手机号给推友打电话被开盒了，别人把我开了我还回复认领说是我给你打的电话，凌晨两点顶着药效被吓醒了，当时真的分不清是真的还是在做梦\n然后睡回去又做了第二个噩梦，梦到回到初中被学霸霸凌，被打的皮开肉绽的，他让我不准报警不然打我打的更狠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 227,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

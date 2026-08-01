@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002932815189700609"
+      ],
+      "media_source_tweet_id": [
+        "2002932915617800388"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2003627418188460536",
+    "created_at": "2025-12-24T00:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003627418188460536"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "The Royal Serf",
+          "probability": 0.831,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1924211303754895360",
+          "start": 3,
+          "username": "captive_dreamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2CHhieSQse",
+          "end": 60,
+          "expanded_url": "https://x.com/TheRoyalSerf/status/2002932915617800388/video/1",
+          "media_key": "13_2002932815189700609",
+          "start": 37,
+          "url": "https://t.co/2CHhieSQse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003627418188460536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003197450425893207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @captive_dreamer: The Royal Serf  https://t.co/2CHhieSQse"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20712,
+        "height": 720,
+        "media_key": "13_2002932815189700609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002932815189700609/img/_7719vgaw_BFwp95.jpg",
+        "public_metrics": {
+          "view_count": 105189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002932815189700609/vid/avc1/320x400/vXOINAMI0Q8inwcH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002932815189700609/vid/avc1/480x600/JBW3c0OAaLob3P_B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002932815189700609/vid/avc1/576x720/73jJwdE7gVZY02f7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002932815189700609/pl/HEHANwDzPlKnjPnM.m3u8?v=906"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002932815189700609"
+          ],
+          "media_source_tweet_id": [
+            "2002932915617800388"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003627418188460536",
+        "created_at": "2025-12-24T00:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003627418188460536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "The Royal Serf",
+              "probability": 0.831,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1924211303754895360",
+              "start": 3,
+              "username": "captive_dreamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CHhieSQse",
+              "end": 60,
+              "expanded_url": "https://x.com/TheRoyalSerf/status/2002932915617800388/video/1",
+              "media_key": "13_2002932815189700609",
+              "start": 37,
+              "url": "https://t.co/2CHhieSQse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003627418188460536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003197450425893207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @captive_dreamer: The Royal Serf  https://t.co/2CHhieSQse"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002932815189700609"
+          ],
+          "media_source_tweet_id": [
+            "2002932915617800388"
+          ]
+        },
+        "author_id": "1924211303754895360",
+        "conversation_id": "2003197450425893207",
+        "created_at": "2025-12-22T20:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T21:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003197450425893207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "The Royal Serf",
+              "probability": 0.6511,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CHhieSQse",
+              "end": 39,
+              "expanded_url": "https://x.com/TheRoyalSerf/status/2002932915617800388/video/1",
+              "media_key": "13_2002932815189700609",
+              "start": 16,
+              "url": "https://t.co/2CHhieSQse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003197450425893207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 117793,
+          "like_count": 2454,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "The Royal Serf  https://t.co/2CHhieSQse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 199,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:11:47.000Z",
+        "description": "https://t.co/vrGtj0BQ0Z\n\nRemigration",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "russiancosmist.substack.com",
+                "end": 23,
+                "expanded_url": "http://russiancosmist.substack.com",
+                "start": 0,
+                "url": "https://t.co/vrGtj0BQ0Z"
+              }
+            ]
+          }
+        },
+        "id": "1924211303754895360",
+        "location": "Milan",
+        "name": "captive dreamer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997743978901368832/4rNIZv4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69748,
+          "following_count": 2672,
+          "like_count": 99101,
+          "listed_count": 432,
+          "media_count": 2642,
+          "tweet_count": 21046
+        },
+        "username": "captive_dreamer",
+        "verified": true
+      }
+    ]
+  }
+}

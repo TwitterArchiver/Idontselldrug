@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002701302443208704"
+      ],
+      "media_source_tweet_id": [
+        "2002701391568224287"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2002806990364663960",
+    "created_at": "2025-12-21T18:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002806990364663960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2427602532",
+          "start": 3,
+          "username": "Dispropoganda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ktYhvB355j",
+          "end": 58,
+          "expanded_url": "https://x.com/Dispropoganda/status/2002701391568224287/photo/1",
+          "media_key": "3_2002701302443208704",
+          "start": 35,
+          "url": "https://t.co/ktYhvB355j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002806990364663960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002701391568224287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dispropoganda: He actually is. https://t.co/ktYhvB355j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2002701302443208704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sGOUtW8AAdjU8.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002701302443208704"
+          ],
+          "media_source_tweet_id": [
+            "2002701391568224287"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2002806990364663960",
+        "created_at": "2025-12-21T18:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002806990364663960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2427602532",
+              "start": 3,
+              "username": "Dispropoganda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktYhvB355j",
+              "end": 58,
+              "expanded_url": "https://x.com/Dispropoganda/status/2002701391568224287/photo/1",
+              "media_key": "3_2002701302443208704",
+              "start": 35,
+              "url": "https://t.co/ktYhvB355j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002806990364663960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002701391568224287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dispropoganda: He actually is. https://t.co/ktYhvB355j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002701302443208704"
+          ]
+        },
+        "author_id": "2427602532",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2002701391568224287",
+        "created_at": "2025-12-21T11:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002701391568224287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktYhvB355j",
+              "end": 39,
+              "expanded_url": "https://x.com/Dispropoganda/status/2002701391568224287/photo/1",
+              "media_key": "3_2002701302443208704",
+              "start": 16,
+              "url": "https://t.co/ktYhvB355j"
+            },
+            {
+              "display_url": "x.com/jacksonhinklle…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/jacksonhinklle/status/2002378463031013603",
+              "start": 40,
+              "url": "https://t.co/dGhdOdAfDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002701391568224287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 93082,
+          "like_count": 6535,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002378463031013603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "He actually is. https://t.co/ktYhvB355j https://t.co/dGhdOdAfDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 191,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T17:25:34.000Z",
+        "description": "The truth shall set you laughing!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dispropaganda-blog.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://dispropaganda-blog.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/BJ5J9ZFdqJ"
+              }
+            ]
+          }
+        },
+        "id": "2427602532",
+        "name": "Dispropaganda",
+        "pinned_tweet_id": "1975990149222662536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/452138473294544896/iZdVxC-e_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100204,
+          "following_count": 27,
+          "like_count": 9620,
+          "listed_count": 340,
+          "media_count": 9372,
+          "tweet_count": 18121
+        },
+        "url": "https://t.co/BJ5J9ZFdqJ",
+        "username": "Dispropoganda",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

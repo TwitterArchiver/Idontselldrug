@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1990253141623964001",
+    "created_at": "2025-11-17T02:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990253141623964001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1286356556741828608",
+          "start": 3,
+          "username": "0liviajulianna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990253141623964001",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15941
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990111717443928409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0liviajulianna: People started calling him gay and he started posting his girl to try to beat the allegations 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1990253141623964001",
+        "created_at": "2025-11-17T02:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990253141623964001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1286356556741828608",
+              "start": 3,
+              "username": "0liviajulianna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990253141623964001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15941
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990111717443928409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0liviajulianna: People started calling him gay and he started posting his girl to try to beat the allegations 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286356556741828608",
+        "conversation_id": "1990111717443928409",
+        "created_at": "2025-11-16T17:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990111717443928409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitehouse/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/whitehouse/status/1990093309499396120",
+              "start": 96,
+              "url": "https://t.co/LGVcHwezIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990111717443928409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2799,
+          "impression_count": 3496397,
+          "like_count": 208226,
+          "quote_count": 229,
+          "reply_count": 2024,
+          "retweet_count": 15941
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990093309499396120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "People started calling him gay and he started posting his girl to try to beat the allegations 😭 https://t.co/LGVcHwezIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 143,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T17:44:45.000Z",
+        "description": "I write sometimes 👇🏼Texas Tough.   All opinions are my own 🗳️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oliviajulianna.co",
+                "end": 23,
+                "expanded_url": "http://oliviajulianna.co",
+                "start": 0,
+                "url": "https://t.co/yzSDvUuQl8"
+              }
+            ]
+          }
+        },
+        "id": "1286356556741828608",
+        "location": "Houston, TX",
+        "name": "Olivia Julianna 🇺🇸🦅🗳️",
+        "pinned_tweet_id": "1987321489696174549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946290578720800769/g_YzcxFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323848,
+          "following_count": 6405,
+          "like_count": 35771,
+          "listed_count": 1436,
+          "media_count": 2526,
+          "tweet_count": 24755
+        },
+        "url": "https://t.co/yzSDvUuQl8",
+        "username": "0liviajulianna",
+        "verified": true
+      }
+    ]
+  }
+}

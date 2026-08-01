@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987781119924969690",
+    "created_at": "2025-11-10T07:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T08:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987783729868361900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "822723579263393792",
+          "start": 0,
+          "username": "Nagareyama_kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987783729868361900",
+    "in_reply_to_user_id": "822723579263393792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987781119924969690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagareyama_kura 怎么这么漂亮？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 960,
+        "media_key": "13_1987780992564895744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987780992564895744/img/jRvX-y87NpoJ-MLB.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987780992564895744/vid/avc1/320x564/A_Wsj-UcEHzA1HzJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987780992564895744/vid/avc1/480x846/SbyPBYXr8r8CAd5w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987780992564895744/vid/avc1/544x960/1K895BwwXbvcXE3i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987780992564895744/pl/cHOtYPKhIh8NGFAD.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987781119924969690",
+        "created_at": "2025-11-10T07:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987783729868361900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "822723579263393792",
+              "start": 0,
+              "username": "Nagareyama_kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987783729868361900",
+        "in_reply_to_user_id": "822723579263393792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987781119924969690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagareyama_kura 怎么这么漂亮？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987780992564895744"
+          ]
+        },
+        "author_id": "822723579263393792",
+        "conversation_id": "1987781119924969690",
+        "created_at": "2025-11-10T07:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987781119924969690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wq3NA3z0l",
+              "end": 41,
+              "expanded_url": "https://x.com/Nagareyama_kura/status/1987781119924969690/video/1",
+              "media_key": "13_1987780992564895744",
+              "start": 18,
+              "url": "https://t.co/1wq3NA3z0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987781119924969690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好漂亮吧Chinook太奇妙了 https://t.co/1wq3NA3z0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 124,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:32:41.000Z",
+        "description": "kura默默活┊demi/panromantic aegosexual┊she/her",
+        "id": "822723579263393792",
+        "name": "kuratheanti",
+        "pinned_tweet_id": "1244908355782692864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984909495718559744/aAQ0ARNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 96,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 365
+        },
+        "username": "Nagareyama_kura",
+        "verified": false
+      }
+    ]
+  }
+}

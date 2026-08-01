@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2060716442388230627",
+    "created_at": "2026-05-30T16:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060758249646014505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 26,
+          "id": "1700948552078467072",
+          "start": 13,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 42,
+          "id": "1927618351733657600",
+          "start": 27,
+          "username": "BaiChuan202505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060758249646014505",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060748281815200210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @Overdose_DBD @BaiChuan202505 你是傻逼吧，你是不是觉得发点傻逼话有人骂你你就开心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2060716442388230627",
+        "created_at": "2026-05-30T16:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060758249646014505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 26,
+              "id": "1700948552078467072",
+              "start": 13,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 42,
+              "id": "1927618351733657600",
+              "start": 27,
+              "username": "BaiChuan202505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060758249646014505",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060748281815200210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @Overdose_DBD @BaiChuan202505 你是傻逼吧，你是不是觉得发点傻逼话有人骂你你就开心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2060716442388230627",
+        "created_at": "2026-05-30T15:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060748281815200210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 29,
+              "id": "1927618351733657600",
+              "start": 14,
+              "username": "BaiChuan202505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060748281815200210",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716442388230627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @BaiChuan202505 羡慕水煎\n我也想被大帅哥睡煎😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 285,
+          "like_count": 2420,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "这样我们就可以像nagi一样每三天刷新一个坐标了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Brixton",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2060177940218888696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053273167678828553/m1eEnnhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 2338,
+          "like_count": 28427,
+          "listed_count": 8,
+          "media_count": 2525,
+          "tweet_count": 24350
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "高原整活观景台 https://t.co/ALu7jA4oBj\n有事请点击https://t.co/VRpZNWqcKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 31,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 8,
+                "url": "https://t.co/ALu7jA4oBj"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 60,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 37,
+                "url": "https://t.co/VRpZNWqcKT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 67,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 732,
+          "tweet_count": 7184
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "2021877312044900630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 2643,
+          "like_count": 463,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 546
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2047601153626829254",
+    "created_at": "2026-04-25T03:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047879015936188818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587123862902292484",
+          "start": 0,
+          "username": "elpameno"
+        },
+        {
+          "end": 22,
+          "id": "1944351426827735040",
+          "start": 10,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047879015936188818",
+    "in_reply_to_user_id": "1587123862902292484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047876085891932388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elpameno @kiss_u_back 你纯路人不认识我也不认识她就不要从只言片语试图总结什么东西了，她自杀的时候我一直在挽留她陪着她，我要自杀的时候她直接把我甩了，结果只是因为我没把这些细节说出来，你们这些傻逼就开始捕风捉影，给你们颐指气使上了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [kiss_u_back].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kiss_u_back",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kiss_u_back"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047601153626829254",
+        "created_at": "2026-04-25T03:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047879015936188818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587123862902292484",
+              "start": 0,
+              "username": "elpameno"
+            },
+            {
+              "end": 22,
+              "id": "1944351426827735040",
+              "start": 10,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047879015936188818",
+        "in_reply_to_user_id": "1587123862902292484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047876085891932388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elpameno @kiss_u_back 你纯路人不认识我也不认识她就不要从只言片语试图总结什么东西了，她自杀的时候我一直在挽留她陪着她，我要自杀的时候她直接把我甩了，结果只是因为我没把这些细节说出来，你们这些傻逼就开始捕风捉影，给你们颐指气使上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587123862902292484",
+        "conversation_id": "2047601153626829254",
+        "created_at": "2026-04-25T03:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047876085891932388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 27,
+              "id": "1944351426827735040",
+              "start": 15,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047876085891932388",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047601153626829254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @kiss_u_back 纯路人，拿生死道德绑架别人，我只能说恭喜这位姐妹.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 269,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-31T16:46:42.000Z",
+        "description": "一个喜欢做梦和造梦的人。",
+        "id": "1587123862902292484",
+        "name": "Maple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995968457838657546/f23HjnYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 476,
+          "like_count": 372,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 125
+        },
+        "username": "elpameno",
+        "verified": false
+      }
+    ]
+  }
+}

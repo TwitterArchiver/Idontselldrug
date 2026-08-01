@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2055526786273071149",
+    "created_at": "2026-05-16T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055659052345287081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707194644803751937",
+          "start": 0,
+          "username": "xiaoz010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055659052345287081",
+    "in_reply_to_user_id": "707194644803751937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055658409425535280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoz010203 我在吃nac了🫡🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2055526786273071149",
+        "created_at": "2026-05-16T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055659052345287081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707194644803751937",
+              "start": 0,
+              "username": "xiaoz010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055659052345287081",
+        "in_reply_to_user_id": "707194644803751937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055658409425535280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoz010203 我在吃nac了🫡🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707194644803751937",
+        "conversation_id": "2055526786273071149",
+        "created_at": "2026-05-16T14:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055658409425535280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055658409425535280",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055526786273071149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 单纯的转氨酶超标问题不大，那指标就是个笑话，吃两天药都能降下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 282,
+          "like_count": 2225,
+          "listed_count": 1,
+          "media_count": 489,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-08T13:21:57.000Z",
+        "description": "“人的一生要经历太多的生离死别，那些突如其来的离别往往将人伤得措手不及。”｜可以叫我小z｜INFJ｜双鱼｜化学专业 医药研发｜在合理的范围内包容一切群体｜状态取决于最近的药量｜人生苦短，及时行乐，赢则大乐",
+        "id": "707194644803751937",
+        "name": "Zzzzzzzzzzz",
+        "pinned_tweet_id": "1866747340687806543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 48,
+          "like_count": 3880,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1956
+        },
+        "username": "xiaoz010203",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989460405698404849",
+    "created_at": "2025-11-14T22:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T23:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989460405698404849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/1989385527532134416",
+          "start": 21,
+          "url": "https://t.co/wmZ9PWLkrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989460405698404849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989385527532134416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小女友现在好像都不把我当直男了，令人感叹 https://t.co/wmZ9PWLkrx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989460405698404849",
+        "created_at": "2025-11-14T22:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T23:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989460405698404849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/1989385527532134416",
+              "start": 21,
+              "url": "https://t.co/wmZ9PWLkrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989460405698404849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989385527532134416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小女友现在好像都不把我当直男了，令人感叹 https://t.co/wmZ9PWLkrx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989385527532134416",
+        "created_at": "2025-11-14T17:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989385527532134416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989385527532134416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小女友真的好懂我\n聊到加拿大的strip club，我说我不想看strip club但想看其他的，但是想了半天想不出来没想出来是什么，小女友一秒猜中问我是不是magic mike，我真的好激动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 141,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 163
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

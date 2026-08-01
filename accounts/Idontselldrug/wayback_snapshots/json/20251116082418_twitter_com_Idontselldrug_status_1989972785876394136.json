@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989822371692425640",
+    "created_at": "2025-11-16T08:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T09:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989972785876394136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "aya_the_raven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989972785876394136",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989822371692425640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aya_the_raven 执行时间：明天黎明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989822371692425640",
+        "created_at": "2025-11-16T08:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T09:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989972785876394136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "aya_the_raven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989972785876394136",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989822371692425640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aya_the_raven 执行时间：明天黎明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680291377228259330",
+        "conversation_id": "1989822371692425640",
+        "created_at": "2025-11-15T22:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989822371692425640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989822371692425640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "&gt; SOCIAL_CREDIT_BALANCE = -∞\n&gt; 用户状态 = [已安排再教育]\n&gt; 职业 = 无\n&gt; 婚姻状况 = 不符合社会主义核心价值观\n&gt; 浏览记录 = 已上报中宣部\n&gt; 信用等级 = 黑名单 (永久)\n&gt; 配给状态 = 已停止\n&gt; 惩罚执行时间 = 黎明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 142,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Domus mea domus orationis vocabitur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Novasibirsk, Adaptatsiya Ini.",
+        "name": "La période azurée de Aya",
+        "pinned_tweet_id": "1954710109612888230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928284741125410816/sg2I6KMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4274,
+          "following_count": 3698,
+          "like_count": 46737,
+          "listed_count": 32,
+          "media_count": 1217,
+          "tweet_count": 13671
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      }
+    ]
+  }
+}

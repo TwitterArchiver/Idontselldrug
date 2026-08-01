@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025134187318312961"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2025134200895275333",
+    "created_at": "2026-02-21T09:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025134200895275333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1sVU6siOBt",
+          "end": 35,
+          "expanded_url": "https://x.com/Idontselldrug/status/2025134200895275333/photo/1",
+          "media_key": "3_2025134187318312961",
+          "start": 12,
+          "url": "https://t.co/1sVU6siOBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025134200895275333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "登机了，吃颗普瑞升个舱 https://t.co/1sVU6siOBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025134187318312961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq40FGbgAEvVq1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025134187318312961"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2025134200895275333",
+        "created_at": "2026-02-21T09:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025134200895275333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sVU6siOBt",
+              "end": 35,
+              "expanded_url": "https://x.com/Idontselldrug/status/2025134200895275333/photo/1",
+              "media_key": "3_2025134187318312961",
+              "start": 12,
+              "url": "https://t.co/1sVU6siOBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025134200895275333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "登机了，吃颗普瑞升个舱 https://t.co/1sVU6siOBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 225,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

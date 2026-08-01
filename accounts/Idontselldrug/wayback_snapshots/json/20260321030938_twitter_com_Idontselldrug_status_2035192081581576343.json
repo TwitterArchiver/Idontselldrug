@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2035192081581576343",
+    "created_at": "2026-03-21T03:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035192081581576343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilaoshizuikea…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/2035107378551525497",
+          "start": 7,
+          "url": "https://t.co/UaXQcCehlU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035192081581576343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035107378551525497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "史称爆料革命 https://t.co/UaXQcCehlU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2035107022430183424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD4nDe_aoAA5J05.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2035192081581576343",
+        "created_at": "2026-03-21T03:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035192081581576343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/2035107378551525497",
+              "start": 7,
+              "url": "https://t.co/UaXQcCehlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035192081581576343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035107378551525497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "史称爆料革命 https://t.co/UaXQcCehlU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035107022430183424"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "2035107378551525497",
+        "created_at": "2026-03-20T21:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T22:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035107378551525497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUZZuudRu5",
+              "end": 30,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2035107378551525497/photo/1",
+              "media_key": "3_2035107022430183424",
+              "start": 7,
+              "url": "https://t.co/dUZZuudRu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035107378551525497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31393,
+          "like_count": 361,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "什么春雷行动 https://t.co/dUZZuudRu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 237,
+          "like_count": 1396,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252830,
+          "following_count": 747,
+          "like_count": 5934,
+          "listed_count": 1355,
+          "media_count": 1414,
+          "tweet_count": 7281
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

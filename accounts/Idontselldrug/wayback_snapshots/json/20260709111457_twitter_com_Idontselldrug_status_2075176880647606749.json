@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074823240904503296"
+      ],
+      "media_source_tweet_id": [
+        "2074823246860394728"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2075176880647606749",
+    "created_at": "2026-07-09T11:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075176880647606749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529557088577396737",
+          "start": 3,
+          "username": "DarkOddCon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwKLzWlkZR",
+          "end": 39,
+          "expanded_url": "https://x.com/DarkOddCon/status/2074823246860394728/photo/1",
+          "media_key": "3_2074823240904503296",
+          "start": 16,
+          "url": "https://t.co/dwKLzWlkZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075176880647606749",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074823246860394728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkOddCon: https://t.co/dwKLzWlkZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2074823240904503296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtAvqXWcAAoj0d.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074823240904503296"
+          ],
+          "media_source_tweet_id": [
+            "2074823246860394728"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2075176880647606749",
+        "created_at": "2026-07-09T11:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075176880647606749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529557088577396737",
+              "start": 3,
+              "username": "DarkOddCon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwKLzWlkZR",
+              "end": 39,
+              "expanded_url": "https://x.com/DarkOddCon/status/2074823246860394728/photo/1",
+              "media_key": "3_2074823240904503296",
+              "start": 16,
+              "url": "https://t.co/dwKLzWlkZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176880647606749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074823246860394728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkOddCon: https://t.co/dwKLzWlkZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074823240904503296"
+          ]
+        },
+        "author_id": "1529557088577396737",
+        "conversation_id": "2074823246860394728",
+        "created_at": "2026-07-08T11:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074823246860394728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwKLzWlkZR",
+              "end": 23,
+              "expanded_url": "https://x.com/DarkOddCon/status/2074823246860394728/photo/1",
+              "media_key": "3_2074823240904503296",
+              "start": 0,
+              "url": "https://t.co/dwKLzWlkZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823246860394728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 129761,
+          "like_count": 7286,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dwKLzWlkZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 292,
+          "like_count": 2565,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 3096
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T20:17:02.000Z",
+        "description": "I just post Dark Humor, Schizo, Conspiracy, Edgy, and Weird/Odd memes/posts along with regular memes too. Trying to be more active, posting regular memes too.",
+        "id": "1529557088577396737",
+        "location": "Insane Asylum",
+        "name": "Dark,Odd,Conspiracy",
+        "pinned_tweet_id": "1918862078724407667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529558209568157697/Sjv9-6f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325568,
+          "following_count": 127,
+          "like_count": 557,
+          "listed_count": 341,
+          "media_count": 8083,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "DarkOddCon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2026505105386987520"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2026488428809146702",
+    "created_at": "2026-02-25T03:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026505113289056683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1502489943825821697",
+          "start": 0,
+          "username": "KAMITO94515009"
+        },
+        {
+          "end": 28,
+          "id": "1944351426827735040",
+          "start": 16,
+          "username": "kiss_u_back"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vI4rvgiN8N",
+          "end": 52,
+          "expanded_url": "https://x.com/Idontselldrug/status/2026505113289056683/photo/1",
+          "media_key": "16_2026505105386987520",
+          "start": 29,
+          "url": "https://t.co/vI4rvgiN8N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026505113289056683",
+    "in_reply_to_user_id": "1502489943825821697",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026504931579146728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KAMITO94515009 @kiss_u_back https://t.co/vI4rvgiN8N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2026505105386987520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB-XqA4bYAAURrj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB-XqA4bYAAURrj.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026505105386987520"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2026488428809146702",
+        "created_at": "2026-02-25T03:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026505113289056683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1502489943825821697",
+              "start": 0,
+              "username": "KAMITO94515009"
+            },
+            {
+              "end": 28,
+              "id": "1944351426827735040",
+              "start": 16,
+              "username": "kiss_u_back"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vI4rvgiN8N",
+              "end": 52,
+              "expanded_url": "https://x.com/Idontselldrug/status/2026505113289056683/photo/1",
+              "media_key": "16_2026505105386987520",
+              "start": 29,
+              "url": "https://t.co/vI4rvgiN8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026505113289056683",
+        "in_reply_to_user_id": "1502489943825821697",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026504931579146728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAMITO94515009 @kiss_u_back https://t.co/vI4rvgiN8N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502489943825821697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues.",
+              "id": "10027336708",
+              "name": "Family Guy"
+            }
+          }
+        ],
+        "conversation_id": "2026488428809146702",
+        "created_at": "2026-02-25T03:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026504931579146728"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Meg",
+              "probability": 0.7456,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            },
+            {
+              "end": 27,
+              "id": "1986452594206838785",
+              "start": 13,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026504931579146728",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026504332116738407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back @Idontselldrug Shut up, Meg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 230,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T03:42:24.000Z",
+        "description": "24/PhD. 常驻北京，假期会回成都，喜欢户外，周末可约骑车/爬山😋友链: @waterwithw13210, @arnolmads, @harmfulyep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "waterwithw13210"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "arnolmads"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "harmfulyep"
+              }
+            ]
+          }
+        },
+        "id": "1502489943825821697",
+        "location": "Yakeen, Amatis",
+        "name": "KAMITO",
+        "pinned_tweet_id": "1829501736404627947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901585651335901184/xMPaQ8KQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 692,
+          "like_count": 71267,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 4822
+        },
+        "username": "KAMITO94515009",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 135,
+          "like_count": 1361,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1004
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

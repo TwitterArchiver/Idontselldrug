@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988783060406751233",
+        "3_1988783061597863937",
+        "3_1988783062046633987",
+        "3_1988783062638120960"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988783069969661996",
+    "created_at": "2025-11-13T01:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T02:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988783069969661996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTjieWQHsA",
+          "end": 163,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+          "media_key": "3_1988783060406751233",
+          "start": 140,
+          "url": "https://t.co/pTjieWQHsA"
+        },
+        {
+          "display_url": "pic.x.com/pTjieWQHsA",
+          "end": 163,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+          "media_key": "3_1988783061597863937",
+          "start": 140,
+          "url": "https://t.co/pTjieWQHsA"
+        },
+        {
+          "display_url": "pic.x.com/pTjieWQHsA",
+          "end": 163,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+          "media_key": "3_1988783062046633987",
+          "start": 140,
+          "url": "https://t.co/pTjieWQHsA"
+        },
+        {
+          "display_url": "pic.x.com/pTjieWQHsA",
+          "end": 163,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+          "media_key": "3_1988783062638120960",
+          "start": 140,
+          "url": "https://t.co/pTjieWQHsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988783069969661996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天大麻的配菜\n汉堡+薯条 来自social corner\n这家店的灯光很暗，很适合抽完大麻对光敏感的状态，可以感觉自己瞳孔张开的那种迷幻感\n汉堡除了常规的肉饼酱汁芝士还有鹅肝和蘑菇，最下面还有一层脆脆的不知道是什么东西口感很好，可能是培根吧\n薯条是松露薯条加上蒜蓉蛋黄酱，很香 https://t.co/pTjieWQHsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988783060406751233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mTqArb0AE2ObK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1988783061597863937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mTqFHawAEaEBW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988783062046633987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mTqGyacAMHHPi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988783062638120960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mTqI_b0AAgUmM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988783060406751233",
+            "3_1988783061597863937",
+            "3_1988783062046633987",
+            "3_1988783062638120960"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988783069969661996",
+        "created_at": "2025-11-13T01:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988783069969661996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTjieWQHsA",
+              "end": 163,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+              "media_key": "3_1988783060406751233",
+              "start": 140,
+              "url": "https://t.co/pTjieWQHsA"
+            },
+            {
+              "display_url": "pic.x.com/pTjieWQHsA",
+              "end": 163,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+              "media_key": "3_1988783061597863937",
+              "start": 140,
+              "url": "https://t.co/pTjieWQHsA"
+            },
+            {
+              "display_url": "pic.x.com/pTjieWQHsA",
+              "end": 163,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+              "media_key": "3_1988783062046633987",
+              "start": 140,
+              "url": "https://t.co/pTjieWQHsA"
+            },
+            {
+              "display_url": "pic.x.com/pTjieWQHsA",
+              "end": 163,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988783069969661996/photo/1",
+              "media_key": "3_1988783062638120960",
+              "start": 140,
+              "url": "https://t.co/pTjieWQHsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988783069969661996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天大麻的配菜\n汉堡+薯条 来自social corner\n这家店的灯光很暗，很适合抽完大麻对光敏感的状态，可以感觉自己瞳孔张开的那种迷幻感\n汉堡除了常规的肉饼酱汁芝士还有鹅肝和蘑菇，最下面还有一层脆脆的不知道是什么东西口感很好，可能是培根吧\n薯条是松露薯条加上蒜蓉蛋黄酱，很香 https://t.co/pTjieWQHsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 135,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 103
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006699694223929351"
+      ],
+      "media_source_tweet_id": [
+        "2006699966916681811"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006870334868439138",
+    "created_at": "2026-01-01T23:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T00:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006870334868439138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "396278781",
+          "start": 3,
+          "username": "BoBoYiMa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k5Eiv4zEcZ",
+          "end": 57,
+          "expanded_url": "https://x.com/BoBoYiMa/status/2006699966916681811/photo/1",
+          "media_key": "3_2006699694223929351",
+          "start": 34,
+          "url": "https://t.co/k5Eiv4zEcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006870334868439138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006699966916681811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoBoYiMa: 『Edit image』\n『編輯圖片』 https://t.co/k5Eiv4zEcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2125,
+        "media_key": "3_2006699694223929351",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9k6vW0aMAc2UTJ.jpg",
+        "width": 3683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006699694223929351"
+          ],
+          "media_source_tweet_id": [
+            "2006699966916681811"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006870334868439138",
+        "created_at": "2026-01-01T23:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T00:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006870334868439138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "396278781",
+              "start": 3,
+              "username": "BoBoYiMa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5Eiv4zEcZ",
+              "end": 57,
+              "expanded_url": "https://x.com/BoBoYiMa/status/2006699966916681811/photo/1",
+              "media_key": "3_2006699694223929351",
+              "start": 34,
+              "url": "https://t.co/k5Eiv4zEcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006870334868439138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006699966916681811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoBoYiMa: 『Edit image』\n『編輯圖片』 https://t.co/k5Eiv4zEcZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006699694223929351"
+          ]
+        },
+        "author_id": "396278781",
+        "conversation_id": "2006699966916681811",
+        "created_at": "2026-01-01T12:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006699966916681811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5Eiv4zEcZ",
+              "end": 43,
+              "expanded_url": "https://x.com/BoBoYiMa/status/2006699966916681811/photo/1",
+              "media_key": "3_2006699694223929351",
+              "start": 20,
+              "url": "https://t.co/k5Eiv4zEcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006699966916681811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2876,
+          "impression_count": 272372,
+          "like_count": 22848,
+          "quote_count": 67,
+          "reply_count": 101,
+          "retweet_count": 2634
+        },
+        "reply_settings": "everyone",
+        "text": "『Edit image』\n『編輯圖片』 https://t.co/k5Eiv4zEcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 206,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-23T01:25:49.000Z",
+        "description": "Illustrator / graphic designer\ncommission open\n🚫 NO AI 🚫\n中文/EN/日文 OK\n\nhttps://t.co/S9boieC6vs\n\n✉【chaomayaelboy@gmail.com】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/boyima",
+                "end": 93,
+                "expanded_url": "https://lit.link/zh-tw/boyima",
+                "start": 70,
+                "url": "https://t.co/S9boieC6vs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3843058",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3843058",
+                "start": 0,
+                "url": "https://t.co/c75KZsAY4P"
+              }
+            ]
+          }
+        },
+        "id": "396278781",
+        "name": "ボイマ/BoYiMa🐙",
+        "pinned_tweet_id": "1983859052779335901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935380189929947140/9lbOAOkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25996,
+          "following_count": 2689,
+          "like_count": 3693,
+          "listed_count": 138,
+          "media_count": 312,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/c75KZsAY4P",
+        "username": "BoBoYiMa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988534966846915008",
+    "created_at": "2025-11-12T09:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988534966846915008"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988534966846915008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Vyvanse戒断第六天\nvyvanse是右旋苯丙胺的话，四舍五入一下我算不算戒断冰毒中\n今天早上和下午吃了两次600mg nac\n晚上吃了150mg 普瑞巴林 要睡觉了 感觉不错 我应该会睡得比昨天早一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988534966846915008",
+        "created_at": "2025-11-12T09:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988534966846915008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988534966846915008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vyvanse戒断第六天\nvyvanse是右旋苯丙胺的话，四舍五入一下我算不算戒断冰毒中\n今天早上和下午吃了两次600mg nac\n晚上吃了150mg 普瑞巴林 要睡觉了 感觉不错 我应该会睡得比昨天早一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 134,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 87
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

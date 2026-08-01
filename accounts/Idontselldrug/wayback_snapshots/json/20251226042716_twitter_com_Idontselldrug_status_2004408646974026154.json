@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004249428937650176"
+      ],
+      "media_source_tweet_id": [
+        "2004249455810564274"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2004408646974026154",
+    "created_at": "2025-12-26T04:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004408646974026154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816770908029353984",
+          "start": 3,
+          "username": "aligmas_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDRZ9s9lBb",
+          "end": 45,
+          "expanded_url": "https://x.com/aligmas_/status/2004249455810564274/photo/1",
+          "media_key": "3_2004249428937650176",
+          "start": 22,
+          "url": "https://t.co/GDRZ9s9lBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004408646974026154",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004249455810564274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aligmas_: stop ai https://t.co/GDRZ9s9lBb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2004249428937650176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9CGPJUbsAADT5I.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004249428937650176"
+          ],
+          "media_source_tweet_id": [
+            "2004249455810564274"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2004408646974026154",
+        "created_at": "2025-12-26T04:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004408646974026154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816770908029353984",
+              "start": 3,
+              "username": "aligmas_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDRZ9s9lBb",
+              "end": 45,
+              "expanded_url": "https://x.com/aligmas_/status/2004249455810564274/photo/1",
+              "media_key": "3_2004249428937650176",
+              "start": 22,
+              "url": "https://t.co/GDRZ9s9lBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004408646974026154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004249455810564274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aligmas_: stop ai https://t.co/GDRZ9s9lBb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004249428937650176"
+          ]
+        },
+        "author_id": "1816770908029353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2004249455810564274",
+        "created_at": "2025-12-25T17:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004249455810564274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDRZ9s9lBb",
+              "end": 31,
+              "expanded_url": "https://x.com/aligmas_/status/2004249455810564274/photo/1",
+              "media_key": "3_2004249428937650176",
+              "start": 8,
+              "url": "https://t.co/GDRZ9s9lBb"
+            },
+            {
+              "display_url": "x.com/JustBern64/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/JustBern64/status/2003894911784173979",
+              "start": 32,
+              "url": "https://t.co/uBLep62pmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004249455810564274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 22100,
+          "like_count": 1341,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003894911784173979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "stop ai https://t.co/GDRZ9s9lBb https://t.co/uBLep62pmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 200,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T09:42:05.000Z",
+        "description": "I like sonic and roblox\nbeware of the man who speaks in diddygod",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "diddycorp.co",
+                "end": 23,
+                "expanded_url": "http://diddycorp.co",
+                "start": 0,
+                "url": "https://t.co/Ru1UP4fBUM"
+              }
+            ]
+          }
+        },
+        "id": "1816770908029353984",
+        "location": "diddy hill",
+        "name": "diddypickletickler",
+        "pinned_tweet_id": "2003280470415671415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003641070031413248/EpD8S6oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 288,
+          "like_count": 25905,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/Ru1UP4fBUM",
+        "username": "aligmas_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037715845355593728",
+        "3_2037715853404524544"
+      ],
+      "media_source_tweet_id": [
+        "2037716091716432291",
+        "2037716091716432291"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2038039526208331969",
+    "created_at": "2026-03-28T23:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T00:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038039526208331969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1031726053843075072",
+          "start": 3,
+          "username": "Ky0cius"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SVIkgCSgLp",
+          "end": 61,
+          "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+          "media_key": "3_2037715845355593728",
+          "start": 38,
+          "url": "https://t.co/SVIkgCSgLp"
+        },
+        {
+          "display_url": "pic.x.com/SVIkgCSgLp",
+          "end": 61,
+          "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+          "media_key": "3_2037715853404524544",
+          "start": 38,
+          "url": "https://t.co/SVIkgCSgLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038039526208331969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037716091716432291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ky0cius: 傻卵外包，你 official 拼错了你知道吗？ https://t.co/SVIkgCSgLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2037715845355593728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdrw9ua4AASiH0.png",
+        "width": 755
+      },
+      {
+        "height": 736,
+        "media_key": "3_2037715853404524544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdrxbtb0AALtPl.jpg",
+        "width": 1503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037715845355593728",
+            "3_2037715853404524544"
+          ],
+          "media_source_tweet_id": [
+            "2037716091716432291",
+            "2037716091716432291"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2038039526208331969",
+        "created_at": "2026-03-28T23:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038039526208331969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1031726053843075072",
+              "start": 3,
+              "username": "Ky0cius"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVIkgCSgLp",
+              "end": 61,
+              "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+              "media_key": "3_2037715845355593728",
+              "start": 38,
+              "url": "https://t.co/SVIkgCSgLp"
+            },
+            {
+              "display_url": "pic.x.com/SVIkgCSgLp",
+              "end": 61,
+              "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+              "media_key": "3_2037715853404524544",
+              "start": 38,
+              "url": "https://t.co/SVIkgCSgLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038039526208331969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037716091716432291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ky0cius: 傻卵外包，你 official 拼错了你知道吗？ https://t.co/SVIkgCSgLp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037715845355593728",
+            "3_2037715853404524544"
+          ]
+        },
+        "author_id": "1031726053843075072",
+        "conversation_id": "2037716091716432291",
+        "created_at": "2026-03-28T02:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037716091716432291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVIkgCSgLp",
+              "end": 48,
+              "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+              "media_key": "3_2037715845355593728",
+              "start": 25,
+              "url": "https://t.co/SVIkgCSgLp"
+            },
+            {
+              "display_url": "pic.x.com/SVIkgCSgLp",
+              "end": 48,
+              "expanded_url": "https://x.com/Ky0cius/status/2037716091716432291/photo/1",
+              "media_key": "3_2037715853404524544",
+              "start": 25,
+              "url": "https://t.co/SVIkgCSgLp"
+            },
+            {
+              "display_url": "x.com/BUPToffical/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/BUPToffical/status/2036628565060419668",
+              "start": 49,
+              "url": "https://t.co/Wy0yh3bvwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037716091716432291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 114167,
+          "like_count": 367,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036628565060419668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻卵外包，你 official 拼错了你知道吗？ https://t.co/SVIkgCSgLp https://t.co/Wy0yh3bvwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 237,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T02:13:54.000Z",
+        "description": "Make AI trustworthy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Kyocius",
+                "end": 23,
+                "expanded_url": "http://github.com/Kyocius",
+                "start": 0,
+                "url": "https://t.co/6B0S1n92QS"
+              }
+            ]
+          }
+        },
+        "id": "1031726053843075072",
+        "location": "Beijing",
+        "name": "游尔桑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018210632508862465/W90CaM8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 491,
+          "like_count": 18856,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/6B0S1n92QS",
+        "username": "Ky0cius",
+        "verified": false
+      }
+    ]
+  }
+}

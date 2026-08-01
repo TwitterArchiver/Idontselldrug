@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1999315405480034400",
+    "created_at": "2025-12-19T18:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T19:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002082616573563012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "DuchessCoconut_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002082616573563012",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999315405480034400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuchessCoconut_ 我也吃过这家，真的非常惊艳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1999315397544411141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77-wuCagAUll9I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1999315405480034400",
+        "created_at": "2025-12-19T18:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002082616573563012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "DuchessCoconut_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002082616573563012",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999315405480034400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuchessCoconut_ 我也吃过这家，真的非常惊艳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999315397544411141"
+          ]
+        },
+        "author_id": "1459206178529890307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999315405480034400",
+        "created_at": "2025-12-12T03:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999315405480034400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaKf7zBy1s",
+              "end": 174,
+              "expanded_url": "https://x.com/DuchessCoconut_/status/1999315405480034400/photo/1",
+              "media_key": "3_1999315397544411141",
+              "start": 151,
+              "url": "https://t.co/AaKf7zBy1s"
+            },
+            {
+              "display_url": "x.com/DuchessCoconut…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/DuchessCoconut_/status/1999119909868167263",
+              "start": 175,
+              "url": "https://t.co/0H1Gs3Qptx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999315405480034400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3578,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999119909868167263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大稻埕魯肉飯 臺北市大同區\n\n总之这里一共 185 NTD/42 CNY\n\n在台北车站旁边一家很有名的店，这种菜单品类单一并且开在房子很老的街区的店果然大多都会好吃꒦ິ^꒦ິ本来以为卤肉饭都大差不差，但是原来还是会有一店一味的细小差距的，不过总之都比大陆改良后的一些甚至会加青菜或者三色豆的要好多了！ https://t.co/AaKf7zBy1s https://t.co/0H1Gs3Qptx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 188,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "历史学与文学的愚昧拥趸者🧐|铁笼和枷锁都无法束缚的无翼猫头鹰🦉|轻小说创作者（真的吗）✒️|弄oc的请看看咱小怪盗和其他孩子谢谢👻|oc相关图都是约稿我不会画画TT🎨|精神状态常年不乐观💀|感觉人类很可怕所以私信不太回🚫|会直接无差别屏蔽发言让人反感或不安的账号👁️|请注意账号存在工作场所不适宜内容🔞",
+        "id": "1459206178529890307",
+        "location": "星馐阁",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1942593215066169560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995759583470780416/Q97o0bSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9033,
+          "following_count": 154,
+          "like_count": 16035,
+          "listed_count": 20,
+          "media_count": 3666,
+          "tweet_count": 15310
+        },
+        "username": "DuchessCoconut_",
+        "verified": false
+      }
+    ]
+  }
+}

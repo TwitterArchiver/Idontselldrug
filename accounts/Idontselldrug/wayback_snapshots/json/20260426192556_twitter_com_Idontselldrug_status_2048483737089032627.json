@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048394882474295433",
+    "created_at": "2026-04-26T19:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048483737089032627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048483737089032627",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048394882474295433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 为什么这么多人跟你面基？为什么我粉丝比你多但是没人跟我玩？就因为我是男的吗？这不公平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048394871732629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1cSHFa8AAK7ec.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048394882474295433",
+        "created_at": "2026-04-26T19:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048483737089032627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048483737089032627",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048394882474295433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 为什么这么多人跟你面基？为什么我粉丝比你多但是没人跟我玩？就因为我是男的吗？这不公平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048394871732629504"
+          ]
+        },
+        "author_id": "1963870046708772864",
+        "conversation_id": "2048394882474295433",
+        "created_at": "2026-04-26T13:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048394882474295433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTw4wqHlwm",
+              "end": 31,
+              "expanded_url": "https://x.com/Yuriovo_qaq/status/2048394882474295433/photo/1",
+              "media_key": "3_2048394871732629504",
+              "start": 8,
+              "url": "https://t.co/LTw4wqHlwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048394882474295433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1412,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们互相面基吧 https://t.co/LTw4wqHlwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 275,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 2635
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "此恨绵绵无绝期",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjx4ve"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "location": "私信骚扰我的你全家死光",
+        "name": "梦中的玉米五彩斑斓",
+        "pinned_tweet_id": "2048388442737008763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046046910600122368/UWWMZIjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 113,
+          "like_count": 3546,
+          "listed_count": 0,
+          "media_count": 805,
+          "tweet_count": 6203
+        },
+        "url": "https://t.co/2tAedjx4ve",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

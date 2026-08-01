@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037773459510673408"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2037773461054243283",
+    "created_at": "2026-03-28T06:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037773461054243283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDF0k4ev1G",
+          "end": 122,
+          "expanded_url": "https://x.com/Idontselldrug/status/2037773461054243283/photo/1",
+          "media_key": "3_2037773459510673408",
+          "start": 99,
+          "url": "https://t.co/UDF0k4ev1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037773461054243283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从美国购买了ttfd，这是一种特殊形式的维生素b1，跟其他形式的b1不同，他可以极强的穿透血脑屏障\n还好我在加拿大，很轻松就能买到美国的商品，就是多花点运费和清关费\n预计周一送到，希望海关放过我 https://t.co/UDF0k4ev1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037773459510673408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEegKjLaQAA83qP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037773459510673408"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2037773461054243283",
+        "created_at": "2026-03-28T06:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037773461054243283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDF0k4ev1G",
+              "end": 122,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037773461054243283/photo/1",
+              "media_key": "3_2037773459510673408",
+              "start": 99,
+              "url": "https://t.co/UDF0k4ev1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037773461054243283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从美国购买了ttfd，这是一种特殊形式的维生素b1，跟其他形式的b1不同，他可以极强的穿透血脑屏障\n还好我在加拿大，很轻松就能买到美国的商品，就是多花点运费和清关费\n预计周一送到，希望海关放过我 https://t.co/UDF0k4ev1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 237,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008631635781320918",
+    "created_at": "2026-01-06T20:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008631635781320918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008631635781320918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天抽大麻后又做噩梦了，梦到爹妈和我去富蛆家里买衣服，大概是西装还是什么东西，淘宝水平的的垃圾货卖我很贵，我妈还一个劲的阿谀奉承恭维别人，真的气死我了，想毛主席了\n我再也不抽大麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008631635781320918",
+        "created_at": "2026-01-06T20:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008631635781320918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008631635781320918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天抽大麻后又做噩梦了，梦到爹妈和我去富蛆家里买衣服，大概是西装还是什么东西，淘宝水平的的垃圾货卖我很贵，我妈还一个劲的阿谀奉承恭维别人，真的气死我了，想毛主席了\n我再也不抽大麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 209,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

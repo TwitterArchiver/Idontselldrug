@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996434253157188053",
+    "created_at": "2025-12-04T04:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996434253157188053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShitpostRandom…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ShitpostRandom/status/1995912122115493991",
+          "start": 5,
+          "url": "https://t.co/FrT5WLMQdL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996434253157188053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995912122115493991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在： https://t.co/FrT5WLMQdL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1995912119733149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Lnf4OXYAALiAB.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996434253157188053",
+        "created_at": "2025-12-04T04:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996434253157188053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShitpostRandom…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ShitpostRandom/status/1995912122115493991",
+              "start": 5,
+              "url": "https://t.co/FrT5WLMQdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996434253157188053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995912122115493991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在： https://t.co/FrT5WLMQdL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995912119733149696"
+          ]
+        },
+        "author_id": "1033494748470947841",
+        "conversation_id": "1995912122115493991",
+        "created_at": "2025-12-02T17:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995912122115493991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJ1omAdb49",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostRandom/status/1995912122115493991/photo/1",
+              "media_key": "3_1995912119733149696",
+              "start": 0,
+              "url": "https://t.co/sJ1omAdb49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995912122115493991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2412,
+          "impression_count": 1010458,
+          "like_count": 120144,
+          "quote_count": 376,
+          "reply_count": 77,
+          "retweet_count": 11083
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sJ1omAdb49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 182,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-25T23:22:04.000Z",
+        "description": "Kk pseudo procedural basada en metodos de recoleccion de imagenes y tener ideas relacionadas a un tema o topico en especifico de manera muy dispersa posting",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clubpenguinpunto.com",
+                "end": 23,
+                "expanded_url": "http://clubpenguinpunto.com",
+                "start": 0,
+                "url": "https://t.co/50jC8e3Y2j"
+              }
+            ]
+          }
+        },
+        "id": "1033494748470947841",
+        "location": "LEGO City",
+        "name": "Shitpost Aleatorio",
+        "pinned_tweet_id": "1721197237823246796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973885300347670528/B72qD71Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336331,
+          "following_count": 1455,
+          "like_count": 180057,
+          "listed_count": 258,
+          "media_count": 20261,
+          "tweet_count": 37773
+        },
+        "url": "https://t.co/50jC8e3Y2j",
+        "username": "ShitpostRandom",
+        "verified": true
+      }
+    ]
+  }
+}

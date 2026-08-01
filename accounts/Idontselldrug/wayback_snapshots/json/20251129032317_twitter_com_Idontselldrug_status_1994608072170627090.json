@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994442194963320833"
+      ],
+      "media_source_tweet_id": [
+        "1994451220501868594"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994608072170627090",
+    "created_at": "2025-11-29T03:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T04:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994608072170627090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525971668132306951",
+          "start": 3,
+          "username": "madclips_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WlQBjCG17W",
+          "end": 79,
+          "expanded_url": "https://x.com/madclips_/status/1994451220501868594/video/1",
+          "media_key": "13_1994442194963320833",
+          "start": 56,
+          "url": "https://t.co/WlQBjCG17W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994608072170627090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994451220501868594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madclips_: Man Falls Into Train Tracks During Fight https://t.co/WlQBjCG17W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12445,
+        "height": 1920,
+        "media_key": "13_1994442194963320833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994442194963320833/img/AtysPsICoK4NWjAu.jpg",
+        "public_metrics": {
+          "view_count": 128370
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/320x568/HkJ3V1bkqvKuR8hf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/480x852/wnTLKY7Ys9PBBY-5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/720x1280/cIzaUYjCF3YAy4ut.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994442194963320833/pl/vRClUAYd_oWgaCJl.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994442194963320833/vid/avc1/1080x1920/_Rv7Aeeezn8VAWj4.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994442194963320833"
+          ],
+          "media_source_tweet_id": [
+            "1994451220501868594"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994608072170627090",
+        "created_at": "2025-11-29T03:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994608072170627090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525971668132306951",
+              "start": 3,
+              "username": "madclips_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlQBjCG17W",
+              "end": 79,
+              "expanded_url": "https://x.com/madclips_/status/1994451220501868594/video/1",
+              "media_key": "13_1994442194963320833",
+              "start": 56,
+              "url": "https://t.co/WlQBjCG17W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994608072170627090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994451220501868594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madclips_: Man Falls Into Train Tracks During Fight https://t.co/WlQBjCG17W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994442194963320833"
+          ]
+        },
+        "author_id": "1525971668132306951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994451220501868594",
+        "created_at": "2025-11-28T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994451220501868594"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Man",
+              "probability": 0.4626,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlQBjCG17W",
+              "end": 64,
+              "expanded_url": "https://x.com/madclips_/status/1994451220501868594/video/1",
+              "media_key": "13_1994442194963320833",
+              "start": 41,
+              "url": "https://t.co/WlQBjCG17W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994451220501868594",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 354350,
+          "like_count": 2503,
+          "quote_count": 35,
+          "reply_count": 166,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "Man Falls Into Train Tracks During Fight https://t.co/WlQBjCG17W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 179,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T22:50:20.000Z",
+        "description": "Daily Mad Clips 😂",
+        "id": "1525971668132306951",
+        "name": "Mad Clips",
+        "pinned_tweet_id": "1987958437662388284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949421120823705600/CkATfvoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112711,
+          "following_count": 99,
+          "like_count": 0,
+          "listed_count": 1145,
+          "media_count": 2123,
+          "tweet_count": 2132
+        },
+        "username": "madclips_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2040618952859230439",
+    "created_at": "2026-04-05T02:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040619881230729398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040619881230729398",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040618952859230439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 别死好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2040618952859230439",
+        "created_at": "2026-04-05T02:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040619881230729398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040619881230729398",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040618952859230439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 别死好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956760772291579904",
+        "conversation_id": "2040618952859230439",
+        "created_at": "2026-04-05T02:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040618952859230439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040618952859230439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吞药自杀惩罚我妈，但是我怕省外医保不好报销暂时决定推迟自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 238,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有最傻逼的柠檬糖@tongzikin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tongzikin"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "pinned_tweet_id": "2030709102314184832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 252,
+          "like_count": 13654,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2468
+        },
+        "username": "catower233",
+        "verified": true
+      }
+    ]
+  }
+}

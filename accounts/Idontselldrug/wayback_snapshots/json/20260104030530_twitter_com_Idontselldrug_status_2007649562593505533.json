@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2007640646405017704",
+    "created_at": "2026-01-04T03:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T04:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007649562593505533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007649562593505533",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007640646405017704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 你在埃德蒙顿吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9336,
+        "height": 960,
+        "media_key": "13_2007640593619681280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007640593619681280/img/WNc1Kf0jRgTWaHZZ.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007640593619681280/vid/avc1/320x426/VqLSnB8SCaqgWwQL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007640593619681280/vid/avc1/480x640/vSKqYWZSWWFyaroe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007640593619681280/vid/avc1/720x960/pY5jdSwhsIUH5pDH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007640593619681280/pl/eFvHgjfjJVbYnWvP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2007640646405017704",
+        "created_at": "2026-01-04T03:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007649562593505533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007649562593505533",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007640646405017704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 你在埃德蒙顿吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007640593619681280"
+          ]
+        },
+        "author_id": "1956760772291579904",
+        "conversation_id": "2007640646405017704",
+        "created_at": "2026-01-04T02:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007640646405017704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2maBDjfolw",
+              "end": 35,
+              "expanded_url": "https://x.com/catower233/status/2007640646405017704/video/1",
+              "media_key": "13_2007640593619681280",
+              "start": 12,
+              "url": "https://t.co/2maBDjfolw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007640646405017704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "埃德蒙顿下大雪了芜湖湖 https://t.co/2maBDjfolw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 205,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "en-ca/zh-cn，K-W区域，大卫戴良子，梦想是可以有个爱人然后天天都可以抱起来睡到饱，最爱🍅还有柠檬糖@tongzikin！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "tongzikin"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "Catower233🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956761029175562240/IaD5K9v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 167,
+          "like_count": 9117,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1613
+        },
+        "username": "catower233",
+        "verified": false
+      }
+    ]
+  }
+}

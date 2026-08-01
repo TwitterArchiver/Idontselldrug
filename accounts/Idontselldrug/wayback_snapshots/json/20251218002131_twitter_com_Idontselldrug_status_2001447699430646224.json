@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2000682805274046469"
+      ],
+      "media_source_tweet_id": [
+        "2000682815138975879"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2001447699430646224",
+    "created_at": "2025-12-18T00:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T01:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001447699430646224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1545469736972161025",
+          "start": 3,
+          "username": "cascadingcash"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQqJiHlp8R",
+          "end": 42,
+          "expanded_url": "https://x.com/cascadingcash/status/2000682815138975879/photo/1",
+          "media_key": "16_2000682805274046469",
+          "start": 19,
+          "url": "https://t.co/PQqJiHlp8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001447699430646224",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000682815138975879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @cascadingcash: https://t.co/PQqJiHlp8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2000682805274046469",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8PaaUyXcAU-dBG.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8PaaUyXcAU-dBG.mp4"
+          }
+        ],
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2000682805274046469"
+          ],
+          "media_source_tweet_id": [
+            "2000682815138975879"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2001447699430646224",
+        "created_at": "2025-12-18T00:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001447699430646224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1545469736972161025",
+              "start": 3,
+              "username": "cascadingcash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQqJiHlp8R",
+              "end": 42,
+              "expanded_url": "https://x.com/cascadingcash/status/2000682815138975879/photo/1",
+              "media_key": "16_2000682805274046469",
+              "start": 19,
+              "url": "https://t.co/PQqJiHlp8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001447699430646224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000682815138975879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @cascadingcash: https://t.co/PQqJiHlp8R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2000682805274046469"
+          ]
+        },
+        "author_id": "1545469736972161025",
+        "conversation_id": "2000682815138975879",
+        "created_at": "2025-12-15T21:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000682815138975879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQqJiHlp8R",
+              "end": 23,
+              "expanded_url": "https://x.com/cascadingcash/status/2000682815138975879/photo/1",
+              "media_key": "16_2000682805274046469",
+              "start": 0,
+              "url": "https://t.co/PQqJiHlp8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000682815138975879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16027,
+          "impression_count": 36332222,
+          "like_count": 60887,
+          "quote_count": 8779,
+          "reply_count": 20,
+          "retweet_count": 9626
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/PQqJiHlp8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 188,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T18:08:02.000Z",
+        "description": "50/50 I be grinding",
+        "id": "1545469736972161025",
+        "location": "The Bronx ",
+        "name": "Tracy",
+        "pinned_tweet_id": "2000741110331642120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999184387137585152/VuGXw2Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 440,
+          "like_count": 43590,
+          "listed_count": 7,
+          "media_count": 8894,
+          "tweet_count": 47099
+        },
+        "username": "cascadingcash",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054100026167873536"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2054100029883981918",
+    "created_at": "2026-05-12T07:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054100029883981918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5o0tUZE4h",
+          "end": 62,
+          "expanded_url": "https://x.com/Idontselldrug/status/2054100029883981918/photo/1",
+          "media_key": "3_2054100026167873536",
+          "start": 39,
+          "url": "https://t.co/E5o0tUZE4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054100029883981918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有点想凑热闹，跟这些志愿者一起抓抽烟的人，很狗仗人势就是了，中国人基因动了 https://t.co/E5o0tUZE4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054100026167873536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGhFzjbUAAIb9W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054100026167873536"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2054100029883981918",
+        "created_at": "2026-05-12T07:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054100029883981918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5o0tUZE4h",
+              "end": 62,
+              "expanded_url": "https://x.com/Idontselldrug/status/2054100029883981918/photo/1",
+              "media_key": "3_2054100026167873536",
+              "start": 39,
+              "url": "https://t.co/E5o0tUZE4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054100029883981918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点想凑热闹，跟这些志愿者一起抓抽烟的人，很狗仗人势就是了，中国人基因动了 https://t.co/E5o0tUZE4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 280,
+          "like_count": 2212,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

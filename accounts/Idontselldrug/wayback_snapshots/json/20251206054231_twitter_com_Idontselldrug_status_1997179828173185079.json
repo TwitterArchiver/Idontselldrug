@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997179826382266368"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1997179828173185079",
+    "created_at": "2025-12-06T05:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997179828173185079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FStspa85Wn",
+          "end": 61,
+          "expanded_url": "https://x.com/Idontselldrug/status/1997179828173185079/photo/1",
+          "media_key": "3_1997179826382266368",
+          "start": 38,
+          "url": "https://t.co/FStspa85Wn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997179828173185079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天已经把我的鼻子冻得像吸了粉一样痛了，一周后继续降温十度，让我们拭目以待 https://t.co/FStspa85Wn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997179826382266368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7doeHgXYAA3a8l.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997179826382266368"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1997179828173185079",
+        "created_at": "2025-12-06T05:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997179828173185079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FStspa85Wn",
+              "end": 61,
+              "expanded_url": "https://x.com/Idontselldrug/status/1997179828173185079/photo/1",
+              "media_key": "3_1997179826382266368",
+              "start": 38,
+              "url": "https://t.co/FStspa85Wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997179828173185079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天已经把我的鼻子冻得像吸了粉一样痛了，一周后继续降温十度，让我们拭目以待 https://t.co/FStspa85Wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 181,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

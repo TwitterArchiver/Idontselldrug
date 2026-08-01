@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048497010802831360"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048343881981607954",
+    "created_at": "2026-04-26T20:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T21:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048497017752781104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v4eozzygkf",
+          "end": 33,
+          "expanded_url": "https://x.com/Idontselldrug/status/2048497017752781104/photo/1",
+          "media_key": "16_2048497010802831360",
+          "start": 10,
+          "url": "https://t.co/v4eozzygkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048497017752781104",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048346636817154338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 https://t.co/v4eozzygkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2048497010802831360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG25LYxaMAA1QR_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG25LYxaMAA1QR_.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048346626767695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0wZ4lbsAAx66f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048497010802831360"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048343881981607954",
+        "created_at": "2026-04-26T20:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T21:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048497017752781104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4eozzygkf",
+              "end": 33,
+              "expanded_url": "https://x.com/Idontselldrug/status/2048497017752781104/photo/1",
+              "media_key": "16_2048497010802831360",
+              "start": 10,
+              "url": "https://t.co/v4eozzygkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048497017752781104",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048346636817154338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 https://t.co/v4eozzygkf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048346626767695872"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048343881981607954",
+        "created_at": "2026-04-26T10:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048346636817154338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMbVLxaKWe",
+              "end": 27,
+              "expanded_url": "https://x.com/pyke2076/status/2048346636817154338/photo/1",
+              "media_key": "3_2048346626767695872",
+              "start": 4,
+              "url": "https://t.co/eMbVLxaKWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048346636817154338",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048343881981607954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁敢吃 https://t.co/eMbVLxaKWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 275,
+          "like_count": 1999,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2043293076777742734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8307,
+          "following_count": 1192,
+          "like_count": 64604,
+          "listed_count": 8,
+          "media_count": 3022,
+          "tweet_count": 18405
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

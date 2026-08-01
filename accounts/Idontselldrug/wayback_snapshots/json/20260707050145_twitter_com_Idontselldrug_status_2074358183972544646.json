@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2074358183972544646",
+    "created_at": "2026-07-07T05:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074358183972544646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2073762508834574591",
+          "start": 33,
+          "url": "https://t.co/xU9KXP5xuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074358183972544646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073762508834574591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据说ssri可以显著降低大麻带来的焦虑之类的副作用\n狠狠期待上了 https://t.co/xU9KXP5xuj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2074358183972544646",
+        "created_at": "2026-07-07T05:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074358183972544646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2073762508834574591",
+              "start": 33,
+              "url": "https://t.co/xU9KXP5xuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074358183972544646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073762508834574591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据说ssri可以显著降低大麻带来的焦虑之类的副作用\n狠狠期待上了 https://t.co/xU9KXP5xuj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2073762508834574591",
+        "created_at": "2026-07-05T13:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073762508834574591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073762508834574591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1198,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经半年没抽大麻了，等我到了加拿大我一下飞机出机场就要点上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 291,
+          "like_count": 2542,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 3057
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

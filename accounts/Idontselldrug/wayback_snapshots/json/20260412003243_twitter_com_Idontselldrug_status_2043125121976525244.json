@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043125120500391936"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2043125121976525244",
+    "created_at": "2026-04-12T00:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T01:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043125121976525244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYGVP4XNIB",
+          "end": 84,
+          "expanded_url": "https://x.com/Idontselldrug/status/2043125121976525244/photo/1",
+          "media_key": "3_2043125120500391936",
+          "start": 61,
+          "url": "https://t.co/fYGVP4XNIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043125121976525244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三天后就数学考试了，我还没复习，生理和心理健康都在谷底\n一周后我就要二十岁了，生日当天我还有考试，我不想二十岁，我想去死 https://t.co/fYGVP4XNIB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2043125120500391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqjeN8aYAAjxcV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043125120500391936"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2043125121976525244",
+        "created_at": "2026-04-12T00:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043125121976525244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYGVP4XNIB",
+              "end": 84,
+              "expanded_url": "https://x.com/Idontselldrug/status/2043125121976525244/photo/1",
+              "media_key": "3_2043125120500391936",
+              "start": 61,
+              "url": "https://t.co/fYGVP4XNIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043125121976525244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三天后就数学考试了，我还没复习，生理和心理健康都在谷底\n一周后我就要二十岁了，生日当天我还有考试，我不想二十岁，我想去死 https://t.co/fYGVP4XNIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 250,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

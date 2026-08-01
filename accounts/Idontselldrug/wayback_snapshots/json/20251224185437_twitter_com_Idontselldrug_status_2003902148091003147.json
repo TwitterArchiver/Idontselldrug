@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2003902148091003147",
+    "created_at": "2025-12-24T18:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003902148091003147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003902148091003147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一周没吃vyvanse，戒的很顺利，基本没有戒断反应，也没有上次在温哥华一样的嗜睡和抑郁\n我不想依赖任何药物，我不想过每天要吃处方药才能继续的生活，理想情况下药物应该是我偶尔用一次的工具而不是每天都要吃的必需品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003902148091003147",
+        "created_at": "2025-12-24T18:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003902148091003147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003902148091003147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一周没吃vyvanse，戒的很顺利，基本没有戒断反应，也没有上次在温哥华一样的嗜睡和抑郁\n我不想依赖任何药物，我不想过每天要吃处方药才能继续的生活，理想情况下药物应该是我偶尔用一次的工具而不是每天都要吃的必需品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 199,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

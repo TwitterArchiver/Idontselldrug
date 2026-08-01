@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2057379104799019144",
+    "created_at": "2026-05-21T08:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057379104799019144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "873724542706962432",
+          "start": 3,
+          "username": "ReddCinema"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057379104799019144",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1580
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057224842101870621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReddCinema: this is so embarrassing LMFAOO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2057379104799019144",
+        "created_at": "2026-05-21T08:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057379104799019144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "873724542706962432",
+              "start": 3,
+              "username": "ReddCinema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057379104799019144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1580
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057224842101870621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReddCinema: this is so embarrassing LMFAOO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873724542706962432",
+        "conversation_id": "2057224842101870621",
+        "created_at": "2026-05-20T22:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057224842101870621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skores9q/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/skores9q/status/2057224678062555471",
+              "start": 31,
+              "url": "https://t.co/9ErlIBj9i3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057224842101870621",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1152,
+          "impression_count": 885313,
+          "like_count": 35053,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 1580
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057224678062555471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is so embarrassing LMFAOO https://t.co/9ErlIBj9i3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 283,
+          "like_count": 2277,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 2884
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-11T02:12:18.000Z",
+        "description": "𝔦 𝔧𝔲𝔰𝔱 𝔟𝔢 𝔱𝔴𝔢𝔢𝔱𝔦𝔫𝔤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/reddcinema",
+                "end": 23,
+                "expanded_url": "https://youtube.com/reddcinema",
+                "start": 0,
+                "url": "https://t.co/w2Xqs5nbi4"
+              }
+            ]
+          }
+        },
+        "id": "873724542706962432",
+        "location": "dm for promo",
+        "name": "Redd",
+        "pinned_tweet_id": "2057315934554009626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967718446096891904/j0TdUEHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213844,
+          "following_count": 12166,
+          "like_count": 1702770,
+          "listed_count": 936,
+          "media_count": 14479,
+          "tweet_count": 262944
+        },
+        "url": "https://t.co/w2Xqs5nbi4",
+        "username": "ReddCinema",
+        "verified": true
+      }
+    ]
+  }
+}

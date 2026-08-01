@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043747925034185210",
+    "created_at": "2026-04-13T17:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043747925034185210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1644755597730930691",
+          "start": 3,
+          "username": "supraanima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043747925034185210",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043560122195100007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @supraanima: POV: you finally integrated your anima\n\n- sexy girls all over u\n- they dm first\n- no chasing \n- all named sophie (synchroni…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043560116080033792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwvGSwbQAA9-x8.jpg",
+        "width": 1257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043747925034185210",
+        "created_at": "2026-04-13T17:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043747925034185210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1644755597730930691",
+              "start": 3,
+              "username": "supraanima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043747925034185210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043560122195100007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @supraanima: POV: you finally integrated your anima\n\n- sexy girls all over u\n- they dm first\n- no chasing \n- all named sophie (synchroni…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043560116080033792"
+          ]
+        },
+        "author_id": "1644755597730930691",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2043560122195100007",
+        "created_at": "2026-04-13T05:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043560122195100007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBuAtkpK1K",
+              "end": 179,
+              "expanded_url": "https://x.com/supraanima/status/2043560122195100007/photo/1",
+              "media_key": "3_2043560116080033792",
+              "start": 156,
+              "url": "https://t.co/PBuAtkpK1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043560122195100007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 10723,
+          "like_count": 188,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "POV: you finally integrated your anima\n\n- sexy girls all over u\n- they dm first\n- no chasing \n- all named sophie (synchronicity)\n\nWelcome to the other side https://t.co/PBuAtkpK1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 251,
+          "like_count": 1729,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T17:34:35.000Z",
+        "description": "Anima Architect | DM me “elevate” to become magnetic to women",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoo.be/jakejohnson",
+                "end": 23,
+                "expanded_url": "https://hoo.be/jakejohnson",
+                "start": 0,
+                "url": "https://t.co/Mlc8K2BeXy"
+              }
+            ]
+          }
+        },
+        "id": "1644755597730930691",
+        "location": "Become magnetic 👉",
+        "name": "Jake Johnson",
+        "pinned_tweet_id": "2041179280936194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038109615632924672/c-go7xkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 113,
+          "like_count": 4342,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/Mlc8K2BeXy",
+        "username": "supraanima",
+        "verified": true
+      }
+    ]
+  }
+}

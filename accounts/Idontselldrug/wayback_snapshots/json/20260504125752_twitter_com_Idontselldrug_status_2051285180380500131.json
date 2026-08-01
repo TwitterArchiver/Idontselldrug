@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051003915047481493",
+    "created_at": "2026-05-04T12:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051285180380500131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051285180380500131",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051003915047481493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 是amphetamine 还是methamphetamine"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051003908718256128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHahMDQW4AAhlj6.jpg",
+        "width": 2033
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051003908709822464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHahMDOWMAAGHRZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051003915047481493",
+        "created_at": "2026-05-04T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051285180380500131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051285180380500131",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051003915047481493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 是amphetamine 还是methamphetamine"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051003908718256128",
+            "3_2051003908709822464"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2051003915047481493",
+        "created_at": "2026-05-03T18:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051003915047481493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMQbZqPMgz",
+              "end": 82,
+              "expanded_url": "https://x.com/Freundis21/status/2051003915047481493/photo/1",
+              "media_key": "3_2051003908718256128",
+              "start": 59,
+              "url": "https://t.co/yMQbZqPMgz"
+            },
+            {
+              "display_url": "pic.x.com/yMQbZqPMgz",
+              "end": 82,
+              "expanded_url": "https://x.com/Freundis21/status/2051003915047481493/photo/1",
+              "media_key": "3_2051003908709822464",
+              "start": 59,
+              "url": "https://t.co/yMQbZqPMgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051003915047481493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 712,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Amphetamine anorexia和Cannabis-induced hyperphagia决赛我宣布前者获胜 https://t.co/yMQbZqPMgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 283,
+          "like_count": 2096,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "",
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "2050110085599289357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 999,
+          "like_count": 7970,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1436
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

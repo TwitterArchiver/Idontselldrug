@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078490960632135680"
+      ],
+      "media_source_tweet_id": [
+        "2078491358268883156"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2078708228423356631",
+    "created_at": "2026-07-19T05:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078708228423356631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070629966388068353",
+          "start": 3,
+          "username": "_wristcel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Cyvq0Efde",
+          "end": 107,
+          "expanded_url": "https://x.com/_wristcel/status/2078491358268883156/photo/1",
+          "media_key": "3_2078490960632135680",
+          "start": 84,
+          "url": "https://t.co/8Cyvq0Efde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078708228423356631",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078491358268883156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_wristcel: Me and the dumb libtard foid at the pro palestine protest so cute🥰🥰🥰 https://t.co/8Cyvq0Efde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2078490960632135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhIhDFWwAABvkw.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078490960632135680"
+          ]
+        },
+        "author_id": "2070629966388068353",
+        "conversation_id": "2078491358268883156",
+        "created_at": "2026-07-18T14:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078491358268883156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Cyvq0Efde",
+              "end": 92,
+              "expanded_url": "https://x.com/_wristcel/status/2078491358268883156/photo/1",
+              "media_key": "3_2078490960632135680",
+              "start": 69,
+              "url": "https://t.co/8Cyvq0Efde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078491358268883156",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 34092,
+          "like_count": 1920,
+          "quote_count": 42,
+          "reply_count": 35,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "Me and the dumb libtard foid at the pro palestine protest so cute🥰🥰🥰 https://t.co/8Cyvq0Efde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078490960632135680"
+          ],
+          "media_source_tweet_id": [
+            "2078491358268883156"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2078708228423356631",
+        "created_at": "2026-07-19T05:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078708228423356631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070629966388068353",
+              "start": 3,
+              "username": "_wristcel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Cyvq0Efde",
+              "end": 107,
+              "expanded_url": "https://x.com/_wristcel/status/2078491358268883156/photo/1",
+              "media_key": "3_2078490960632135680",
+              "start": 84,
+              "url": "https://t.co/8Cyvq0Efde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078708228423356631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078491358268883156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_wristcel: Me and the dumb libtard foid at the pro palestine protest so cute🥰🥰🥰 https://t.co/8Cyvq0Efde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 308,
+          "like_count": 2664,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 3182
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T22:11:25.000Z",
+        "description": "戻った",
+        "id": "2070629966388068353",
+        "name": "wristcel",
+        "pinned_tweet_id": "2078124716183728342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072830076828241920/N_xxUA7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 195,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "_wristcel",
+        "verified": false
+      }
+    ]
+  }
+}

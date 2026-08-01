@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008375880930742395",
+    "created_at": "2026-01-06T03:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008375880930742395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008375880930742395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在地铁站的楼梯里和推友一起看到四五个流浪汉在里面，一个人磕嗨了挥舞着手里的不明物体，一个人o大了直接躺在地上生死未卜，手里还拿着加热烟管用的打火机。我虽然身经百战见得多了，但也从来没遇到这种跟homeless狭路相逢的情景，一时间跟推友面面相觑\n最后还是一个流浪汉让出一条路我们才出去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008375880930742395",
+        "created_at": "2026-01-06T03:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008375880930742395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008375880930742395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在地铁站的楼梯里和推友一起看到四五个流浪汉在里面，一个人磕嗨了挥舞着手里的不明物体，一个人o大了直接躺在地上生死未卜，手里还拿着加热烟管用的打火机。我虽然身经百战见得多了，但也从来没遇到这种跟homeless狭路相逢的情景，一时间跟推友面面相觑\n最后还是一个流浪汉让出一条路我们才出去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 208,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

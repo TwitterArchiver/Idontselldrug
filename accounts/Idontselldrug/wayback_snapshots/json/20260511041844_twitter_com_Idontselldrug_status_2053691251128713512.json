@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2053691251128713512",
+    "created_at": "2026-05-11T04:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053691251128713512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692664129473875968",
+          "start": 3,
+          "username": "KivvyCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053691251128713512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053634664901091425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KivvyCat: There is no fucking way Karl Marxs wife was named fucking \"west fallen\" are you kidding me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2053691251128713512",
+        "created_at": "2026-05-11T04:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053691251128713512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692664129473875968",
+              "start": 3,
+              "username": "KivvyCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053691251128713512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053634664901091425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KivvyCat: There is no fucking way Karl Marxs wife was named fucking \"west fallen\" are you kidding me"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692664129473875968",
+        "conversation_id": "2053634664901091425",
+        "created_at": "2026-05-11T00:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053634664901091425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmadeusBolshev…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/AmadeusBolshev/status/2053558189116051939",
+              "start": 91,
+              "url": "https://t.co/cJuEF9uHb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053634664901091425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 45567,
+          "like_count": 2161,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053558189116051939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "There is no fucking way Karl Marxs wife was named fucking \"west fallen\" are you kidding me https://t.co/cJuEF9uHb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 281,
+          "like_count": 2201,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-18T22:26:04.000Z",
+        "description": "@alphalyncis suiter | @remilust PFP I promise I won’t bite you… too much :3 she/her 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "alphalyncis"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "remilust"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KivvyKitty",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KivvyKitty",
+                "start": 0,
+                "url": "https://t.co/wl3Q2Zkiol"
+              }
+            ]
+          }
+        },
+        "id": "1692664129473875968",
+        "name": "Kivvy Cat!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051531311110860800/gTrF08m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42593,
+          "following_count": 1052,
+          "like_count": 45134,
+          "listed_count": 95,
+          "media_count": 1406,
+          "tweet_count": 8358
+        },
+        "url": "https://t.co/wl3Q2Zkiol",
+        "username": "KivvyCat",
+        "verified": true
+      }
+    ]
+  }
+}

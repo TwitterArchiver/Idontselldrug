@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051802556343706028",
+    "created_at": "2026-05-06T01:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051834274874298567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735450105464111104",
+          "start": 0,
+          "username": "Doku420410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051834274874298567",
+    "in_reply_to_user_id": "1735450105464111104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051833731191828661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doku420410 不会，我是线下买的，店员直接给了，也没问什么。就算他问我也可以说是怀疑自己被下药了或者怀疑家里人吸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051802556343706028",
+        "created_at": "2026-05-06T01:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051834274874298567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735450105464111104",
+              "start": 0,
+              "username": "Doku420410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051834274874298567",
+        "in_reply_to_user_id": "1735450105464111104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051833731191828661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doku420410 不会，我是线下买的，店员直接给了，也没问什么。就算他问我也可以说是怀疑自己被下药了或者怀疑家里人吸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735450105464111104",
+        "conversation_id": "2051802556343706028",
+        "created_at": "2026-05-06T01:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051833731191828661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051833731191828661",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051802556343706028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 这种买完的话会像中国一样晶哥会上门吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 283,
+          "like_count": 2123,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T00:02:10.000Z",
+        "description": "🌈🌈🌈🍄🍄🍄",
+        "id": "1735450105464111104",
+        "location": "Japan",
+        "name": "私以外の女みんな死ね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967293490179842048/YB_KR_u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 143,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 206
+        },
+        "username": "Doku420410",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2009834478194368983",
+    "created_at": "2026-01-10T03:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009834478194368983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126991699815882753",
+          "start": 3,
+          "username": "TrueSlazac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009834478194368983",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009771441126772827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrueSlazac: If you don't live inside this circle, please shut the fuck up about American politics, your foreigner opinion is not wanted…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2009771285757194241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QkVg9WcAEOI3t.jpg",
+        "width": 1814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2009834478194368983",
+        "created_at": "2026-01-10T03:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009834478194368983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126991699815882753",
+              "start": 3,
+              "username": "TrueSlazac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009834478194368983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009771441126772827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrueSlazac: If you don't live inside this circle, please shut the fuck up about American politics, your foreigner opinion is not wanted…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009771285757194241"
+          ]
+        },
+        "author_id": "1126991699815882753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2009771441126772827",
+        "created_at": "2026-01-09T23:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009771441126772827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rzd5irdbyk",
+              "end": 147,
+              "expanded_url": "https://x.com/TrueSlazac/status/2009771441126772827/photo/1",
+              "media_key": "3_2009771285757194241",
+              "start": 124,
+              "url": "https://t.co/Rzd5irdbyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009771441126772827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 639169,
+          "like_count": 5961,
+          "quote_count": 69,
+          "reply_count": 407,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "If you don't live inside this circle, please shut the fuck up about American politics, your foreigner opinion is not wanted https://t.co/Rzd5irdbyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 221,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T23:25:34.000Z",
+        "description": "ultraliberal neoradical cosmopolitan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCCT1x…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCCT1xfezffPbGsE271xIVKA",
+                "start": 0,
+                "url": "https://t.co/GhxBfpWkaX"
+              }
+            ]
+          }
+        },
+        "id": "1126991699815882753",
+        "location": "Paris",
+        "name": "Slazac 🇪🇺 🇺🇦 🇹🇼 🌐",
+        "pinned_tweet_id": "1988949327713374719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008107333285519360/3ny4oomv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51397,
+          "following_count": 3738,
+          "like_count": 135602,
+          "listed_count": 544,
+          "media_count": 14139,
+          "tweet_count": 88784
+        },
+        "url": "https://t.co/GhxBfpWkaX",
+        "username": "TrueSlazac",
+        "verified": true
+      }
+    ]
+  }
+}

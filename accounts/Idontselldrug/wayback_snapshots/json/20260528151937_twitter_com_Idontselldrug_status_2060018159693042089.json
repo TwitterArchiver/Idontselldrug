@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060018156505382912"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2060018159693042089",
+    "created_at": "2026-05-28T15:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060018159693042089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bg4gf2J7ui",
+          "end": 169,
+          "expanded_url": "https://x.com/Idontselldrug/status/2060018159693042089/photo/1",
+          "media_key": "3_2060018156505382912",
+          "start": 146,
+          "url": "https://t.co/Bg4gf2J7ui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060018159693042089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很喜欢食欲素安眠药，因为他们不成瘾不耐药不降智，还能随便买不用处方\n莱博雷生半衰期18小时，睡8小时醒了还是晕的，很容易睡10甚至12小时\n达利雷生半衰期8小时，理论上很完美，但实际上还是有点次日困倦\n我搞到了沃诺雷生，这个冷门很多，半衰期只有3小时，我刚吃了10mg，最高剂量，期待效果 https://t.co/Bg4gf2J7ui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060018156505382912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJanmVFbwAAXXYQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060018156505382912"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2060018159693042089",
+        "created_at": "2026-05-28T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060018159693042089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg4gf2J7ui",
+              "end": 169,
+              "expanded_url": "https://x.com/Idontselldrug/status/2060018159693042089/photo/1",
+              "media_key": "3_2060018156505382912",
+              "start": 146,
+              "url": "https://t.co/Bg4gf2J7ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060018159693042089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢食欲素安眠药，因为他们不成瘾不耐药不降智，还能随便买不用处方\n莱博雷生半衰期18小时，睡8小时醒了还是晕的，很容易睡10甚至12小时\n达利雷生半衰期8小时，理论上很完美，但实际上还是有点次日困倦\n我搞到了沃诺雷生，这个冷门很多，半衰期只有3小时，我刚吃了10mg，最高剂量，期待效果 https://t.co/Bg4gf2J7ui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 288,
+          "like_count": 2386,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

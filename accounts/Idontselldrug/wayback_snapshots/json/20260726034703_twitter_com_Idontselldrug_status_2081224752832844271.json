@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2081197738788893125",
+    "created_at": "2026-07-26T03:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081224752832844271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044176423460515840",
+          "start": 0,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 26,
+          "id": "1992300667395092480",
+          "start": 11,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081224752832844271",
+    "in_reply_to_user_id": "2044176423460515840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081223978719518724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dupinkepu @Albert_C_Anker 还真是我忘记了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2081197738788893125",
+        "created_at": "2026-07-26T03:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081224752832844271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044176423460515840",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 26,
+              "id": "1992300667395092480",
+              "start": 11,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081224752832844271",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081223978719518724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @Albert_C_Anker 还真是我忘记了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044176423460515840",
+        "conversation_id": "2081197738788893125",
+        "created_at": "2026-07-26T03:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081223978719518724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 30,
+              "id": "1992300667395092480",
+              "start": 15,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081223978719518724",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081213871734575206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Albert_C_Anker bup是2d6抑制剂，不经由2d6代谢。1,7-二甲基黄嘌呤代谢就比较快，也许可以试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 311,
+          "like_count": 2757,
+          "listed_count": 1,
+          "media_count": 536,
+          "tweet_count": 3258
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 134,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|虚无主义者|默认友好基本无雷|不关心政治|INFJ sp/so5w6|Aspie&Asexual|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StopOverThinkin",
+                "end": 23,
+                "expanded_url": "https://t.me/StopOverThinkin",
+                "start": 0,
+                "url": "https://t.co/IcuRbOjlYg"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2042353903682142500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 236,
+          "like_count": 12923,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/IcuRbOjlYg",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

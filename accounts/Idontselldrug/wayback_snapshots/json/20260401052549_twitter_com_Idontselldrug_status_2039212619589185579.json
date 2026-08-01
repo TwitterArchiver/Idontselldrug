@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2039212619589185579",
+    "created_at": "2026-04-01T05:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039212619589185579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642675466367819776",
+          "start": 3,
+          "username": "me_coded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039212619589185579",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 398
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039076689352011950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @me_coded: Theres deadass people living in alberta"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2039212619589185579",
+        "created_at": "2026-04-01T05:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039212619589185579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642675466367819776",
+              "start": 3,
+              "username": "me_coded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039212619589185579",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039076689352011950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @me_coded: Theres deadass people living in alberta"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642675466367819776",
+        "conversation_id": "2039076689352011950",
+        "created_at": "2026-03-31T20:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T21:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039076689352011950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039076689352011950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 52148,
+          "like_count": 3105,
+          "quote_count": 112,
+          "reply_count": 106,
+          "retweet_count": 398
+        },
+        "reply_settings": "everyone",
+        "text": "Theres deadass people living in alberta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 236,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T23:48:53.000Z",
+        "description": "🇵🇸| Resident Evil Requiem Should've Let The Little Girl Die | #girl | 19\n\nhttps://t.co/H8pzIP5z2V",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "girl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mecoded.straw.page",
+                "end": 97,
+                "expanded_url": "https://mecoded.straw.page",
+                "start": 74,
+                "url": "https://t.co/H8pzIP5z2V"
+              }
+            ]
+          }
+        },
+        "id": "1642675466367819776",
+        "location": "Canada",
+        "name": "Emily",
+        "pinned_tweet_id": "2031165259931898160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988045474872651777/VTisVL8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 546,
+          "like_count": 71742,
+          "listed_count": 0,
+          "media_count": 1105,
+          "tweet_count": 4253
+        },
+        "username": "me_coded",
+        "verified": false
+      }
+    ]
+  }
+}

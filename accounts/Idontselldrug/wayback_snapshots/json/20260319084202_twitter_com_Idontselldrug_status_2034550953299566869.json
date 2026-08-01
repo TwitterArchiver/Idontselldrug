@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034546698375303406",
+    "created_at": "2026-03-19T08:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034550953299566869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182989706948165632",
+          "start": 0,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034550953299566869",
+    "in_reply_to_user_id": "1182989706948165632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034546698375303406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dustthepoet 怎么会查到推特上，你不说哪会有人知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034546698375303406",
+        "created_at": "2026-03-19T08:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034550953299566869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034550953299566869",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034546698375303406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 怎么会查到推特上，你不说哪会有人知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182989706948165632",
+        "conversation_id": "2034546698375303406",
+        "created_at": "2026-03-19T08:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034546698375303406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034546698375303406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我上大学以前梦想一直都是做学术，但发现如果想要进入社科院还几把要政审，他妈逼的唉还会查到推特上。唉咋这么傻逼呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 237,
+          "like_count": 1361,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "I cannot live without you @evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "evelyn_notfound"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022750231763521538/ecNjpZsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 382,
+          "like_count": 7271,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 2046
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

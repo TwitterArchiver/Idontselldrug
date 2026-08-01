@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2008278444275380224"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008276491436736946",
+    "created_at": "2026-01-05T20:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T21:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008278453104279937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4PtqtlVyA",
+          "end": 32,
+          "expanded_url": "https://x.com/Idontselldrug/status/2008278453104279937/photo/1",
+          "media_key": "16_2008278444275380224",
+          "start": 9,
+          "url": "https://t.co/q4PtqtlVyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008278453104279937",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008278323542278211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就这个表情 https://t.co/q4PtqtlVyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "16_2008278444275380224",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G97WmtEbsAA-PRo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G97WmtEbsAA-PRo.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2008278444275380224"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008276491436736946",
+        "created_at": "2026-01-05T20:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T21:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008278453104279937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4PtqtlVyA",
+              "end": 32,
+              "expanded_url": "https://x.com/Idontselldrug/status/2008278453104279937/photo/1",
+              "media_key": "16_2008278444275380224",
+              "start": 9,
+              "url": "https://t.co/q4PtqtlVyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008278453104279937",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008278323542278211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就这个表情 https://t.co/q4PtqtlVyA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008276491436736946",
+        "created_at": "2026-01-05T20:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T21:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008278323542278211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008278323542278211",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008276491436736946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天嗑药磕的抗抑郁效果要被老印教授搞没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 209,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

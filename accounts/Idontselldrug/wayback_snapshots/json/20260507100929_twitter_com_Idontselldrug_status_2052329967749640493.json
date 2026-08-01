@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "South Carolina",
+          "id": "1016381785339408384",
+          "name": "South Carolina"
+        }
+      }
+    ],
+    "conversation_id": "2052329967749640493",
+    "created_at": "2026-05-07T10:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329967749640493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1215077597798916102",
+          "start": 3,
+          "username": "uncledoomer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329967749640493",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4010
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051970624164094195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uncledoomer: its called the power of positive thinking"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "South Carolina",
+              "id": "1016381785339408384",
+              "name": "South Carolina"
+            }
+          }
+        ],
+        "conversation_id": "2052329967749640493",
+        "created_at": "2026-05-07T10:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329967749640493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1215077597798916102",
+              "start": 3,
+              "username": "uncledoomer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329967749640493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4010
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051970624164094195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uncledoomer: its called the power of positive thinking"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1215077597798916102",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "South Carolina",
+              "id": "1016381785339408384",
+              "name": "South Carolina"
+            }
+          }
+        ],
+        "conversation_id": "2051970624164094195",
+        "created_at": "2026-05-06T10:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051970624164094195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nypost/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/nypost/status/2051951111708295221",
+              "start": 42,
+              "url": "https://t.co/cUMf70zjMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051970624164094195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2137,
+          "impression_count": 1621814,
+          "like_count": 83258,
+          "quote_count": 14,
+          "reply_count": 120,
+          "retweet_count": 4010
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051951111708295221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "its called the power of positive thinking https://t.co/cUMf70zjMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 284,
+          "like_count": 2149,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-09T01:07:33.000Z",
+        "description": "do not post gently into that good night",
+        "id": "1215077597798916102",
+        "location": "the fishing hole",
+        "name": "doomer",
+        "pinned_tweet_id": "2052066806223786291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009727939198246913/l_KL7LEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173754,
+          "following_count": 1709,
+          "like_count": 429439,
+          "listed_count": 470,
+          "media_count": 10773,
+          "tweet_count": 44863
+        },
+        "username": "uncledoomer",
+        "verified": true
+      }
+    ]
+  }
+}

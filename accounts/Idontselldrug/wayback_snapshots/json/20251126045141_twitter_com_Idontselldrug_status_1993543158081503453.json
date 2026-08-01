@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1993543156542169536",
+    "created_at": "2025-11-26T04:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993543158081503453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993543158081503453",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993543156542169536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其余的旅程就全都是躺在床上听歌，bodyload有点明显说不上享受，有一次轻微刺激感起床走了两步。药效下去的比psywiki现实的要快，这也是我怀疑药量不纯的原因之一，药效下去后我吃了连锁店的沙拉，但是没有之前在温哥华吃lsd后好吃，我不知道是品控问题，还是蘑菇和lsd对味觉影响不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1993543156542169536",
+        "created_at": "2025-11-26T04:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993543158081503453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993543158081503453",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993543156542169536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其余的旅程就全都是躺在床上听歌，bodyload有点明显说不上享受，有一次轻微刺激感起床走了两步。药效下去的比psywiki现实的要快，这也是我怀疑药量不纯的原因之一，药效下去后我吃了连锁店的沙拉，但是没有之前在温哥华吃lsd后好吃，我不知道是品控问题，还是蘑菇和lsd对味觉影响不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1993543156542169536",
+        "created_at": "2025-11-26T04:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993543156542169536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993543156542169536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃了1g蘑菇，是500mg的胶囊+500mg的软糖\n比起之前的疯狂内幻，这次蘑菇的内幻乏善可陈，我一度怀疑软糖不纯，但是一次爬起来喝水的时候短暂出现了强度非常高的多个重叠的万花筒幻觉，然后看到一个AI一样的机器人手持显示屏，可视化我脑子里的想法，但是只持续了十几秒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 173,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

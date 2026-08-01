@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1990710359368610178",
+    "created_at": "2025-11-18T09:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990710359368610178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaojieta1/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+          "start": 32,
+          "url": "https://t.co/nz2zGBeZAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990710359368610178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990590497979838672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有懂女性主义的，有没有懂labubu的，有没有懂抹茶拿铁的 https://t.co/nz2zGBeZAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990590492669882368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5__gajbsAA4Abe.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1990710359368610178",
+        "created_at": "2025-11-18T09:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990710359368610178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/liaojieta1/status/1990590497979838672",
+              "start": 32,
+              "url": "https://t.co/nz2zGBeZAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990710359368610178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990590497979838672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有懂女性主义的，有没有懂labubu的，有没有懂抹茶拿铁的 https://t.co/nz2zGBeZAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990590492669882368"
+          ]
+        },
+        "author_id": "1980992351930863616",
+        "conversation_id": "1990590497979838672",
+        "created_at": "2025-11-18T01:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990590497979838672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZWgCsDw9l",
+              "end": 160,
+              "expanded_url": "https://x.com/liaojieta1/status/1990590497979838672/photo/1",
+              "media_key": "3_1990590492669882368",
+              "start": 137,
+              "url": "https://t.co/nZWgCsDw9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990590497979838672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45459,
+          "like_count": 262,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "记一次与男性的高效沟通。\n（男生来自微博，之前偶尔会跟我聊几句关于性别观点类的，正经且礼貌。偶然知道同城，开始有意无意吧啦自己有腹肌长得不错之类的话，已经婉拒了两次，这是第三次约吃饭。）\n总结➡️当你想拒绝一个男人，只要直球告诉他:不做爱或者会花他的钱，就能快速结束对话。 https://t.co/nZWgCsDw9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 156,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "“禁止共情”",
+        "id": "1980992351930863616",
+        "name": "我也不太了解她",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980992553794035712/p0W79iJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11063,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Vancouver",
+          "id": "861946485511823361",
+          "name": "Vancouver"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Calgary",
+          "id": "861947656729272321",
+          "name": "Calgary"
+        }
+      }
+    ],
+    "conversation_id": "2026912653197848624",
+    "created_at": "2026-02-26T06:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026912653197848624"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Canada",
+          "probability": 0.971,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 55,
+          "normalized_text": "Vancouver",
+          "probability": 0.9296,
+          "start": 47,
+          "type": "Place"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Edmonton",
+          "probability": 0.9788,
+          "start": 58,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "Calgary",
+          "probability": 0.974,
+          "start": 72,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569874760",
+          "start": 3,
+          "username": "yfcherries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026912653197848624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026891351196053825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yfcherries: What’s Canada’s “fourth” city? Vancouver, Edmonton, and Calgary are pretty clearly the top 3 but the 4th is more ambiguous.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Calgary",
+              "id": "861947656729272321",
+              "name": "Calgary"
+            }
+          }
+        ],
+        "conversation_id": "2026912653197848624",
+        "created_at": "2026-02-26T06:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026912653197848624"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Canada",
+              "probability": 0.971,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Vancouver",
+              "probability": 0.9296,
+              "start": 47,
+              "type": "Place"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Edmonton",
+              "probability": 0.9788,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Calgary",
+              "probability": 0.974,
+              "start": 72,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569874760",
+              "start": 3,
+              "username": "yfcherries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026912653197848624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026891351196053825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yfcherries: What’s Canada’s “fourth” city? Vancouver, Edmonton, and Calgary are pretty clearly the top 3 but the 4th is more ambiguous.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569874760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Montreal",
+              "id": "861945102150754308",
+              "name": "Montreal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Calgary",
+              "id": "861947656729272321",
+              "name": "Calgary"
+            }
+          }
+        ],
+        "conversation_id": "2026891351196053825",
+        "created_at": "2026-02-26T05:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026891351196053825"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Canada",
+              "probability": 0.9704,
+              "start": 7,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Vancouver",
+              "probability": 0.9436,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Edmonton",
+              "probability": 0.981,
+              "start": 42,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Calgary",
+              "probability": 0.9773,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 176,
+              "normalized_text": "Red Deer",
+              "probability": 0.9328,
+              "start": 169,
+              "type": "Place"
+            },
+            {
+              "end": 188,
+              "normalized_text": "Lethbridge",
+              "probability": 0.9886,
+              "start": 179,
+              "type": "Place"
+            },
+            {
+              "end": 198,
+              "normalized_text": "Winnipeg",
+              "probability": 0.988,
+              "start": 191,
+              "type": "Place"
+            },
+            {
+              "end": 217,
+              "normalized_text": "Montréal",
+              "probability": 0.9313,
+              "start": 210,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026891351196053825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 51284,
+          "like_count": 1194,
+          "quote_count": 66,
+          "reply_count": 175,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "What’s Canada’s “fourth” city? Vancouver, Edmonton, and Calgary are pretty clearly the top 3 but the 4th is more ambiguous. I feel like the main contenders are probably Red Deer, Lethbridge, Winnipeg, or maybe Montréal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 230,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-05T06:31:38.000Z",
+        "description": "#1 edmonton enjoyer - 23 - 🦭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/retterime",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/retterime",
+                "start": 0,
+                "url": "https://t.co/ZDXoSxLZBE"
+              }
+            ]
+          }
+        },
+        "id": "1569874760",
+        "location": "it/she/they",
+        "name": "cerise 🍒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005700346501541888/ZlDuFrWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1481,
+          "like_count": 228650,
+          "listed_count": 17,
+          "media_count": 3460,
+          "tweet_count": 38072
+        },
+        "url": "https://t.co/ZDXoSxLZBE",
+        "username": "yfcherries",
+        "verified": false
+      }
+    ]
+  }
+}

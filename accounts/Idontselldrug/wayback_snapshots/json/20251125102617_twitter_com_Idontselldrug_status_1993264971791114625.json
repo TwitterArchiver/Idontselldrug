@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1993148004703109380",
+    "created_at": "2025-11-25T10:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993264971791114625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355178308460187653",
+          "start": 0,
+          "username": "CoilofFaraday"
+        },
+        {
+          "end": 27,
+          "id": "1870078920621731842",
+          "start": 15,
+          "username": "ReisuiMirai"
+        },
+        {
+          "end": 44,
+          "id": "1830934925769613334",
+          "start": 28,
+          "username": "Oksana666156854"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993264971791114625",
+    "in_reply_to_user_id": "1355178308460187653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993257912576491558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoilofFaraday @ReisuiMirai @Oksana666156854 这是钢铁雄心的mod，烈焰升腾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1993148004703109380",
+        "created_at": "2025-11-25T10:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993264971791114625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355178308460187653",
+              "start": 0,
+              "username": "CoilofFaraday"
+            },
+            {
+              "end": 27,
+              "id": "1870078920621731842",
+              "start": 15,
+              "username": "ReisuiMirai"
+            },
+            {
+              "end": 44,
+              "id": "1830934925769613334",
+              "start": 28,
+              "username": "Oksana666156854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993264971791114625",
+        "in_reply_to_user_id": "1355178308460187653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993257912576491558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoilofFaraday @ReisuiMirai @Oksana666156854 这是钢铁雄心的mod，烈焰升腾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355178308460187653",
+        "conversation_id": "1993148004703109380",
+        "created_at": "2025-11-25T09:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993257912576491558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            },
+            {
+              "end": 29,
+              "id": "1830934925769613334",
+              "start": 13,
+              "username": "Oksana666156854"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993257912576491558",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993243703264395588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai @Oksana666156854 我也感觉像，但界面有点像eu不知道咋回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 171,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991511826216243200/141wtvL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 511,
+          "like_count": 446,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "Chinese | 武汉男の娘 ♂ | 性別流動 | OD 斷藥中| 卒業Vtuber | 私はうつ病と不安障害を抱えてるの | 趣味東方Project | Cosplay、メイド服 王子系ロリータ服 天使界隈| DM ⭕ | 妹→ @Bronbangbangbon 🚪88 欢迎私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "Bronbangbangbon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/reisuimirai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/reisuimirai",
+                "start": 0,
+                "url": "https://t.co/LUSNj7zvsF"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "靈水未来",
+        "pinned_tweet_id": "1981371298355040505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983934052429393920/i5HjKjxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 426,
+          "like_count": 20032,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 3239
+        },
+        "url": "https://t.co/LUSNj7zvsF",
+        "username": "ReisuiMirai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型毒推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。【业务：策划药/促智药/病例处方】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 389,
+          "like_count": 667,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Oksana666156854",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989294598821396480"
+      ],
+      "media_source_tweet_id": [
+        "1989294605024805243"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989441418298057161",
+    "created_at": "2025-11-14T21:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989441418298057161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944351426827735040",
+          "start": 3,
+          "username": "kiss_u_back"
+        },
+        {
+          "end": 31,
+          "id": "1986452594206838785",
+          "start": 17,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qYHvty4xMq",
+          "end": 63,
+          "expanded_url": "https://x.com/kiss_u_back/status/1989294605024805243/photo/1",
+          "media_key": "3_1989294598821396480",
+          "start": 40,
+          "url": "https://t.co/qYHvty4xMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989441418298057161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989294605024805243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiss_u_back: @Idontselldrug vvv我打死你 https://t.co/qYHvty4xMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1989294598821396480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tk5dxaQAAfxXX.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989294598821396480"
+          ],
+          "media_source_tweet_id": [
+            "1989294605024805243"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989441418298057161",
+        "created_at": "2025-11-14T21:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989441418298057161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944351426827735040",
+              "start": 3,
+              "username": "kiss_u_back"
+            },
+            {
+              "end": 31,
+              "id": "1986452594206838785",
+              "start": 17,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYHvty4xMq",
+              "end": 63,
+              "expanded_url": "https://x.com/kiss_u_back/status/1989294605024805243/photo/1",
+              "media_key": "3_1989294598821396480",
+              "start": 40,
+              "url": "https://t.co/qYHvty4xMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989441418298057161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989294605024805243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiss_u_back: @Idontselldrug vvv我打死你 https://t.co/qYHvty4xMq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989294598821396480"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "1989294605024805243",
+        "created_at": "2025-11-14T11:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989294605024805243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYHvty4xMq",
+              "end": 46,
+              "expanded_url": "https://x.com/kiss_u_back/status/1989294605024805243/photo/1",
+              "media_key": "3_1989294598821396480",
+              "start": 23,
+              "url": "https://t.co/qYHvty4xMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989294605024805243",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug vvv我打死你 https://t.co/qYHvty4xMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 141,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 159
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 98,
+          "like_count": 865,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

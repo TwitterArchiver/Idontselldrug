@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996108765943496952",
+    "created_at": "2025-12-04T01:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T02:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996398515225047437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996398515225047437",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996377085498233136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 这比真thc弱很多吗，为什么剂量这么高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996108765943496952",
+        "created_at": "2025-12-04T01:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996398515225047437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996398515225047437",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996377085498233136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 这比真thc弱很多吗，为什么剂量这么高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "1996108765943496952",
+        "created_at": "2025-12-04T00:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996377085498233136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996377085498233136",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996374017532695034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 一整袋总共5000，每颗是250mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 182,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费） 欢迎找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d1nn2rstuff",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d1nn2rstuff",
+                "start": 0,
+                "url": "https://t.co/2o3aabZr7h"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "纽村中南海",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 914,
+          "like_count": 8760,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/2o3aabZr7h",
+        "username": "D1nn2r_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988368403313152000"
+      ],
+      "media_source_tweet_id": [
+        "1988368408497234003"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988688346240197061",
+    "created_at": "2025-11-12T19:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T20:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988688346240197061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562411636358385665",
+          "start": 3,
+          "username": "babyannieO3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8TpSoRqwY7",
+          "end": 49,
+          "expanded_url": "https://x.com/babyannieO3/status/1988368408497234003/photo/1",
+          "media_key": "3_1988368403313152000",
+          "start": 26,
+          "url": "https://t.co/8TpSoRqwY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988688346240197061",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 732
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988368408497234003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babyannieO3: me me me https://t.co/8TpSoRqwY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_1988368403313152000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gahyoXUAAoz1G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988368403313152000"
+          ],
+          "media_source_tweet_id": [
+            "1988368408497234003"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988688346240197061",
+        "created_at": "2025-11-12T19:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988688346240197061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562411636358385665",
+              "start": 3,
+              "username": "babyannieO3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TpSoRqwY7",
+              "end": 49,
+              "expanded_url": "https://x.com/babyannieO3/status/1988368408497234003/photo/1",
+              "media_key": "3_1988368403313152000",
+              "start": 26,
+              "url": "https://t.co/8TpSoRqwY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988688346240197061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 732
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988368408497234003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babyannieO3: me me me https://t.co/8TpSoRqwY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988368403313152000"
+          ]
+        },
+        "author_id": "1562411636358385665",
+        "conversation_id": "1988368408497234003",
+        "created_at": "2025-11-11T22:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988368408497234003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TpSoRqwY7",
+              "end": 32,
+              "expanded_url": "https://x.com/babyannieO3/status/1988368408497234003/photo/1",
+              "media_key": "3_1988368403313152000",
+              "start": 9,
+              "url": "https://t.co/8TpSoRqwY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988368408497234003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 39566,
+          "like_count": 6454,
+          "quote_count": 27,
+          "reply_count": 9,
+          "retweet_count": 732
+        },
+        "reply_settings": "everyone",
+        "text": "me me me https://t.co/8TpSoRqwY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 134,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T12:09:05.000Z",
+        "description": "i love shopping | i hate myself and i miss edtmblr | this is my diary so I sh!tpost all the time | don't block just report x minors dni - btw I'm 21",
+        "id": "1562411636358385665",
+        "location": "-miserableville",
+        "name": "annie",
+        "pinned_tweet_id": "1897713375179837638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792600973266898944/HsBwRmXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 401,
+          "like_count": 14306,
+          "listed_count": 3,
+          "media_count": 631,
+          "tweet_count": 6212
+        },
+        "username": "babyannieO3",
+        "verified": false
+      }
+    ]
+  }
+}

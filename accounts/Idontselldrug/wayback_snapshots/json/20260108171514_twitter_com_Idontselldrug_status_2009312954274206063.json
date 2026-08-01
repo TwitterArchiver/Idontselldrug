@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2009312936972738560"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009312954274206063",
+    "created_at": "2026-01-08T17:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009312954274206063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGH7mka6Gq",
+          "end": 48,
+          "expanded_url": "https://x.com/Idontselldrug/status/2009312954274206063/video/1",
+          "media_key": "7_2009312936972738560",
+          "start": 25,
+          "url": "https://t.co/zGH7mka6Gq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009312954274206063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将每天发布诋毁多伦多的视频直到多伦多大学录取我 https://t.co/zGH7mka6Gq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14490,
+        "height": 1280,
+        "media_key": "7_2009312936972738560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009312936972738560/pu/img/QRpQ0wEVlBZdqZJb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009312936972738560/pu/vid/avc1/320x568/M3Pqcf3hyIn8n66-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009312936972738560/pu/vid/avc1/480x852/vALKiNcqjry8v2po.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009312936972738560/pu/vid/avc1/720x1280/kj6T4mp_6kiEtl83.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009312936972738560/pu/pl/jxU86kQh0dALG5O0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009312936972738560"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009312954274206063",
+        "created_at": "2026-01-08T17:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009312954274206063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGH7mka6Gq",
+              "end": 48,
+              "expanded_url": "https://x.com/Idontselldrug/status/2009312954274206063/video/1",
+              "media_key": "7_2009312936972738560",
+              "start": 25,
+              "url": "https://t.co/zGH7mka6Gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009312954274206063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将每天发布诋毁多伦多的视频直到多伦多大学录取我 https://t.co/zGH7mka6Gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 217,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

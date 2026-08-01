@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1991637406597124542",
+    "created_at": "2025-11-20T22:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T23:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991637406597124542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4rocky9/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/4rocky9/status/1991491174532829665",
+          "start": 8,
+          "url": "https://t.co/NLGnAhk2oN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991637406597124542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991491174532829665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新梗：流汗黄豆 https://t.co/NLGnAhk2oN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1991637406597124542",
+        "created_at": "2025-11-20T22:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991637406597124542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rocky9/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/4rocky9/status/1991491174532829665",
+              "start": 8,
+              "url": "https://t.co/NLGnAhk2oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991637406597124542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991491174532829665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新梗：流汗黄豆 https://t.co/NLGnAhk2oN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1991491174532829665",
+        "created_at": "2025-11-20T12:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T13:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991491174532829665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991491174532829665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 49348,
+          "like_count": 613,
+          "quote_count": 21,
+          "reply_count": 101,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我发明了个新梗：唧唧操你！当对方说了一堆话然后你突然不知道应该回复对方什么又不想让气氛变得很尴尬的时候，那你可以突然跟对方说一句：唧唧操你！这一句唧唧操你可以让你们之间的氛围不会有尴尬的味道，特别是后面这个感叹号更是神来之笔！其中意味需要你们自己去慢慢了解，唧唧操你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 160,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6159,
+          "following_count": 408,
+          "like_count": 48365,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 19741
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

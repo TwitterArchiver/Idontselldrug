@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007534944835317760"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2007534946689102056",
+    "created_at": "2026-01-03T19:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T20:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007534946689102056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gcVaVGrE8a",
+          "end": 67,
+          "expanded_url": "https://x.com/Idontselldrug/status/2007534946689102056/photo/1",
+          "media_key": "3_2007534944835317760",
+          "start": 44,
+          "url": "https://t.co/gcVaVGrE8a"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2005873329018662922",
+          "start": 68,
+          "url": "https://t.co/YwsYjh5OND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007534946689102056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005873329018662922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "检测结果说我送去的可卡因是纯的\n这其实不是我的可卡因，我不吸这玩意，我只在昨天梦里吸过 https://t.co/gcVaVGrE8a https://t.co/YwsYjh5OND"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2007534944835317760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wyZV0XsAA3CxI.jpg",
+        "width": 591
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005873327001227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ZLKdBW0AAmgCs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007534944835317760"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2007534946689102056",
+        "created_at": "2026-01-03T19:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007534946689102056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcVaVGrE8a",
+              "end": 67,
+              "expanded_url": "https://x.com/Idontselldrug/status/2007534946689102056/photo/1",
+              "media_key": "3_2007534944835317760",
+              "start": 44,
+              "url": "https://t.co/gcVaVGrE8a"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2005873329018662922",
+              "start": 68,
+              "url": "https://t.co/YwsYjh5OND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007534946689102056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005873329018662922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "检测结果说我送去的可卡因是纯的\n这其实不是我的可卡因，我不吸这玩意，我只在昨天梦里吸过 https://t.co/gcVaVGrE8a https://t.co/YwsYjh5OND"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005873327001227264"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2005873329018662922",
+        "created_at": "2025-12-30T05:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005873329018662922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNJoJKEuun",
+              "end": 151,
+              "expanded_url": "https://x.com/Idontselldrug/status/2005873329018662922/photo/1",
+              "media_key": "3_2005873327001227264",
+              "start": 128,
+              "url": "https://t.co/KNJoJKEuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005873329018662922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11956,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天拿了包可卡因在多伦多检测，看看是不是纯的，有没有掺杂或者更危险的东西\n检测完全免费且由政府豁免，警察不被允许在外面蹲人抓\n可卡因一般来说不会掺芬太尼之类的，至少埃德蒙顿的检测员跟我说他们从来没遇到过，据说常见掺杂物是levomisole，因为外观类似 https://t.co/KNJoJKEuun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 204,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

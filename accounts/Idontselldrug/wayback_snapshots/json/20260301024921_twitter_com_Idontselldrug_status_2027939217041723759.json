@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027412547222335627",
+    "created_at": "2026-03-01T02:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027939217041723759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027939217041723759",
+    "in_reply_to_user_id": "69280655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027412547222335627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang 好多biohacker最近在整这个，还有莫达芬尼 pinealon epithalon 瑞塔鲁肽之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027412547222335627",
+        "created_at": "2026-03-01T02:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027939217041723759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027939217041723759",
+        "in_reply_to_user_id": "69280655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027412547222335627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang 好多biohacker最近在整这个，还有莫达芬尼 pinealon epithalon 瑞塔鲁肽之类的"
+      },
+      {
+        "article": {
+          "title": "Bromantane（溴曼坦）前沿药理学与神经科学深度分析"
+        },
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2027412547222335627",
+        "created_at": "2026-02-27T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027412547222335627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2027…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2027409973471580160",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2027409973471580160",
+              "url": "https://t.co/SLs11D1o5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027412547222335627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1206,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SLs11D1o5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 230,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1830
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 102,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 453
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

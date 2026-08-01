@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996370735892439424",
+    "created_at": "2025-12-04T04:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996430992006148425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931114312296538112",
+          "start": 0,
+          "username": "Ayumi_0222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996430992006148425",
+    "in_reply_to_user_id": "1931114312296538112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996370735892439424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayumi_0222_ 怎么说话的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996370735892439424",
+        "created_at": "2025-12-04T04:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996430992006148425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996430992006148425",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996370735892439424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ 怎么说话的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931114312296538112",
+        "conversation_id": "1996370735892439424",
+        "created_at": "2025-12-04T00:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996370735892439424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996370735892439424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 833,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，你就继续刷推，继续傻乐呵，你的作业还有你的ddl一点也不急，不伤心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 182,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "众神的阿优咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 276,
+          "like_count": 1962,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 800
+        },
+        "username": "Ayumi_0222_",
+        "verified": false
+      }
+    ]
+  }
+}

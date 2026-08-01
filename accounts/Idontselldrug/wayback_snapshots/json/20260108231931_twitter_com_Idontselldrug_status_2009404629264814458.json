@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009404627071193088"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009404629264814458",
+    "created_at": "2026-01-08T23:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009404629264814458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/shdmO6tSls",
+          "end": 120,
+          "expanded_url": "https://x.com/Idontselldrug/status/2009404629264814458/photo/1",
+          "media_key": "3_2009404627071193088",
+          "start": 97,
+          "url": "https://t.co/shdmO6tSls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009404629264814458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "斥巨资7刀，第一次喝抹茶拿铁，非常难喝，感觉只有Performative feminist 喜欢，我不知道一般是不是插吸管喝的，但是我怕对嘴喝把我的衣服弄脏\n为什么镜头把我的大拇指拍得那么大？ https://t.co/shdmO6tSls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009404627071193088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LW3K6a0AAWQZZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009404627071193088"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009404629264814458",
+        "created_at": "2026-01-08T23:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009404629264814458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shdmO6tSls",
+              "end": 120,
+              "expanded_url": "https://x.com/Idontselldrug/status/2009404629264814458/photo/1",
+              "media_key": "3_2009404627071193088",
+              "start": 97,
+              "url": "https://t.co/shdmO6tSls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009404629264814458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "斥巨资7刀，第一次喝抹茶拿铁，非常难喝，感觉只有Performative feminist 喜欢，我不知道一般是不是插吸管喝的，但是我怕对嘴喝把我的衣服弄脏\n为什么镜头把我的大拇指拍得那么大？ https://t.co/shdmO6tSls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 218,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

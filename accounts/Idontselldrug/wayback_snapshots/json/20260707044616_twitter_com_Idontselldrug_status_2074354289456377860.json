@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2074354289456377860",
+    "created_at": "2026-07-07T04:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074354289456377860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3348574185",
+          "start": 3,
+          "username": "ReggiSaxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074354289456377860",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074187089231417430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReggiSaxx: Was reading Mao’s Little Red Book at work to impress this fine leftist new hire and now my ID card won’t scan in https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2074187086463225856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj-KmZX0AAGoYD.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2074354289456377860",
+        "created_at": "2026-07-07T04:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074354289456377860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3348574185",
+              "start": 3,
+              "username": "ReggiSaxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074354289456377860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074187089231417430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReggiSaxx: Was reading Mao’s Little Red Book at work to impress this fine leftist new hire and now my ID card won’t scan in https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074187086463225856"
+          ]
+        },
+        "author_id": "3348574185",
+        "conversation_id": "2074187089231417430",
+        "created_at": "2026-07-06T17:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074187089231417430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLHY5iosJ9",
+              "end": 136,
+              "expanded_url": "https://x.com/ReggiSaxx/status/2074187089231417430/photo/1",
+              "media_key": "3_2074187086463225856",
+              "start": 113,
+              "url": "https://t.co/jLHY5iosJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074187089231417430",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 98650,
+          "like_count": 7292,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "Was reading Mao’s Little Red Book at work to impress this fine leftist new hire and now my ID card won’t scan in https://t.co/jLHY5iosJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 291,
+          "like_count": 2540,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-28T07:00:25.000Z",
+        "description": "🇭🇹🇭🇹🇭🇹 #Ravens #Rockets",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "Ravens"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "Rockets"
+              }
+            ]
+          }
+        },
+        "id": "3348574185",
+        "name": "Reggie Saxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643459804889858049/KN0tHwuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9389,
+          "following_count": 1455,
+          "like_count": 210077,
+          "listed_count": 70,
+          "media_count": 7034,
+          "tweet_count": 75311
+        },
+        "url": "",
+        "username": "ReggiSaxx",
+        "verified": false
+      }
+    ]
+  }
+}

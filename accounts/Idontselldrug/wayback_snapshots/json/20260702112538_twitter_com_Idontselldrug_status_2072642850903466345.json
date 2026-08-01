@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072631841446903809"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2072642850903466345",
+    "created_at": "2026-07-02T11:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072642850903466345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sQWFsIpnO7",
+          "end": 111,
+          "expanded_url": "https://x.com/Idontselldrug/status/2072642850903466345/photo/1",
+          "media_key": "3_2072631841446903809",
+          "start": 88,
+          "url": "https://t.co/sQWFsIpnO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072642850903466345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "注射替尔泊肽的第二周，每周两针1.5mg，换算下来差不多是最低剂量。\n胃排空减缓和食量减小的很明显，今天我妈都问我怎么吃这么少就饱了\n如果不是担心快感缺失，我会考虑使用它更久 https://t.co/sQWFsIpnO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072631841446903809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN3rbObQAENdkh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072631841446903809"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2072642850903466345",
+        "created_at": "2026-07-02T11:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072642850903466345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQWFsIpnO7",
+              "end": 111,
+              "expanded_url": "https://x.com/Idontselldrug/status/2072642850903466345/photo/1",
+              "media_key": "3_2072631841446903809",
+              "start": 88,
+              "url": "https://t.co/sQWFsIpnO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072642850903466345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注射替尔泊肽的第二周，每周两针1.5mg，换算下来差不多是最低剂量。\n胃排空减缓和食量减小的很明显，今天我妈都问我怎么吃这么少就饱了\n如果不是担心快感缺失，我会考虑使用它更久 https://t.co/sQWFsIpnO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 286,
+          "like_count": 2460,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

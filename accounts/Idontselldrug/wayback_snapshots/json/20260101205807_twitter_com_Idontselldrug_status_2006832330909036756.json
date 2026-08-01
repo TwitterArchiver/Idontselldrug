@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006808737437397324",
+    "created_at": "2026-01-01T20:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T21:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006832330909036756"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006832330909036756",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006812872731718102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦到了拿霰弹枪玩2d射击游戏，梦见了跟别人打拳击，梦见了有湾友用line给我发消息，梦见数学考试出结果了，梦见被小女友甩了，被吓醒了重新睡着又梦见一次，分不清梦境和现实了不知道到底有没有分手，看现实里微信电话还挂着才确定还在谈着，期间一直找不到眼罩带，醒来后发现一直在枕头下面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006808737437397324",
+        "created_at": "2026-01-01T20:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006832330909036756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006832330909036756",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006812872731718102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦到了拿霰弹枪玩2d射击游戏，梦见了跟别人打拳击，梦见了有湾友用line给我发消息，梦见数学考试出结果了，梦见被小女友甩了，被吓醒了重新睡着又梦见一次，分不清梦境和现实了不知道到底有没有分手，看现实里微信电话还挂着才确定还在谈着，期间一直找不到眼罩带，醒来后发现一直在枕头下面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006808737437397324",
+        "created_at": "2026-01-01T19:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006812872731718102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006812872731718102",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006808737437397324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天睡了醒醒了睡一直做噩梦，而且疑似是被噩梦吓醒的，体验真的很不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 206,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

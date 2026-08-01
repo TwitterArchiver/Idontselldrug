@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1991002304410255360"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1991002335565525356",
+    "created_at": "2025-11-19T04:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T05:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991002335565525356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/65EtJlkgA4",
+          "end": 46,
+          "expanded_url": "https://x.com/Idontselldrug/status/1991002335565525356/video/1",
+          "media_key": "7_1991002304410255360",
+          "start": 23,
+          "url": "https://t.co/65EtJlkgA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991002335565525356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酒店的现场音乐表演，都是些流行的曲目，还可以 https://t.co/65EtJlkgA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54996,
+        "height": 1280,
+        "media_key": "7_1991002304410255360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1991002304410255360/pu/img/qaG7YkqKeDog_W9u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991002304410255360/pu/vid/avc1/320x568/EsaXwFPGKGKQaBEh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991002304410255360/pu/vid/avc1/480x852/H8l2Q2KyecOeFF2Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1991002304410255360/pu/vid/avc1/720x1280/w6tjElPXSxi64JL3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1991002304410255360/pu/pl/wGyPnNRLKHZWGGR4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1991002304410255360"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1991002335565525356",
+        "created_at": "2025-11-19T04:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991002335565525356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65EtJlkgA4",
+              "end": 46,
+              "expanded_url": "https://x.com/Idontselldrug/status/1991002335565525356/video/1",
+              "media_key": "7_1991002304410255360",
+              "start": 23,
+              "url": "https://t.co/65EtJlkgA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991002335565525356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒店的现场音乐表演，都是些流行的曲目，还可以 https://t.co/65EtJlkgA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 158,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

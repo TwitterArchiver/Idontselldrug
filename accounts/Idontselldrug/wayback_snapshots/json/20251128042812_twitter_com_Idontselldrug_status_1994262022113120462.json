@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994262019500097536",
+        "3_1994262019902722050"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1994262022113120462",
+    "created_at": "2025-11-28T04:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994262022113120462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b09p8iD5yU",
+          "end": 113,
+          "expanded_url": "https://x.com/Idontselldrug/status/1994262022113120462/photo/1",
+          "media_key": "3_1994262019500097536",
+          "start": 90,
+          "url": "https://t.co/b09p8iD5yU"
+        },
+        {
+          "display_url": "pic.x.com/b09p8iD5yU",
+          "end": 113,
+          "expanded_url": "https://x.com/Idontselldrug/status/1994262022113120462/photo/1",
+          "media_key": "3_1994262019902722050",
+          "start": 90,
+          "url": "https://t.co/b09p8iD5yU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994262022113120462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "埃德蒙顿零下十度的温度比我想的要宜人，只要风不大一切倒好说，不过呼吸道和耳朵确实有点冷，还好我不吸可卡因不然要雪上加霜了\n我还没买雪靴，迪卡侬三十刀一双的我不敢买，怕走两步爆炸了 https://t.co/b09p8iD5yU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994262019500097536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60KvZ1bQAAJklN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994262019902722050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60KvbVa0AIC9LH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994262019500097536",
+            "3_1994262019902722050"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1994262022113120462",
+        "created_at": "2025-11-28T04:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994262022113120462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b09p8iD5yU",
+              "end": 113,
+              "expanded_url": "https://x.com/Idontselldrug/status/1994262022113120462/photo/1",
+              "media_key": "3_1994262019500097536",
+              "start": 90,
+              "url": "https://t.co/b09p8iD5yU"
+            },
+            {
+              "display_url": "pic.x.com/b09p8iD5yU",
+              "end": 113,
+              "expanded_url": "https://x.com/Idontselldrug/status/1994262022113120462/photo/1",
+              "media_key": "3_1994262019902722050",
+              "start": 90,
+              "url": "https://t.co/b09p8iD5yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994262022113120462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "埃德蒙顿零下十度的温度比我想的要宜人，只要风不大一切倒好说，不过呼吸道和耳朵确实有点冷，还好我不吸可卡因不然要雪上加霜了\n我还没买雪靴，迪卡侬三十刀一双的我不敢买，怕走两步爆炸了 https://t.co/b09p8iD5yU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 178,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

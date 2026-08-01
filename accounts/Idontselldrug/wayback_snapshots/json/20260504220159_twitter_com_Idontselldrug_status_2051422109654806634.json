@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051287680781332616",
+    "created_at": "2026-05-04T22:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051422109654806634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728819930760622080",
+          "start": 0,
+          "username": "poiulkjh87"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051422109654806634",
+    "in_reply_to_user_id": "1728819930760622080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051313657884364881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poiulkjh87 大稻埕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051287680781332616",
+        "created_at": "2026-05-04T22:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051422109654806634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728819930760622080",
+              "start": 0,
+              "username": "poiulkjh87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051422109654806634",
+        "in_reply_to_user_id": "1728819930760622080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051313657884364881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poiulkjh87 大稻埕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728819930760622080",
+        "conversation_id": "2051287680781332616",
+        "created_at": "2026-05-04T14:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051313657884364881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051313657884364881",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051287680781332616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 這哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 283,
+          "like_count": 2100,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T16:56:20.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langxintv",
+                "end": 23,
+                "expanded_url": "https://t.me/langxintv",
+                "start": 0,
+                "url": "https://t.co/xfavjQ4Hdp"
+              }
+            ]
+          }
+        },
+        "id": "1728819930760622080",
+        "location": "台北市, 台灣",
+        "name": "riseHan 漢族勃起",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816256599440384001/wiOyWinH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 391,
+          "like_count": 76893,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/xfavjQ4Hdp",
+        "username": "poiulkjh87",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2037047495294149053",
+    "created_at": "2026-03-26T06:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037047495294149053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2036319357882736934",
+          "start": 37,
+          "url": "https://t.co/J8nYUUHo9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037047495294149053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036319357882736934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在Instragram 全是阳痿药和同性恋艾滋病阻断药的广告，何意味 https://t.co/J8nYUUHo9w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2036319356301565952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJ1qmmbYAAp7pD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2037047495294149053",
+        "created_at": "2026-03-26T06:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037047495294149053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2036319357882736934",
+              "start": 37,
+              "url": "https://t.co/J8nYUUHo9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037047495294149053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036319357882736934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在Instragram 全是阳痿药和同性恋艾滋病阻断药的广告，何意味 https://t.co/J8nYUUHo9w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036319356301565952"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2036319357882736934",
+        "created_at": "2026-03-24T05:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036319357882736934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0dwALPlde",
+              "end": 28,
+              "expanded_url": "https://x.com/Idontselldrug/status/2036319357882736934/photo/1",
+              "media_key": "3_2036319356301565952",
+              "start": 5,
+              "url": "https://t.co/h0dwALPlde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036319357882736934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "福报来了 https://t.co/h0dwALPlde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 238,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

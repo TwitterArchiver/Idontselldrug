@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043853286470758420",
+    "created_at": "2026-04-14T00:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043853286470758420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894770153327599616",
+          "start": 3,
+          "username": "JerkForKirk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043853286470758420",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043497234029740437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JerkForKirk: i have a feeling charlie knew he was gonna die so he threw that hat that’s secretly cappy in the crowd to take over somebo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043853286470758420",
+        "created_at": "2026-04-14T00:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043853286470758420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894770153327599616",
+              "start": 3,
+              "username": "JerkForKirk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043853286470758420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043497234029740437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JerkForKirk: i have a feeling charlie knew he was gonna die so he threw that hat that’s secretly cappy in the crowd to take over somebo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894770153327599616",
+        "conversation_id": "2043497234029740437",
+        "created_at": "2026-04-13T01:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043497234029740437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/michael_mccoyy…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/michael_mccoyy/status/2031513925343478264",
+              "start": 146,
+              "url": "https://t.co/7xTWxsh2XZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043497234029740437",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2264,
+          "impression_count": 842261,
+          "like_count": 41375,
+          "quote_count": 25,
+          "reply_count": 95,
+          "retweet_count": 2731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031513925343478264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i have a feeling charlie knew he was gonna die so he threw that hat that’s secretly cappy in the crowd to take over somebody’s body to stay alive https://t.co/7xTWxsh2XZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 251,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T15:23:08.000Z",
+        "description": "@gyattsunemiku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "gyattsunemiku"
+              }
+            ]
+          }
+        },
+        "id": "1894770153327599616",
+        "location": "17 ",
+        "name": "sarah",
+        "pinned_tweet_id": "2041673420966900203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518920130039808/bWG30ZPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6911,
+          "following_count": 1099,
+          "like_count": 20382,
+          "listed_count": 5,
+          "media_count": 1821,
+          "tweet_count": 11111
+        },
+        "username": "JerkForKirk",
+        "verified": false
+      }
+    ]
+  }
+}

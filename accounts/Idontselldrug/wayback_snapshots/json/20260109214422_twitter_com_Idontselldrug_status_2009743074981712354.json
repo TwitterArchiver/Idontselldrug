@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009724719977902198",
+    "created_at": "2026-01-09T21:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T22:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009743074981712354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1129655215618007040",
+          "start": 0,
+          "username": "Antinomies_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009743074981712354",
+    "in_reply_to_user_id": "1129655215618007040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009740968354881712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antinomies_ 你是ua的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009724719977902198",
+        "created_at": "2026-01-09T21:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T22:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009743074981712354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1129655215618007040",
+              "start": 0,
+              "username": "Antinomies_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009743074981712354",
+        "in_reply_to_user_id": "1129655215618007040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009740968354881712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antinomies_ 你是ua的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1129655215618007040",
+        "conversation_id": "2009724719977902198",
+        "created_at": "2026-01-09T21:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T22:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009740968354881712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009740968354881712",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009724719977902198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我草刷推看到我学校了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 219,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-18T07:49:26.000Z",
+        "description": "正是因为「飞鱼于南海跃出了海面」，我们现在才会在这里相聚",
+        "id": "1129655215618007040",
+        "location": "Calgary, Alberta",
+        "name": "Velasco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773187870851002368/3h4H3vo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 993,
+          "like_count": 81823,
+          "listed_count": 17,
+          "media_count": 348,
+          "tweet_count": 9558
+        },
+        "username": "Antinomies_",
+        "verified": true
+      }
+    ]
+  }
+}

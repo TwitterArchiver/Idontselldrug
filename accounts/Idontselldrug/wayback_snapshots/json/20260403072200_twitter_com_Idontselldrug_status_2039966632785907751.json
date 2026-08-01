@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2039966632785907751",
+    "created_at": "2026-04-03T07:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039966632785907751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582004130033373184",
+          "start": 3,
+          "username": "wherlisms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039966632785907751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039724871425401145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wherlisms: there are niggas who wake up and the first thing they do is open twitter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2039966632785907751",
+        "created_at": "2026-04-03T07:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039966632785907751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582004130033373184",
+              "start": 3,
+              "username": "wherlisms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039966632785907751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039724871425401145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wherlisms: there are niggas who wake up and the first thing they do is open twitter"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582004130033373184",
+        "conversation_id": "2039724871425401145",
+        "created_at": "2026-04-02T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039724871425401145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039724871425401145",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 503,
+          "impression_count": 385185,
+          "like_count": 17729,
+          "quote_count": 830,
+          "reply_count": 393,
+          "retweet_count": 1162
+        },
+        "reply_settings": "everyone",
+        "text": "there are niggas who wake up and the first thing they do is open twitter"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 238,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T13:42:48.000Z",
+        "description": "at a drugs party",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wherlisms.straw.page",
+                "end": 23,
+                "expanded_url": "http://wherlisms.straw.page",
+                "start": 0,
+                "url": "https://t.co/4HcHeaJiWX"
+              }
+            ]
+          }
+        },
+        "id": "1582004130033373184",
+        "location": "he ",
+        "name": "keji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036973494710489088/QFdYDKsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 218,
+          "like_count": 26537,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/4HcHeaJiWX",
+        "username": "wherlisms",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1994513897584488613",
+    "created_at": "2025-11-28T21:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T22:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994513897584488613"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": ". Bro",
+          "probability": 0.449,
+          "start": 77,
+          "type": "Other"
+        },
+        {
+          "end": 109,
+          "normalized_text": ". ED Goone",
+          "probability": 0.4346,
+          "start": 100,
+          "type": "Other"
+        },
+        {
+          "end": 126,
+          "normalized_text": ". Diddyblu",
+          "probability": 0.3209,
+          "start": 117,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1908977867163054080",
+          "start": 3,
+          "username": "delcerrocachari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994513897584488613",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 384
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994208151885713684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @delcerrocachari: 100 Historically Oppressed Peoples \n\n1. Fakecels ❤️‍🔥🌹\n2. Brown Fascists 🇲🇽🇩🇪\n3. ED Gooners ❌🥀\n4. Diddybluds 🇮🇱👀\n5. Tr…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1994513897584488613",
+        "created_at": "2025-11-28T21:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994513897584488613"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": ". Bro",
+              "probability": 0.449,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": ". ED Goone",
+              "probability": 0.4346,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": ". Diddyblu",
+              "probability": 0.3209,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1908977867163054080",
+              "start": 3,
+              "username": "delcerrocachari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994513897584488613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994208151885713684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @delcerrocachari: 100 Historically Oppressed Peoples \n\n1. Fakecels ❤️‍🔥🌹\n2. Brown Fascists 🇲🇽🇩🇪\n3. ED Gooners ❌🥀\n4. Diddybluds 🇮🇱👀\n5. Tr…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908977867163054080",
+        "conversation_id": "1994208151885713684",
+        "created_at": "2025-11-28T00:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994208151885713684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": ". Brown Fascis",
+              "probability": 0.5274,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": ". ED Goone",
+              "probability": 0.5002,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": ". Diddyblu",
+              "probability": 0.4068,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": ". True Arya",
+              "probability": 0.6067,
+              "start": 114,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "ade La",
+              "probability": 0.4557,
+              "start": 144,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "��\n7.",
+              "probability": 0.5364,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": 185,
+              "normalized_text": "��\n8. Mormon S",
+              "probability": 0.6569,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": 196,
+              "normalized_text": "��\n",
+              "probability": 0.4832,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": 222,
+              "normalized_text": "️\n10. Tra",
+              "probability": 0.687,
+              "start": 214,
+              "type": "Other"
+            },
+            {
+              "end": 240,
+              "normalized_text": "��️\n11.",
+              "probability": 0.4782,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": 261,
+              "normalized_text": "\n...\n10",
+              "probability": 0.4238,
+              "start": 255,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/infodexx/statu…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/infodexx/status/1993579906165621167",
+              "start": 280,
+              "url": "https://t.co/7Qk1uY4Cb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994208151885713684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 60178,
+          "like_count": 2881,
+          "quote_count": 19,
+          "reply_count": 36,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993579906165621167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100 Historically Oppressed Peoples \n\n1. Fakecels ❤️‍🔥🌹\n2. Brown Fascists 🇲🇽🇩🇪\n3. ED Gooners ❌🥀\n4. Diddybluds 🇮🇱👀\n5. True Aryans 🇮🇳👨🏼‍💼\n6.  Renegade Latinx 🇦🇷🙅🏾‍♂️\n7. Turks 🇹🇷\n8. Mormon Soakers ✝️💦\n9. DI6 Fans 🏳️‍🌈⚒️\n10. Trans Foids 🏳️‍⚧️\n11. Larpagans 🇵🇭⚡\n...\n100. Femcels ♀️❤️‍🩹 https://t.co/7Qk1uY4Cb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 179,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T20:19:30.000Z",
+        "description": "Subo el cerro entre pólvora y niebla; el batallón me espera. Bajo mi pecho arde la patria, y entre sangre, la libertad toma forma.\n\n♰ ig:delcerrocachari ♰",
+        "id": "1908977867163054080",
+        "location": "FLVMINENCIA, AEQVATOR",
+        "name": "Domingo del Cerro Cacharí",
+        "pinned_tweet_id": "1924664780112998909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930047012692529152/ONx6T6gG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 249,
+          "like_count": 26203,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 2008
+        },
+        "username": "delcerrocachari",
+        "verified": false
+      }
+    ]
+  }
+}

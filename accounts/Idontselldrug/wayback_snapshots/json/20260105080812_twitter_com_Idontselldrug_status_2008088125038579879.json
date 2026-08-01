@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008088125038579879",
+    "created_at": "2026-01-05T08:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008088125038579879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/1988137277286215918",
+          "start": 31,
+          "url": "https://t.co/qskYaY2aU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008088125038579879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988137277286215918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的好想买一件quarter zip，但是看到的都差点意思 https://t.co/qskYaY2aU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_1988137275881123842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dIUZ2bcAI7mLA.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008088125038579879",
+        "created_at": "2026-01-05T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008088125038579879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/1988137277286215918",
+              "start": 31,
+              "url": "https://t.co/qskYaY2aU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008088125038579879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988137277286215918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好想买一件quarter zip，但是看到的都差点意思 https://t.co/qskYaY2aU0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988137275881123842"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988137277286215918",
+        "created_at": "2025-11-11T06:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988137277286215918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzM5sCQgEX",
+              "end": 49,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988137277286215918/photo/1",
+              "media_key": "3_1988137275881123842",
+              "start": 26,
+              "url": "https://t.co/zzM5sCQgEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988137277286215918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买一件爱泼斯坦同款毛衣，我愿意为此付出任何东西 https://t.co/zzM5sCQgEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 207,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

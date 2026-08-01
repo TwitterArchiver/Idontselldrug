@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1999635269163614718",
+    "created_at": "2025-12-13T00:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T01:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999635272271855898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999635272271855898",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999635270652821767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又要开始恨猫了 我不知道是我先入土还是先从她给的创伤里走出来 她明知我成绩不好还是把我送进竞赛班 还嘱咐老师专门针对我提问 150分的卷子我只能考十几分 每次问题答不上来我都被做题家狠狠嘲笑 导致我现在做不明白题的时候都隐隐约约闪回过去的经历 考试的时候也极端焦虑 都是她害的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1999635269163614718",
+        "created_at": "2025-12-13T00:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T01:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999635272271855898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999635272271855898",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999635270652821767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又要开始恨猫了 我不知道是我先入土还是先从她给的创伤里走出来 她明知我成绩不好还是把我送进竞赛班 还嘱咐老师专门针对我提问 150分的卷子我只能考十几分 每次问题答不上来我都被做题家狠狠嘲笑 导致我现在做不明白题的时候都隐隐约约闪回过去的经历 考试的时候也极端焦虑 都是她害的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1999635269163614718",
+        "created_at": "2025-12-13T00:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T01:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999635270652821767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999635270652821767",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999635269163614718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前可以嗑药逃避问题 但是现在k和蘑菇好像都对我的抑郁症失效了 明天还有考试我不能冒着Hangover的风险抽大麻吃普瑞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 184,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

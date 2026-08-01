@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000907453811081222"
+      ],
+      "media_source_tweet_id": [
+        "2000907507313545568"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1463598481474351106",
+          "name": "Hinge"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1091831512075358208",
+          "name": "Bumble"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bumble",
+          "id": "1463598481474351106",
+          "name": "Hinge"
+        }
+      }
+    ],
+    "conversation_id": "2001128086822133997",
+    "created_at": "2025-12-17T03:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T04:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001128086822133997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1095179067932868609",
+          "start": 3,
+          "username": "slurby_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vV36qJWAE7",
+          "end": 88,
+          "expanded_url": "https://x.com/slurby_/status/2000907507313545568/video/1",
+          "media_key": "13_2000907453811081222",
+          "start": 65,
+          "url": "https://t.co/vV36qJWAE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001128086822133997",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000907507313545568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slurby_: every guy that says shit like this sounds like this https://t.co/vV36qJWAE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35200,
+        "height": 1024,
+        "media_key": "13_2000907453811081222",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000907453811081222/img/hk7VTwcWR3CxgiE0.jpg",
+        "public_metrics": {
+          "view_count": 143970
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000907453811081222/vid/avc1/320x568/iPJa-bG6jLihqpQy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000907453811081222/vid/avc1/480x852/Ve_of_0xo5d7PWIr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000907453811081222/vid/avc1/576x1024/KWbBNtMZx8VVjJ08.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000907453811081222/pl/DRcznUHoH4LG-s5y.m3u8?v=684"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000907453811081222"
+          ],
+          "media_source_tweet_id": [
+            "2000907507313545568"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1463598481474351106",
+              "name": "Hinge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1463598481474351106",
+              "name": "Hinge"
+            }
+          }
+        ],
+        "conversation_id": "2001128086822133997",
+        "created_at": "2025-12-17T03:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001128086822133997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1095179067932868609",
+              "start": 3,
+              "username": "slurby_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vV36qJWAE7",
+              "end": 88,
+              "expanded_url": "https://x.com/slurby_/status/2000907507313545568/video/1",
+              "media_key": "13_2000907453811081222",
+              "start": 65,
+              "url": "https://t.co/vV36qJWAE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001128086822133997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000907507313545568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slurby_: every guy that says shit like this sounds like this https://t.co/vV36qJWAE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000907453811081222"
+          ]
+        },
+        "author_id": "1095179067932868609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1463598481474351106",
+              "name": "Hinge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1091831512075358208",
+              "name": "Bumble"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bumble",
+              "id": "1463598481474351106",
+              "name": "Hinge"
+            }
+          }
+        ],
+        "conversation_id": "2000907507313545568",
+        "created_at": "2025-12-16T12:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000907507313545568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vV36qJWAE7",
+              "end": 75,
+              "expanded_url": "https://x.com/slurby_/status/2000907507313545568/video/1",
+              "media_key": "13_2000907453811081222",
+              "start": 52,
+              "url": "https://t.co/vV36qJWAE7"
+            },
+            {
+              "display_url": "x.com/tippity/status…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/tippity/status/2000759593090068929",
+              "start": 76,
+              "url": "https://t.co/oD36ItSJms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000907507313545568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2284,
+          "impression_count": 423520,
+          "like_count": 12155,
+          "quote_count": 115,
+          "reply_count": 56,
+          "retweet_count": 889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000759593090068929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "every guy that says shit like this sounds like this https://t.co/vV36qJWAE7 https://t.co/oD36ItSJms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 189,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-12T04:33:32.000Z",
+        "description": "landmine boy",
+        "id": "1095179067932868609",
+        "location": "21, he/him",
+        "name": "Sul সুল",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366745801842515968/XZzXjezP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 789,
+          "like_count": 11313,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 1731
+        },
+        "username": "slurby_",
+        "verified": false
+      }
+    ]
+  }
+}

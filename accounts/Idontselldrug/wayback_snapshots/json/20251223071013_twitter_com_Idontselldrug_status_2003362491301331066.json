@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003259152420790272"
+      ],
+      "media_source_tweet_id": [
+        "2003287945780793402"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former US President Bill Clinton",
+          "id": "806569269513199616",
+          "name": "Bill Clinton"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former US President Bill Clinton",
+          "id": "806569269513199616",
+          "name": "Bill Clinton"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former US President Bill Clinton",
+          "id": "806569269513199616",
+          "name": "Bill Clinton"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2003362491301331066",
+    "created_at": "2025-12-23T07:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T08:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003362491301331066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "839116207756279808",
+          "start": 3,
+          "username": "ShitpostRock"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5Phfp9C9m",
+          "end": 68,
+          "expanded_url": "https://x.com/ShitpostRock/status/2003287945780793402/video/1",
+          "media_key": "13_2003259152420790272",
+          "start": 45,
+          "url": "https://t.co/u5Phfp9C9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003362491301331066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003287945780793402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostRock: Motherfucker has 0 regrets https://t.co/u5Phfp9C9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43366,
+        "height": 576,
+        "media_key": "13_2003259152420790272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003259152420790272/img/fp5RLTtylQZTqCZ8.jpg",
+        "public_metrics": {
+          "view_count": 76846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003259152420790272/vid/avc1/320x320/efgKrwxKaakbdtkj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003259152420790272/vid/avc1/576x576/wbhNUFKgwIfLmdQ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003259152420790272/pl/EE__ltUCuTB54pX8.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003259152420790272"
+          ],
+          "media_source_tweet_id": [
+            "2003287945780793402"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2003362491301331066",
+        "created_at": "2025-12-23T07:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003362491301331066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "839116207756279808",
+              "start": 3,
+              "username": "ShitpostRock"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Phfp9C9m",
+              "end": 68,
+              "expanded_url": "https://x.com/ShitpostRock/status/2003287945780793402/video/1",
+              "media_key": "13_2003259152420790272",
+              "start": 45,
+              "url": "https://t.co/u5Phfp9C9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003362491301331066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003287945780793402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostRock: Motherfucker has 0 regrets https://t.co/u5Phfp9C9m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003259152420790272"
+          ]
+        },
+        "author_id": "839116207756279808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former US President Bill Clinton",
+              "id": "806569269513199616",
+              "name": "Bill Clinton"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2003287945780793402",
+        "created_at": "2025-12-23T02:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003287945780793402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Motherfucker",
+              "probability": 0.4964,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Phfp9C9m",
+              "end": 50,
+              "expanded_url": "https://x.com/ShitpostRock/status/2003287945780793402/video/1",
+              "media_key": "13_2003259152420790272",
+              "start": 27,
+              "url": "https://t.co/u5Phfp9C9m"
+            },
+            {
+              "display_url": "x.com/PopBase/status…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/PopBase/status/2003198209079017820",
+              "start": 51,
+              "url": "https://t.co/ANMAbYFNTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003287945780793402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 864,
+          "impression_count": 197845,
+          "like_count": 3759,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003198209079017820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Motherfucker has 0 regrets https://t.co/u5Phfp9C9m https://t.co/ANMAbYFNTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 196,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-07T14:11:08.000Z",
+        "description": "Streamer and Vtuber\nPersonal account where i post stuff\nI like Vidya, anime and  VTubers \n🇵🇱🇳🇴🇺🇸🇻🇦 🔌🐰\nBackup: @ShitpostRock2\n\n⬇️check out the stream⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "ShitpostRock2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shitpostrock",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shitpostrock",
+                "start": 0,
+                "url": "https://t.co/n02kTJWhln"
+              }
+            ]
+          }
+        },
+        "id": "839116207756279808",
+        "location": "Sneed",
+        "name": "Rock Solid",
+        "pinned_tweet_id": "2000953677339934999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481761464658673667/M7ZtQXnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196973,
+          "following_count": 1961,
+          "like_count": 48953,
+          "listed_count": 571,
+          "media_count": 19878,
+          "tweet_count": 31990
+        },
+        "url": "https://t.co/n02kTJWhln",
+        "username": "ShitpostRock",
+        "verified": true
+      }
+    ]
+  }
+}

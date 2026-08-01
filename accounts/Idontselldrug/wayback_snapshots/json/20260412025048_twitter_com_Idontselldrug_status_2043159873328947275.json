@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043159873328947275",
+    "created_at": "2026-04-12T02:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043159873328947275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709659607482695680",
+          "start": 3,
+          "username": "bpdsins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043159873328947275",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042955553425518942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpdsins: chat does it get better at 20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043159873328947275",
+        "created_at": "2026-04-12T02:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043159873328947275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709659607482695680",
+              "start": 3,
+              "username": "bpdsins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043159873328947275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042955553425518942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpdsins: chat does it get better at 20"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709659607482695680",
+        "conversation_id": "2042955553425518942",
+        "created_at": "2026-04-11T13:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042955553425518942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042955553425518942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 19812,
+          "like_count": 602,
+          "quote_count": 80,
+          "reply_count": 199,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "chat does it get better at 20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 250,
+          "like_count": 1688,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T19:59:55.000Z",
+        "description": "@bpddeeds",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "bpddeeds"
+              }
+            ]
+          }
+        },
+        "id": "1709659607482695680",
+        "name": "x__x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823042513701158912/FTK8QRC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 553,
+          "like_count": 97759,
+          "listed_count": 17,
+          "media_count": 211,
+          "tweet_count": 9069
+        },
+        "username": "bpdsins",
+        "verified": false
+      }
+    ]
+  }
+}

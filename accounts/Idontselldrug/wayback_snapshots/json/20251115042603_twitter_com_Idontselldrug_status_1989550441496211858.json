@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989550436693807106",
+        "3_1989550437041881088",
+        "3_1989550437582987264",
+        "3_1989550438165983232"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989550441496211858",
+    "created_at": "2025-11-15T04:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989550441496211858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "3772102818",
+          "start": 36,
+          "username": "AlexYang965"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xJJ0ZTiPF",
+          "end": 189,
+          "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+          "media_key": "3_1989550436693807106",
+          "start": 166,
+          "url": "https://t.co/2xJJ0ZTiPF"
+        },
+        {
+          "display_url": "pic.x.com/2xJJ0ZTiPF",
+          "end": 189,
+          "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+          "media_key": "3_1989550437041881088",
+          "start": 166,
+          "url": "https://t.co/2xJJ0ZTiPF"
+        },
+        {
+          "display_url": "pic.x.com/2xJJ0ZTiPF",
+          "end": 189,
+          "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+          "media_key": "3_1989550437582987264",
+          "start": 166,
+          "url": "https://t.co/2xJJ0ZTiPF"
+        },
+        {
+          "display_url": "pic.x.com/2xJJ0ZTiPF",
+          "end": 189,
+          "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+          "media_key": "3_1989550438165983232",
+          "start": 166,
+          "url": "https://t.co/2xJJ0ZTiPF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989550441496211858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "流浪汉救济餐 来自Union Gospel Mission 斥资0刀 和@AlexYang965\n运气很好今天的菜单是meatball 意外的美味 比中国学生吃得好 就是番茄酱加上这个不知道是米还是面的神秘碳水味道一般 但是它免费所以无所谓了\n等待食物的人从建筑里排到建筑外 p2只是建筑里四分之一的人 p3是排的队一直延伸到远处 https://t.co/2xJJ0ZTiPF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989550436693807106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xNlMHbkAIE-d1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989550437041881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xNlNaawAACGxn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989550437582987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xNlPbbYAAneHp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989550438165983232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xNlRmbMAAN6W0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989550436693807106",
+            "3_1989550437041881088",
+            "3_1989550437582987264",
+            "3_1989550438165983232"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989550441496211858",
+        "created_at": "2025-11-15T04:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989550441496211858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "3772102818",
+              "start": 36,
+              "username": "AlexYang965"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xJJ0ZTiPF",
+              "end": 189,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+              "media_key": "3_1989550436693807106",
+              "start": 166,
+              "url": "https://t.co/2xJJ0ZTiPF"
+            },
+            {
+              "display_url": "pic.x.com/2xJJ0ZTiPF",
+              "end": 189,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+              "media_key": "3_1989550437041881088",
+              "start": 166,
+              "url": "https://t.co/2xJJ0ZTiPF"
+            },
+            {
+              "display_url": "pic.x.com/2xJJ0ZTiPF",
+              "end": 189,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+              "media_key": "3_1989550437582987264",
+              "start": 166,
+              "url": "https://t.co/2xJJ0ZTiPF"
+            },
+            {
+              "display_url": "pic.x.com/2xJJ0ZTiPF",
+              "end": 189,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989550441496211858/photo/1",
+              "media_key": "3_1989550438165983232",
+              "start": 166,
+              "url": "https://t.co/2xJJ0ZTiPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989550441496211858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流浪汉救济餐 来自Union Gospel Mission 斥资0刀 和@AlexYang965\n运气很好今天的菜单是meatball 意外的美味 比中国学生吃得好 就是番茄酱加上这个不知道是米还是面的神秘碳水味道一般 但是它免费所以无所谓了\n等待食物的人从建筑里排到建筑外 p2只是建筑里四分之一的人 p3是排的队一直延伸到远处 https://t.co/2xJJ0ZTiPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 141,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 166
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T17:18:45.000Z",
+        "description": "ENTJ 8w7 278 (sp/sx)/cs bachelor/psychoanalysis/shadow @AlexYang645 /lover @Lys_Mediterrane /buy me coffee tenshi9096@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "AlexYang645"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "Lys_Mediterrane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alexGamingChair",
+                "end": 23,
+                "expanded_url": "https://t.me/alexGamingChair",
+                "start": 0,
+                "url": "https://t.co/A6KzNwsYk4"
+              }
+            ]
+          }
+        },
+        "id": "3772102818",
+        "location": "British Columbia, Canada",
+        "name": "Alex杨",
+        "pinned_tweet_id": "1981171296311664949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981171180758253568/GtnN5gqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 4809,
+          "like_count": 99585,
+          "listed_count": 15,
+          "media_count": 4902,
+          "tweet_count": 24803
+        },
+        "url": "https://t.co/A6KzNwsYk4",
+        "username": "AlexYang965",
+        "verified": false
+      }
+    ]
+  }
+}

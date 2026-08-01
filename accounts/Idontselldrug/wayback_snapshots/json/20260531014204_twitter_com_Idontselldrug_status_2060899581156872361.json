@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2060621851240591616",
+    "created_at": "2026-05-31T01:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060899581156872361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060899581156872361",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060621851240591616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 普瑞你别天天吃不然反跳性焦虑了。大麻可以压制快速眼动睡眠从而减少ptsd的噩梦，临床上也有研究，但也会反跳性做梦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2060621851240591616",
+        "created_at": "2026-05-31T01:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060899581156872361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060899581156872361",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060621851240591616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 普瑞你别天天吃不然反跳性焦虑了。大麻可以压制快速眼动睡眠从而减少ptsd的噩梦，临床上也有研究，但也会反跳性做梦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956760772291579904",
+        "conversation_id": "2060621851240591616",
+        "created_at": "2026-05-30T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060621851240591616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060621851240591616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有没有什么药相对于普瑞巴林可以更长效的抑制焦虑捏？\n\n普瑞巴林效果短但是效力强，缺点是堆耐受速度太快，所以想要找一款可以相对于普瑞巴林更长效，效果也相对来说可以持平普瑞巴林的抗焦虑药。\n\n我目前的情况大概是：在普瑞巴林药效完全消退后，我会出现与 PTSD 相关、以及可能与 BPD 形成有关的闪回，且日常发生频率较高。睡眠时，我会出现高度拟真且高压力的噩梦，逼真程度达到醒来后需要检查手机，确认现实中是否真的发生了相关事情的程度。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1291,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么药相对于普瑞巴林可以更长效的抑制焦虑捏？\n\n普瑞巴林效果短但是效力强，缺点是堆耐受速度太快，所以想要找一款可以相对于普瑞巴林更长效，效果也相对来说可以持平普瑞巴林的抗焦虑药。\n\n我目前的情况大概是：在普瑞巴林药效完全消退后，我会出现与 PTSD 相关、以及可能与 BPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 285,
+          "like_count": 2423,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有最傻逼的柠檬糖@tongzikin 还有yukoko @Yuko0Ruuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tongzikin"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Yuko0Ruuu"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060886643087970304/tKcZTydy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 285,
+          "like_count": 15995,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 2863
+        },
+        "username": "catower233",
+        "verified": false
+      }
+    ]
+  }
+}

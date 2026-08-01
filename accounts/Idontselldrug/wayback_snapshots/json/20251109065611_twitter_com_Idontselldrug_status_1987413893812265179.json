@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987158458978742272"
+      ],
+      "media_source_tweet_id": [
+        "1987158531934486929"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987413893812265179",
+    "created_at": "2025-11-09T06:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987413893812265179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1586923432968654848",
+          "start": 3,
+          "username": "hayasaka_aryan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3XqBTj3xR",
+          "end": 45,
+          "expanded_url": "https://x.com/hayasaka_aryan/status/1987158531934486929/video/1",
+          "media_key": "13_1987158458978742272",
+          "start": 22,
+          "url": "https://t.co/j3XqBTj3xR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987413893812265179",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987158531934486929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayasaka_aryan: _ https://t.co/j3XqBTj3xR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17433,
+        "height": 1080,
+        "media_key": "13_1987158458978742272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987158458978742272/img/StJYU0tBKi-jJOOi.jpg",
+        "public_metrics": {
+          "view_count": 150676
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987158458978742272/vid/avc1/720x720/_wHyyBKofrw81KHv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987158458978742272/pl/sGLmad4JCPeh_vW3.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987158458978742272/vid/avc1/540x540/Zsmm9Rj5RK9tFYkV.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987158458978742272/vid/avc1/320x320/HpzggNyYQWslnMKp.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987158458978742272/vid/avc1/1080x1080/lE3PrUiwOpoU5CsV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987158458978742272"
+          ],
+          "media_source_tweet_id": [
+            "1987158531934486929"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987413893812265179",
+        "created_at": "2025-11-09T06:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987413893812265179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1586923432968654848",
+              "start": 3,
+              "username": "hayasaka_aryan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3XqBTj3xR",
+              "end": 45,
+              "expanded_url": "https://x.com/hayasaka_aryan/status/1987158531934486929/video/1",
+              "media_key": "13_1987158458978742272",
+              "start": 22,
+              "url": "https://t.co/j3XqBTj3xR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987413893812265179",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987158531934486929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayasaka_aryan: _ https://t.co/j3XqBTj3xR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987158458978742272"
+          ]
+        },
+        "author_id": "1586923432968654848",
+        "conversation_id": "1987158531934486929",
+        "created_at": "2025-11-08T14:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987158531934486929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3XqBTj3xR",
+              "end": 25,
+              "expanded_url": "https://x.com/hayasaka_aryan/status/1987158531934486929/video/1",
+              "media_key": "13_1987158458978742272",
+              "start": 2,
+              "url": "https://t.co/j3XqBTj3xR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987158531934486929",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3241,
+          "impression_count": 230757,
+          "like_count": 14067,
+          "quote_count": 18,
+          "reply_count": 59,
+          "retweet_count": 1132
+        },
+        "reply_settings": "everyone",
+        "text": "_ https://t.co/j3XqBTj3xR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 120,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T03:30:14.000Z",
+        "description": "Hard hit by the times, that’s just how your life goes by",
+        "id": "1586923432968654848",
+        "name": "Kaguya’s Top Gal",
+        "pinned_tweet_id": "1861810968226926690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739670564254494720/PiJT2lOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219864,
+          "following_count": 327,
+          "like_count": 136238,
+          "listed_count": 768,
+          "media_count": 13008,
+          "tweet_count": 33944
+        },
+        "username": "hayasaka_aryan",
+        "verified": true
+      }
+    ]
+  }
+}

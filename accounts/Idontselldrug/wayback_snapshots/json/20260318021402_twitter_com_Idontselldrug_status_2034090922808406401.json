@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034067875456233828",
+    "created_at": "2026-03-18T02:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T03:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034090922808406401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 28,
+          "id": "2011873376445612032",
+          "start": 14,
+          "username": "MutsumiXiaomu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034090922808406401",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034082608133640260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ @MutsumiXiaomu 快进到中国特色代可可脂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034082608133640260].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034082608133640260",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034082608133640260"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034067875456233828",
+        "created_at": "2026-03-18T02:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034090922808406401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 28,
+              "id": "2011873376445612032",
+              "start": 14,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034090922808406401",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034082608133640260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @MutsumiXiaomu 快进到中国特色代可可脂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 237,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜@2541404751Hiko｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "2541404751Hiko"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "shungleemain"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 802,
+          "like_count": 32184,
+          "listed_count": 2,
+          "media_count": 921,
+          "tweet_count": 14262
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨BPD 被害妄想 孤独 疯子 希望死了就是死了别再有另个世界       永远的好朋友：@Natsumeann13          亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)         ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "location": "为这个世界而祷哀吧",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2033416843646697603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 894,
+          "like_count": 6495,
+          "listed_count": 21,
+          "media_count": 48,
+          "tweet_count": 1304
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

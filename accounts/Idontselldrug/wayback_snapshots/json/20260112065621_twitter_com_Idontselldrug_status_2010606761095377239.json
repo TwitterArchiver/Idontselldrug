@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010386216831660032"
+      ],
+      "media_source_tweet_id": [
+        "2010396291658895400"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2010606761095377239",
+    "created_at": "2026-01-12T06:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T07:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010606761095377239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874118570495311872",
+          "start": 3,
+          "username": "ReplyArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3KZiSNthg",
+          "end": 41,
+          "expanded_url": "https://x.com/ReplyArchive/status/2010396291658895400/photo/1",
+          "media_key": "3_2010386216831660032",
+          "start": 18,
+          "url": "https://t.co/L3KZiSNthg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010606761095377239",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1826
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010396291658895400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReplyArchive: https://t.co/L3KZiSNthg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2010386216831660032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZTnNuXsAAeQsz.png",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010386216831660032"
+          ],
+          "media_source_tweet_id": [
+            "2010396291658895400"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2010606761095377239",
+        "created_at": "2026-01-12T06:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010606761095377239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874118570495311872",
+              "start": 3,
+              "username": "ReplyArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3KZiSNthg",
+              "end": 41,
+              "expanded_url": "https://x.com/ReplyArchive/status/2010396291658895400/photo/1",
+              "media_key": "3_2010386216831660032",
+              "start": 18,
+              "url": "https://t.co/L3KZiSNthg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010606761095377239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1826
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010396291658895400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReplyArchive: https://t.co/L3KZiSNthg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010386216831660032"
+          ]
+        },
+        "author_id": "1874118570495311872",
+        "conversation_id": "2010396291658895400",
+        "created_at": "2026-01-11T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010396291658895400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3KZiSNthg",
+              "end": 23,
+              "expanded_url": "https://x.com/ReplyArchive/status/2010396291658895400/photo/1",
+              "media_key": "3_2010386216831660032",
+              "start": 0,
+              "url": "https://t.co/L3KZiSNthg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010396291658895400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 226185,
+          "like_count": 39947,
+          "quote_count": 22,
+          "reply_count": 8,
+          "retweet_count": 1826
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L3KZiSNthg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 220,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:41:17.000Z",
+        "description": "rare insults archived",
+        "id": "1874118570495311872",
+        "name": "Reply Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008920108874285056/-n_xXGwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380570,
+          "following_count": 0,
+          "like_count": 188,
+          "listed_count": 351,
+          "media_count": 11,
+          "tweet_count": 11
+        },
+        "username": "ReplyArchive",
+        "verified": true
+      }
+    ]
+  }
+}

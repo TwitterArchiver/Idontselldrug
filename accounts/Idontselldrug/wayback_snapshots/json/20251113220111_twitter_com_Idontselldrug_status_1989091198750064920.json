@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989065710014976016",
+    "created_at": "2025-11-13T22:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T23:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989091198750064920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989091198750064920",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989065710014976016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "3. vvv干过很坏的事情就是 抑郁症在家的时候写mc的挂卖 绕过反作弊真的很有意思 主要是hyt的aac和vulkan 虽然玩mc的都是小学生没什么钱 但是因为我真的很厉害所以卖了很多钱 我写了个js 杀人自动发送消息宣传外挂 把别人引到我建的网站买挂 服务器里都是我的广告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989065710014976016",
+        "created_at": "2025-11-13T22:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989091198750064920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989091198750064920",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989065710014976016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3. vvv干过很坏的事情就是 抑郁症在家的时候写mc的挂卖 绕过反作弊真的很有意思 主要是hyt的aac和vulkan 虽然玩mc的都是小学生没什么钱 但是因为我真的很厉害所以卖了很多钱 我写了个js 杀人自动发送消息宣传外挂 把别人引到我建的网站买挂 服务器里都是我的广告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989065710014976016",
+        "created_at": "2025-11-13T20:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T21:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989065710014976016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainduRhinns/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/RainduRhinns/status/1989039521565143446",
+              "start": 14,
+              "url": "https://t.co/eaGBjt0iXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989065710014976016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989039521565143446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个vvv小知识 https://t.co/eaGBjt0iXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 138,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 126
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

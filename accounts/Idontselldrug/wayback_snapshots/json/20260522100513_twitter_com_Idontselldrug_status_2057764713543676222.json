@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057039195818909696"
+      ],
+      "media_source_tweet_id": [
+        "2057039200940089724"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2057764713543676222",
+    "created_at": "2026-05-22T10:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057764713543676222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1392737831978741768",
+          "start": 3,
+          "username": "manzixd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsLxtr6yZ4",
+          "end": 36,
+          "expanded_url": "https://x.com/manzixd/status/2057039200940089724/photo/1",
+          "media_key": "3_2057039195818909696",
+          "start": 13,
+          "url": "https://t.co/bsLxtr6yZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057764713543676222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057039200940089724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manzixd: https://t.co/bsLxtr6yZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2057039195818909696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwSP_vXYAAof9Q.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057039195818909696"
+          ],
+          "media_source_tweet_id": [
+            "2057039200940089724"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2057764713543676222",
+        "created_at": "2026-05-22T10:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057764713543676222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1392737831978741768",
+              "start": 3,
+              "username": "manzixd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsLxtr6yZ4",
+              "end": 36,
+              "expanded_url": "https://x.com/manzixd/status/2057039200940089724/photo/1",
+              "media_key": "3_2057039195818909696",
+              "start": 13,
+              "url": "https://t.co/bsLxtr6yZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057764713543676222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057039200940089724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manzixd: https://t.co/bsLxtr6yZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057039195818909696"
+          ]
+        },
+        "author_id": "1392737831978741768",
+        "conversation_id": "2057039200940089724",
+        "created_at": "2026-05-20T10:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057039200940089724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsLxtr6yZ4",
+              "end": 23,
+              "expanded_url": "https://x.com/manzixd/status/2057039200940089724/photo/1",
+              "media_key": "3_2057039195818909696",
+              "start": 0,
+              "url": "https://t.co/bsLxtr6yZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057039200940089724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11986,
+          "impression_count": 2836868,
+          "like_count": 188499,
+          "quote_count": 524,
+          "reply_count": 288,
+          "retweet_count": 22430
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bsLxtr6yZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 282,
+          "like_count": 2289,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 2887
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-13T07:05:59.000Z",
+        "description": "yo",
+        "id": "1392737831978741768",
+        "location": "sweden",
+        "name": "manzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863965687930044416/82sM5Ebo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 177,
+          "like_count": 9456,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1815
+        },
+        "username": "manzixd",
+        "verified": false
+      }
+    ]
+  }
+}

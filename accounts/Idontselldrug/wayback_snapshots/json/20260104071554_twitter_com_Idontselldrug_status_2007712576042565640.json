@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2007054322434293761",
+    "created_at": "2026-01-04T07:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007712576042565640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 28,
+          "id": "2007148052424118273",
+          "start": 12,
+          "username": "jingyin8964_TVT"
+        },
+        {
+          "end": 45,
+          "id": "1804587925805596672",
+          "start": 29,
+          "username": "OverSpring_wiki"
+        },
+        {
+          "end": 62,
+          "id": "1827364437550071809",
+          "start": 46,
+          "username": "Minokakaysex2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007712576042565640",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007687344082809124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @jingyin8964_TVT @OverSpring_wiki @Minokakaysex2nd 真k粉吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007687344082809124].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007687344082809124",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007687344082809124"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2007054322434293761",
+        "created_at": "2026-01-04T07:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007712576042565640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 28,
+              "id": "2007148052424118273",
+              "start": 12,
+              "username": "jingyin8964_TVT"
+            },
+            {
+              "end": 45,
+              "id": "1804587925805596672",
+              "start": 29,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 62,
+              "id": "1827364437550071809",
+              "start": 46,
+              "username": "Minokakaysex2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007712576042565640",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007687344082809124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @jingyin8964_TVT @OverSpring_wiki @Minokakaysex2nd 真k粉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 206,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "瞳逸らさないで 大きく手を伸ばす 雪解けを待ってる\nsignal nanacan.58   注册signal不收费，大家都来用它，让sb杜洛夫爬爬",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 205,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1389
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T17:52:55.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心的闭上了眼 /FOWweb組/老公❣️@Edward_8964 /姐姐💖@shuijiaozzz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 68,
+                "start": 53,
+                "username": "shuijiaozzz233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/jZAjkyeKAd"
+              }
+            ]
+          }
+        },
+        "id": "2007148052424118273",
+        "name": "镜音",
+        "pinned_tweet_id": "2007631407502565426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007148489642504192/bXza5oIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 106,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/jZAjkyeKAd",
+        "username": "jingyin8964_TVT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用/Transhumanism/Left-libertarian/Free market with UBI/Cultural liberty/Agorism游击队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CW7Im"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4638,
+          "following_count": 695,
+          "like_count": 25540,
+          "listed_count": 11,
+          "media_count": 421,
+          "tweet_count": 5783
+        },
+        "url": "https://t.co/YS4b5CW7Im",
+        "username": "OverSpring_wiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T15:16:55.000Z",
+        "description": "第二次转生，如有任何问题请先看https://t.co/8K8Kws197t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 38,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 15,
+                "url": "https://t.co/8K8Kws197t"
+              }
+            ]
+          }
+        },
+        "id": "1827364437550071809",
+        "location": "Tokyo-to, Japan",
+        "name": "Chosekiiii三号机",
+        "pinned_tweet_id": "1827365813281812640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006819690505711618/AtpZuUzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 80,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "Minokakaysex2nd",
+        "verified": false
+      }
+    ]
+  }
+}

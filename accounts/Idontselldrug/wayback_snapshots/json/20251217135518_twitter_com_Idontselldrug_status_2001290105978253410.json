@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000926316598525960"
+      ],
+      "media_source_tweet_id": [
+        "2000926711979151657"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2001290105978253410",
+    "created_at": "2025-12-17T13:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001290105978253410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3038421346",
+          "start": 3,
+          "username": "Stryxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czDdGuAFqn",
+          "end": 104,
+          "expanded_url": "https://x.com/Stryxo/status/2000926711979151657/video/1",
+          "media_key": "13_2000926316598525960",
+          "start": 81,
+          "url": "https://t.co/czDdGuAFqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001290105978253410",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000926711979151657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stryxo: when the cops finally get me so I pull out a single gram of fentanyl https://t.co/czDdGuAFqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37583,
+        "height": 1080,
+        "media_key": "13_2000926316598525960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000926316598525960/img/YL_CSR3k-6Ied4Vs.jpg",
+        "public_metrics": {
+          "view_count": 897834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000926316598525960/vid/avc1/480x270/O3q8VLmecPQwoHGx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000926316598525960/vid/avc1/640x360/f3u4sM4Z9NagwH_j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000926316598525960/vid/avc1/1280x720/KO6cLx5FLDfJwpcO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000926316598525960/pl/3mBaBtKx7PimonB4.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000926316598525960"
+          ],
+          "media_source_tweet_id": [
+            "2000926711979151657"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2001290105978253410",
+        "created_at": "2025-12-17T13:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001290105978253410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3038421346",
+              "start": 3,
+              "username": "Stryxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czDdGuAFqn",
+              "end": 104,
+              "expanded_url": "https://x.com/Stryxo/status/2000926711979151657/video/1",
+              "media_key": "13_2000926316598525960",
+              "start": 81,
+              "url": "https://t.co/czDdGuAFqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001290105978253410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000926711979151657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stryxo: when the cops finally get me so I pull out a single gram of fentanyl https://t.co/czDdGuAFqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000926316598525960"
+          ]
+        },
+        "author_id": "3038421346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2000926711979151657",
+        "created_at": "2025-12-16T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000926711979151657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czDdGuAFqn",
+              "end": 92,
+              "expanded_url": "https://x.com/Stryxo/status/2000926711979151657/video/1",
+              "media_key": "13_2000926316598525960",
+              "start": 69,
+              "url": "https://t.co/czDdGuAFqn"
+            },
+            {
+              "display_url": "x.com/NewsWire_US/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/NewsWire_US/status/2000667267445518420",
+              "start": 93,
+              "url": "https://t.co/EQldcfbu44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000926711979151657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5494,
+          "impression_count": 2842911,
+          "like_count": 83598,
+          "quote_count": 80,
+          "reply_count": 99,
+          "retweet_count": 4270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000667267445518420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when the cops finally get me so I pull out a single gram of fentanyl https://t.co/czDdGuAFqn https://t.co/EQldcfbu44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 188,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-15T06:00:56.000Z",
+        "description": "i upload youtube video :)\n\n@stryxo2\n\ntwitch: https://t.co/yLKUSBdpgA\n\nbusiness - partnerships@manatalentgroup.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "stryxo2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/stryxo",
+                "end": 68,
+                "expanded_url": "http://twitch.tv/stryxo",
+                "start": 45,
+                "url": "https://t.co/yLKUSBdpgA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/stryxo",
+                "end": 23,
+                "expanded_url": "http://youtube.com/stryxo",
+                "start": 0,
+                "url": "https://t.co/CeXphgstC9"
+              }
+            ]
+          }
+        },
+        "id": "3038421346",
+        "location": "https://discord.gg/mqvnxCBmEZ",
+        "name": "Stryxo",
+        "pinned_tweet_id": "1429576383383080961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644425949272764429/rFVvp3zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11827,
+          "following_count": 442,
+          "like_count": 110874,
+          "listed_count": 17,
+          "media_count": 1562,
+          "tweet_count": 4953
+        },
+        "url": "https://t.co/CeXphgstC9",
+        "username": "Stryxo",
+        "verified": false
+      }
+    ]
+  }
+}

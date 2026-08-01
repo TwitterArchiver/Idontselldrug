@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034852813097115830",
+    "created_at": "2026-03-20T04:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034852813097115830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1750858704751345664",
+          "start": 3,
+          "username": "Camwitdayplan"
+        },
+        {
+          "end": 32,
+          "id": "1471414739880189955",
+          "start": 19,
+          "username": "kirawontmiss"
+        },
+        {
+          "end": 38,
+          "id": "1720665183188922368",
+          "start": 33,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034852813097115830",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922081641998254363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Camwitdayplan: @kirawontmiss @grok what are ports"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034852813097115830",
+        "created_at": "2026-03-20T04:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034852813097115830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1750858704751345664",
+              "start": 3,
+              "username": "Camwitdayplan"
+            },
+            {
+              "end": 32,
+              "id": "1471414739880189955",
+              "start": 19,
+              "username": "kirawontmiss"
+            },
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034852813097115830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922081641998254363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Camwitdayplan: @kirawontmiss @grok what are ports"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750858704751345664",
+        "conversation_id": "1922024317858058534",
+        "created_at": "2025-05-13T00:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T01:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922081641998254363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1471414739880189955",
+              "start": 0,
+              "username": "kirawontmiss"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922081641998254363",
+        "in_reply_to_user_id": "1471414739880189955",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 143268,
+          "like_count": 124,
+          "quote_count": 12,
+          "reply_count": 74,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922024317858058534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirawontmiss @grok what are ports"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 236,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T12:30:49.000Z",
+        "description": "",
+        "id": "1750858704751345664",
+        "name": "Cam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922268756807495680/DBiVIFXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 71,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "username": "Camwitdayplan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T09:40:12.000Z",
+        "description": "a self-proclaimed free thinker •    • Sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "rainbetcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kiradontmiss",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kiradontmiss",
+                "start": 0,
+                "url": "https://t.co/XBrjAFVZOC"
+              }
+            ]
+          }
+        },
+        "id": "1471414739880189955",
+        "name": "kira 👾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636443983990669326/xm-YehdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326622,
+          "following_count": 1573,
+          "like_count": 31143,
+          "listed_count": 4745,
+          "media_count": 10679,
+          "tweet_count": 25924
+        },
+        "url": "https://t.co/XBrjAFVZOC",
+        "username": "kirawontmiss",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8453620,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6552,
+          "media_count": 8669432,
+          "tweet_count": 118566205
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

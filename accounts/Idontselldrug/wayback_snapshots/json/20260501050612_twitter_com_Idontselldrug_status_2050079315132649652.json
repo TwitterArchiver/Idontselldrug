@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Francisco",
+          "id": "908354585005146113",
+          "name": "San Francisco"
+        }
+      }
+    ],
+    "conversation_id": "2050079315132649652",
+    "created_at": "2026-05-01T05:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050079315132649652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kevinvdahlgren…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/kevinvdahlgren/status/2049844497081946452",
+          "start": 38,
+          "url": "https://t.co/YW9heJsgJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050079315132649652",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049844497081946452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "We on a long road of self destruction https://t.co/YW9heJsgJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53218,
+        "height": 1460,
+        "media_key": "13_2049844434540568576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049844434540568576/img/5-BOG8VoLjGih9Xp.jpg",
+        "public_metrics": {
+          "view_count": 38701
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844434540568576/vid/avc1/720x972/zzcLkIfDvQ9OY4VQ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844434540568576/vid/avc1/480x648/WnPPsWmVjH_oZh1R.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049844434540568576/pl/vnzbNSf86C3KJ3Jd.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844434540568576/vid/avc1/320x432/WiT7e1TsWA_E04os.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844434540568576/vid/avc1/1080x1460/rEfwb7SyUeLpGOb-.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2050079315132649652",
+        "created_at": "2026-05-01T05:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050079315132649652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kevinvdahlgren…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kevinvdahlgren/status/2049844497081946452",
+              "start": 38,
+              "url": "https://t.co/YW9heJsgJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050079315132649652",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049844497081946452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We on a long road of self destruction https://t.co/YW9heJsgJL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049844434540568576"
+          ]
+        },
+        "author_id": "1515781648310161409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "2049844497081946452",
+        "created_at": "2026-04-30T13:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049844497081946452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1091838536582451200",
+              "start": 63,
+              "username": "war24182236"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKXZg0fwZ8",
+              "end": 116,
+              "expanded_url": "https://x.com/kevinvdahlgren/status/2049844497081946452/video/1",
+              "media_key": "13_2049844434540568576",
+              "start": 93,
+              "url": "https://t.co/DKXZg0fwZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049844497081946452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 93812,
+          "like_count": 1055,
+          "quote_count": 76,
+          "reply_count": 297,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "Addiction is a weapon of self-destruction. Filmed by my friend @war24182236 in San Francisco https://t.co/DKXZg0fwZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 280,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-17T19:58:14.000Z",
+        "description": "A boots on the ground independent journalist. Ending homelessness by empowering not enabling. Support https://t.co/Bsyq8ynqWT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/thestreets",
+                "end": 125,
+                "expanded_url": "http://buymeacoffee.com/thestreets",
+                "start": 102,
+                "url": "https://t.co/Bsyq8ynqWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "truthonthestreets.substack.com",
+                "end": 23,
+                "expanded_url": "https://truthonthestreets.substack.com/",
+                "start": 0,
+                "url": "https://t.co/2KDzkGe10A"
+              }
+            ]
+          }
+        },
+        "id": "1515781648310161409",
+        "location": "Portland, OR",
+        "name": "Kevin Dahlgren 🥾 🥾",
+        "pinned_tweet_id": "2048867600751567009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009501776165355520/d36zxQYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114812,
+          "following_count": 1021,
+          "like_count": 1494,
+          "listed_count": 260,
+          "media_count": 8600,
+          "tweet_count": 12165
+        },
+        "url": "https://t.co/2KDzkGe10A",
+        "username": "kevinvdahlgren",
+        "verified": true
+      }
+    ]
+  }
+}

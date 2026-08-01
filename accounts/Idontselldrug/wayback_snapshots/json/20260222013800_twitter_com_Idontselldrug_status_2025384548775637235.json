@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2025384548775637235",
+    "created_at": "2026-02-22T01:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025384548775637235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1668910098515906560",
+          "start": 3,
+          "username": "we_have_water"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025384548775637235",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025242950079226036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @we_have_water: If u express an ounce of male sexuality outside the confines of ur chambers this is what u can expect to happen. Soyjak…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2025384548775637235",
+        "created_at": "2026-02-22T01:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025384548775637235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1668910098515906560",
+              "start": 3,
+              "username": "we_have_water"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025384548775637235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025242950079226036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @we_have_water: If u express an ounce of male sexuality outside the confines of ur chambers this is what u can expect to happen. Soyjak…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668910098515906560",
+        "conversation_id": "2025242950079226036",
+        "created_at": "2026-02-21T16:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025242950079226036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 118,
+              "normalized_text": "Soyjak",
+              "probability": 0.6487,
+              "start": 113,
+              "type": "Other"
+            },
+            {
+              "end": 225,
+              "normalized_text": "biomassia",
+              "probability": 0.4758,
+              "start": 217,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RawClipsDaily/…",
+              "end": 269,
+              "expanded_url": "https://twitter.com/RawClipsDaily/status/2025007166999199789",
+              "start": 246,
+              "url": "https://t.co/hj8XVse1fp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025242950079226036",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 327892,
+          "like_count": 1808,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025007166999199789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "If u express an ounce of male sexuality outside the confines of ur chambers this is what u can expect to happen. Soyjak sucker punches u and aot hoodie bitch giggles when they call in the natl guard to take u away to biomassia state penitentiary https://t.co/hj8XVse1fp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 225,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:16:10.000Z",
+        "description": "1dayumay find what you’re looking for",
+        "id": "1668910098515906560",
+        "name": "I’ve been having ideas lately",
+        "pinned_tweet_id": "1962269315614323051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954001076127928320/FKgO_B7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 137,
+          "like_count": 115991,
+          "listed_count": 8,
+          "media_count": 2350,
+          "tweet_count": 6891
+        },
+        "username": "we_have_water",
+        "verified": false
+      }
+    ]
+  }
+}

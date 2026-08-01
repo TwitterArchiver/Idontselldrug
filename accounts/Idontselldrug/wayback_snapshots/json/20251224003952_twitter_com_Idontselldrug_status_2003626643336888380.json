@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2003626643336888380",
+    "created_at": "2025-12-24T00:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003626643336888380"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "Charlie Clank",
+          "probability": 0.8264,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/politpostmeme/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/politpostmeme/status/2003454510254235900",
+          "start": 19,
+          "url": "https://t.co/P7Cka4eC8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003626643336888380",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003454510254235900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Charlie Clank 2032 https://t.co/P7Cka4eC8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003454501924061184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82zQTbXQAArivQ.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003626643336888380",
+        "created_at": "2025-12-24T00:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003626643336888380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Charlie Clank",
+              "probability": 0.8264,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/politpostmeme/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/politpostmeme/status/2003454510254235900",
+              "start": 19,
+              "url": "https://t.co/P7Cka4eC8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003626643336888380",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003454510254235900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Charlie Clank 2032 https://t.co/P7Cka4eC8U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003454501924061184"
+          ]
+        },
+        "author_id": "1909219169892978688",
+        "conversation_id": "2003454510254235900",
+        "created_at": "2025-12-23T13:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T14:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003454510254235900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vpamy5KBf3",
+              "end": 23,
+              "expanded_url": "https://x.com/politpostmeme/status/2003454510254235900/photo/1",
+              "media_key": "3_2003454501924061184",
+              "start": 0,
+              "url": "https://t.co/Vpamy5KBf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003454510254235900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 6851,
+          "like_count": 484,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vpamy5KBf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 199,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T12:18:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/postironicpol",
+                "end": 23,
+                "expanded_url": "https://t.me/postironicpol",
+                "start": 0,
+                "url": "https://t.co/Jpw4JqvnYV"
+              }
+            ]
+          }
+        },
+        "id": "1909219169892978688",
+        "name": "постіронічні політичні меми",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909219402362265600/Jplo73t2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 10,
+          "like_count": 69,
+          "listed_count": 43,
+          "media_count": 1035,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/Jpw4JqvnYV",
+        "username": "politpostmeme",
+        "verified": true
+      }
+    ]
+  }
+}

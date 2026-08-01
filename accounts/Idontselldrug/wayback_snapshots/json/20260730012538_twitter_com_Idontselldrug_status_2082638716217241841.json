@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082438502159904768"
+      ],
+      "media_source_tweet_id": [
+        "2082438507843183048"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2082638716217241841",
+    "created_at": "2026-07-30T01:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082638716217241841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847663175933575168",
+          "start": 3,
+          "username": "365summerrs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bY9XwfCepI",
+          "end": 44,
+          "expanded_url": "https://x.com/365summerrs/status/2082438507843183048/photo/1",
+          "media_key": "3_2082438502159904768",
+          "start": 21,
+          "url": "https://t.co/bY9XwfCepI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082638716217241841",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082438507843183048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @365summerrs: ??? https://t.co/bY9XwfCepI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2082438502159904768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZOyNPWcAAx2bN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082438502159904768"
+          ]
+        },
+        "author_id": "1847663175933575168",
+        "conversation_id": "2082438507843183048",
+        "created_at": "2026-07-29T12:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082438507843183048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bY9XwfCepI",
+              "end": 27,
+              "expanded_url": "https://x.com/365summerrs/status/2082438507843183048/photo/1",
+              "media_key": "3_2082438502159904768",
+              "start": 4,
+              "url": "https://t.co/bY9XwfCepI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082438507843183048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1652,
+          "impression_count": 818861,
+          "like_count": 55488,
+          "quote_count": 194,
+          "reply_count": 118,
+          "retweet_count": 2868
+        },
+        "reply_settings": "everyone",
+        "text": "??? https://t.co/bY9XwfCepI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082438502159904768"
+          ],
+          "media_source_tweet_id": [
+            "2082438507843183048"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2082638716217241841",
+        "created_at": "2026-07-30T01:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082638716217241841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847663175933575168",
+              "start": 3,
+              "username": "365summerrs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bY9XwfCepI",
+              "end": 44,
+              "expanded_url": "https://x.com/365summerrs/status/2082438507843183048/photo/1",
+              "media_key": "3_2082438502159904768",
+              "start": 21,
+              "url": "https://t.co/bY9XwfCepI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082638716217241841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082438507843183048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @365summerrs: ??? https://t.co/bY9XwfCepI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 306,
+          "like_count": 2838,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T15:37:00.000Z",
+        "description": "",
+        "id": "1847663175933575168",
+        "name": "summer",
+        "pinned_tweet_id": "2066678155566272850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066664838370078720/dqxO-_8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 432,
+          "like_count": 10571,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "365summerrs",
+        "verified": false
+      }
+    ]
+  }
+}

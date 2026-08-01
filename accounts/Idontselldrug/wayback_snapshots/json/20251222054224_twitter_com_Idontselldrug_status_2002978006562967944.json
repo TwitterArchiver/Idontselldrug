@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002978002896908288",
+        "3_2002978003152687104",
+        "3_2002978004020977664",
+        "3_2002978004012523520"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002978006562967944",
+    "created_at": "2025-12-22T05:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002978006562967944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690721268373581824",
+          "start": 1,
+          "username": "Celsius233C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjNPSl1fFN",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+          "media_key": "3_2002978002896908288",
+          "start": 14,
+          "url": "https://t.co/kjNPSl1fFN"
+        },
+        {
+          "display_url": "pic.x.com/kjNPSl1fFN",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+          "media_key": "3_2002978003152687104",
+          "start": 14,
+          "url": "https://t.co/kjNPSl1fFN"
+        },
+        {
+          "display_url": "pic.x.com/kjNPSl1fFN",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+          "media_key": "3_2002978004020977664",
+          "start": 14,
+          "url": "https://t.co/kjNPSl1fFN"
+        },
+        {
+          "display_url": "pic.x.com/kjNPSl1fFN",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+          "media_key": "3_2002978004012523520",
+          "start": 14,
+          "url": "https://t.co/kjNPSl1fFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002978006562967944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@Celsius233C https://t.co/kjNPSl1fFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2002978002896908288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wB4aOXcAA5bBM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2002978003152687104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wB4bLWUAAIDPe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002978004020977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wB4eaXYAA__iY.jpg",
+        "width": 1379
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002978004012523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wB4eYWYAAESXu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002978002896908288",
+            "3_2002978003152687104",
+            "3_2002978004020977664",
+            "3_2002978004012523520"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002978006562967944",
+        "created_at": "2025-12-22T05:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002978006562967944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690721268373581824",
+              "start": 1,
+              "username": "Celsius233C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjNPSl1fFN",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+              "media_key": "3_2002978002896908288",
+              "start": 14,
+              "url": "https://t.co/kjNPSl1fFN"
+            },
+            {
+              "display_url": "pic.x.com/kjNPSl1fFN",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+              "media_key": "3_2002978003152687104",
+              "start": 14,
+              "url": "https://t.co/kjNPSl1fFN"
+            },
+            {
+              "display_url": "pic.x.com/kjNPSl1fFN",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+              "media_key": "3_2002978004020977664",
+              "start": 14,
+              "url": "https://t.co/kjNPSl1fFN"
+            },
+            {
+              "display_url": "pic.x.com/kjNPSl1fFN",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002978006562967944/photo/1",
+              "media_key": "3_2002978004012523520",
+              "start": 14,
+              "url": "https://t.co/kjNPSl1fFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002978006562967944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@Celsius233C https://t.co/kjNPSl1fFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 194,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 881,
+          "like_count": 22660,
+          "listed_count": 22,
+          "media_count": 149,
+          "tweet_count": 2533
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1995440670572687384",
+    "created_at": "2025-12-01T10:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T11:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995440670572687384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuibuxingy1/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shuibuxingy1/status/1994767346607820845",
+          "start": 7,
+          "url": "https://t.co/LGmNIv3Sny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995440670572687384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994767346607820845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎美国太坏了 https://t.co/LGmNIv3Sny"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1995440670572687384",
+        "created_at": "2025-12-01T10:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995440670572687384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuibuxingy1/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shuibuxingy1/status/1994767346607820845",
+              "start": 7,
+              "url": "https://t.co/LGmNIv3Sny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995440670572687384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994767346607820845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎美国太坏了 https://t.co/LGmNIv3Sny"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892928981160333313",
+        "conversation_id": "1994767346607820845",
+        "created_at": "2025-11-29T13:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994767346607820845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994767346607820845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 256727,
+          "like_count": 384,
+          "quote_count": 6,
+          "reply_count": 92,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想知道少爷小姐们在外面真的会吸吗…我身边有不少出国的，但是没有高中就在那边读美高的…不会本科过去也会被带坏吧😱😱\n（不知道你们有没有看过曾经有个留学生瓜田pdf合集网站，里面有个女生吸期间还生了个婴儿不养 结果死了的，给我看傻了…）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 179,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T13:27:04.000Z",
+        "description": "♏️女大｜📓碎碎念｜不搞🚪投喂的请留言🆔让我眼熟一下^ ^｜备考中 ✉️私信随缘回",
+        "id": "1892928981160333313",
+        "name": "每天睡不醒.",
+        "pinned_tweet_id": "1933743613290369442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984497236387221504/uwdNfvx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 108,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 465
+        },
+        "username": "shuibuxingy1",
+        "verified": false
+      }
+    ]
+  }
+}

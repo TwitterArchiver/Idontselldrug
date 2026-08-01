@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989905695274324024",
+    "created_at": "2025-11-16T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990050420216254963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "451578976",
+          "start": 0,
+          "username": "tylertheuzivert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990050420216254963",
+    "in_reply_to_user_id": "451578976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990049085198610675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tylertheuzivert 等待时间动不动几年 中国只要几周"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989905695274324024",
+        "created_at": "2025-11-16T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990050420216254963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "451578976",
+              "start": 0,
+              "username": "tylertheuzivert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990050420216254963",
+        "in_reply_to_user_id": "451578976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990049085198610675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tylertheuzivert 等待时间动不动几年 中国只要几周"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "451578976",
+        "conversation_id": "1989905695274324024",
+        "created_at": "2025-11-16T13:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990049085198610675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990049085198610675",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989905695274324024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 到加拿大了那么难拿美签吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 142,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-31T18:16:39.000Z",
+        "description": "一个ADHDer……..大部分促智药都有，目前正常发货 私信回复不及时可联系Tg @tylertheuzivert TG药物频道https://t.co/MH6N1maP1B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "tylertheuzivert"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 87,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 64,
+                "url": "https://t.co/MH6N1maP1B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tylertheuziver…",
+                "end": 23,
+                "expanded_url": "https://t.me/tylertheuzivert1",
+                "start": 0,
+                "url": "https://t.co/MH6N1maP1B"
+              }
+            ]
+          }
+        },
+        "id": "451578976",
+        "name": "Tyler促智/苯基吡拉西坦/noopept/利他林/聪明药/专注达",
+        "pinned_tweet_id": "1988224709159514423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977015448563785728/M-BtDaob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 62,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/MH6N1maP1B",
+        "username": "tylertheuzivert",
+        "verified": false
+      }
+    ]
+  }
+}

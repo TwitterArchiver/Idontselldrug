@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1585051683389702144",
+          "name": "NYSE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10043154690",
+          "name": "Eli Lilly and Company"
+        }
+      }
+    ],
+    "conversation_id": "2049701536020955155",
+    "created_at": "2026-04-30T04:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049701536020955155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049701536020955155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "鉴于对多靶点代谢调节剂——瑞他鲁肽（Retatrutide）在临床表现及药效学逻辑上的深度研判，本人已完成对其底层价值的系统性评估。\n​基于对 GLP-1/GIP/GCG 三重激动剂管线的战略性看好，本人已于今日通过公开市场正式确立对礼来（Eli Lilly, NYSE: LLY）的资本头寸。现特此披露：本人已完成一股礼来普通股的建仓，正式开启对代谢医学赛道的长期价值追踪。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鉴于对多靶点代谢调节剂——瑞他鲁肽（Retatrutide）在临床表现及药效学逻辑上的深度研判，本人已完成对其底层价值的系统性评估。\n​基于对 GLP-1/GIP/GCG 三重激动剂管线的战略性看好，本人已于今日通过公开市场正式确立对礼来（Eli Lilly, NYSE:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1585051683389702144",
+              "name": "NYSE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043154690",
+              "name": "Eli Lilly and Company"
+            }
+          }
+        ],
+        "conversation_id": "2049701536020955155",
+        "created_at": "2026-04-30T04:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049701536020955155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049701536020955155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "鉴于对多靶点代谢调节剂——瑞他鲁肽（Retatrutide）在临床表现及药效学逻辑上的深度研判，本人已完成对其底层价值的系统性评估。\n​基于对 GLP-1/GIP/GCG 三重激动剂管线的战略性看好，本人已于今日通过公开市场正式确立对礼来（Eli Lilly, NYSE: LLY）的资本头寸。现特此披露：本人已完成一股礼来普通股的建仓，正式开启对代谢医学赛道的长期价值追踪。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于对多靶点代谢调节剂——瑞他鲁肽（Retatrutide）在临床表现及药效学逻辑上的深度研判，本人已完成对其底层价值的系统性评估。\n​基于对 GLP-1/GIP/GCG 三重激动剂管线的战略性看好，本人已于今日通过公开市场正式确立对礼来（Eli Lilly, NYSE:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 280,
+          "like_count": 2042,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

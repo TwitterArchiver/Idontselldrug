@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008044962072678400"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008044964429865191",
+    "created_at": "2026-01-05T05:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T06:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008044964429865191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4OZA11MM34",
+          "end": 95,
+          "expanded_url": "https://x.com/Idontselldrug/status/2008044964429865191/photo/1",
+          "media_key": "3_2008044962072678400",
+          "start": 72,
+          "url": "https://t.co/4OZA11MM34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008044964429865191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "接近零下二十度的温度在埃德蒙顿已经算宜人了，也不用穿羽绒服也可以户外走个十几分钟，只要没有风就没关系，只是鼻子吸气会有点痛，感觉鼻粘膜要爆炸了 https://t.co/4OZA11MM34"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008044962072678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94CQQFa0AA_Btu.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008044962072678400"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008044964429865191",
+        "created_at": "2026-01-05T05:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T06:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008044964429865191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OZA11MM34",
+              "end": 95,
+              "expanded_url": "https://x.com/Idontselldrug/status/2008044964429865191/photo/1",
+              "media_key": "3_2008044962072678400",
+              "start": 72,
+              "url": "https://t.co/4OZA11MM34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008044964429865191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接近零下二十度的温度在埃德蒙顿已经算宜人了，也不用穿羽绒服也可以户外走个十几分钟，只要没有风就没关系，只是鼻子吸气会有点痛，感觉鼻粘膜要爆炸了 https://t.co/4OZA11MM34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 207,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

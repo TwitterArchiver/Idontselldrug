@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049710938392326144",
+        "3_2049710940346802176",
+        "3_2049710941768671232"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2049710946587992283",
+    "created_at": "2026-04-30T04:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049710946587992283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFMYbbOAll",
+          "end": 77,
+          "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+          "media_key": "3_2049710938392326144",
+          "start": 54,
+          "url": "https://t.co/TFMYbbOAll"
+        },
+        {
+          "display_url": "pic.x.com/TFMYbbOAll",
+          "end": 77,
+          "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+          "media_key": "3_2049710940346802176",
+          "start": 54,
+          "url": "https://t.co/TFMYbbOAll"
+        },
+        {
+          "display_url": "pic.x.com/TFMYbbOAll",
+          "end": 77,
+          "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+          "media_key": "3_2049710941768671232",
+          "start": 54,
+          "url": "https://t.co/TFMYbbOAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049710946587992283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我在现实里是一事无成的二十岁大学生，但至少我可以搞到最纯的毒品。想到这里，vvv不由自主的昂首挺胸起来 https://t.co/TFMYbbOAll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2049710938392326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIJPRcbcAAGQ1P.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049710940346802176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIJPYuaYAAJaiz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049710941768671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIJPeBaYAAZQyz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049710938392326144",
+            "3_2049710940346802176",
+            "3_2049710941768671232"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2049710946587992283",
+        "created_at": "2026-04-30T04:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049710946587992283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFMYbbOAll",
+              "end": 77,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+              "media_key": "3_2049710938392326144",
+              "start": 54,
+              "url": "https://t.co/TFMYbbOAll"
+            },
+            {
+              "display_url": "pic.x.com/TFMYbbOAll",
+              "end": 77,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+              "media_key": "3_2049710940346802176",
+              "start": 54,
+              "url": "https://t.co/TFMYbbOAll"
+            },
+            {
+              "display_url": "pic.x.com/TFMYbbOAll",
+              "end": 77,
+              "expanded_url": "https://x.com/Idontselldrug/status/2049710946587992283/photo/1",
+              "media_key": "3_2049710941768671232",
+              "start": 54,
+              "url": "https://t.co/TFMYbbOAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049710946587992283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我在现实里是一事无成的二十岁大学生，但至少我可以搞到最纯的毒品。想到这里，vvv不由自主的昂首挺胸起来 https://t.co/TFMYbbOAll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 280,
+          "like_count": 2042,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

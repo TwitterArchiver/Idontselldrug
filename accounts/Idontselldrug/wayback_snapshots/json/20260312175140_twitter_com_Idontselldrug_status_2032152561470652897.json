@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2032152561470652897",
+    "created_at": "2026-03-12T17:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032152561470652897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2497458150",
+          "start": 3,
+          "username": "fuckeveryword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032152561470652897",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4646
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031900942757445804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckeveryword: fucking chud"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2032152561470652897",
+        "created_at": "2026-03-12T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032152561470652897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2497458150",
+              "start": 3,
+              "username": "fuckeveryword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032152561470652897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031900942757445804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuckeveryword: fucking chud"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497458150",
+        "conversation_id": "2031900942757445804",
+        "created_at": "2026-03-12T01:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031900942757445804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031900942757445804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1365,
+          "impression_count": 474728,
+          "like_count": 31458,
+          "quote_count": 299,
+          "reply_count": 167,
+          "retweet_count": 4646
+        },
+        "reply_settings": "everyone",
+        "text": "fucking chud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 231,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T01:03:46.000Z",
+        "description": "fucking every word in the english language. task 1 (fuck every word in the english language) completed 30 march 2025.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prideandprophecy.com/p/few.html",
+                "end": 23,
+                "expanded_url": "https://www.prideandprophecy.com/p/few.html",
+                "start": 0,
+                "url": "https://t.co/zyepb8SnVT"
+              }
+            ]
+          }
+        },
+        "id": "2497458150",
+        "name": "fucking every word",
+        "pinned_tweet_id": "2031900942757445804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477304353460477954/22GX6xG6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134478,
+          "following_count": 16,
+          "like_count": 4150,
+          "listed_count": 409,
+          "media_count": 9,
+          "tweet_count": 110347
+        },
+        "url": "https://t.co/zyepb8SnVT",
+        "username": "fuckeveryword",
+        "verified": true
+      }
+    ]
+  }
+}

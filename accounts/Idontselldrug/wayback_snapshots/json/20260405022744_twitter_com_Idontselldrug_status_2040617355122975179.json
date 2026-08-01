@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2040513998391779788",
+    "created_at": "2026-04-05T02:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040617355122975179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707194644803751937",
+          "start": 0,
+          "username": "xiaoz010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040617355122975179",
+    "in_reply_to_user_id": "707194644803751937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040615611387273460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoz010203 Vyvanse跟这个酶有关系吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2040513998391779788",
+        "created_at": "2026-04-05T02:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040617355122975179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707194644803751937",
+              "start": 0,
+              "username": "xiaoz010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040617355122975179",
+        "in_reply_to_user_id": "707194644803751937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040615611387273460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoz010203 Vyvanse跟这个酶有关系吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707194644803751937",
+        "conversation_id": "2040513998391779788",
+        "created_at": "2026-04-05T02:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040615611387273460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040615611387273460",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040513998391779788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 安非他酮抑制CYP2D6，如果不确定自己是快代谢，联用风险挺大的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 238,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T13:21:57.000Z",
+        "description": "“人的一生要经历太多的生离死别，那些突如其来的离别往往将人伤得措手不及。”｜可以叫我小z｜INFJ｜双鱼｜化学专业 医药研发｜在合理的范围内包容一切群体｜状态取决于最近的药量｜人生苦短，及时行乐，赢则大乐",
+        "id": "707194644803751937",
+        "name": "Zzzzzzzzzzz",
+        "pinned_tweet_id": "1866747340687806543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 49,
+          "like_count": 3845,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 2096
+        },
+        "username": "xiaoz010203",
+        "verified": false
+      }
+    ]
+  }
+}

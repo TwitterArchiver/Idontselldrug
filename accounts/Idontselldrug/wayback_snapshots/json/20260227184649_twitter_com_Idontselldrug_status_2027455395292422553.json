@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027318242189172876",
+    "created_at": "2026-02-27T18:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027455395292422553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027455395292422553",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027318242189172876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 主人主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2027318233146294273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ7MR1bgAEcmDK.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2027318233133654016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ7MRyaoAAycna.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2027318233137856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ7MRzawAAlSw9.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027318242189172876",
+        "created_at": "2026-02-27T18:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027455395292422553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027455395292422553",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027318242189172876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 主人主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027318233146294273",
+            "3_2027318233133654016",
+            "3_2027318233137856512"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "2027318242189172876",
+        "created_at": "2026-02-27T09:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027318242189172876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afqadTVXMa",
+              "end": 32,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027318242189172876/photo/1",
+              "media_key": "3_2027318233146294273",
+              "start": 9,
+              "url": "https://t.co/afqadTVXMa"
+            },
+            {
+              "display_url": "pic.x.com/afqadTVXMa",
+              "end": 32,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027318242189172876/photo/1",
+              "media_key": "3_2027318233133654016",
+              "start": 9,
+              "url": "https://t.co/afqadTVXMa"
+            },
+            {
+              "display_url": "pic.x.com/afqadTVXMa",
+              "end": 32,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027318242189172876/photo/1",
+              "media_key": "3_2027318233137856512",
+              "start": 9,
+              "url": "https://t.co/afqadTVXMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027318242189172876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自我感觉相当良好 https://t.co/afqadTVXMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 229,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 145,
+          "like_count": 1391,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1022
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

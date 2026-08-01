@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1990418827385999501",
+    "created_at": "2025-11-17T20:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T21:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990523893027910028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971329071576596480",
+          "start": 0,
+          "username": "spspsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990523893027910028",
+    "in_reply_to_user_id": "971329071576596480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990418827385999501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spspsky 你们是以色列背景吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1990418827385999501",
+        "created_at": "2025-11-17T20:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990523893027910028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971329071576596480",
+              "start": 0,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990523893027910028",
+        "in_reply_to_user_id": "971329071576596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990418827385999501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spspsky 你们是以色列背景吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971329071576596480",
+        "conversation_id": "1990418827385999501",
+        "created_at": "2025-11-17T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990418827385999501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @PsyLab91 right",
+              "display_url": "t.me/PsyLab91",
+              "end": 128,
+              "expanded_url": "https://t.me/PsyLab91",
+              "start": 105,
+              "status": 200,
+              "title": "Telegram: Contact @PsyLab91",
+              "unwound_url": "https://t.me/PsyLab91",
+              "url": "https://t.co/oW91IDgap6"
+            },
+            {
+              "description": "You can view and join @PsYLab10 right away.",
+              "display_url": "t.me/PsYLab10",
+              "end": 159,
+              "expanded_url": "https://t.me/PsYLab10",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1990416344269852672/9Brcr3GB?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990416344269852672/9Brcr3GB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "PsYLab商品频道",
+              "unwound_url": "https://t.me/PsYLab10",
+              "url": "https://t.co/JpM3D91ym5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990418827385999501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1165,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[通知]原PsychedelicProject现已更名PsYLab\n原策划药更新迭代中，暂支持批发，预计三天内恢复供货\n日本药业务不受影响，商品全面转移到商品频道\n欢迎加我们的交流群群内定期抽奖哦\nPL交流群：https://t.co/oW91IDgap6\nPL商品频道：https://t.co/JpM3D91ym5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 144,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "PsYLab策划药批发/日本药物代购 长期招代理",
+        "id": "971329071576596480",
+        "name": "PsYLab",
+        "pinned_tweet_id": "1990418827385999501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990391766185582592/ue7-K5if_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1303,
+          "like_count": 1106,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

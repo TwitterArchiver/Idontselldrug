@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048626688536535040"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048626690629493114",
+    "created_at": "2026-04-27T04:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048626690629493114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGsqT2CXIG",
+          "end": 170,
+          "expanded_url": "https://x.com/Idontselldrug/status/2048626690629493114/photo/1",
+          "media_key": "3_2048626688536535040",
+          "start": 147,
+          "url": "https://t.co/vGsqT2CXIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048626690629493114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我意外收到了冰毒\n\n我很惊讶的发现，疑似上次买莫达芬尼的时候贩子送了我俩速释的Adderall片\n然而加拿大没有真的速释Adderall，我很确信这是冰毒兑咖啡因\n反正我是不敢吃的，我可能会收藏起来吧\n\n为了响应马斯克同志的号召，我已经向DEA提交了举报与申诉，希望警察可以把这些坏人绳之以法 https://t.co/vGsqT2CXIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048626688536535040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4vHn-a4AAPSOA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048626688536535040"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048626690629493114",
+        "created_at": "2026-04-27T04:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048626690629493114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGsqT2CXIG",
+              "end": 170,
+              "expanded_url": "https://x.com/Idontselldrug/status/2048626690629493114/photo/1",
+              "media_key": "3_2048626688536535040",
+              "start": 147,
+              "url": "https://t.co/vGsqT2CXIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048626690629493114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我意外收到了冰毒\n\n我很惊讶的发现，疑似上次买莫达芬尼的时候贩子送了我俩速释的Adderall片\n然而加拿大没有真的速释Adderall，我很确信这是冰毒兑咖啡因\n反正我是不敢吃的，我可能会收藏起来吧\n\n为了响应马斯克同志的号召，我已经向DEA提交了举报与申诉，希望警察可以把这些坏人绳之以法 https://t.co/vGsqT2CXIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 277,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

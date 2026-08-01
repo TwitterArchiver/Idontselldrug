@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048102832512053248"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048061941965590613",
+    "created_at": "2026-04-25T18:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048102838493229163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uiGwkD1Gu0",
+          "end": 40,
+          "expanded_url": "https://x.com/Idontselldrug/status/2048102838493229163/photo/1",
+          "media_key": "16_2048102832512053248",
+          "start": 17,
+          "url": "https://t.co/uiGwkD1Gu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048102838493229163",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048061941965590613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 https://t.co/uiGwkD1Gu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2048102832512053248",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGxSrMNaMAAnIZz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGxSrMNaMAAnIZz.mp4"
+          }
+        ],
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048102832512053248"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048061941965590613",
+        "created_at": "2026-04-25T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048102838493229163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiGwkD1Gu0",
+              "end": 40,
+              "expanded_url": "https://x.com/Idontselldrug/status/2048102838493229163/photo/1",
+              "media_key": "16_2048102832512053248",
+              "start": 17,
+              "url": "https://t.co/uiGwkD1Gu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048102838493229163",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048061941965590613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 https://t.co/uiGwkD1Gu0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048061941965590613",
+        "created_at": "2026-04-25T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048061941965590613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048061941965590613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1084,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每个在多伦多的朋友都在发drake那个雷霆大冰块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 269,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 100,
+          "like_count": 10555,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3481
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

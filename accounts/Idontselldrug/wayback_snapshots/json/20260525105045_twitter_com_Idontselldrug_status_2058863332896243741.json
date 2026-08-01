@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2058863332896243741",
+    "created_at": "2026-05-25T10:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058863332896243741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EmpireEnjoyer3…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/EmpireEnjoyer3/status/2058592963060474104",
+          "start": 63,
+          "url": "https://t.co/wzA3rt168f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058863332896243741",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058592963060474104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Can't believe these niggas go to war instead of doing gay porn https://t.co/wzA3rt168f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2058592958924963840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGXY6XXwAAqGmG.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2058863332896243741",
+        "created_at": "2026-05-25T10:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058863332896243741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EmpireEnjoyer3…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/EmpireEnjoyer3/status/2058592963060474104",
+              "start": 63,
+              "url": "https://t.co/wzA3rt168f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058863332896243741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058592963060474104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Can't believe these niggas go to war instead of doing gay porn https://t.co/wzA3rt168f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058592958924963840"
+          ]
+        },
+        "author_id": "1106006280689332224",
+        "conversation_id": "2058592963060474104",
+        "created_at": "2026-05-24T16:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058592963060474104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u576cjlPll",
+              "end": 154,
+              "expanded_url": "https://x.com/EmpireEnjoyer3/status/2058592963060474104/photo/1",
+              "media_key": "3_2058592958924963840",
+              "start": 131,
+              "url": "https://t.co/u576cjlPll"
+            },
+            {
+              "display_url": "x.com/fendigaid/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/fendigaid/status/2058252395873018207",
+              "start": 155,
+              "url": "https://t.co/smPddWZ3ut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592963060474104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 644620,
+          "like_count": 1043,
+          "quote_count": 94,
+          "reply_count": 210,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058252395873018207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gen Z doesn’t deserve their women. They belong to 6 foot 5 Millennials, special forces operators, and millionaire business owners. https://t.co/u576cjlPll https://t.co/smPddWZ3ut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 287,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-14T01:37:00.000Z",
+        "description": "Mediterranean Emperor. Deep State Appreciator.",
+        "id": "1106006280689332224",
+        "location": "Boston, MA",
+        "name": "Unfiltered Artist",
+        "pinned_tweet_id": "2046766245094076631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970951884035829760/FcqANLzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11035,
+          "following_count": 4745,
+          "like_count": 307171,
+          "listed_count": 177,
+          "media_count": 16242,
+          "tweet_count": 324680
+        },
+        "username": "EmpireEnjoyer3",
+        "verified": true
+      }
+    ]
+  }
+}

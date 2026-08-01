@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1997082416968577201",
+    "created_at": "2025-12-05T23:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T00:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997082416968577201"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "India",
+          "probability": 0.9642,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/MensCanvas/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/MensCanvas/status/1996738841156190287",
+          "start": 22,
+          "url": "https://t.co/hYISPWduyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997082416968577201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996738841156190287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Account base in India https://t.co/hYISPWduyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1996738837779812352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XXZM8XkAAZ6JV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1997082416968577201",
+        "created_at": "2025-12-05T23:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T00:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997082416968577201"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "India",
+              "probability": 0.9642,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MensCanvas/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/MensCanvas/status/1996738841156190287",
+              "start": 22,
+              "url": "https://t.co/hYISPWduyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997082416968577201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996738841156190287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Account base in India https://t.co/hYISPWduyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996738837779812352"
+          ]
+        },
+        "author_id": "1864299855843414016",
+        "conversation_id": "1996738841156190287",
+        "created_at": "2025-12-05T00:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T01:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996738841156190287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixAjJrpLft",
+              "end": 56,
+              "expanded_url": "https://x.com/MensCanvas/status/1996738841156190287/photo/1",
+              "media_key": "3_1996738837779812352",
+              "start": 33,
+              "url": "https://t.co/ixAjJrpLft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996738841156190287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12250,
+          "impression_count": 1668290,
+          "like_count": 13404,
+          "quote_count": 20,
+          "reply_count": 54,
+          "retweet_count": 1213
+        },
+        "reply_settings": "everyone",
+        "text": "7 Best Color Combos For Men:\n\n1. https://t.co/ixAjJrpLft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 181,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T13:25:13.000Z",
+        "description": "Turning men into gentlemen - Master style, elevate personality, and perfect the details that define you.",
+        "id": "1864299855843414016",
+        "name": "Mens Canvas",
+        "pinned_tweet_id": "1996922518494421181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864308772572737536/TjGUS_E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85052,
+          "following_count": 3,
+          "like_count": 14872,
+          "listed_count": 145,
+          "media_count": 6439,
+          "tweet_count": 10598
+        },
+        "username": "MensCanvas",
+        "verified": true
+      }
+    ]
+  }
+}

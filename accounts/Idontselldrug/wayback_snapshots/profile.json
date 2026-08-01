@@ -1,0 +1,20 @@
+{
+  "name": "VVV从头再来",
+  "username": "@Idontselldrug",
+  "bio": "人在加拿大 埃德蒙顿的推友快来找我玩 逃生舱@elonlovedea",
+  "location": "Edmonton, Alberta",
+  "link": "https://ngl.link/vvv8964",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 34,
+        "start": 22,
+        "username": "elonlovedea"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg"
+}

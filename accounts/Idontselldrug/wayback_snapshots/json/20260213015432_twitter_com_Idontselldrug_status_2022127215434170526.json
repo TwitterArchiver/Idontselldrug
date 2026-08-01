@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022035144379617280"
+      ],
+      "media_source_tweet_id": [
+        "2022035149488353566"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "2022127215434170526",
+    "created_at": "2026-02-13T01:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022127215434170526"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Econ",
+          "probability": 0.6107,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004698119645392896",
+          "start": 3,
+          "username": "yimmyyonjohn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOrXaZaLXi",
+          "end": 79,
+          "expanded_url": "https://x.com/yimmyyonjohn/status/2022035149488353566/photo/1",
+          "media_key": "3_2022035144379617280",
+          "start": 56,
+          "url": "https://t.co/tOrXaZaLXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022127215434170526",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022035149488353566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yimmyyonjohn: Holy shit this is my Econ prof wtf 😭😭 https://t.co/tOrXaZaLXi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_2022035144379617280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-2QCgaUAAZhs5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022035144379617280"
+          ],
+          "media_source_tweet_id": [
+            "2022035149488353566"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2022127215434170526",
+        "created_at": "2026-02-13T01:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022127215434170526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Econ",
+              "probability": 0.6107,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004698119645392896",
+              "start": 3,
+              "username": "yimmyyonjohn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOrXaZaLXi",
+              "end": 79,
+              "expanded_url": "https://x.com/yimmyyonjohn/status/2022035149488353566/photo/1",
+              "media_key": "3_2022035144379617280",
+              "start": 56,
+              "url": "https://t.co/tOrXaZaLXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022127215434170526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022035149488353566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yimmyyonjohn: Holy shit this is my Econ prof wtf 😭😭 https://t.co/tOrXaZaLXi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022035144379617280"
+          ]
+        },
+        "author_id": "2004698119645392896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2022035149488353566",
+        "created_at": "2026-02-12T19:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022035149488353566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Econ",
+              "probability": 0.6888,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOrXaZaLXi",
+              "end": 61,
+              "expanded_url": "https://x.com/yimmyyonjohn/status/2022035149488353566/photo/1",
+              "media_key": "3_2022035144379617280",
+              "start": 38,
+              "url": "https://t.co/tOrXaZaLXi"
+            },
+            {
+              "display_url": "x.com/angelaganote/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/angelaganote/status/2022003186345607253",
+              "start": 62,
+              "url": "https://t.co/CRFT11zZxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022035149488353566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7192,
+          "impression_count": 6165454,
+          "like_count": 87452,
+          "quote_count": 165,
+          "reply_count": 404,
+          "retweet_count": 3701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022003186345607253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Holy shit this is my Econ prof wtf 😭😭 https://t.co/tOrXaZaLXi https://t.co/CRFT11zZxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 223,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T23:37:43.000Z",
+        "description": "Miller lite enthusiast",
+        "id": "2004698119645392896",
+        "location": "Goyville",
+        "name": "John “Long John” Daly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004701740151529472/PTGJDVMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 362
+        },
+        "username": "yimmyyonjohn",
+        "verified": false
+      }
+    ]
+  }
+}

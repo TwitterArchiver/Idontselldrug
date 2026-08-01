@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995610480896065536"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1995610482254971338",
+    "created_at": "2025-12-01T21:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995610482254971338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4mxPXC52NI",
+          "end": 73,
+          "expanded_url": "https://x.com/Idontselldrug/status/1995610482254971338/photo/1",
+          "media_key": "3_1995610480896065536",
+          "start": 50,
+          "url": "https://t.co/4mxPXC52NI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995610482254971338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天的生活都好糟糕 不管是作息还是学业都出了问题 楼下还在修路声音很吵 简单年底消耗一下政府经费 https://t.co/4mxPXC52NI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_1995610480896065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HVKL_bQAAhCnu.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995610480896065536"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1995610482254971338",
+        "created_at": "2025-12-01T21:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995610482254971338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mxPXC52NI",
+              "end": 73,
+              "expanded_url": "https://x.com/Idontselldrug/status/1995610482254971338/photo/1",
+              "media_key": "3_1995610480896065536",
+              "start": 50,
+              "url": "https://t.co/4mxPXC52NI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995610482254971338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天的生活都好糟糕 不管是作息还是学业都出了问题 楼下还在修路声音很吵 简单年底消耗一下政府经费 https://t.co/4mxPXC52NI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 178,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

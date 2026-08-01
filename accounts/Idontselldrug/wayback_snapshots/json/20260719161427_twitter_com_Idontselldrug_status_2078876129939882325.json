@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078656105178144769"
+      ],
+      "media_source_tweet_id": [
+        "2078656111574483172"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2078876129939882325",
+    "created_at": "2026-07-19T16:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078876129939882325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1411453032928272386",
+          "start": 3,
+          "username": "pulverdoom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjlIwXPXzH",
+          "end": 108,
+          "expanded_url": "https://x.com/pulverdoom/status/2078656111574483172/photo/1",
+          "media_key": "3_2078656105178144769",
+          "start": 85,
+          "url": "https://t.co/xjlIwXPXzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078876129939882325",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 932
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078656111574483172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pulverdoom: that one girl who loves to tell everybody that she used to be a nazi https://t.co/xjlIwXPXzH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078656105178144769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjetudXIAEmFBs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078656105178144769"
+          ]
+        },
+        "author_id": "1411453032928272386",
+        "conversation_id": "2078656111574483172",
+        "created_at": "2026-07-19T01:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078656111574483172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjlIwXPXzH",
+              "end": 92,
+              "expanded_url": "https://x.com/pulverdoom/status/2078656111574483172/photo/1",
+              "media_key": "3_2078656105178144769",
+              "start": 69,
+              "url": "https://t.co/xjlIwXPXzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078656111574483172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1010,
+          "impression_count": 208326,
+          "like_count": 16399,
+          "quote_count": 125,
+          "reply_count": 74,
+          "retweet_count": 932
+        },
+        "reply_settings": "everyone",
+        "text": "that one girl who loves to tell everybody that she used to be a nazi https://t.co/xjlIwXPXzH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078656105178144769"
+          ],
+          "media_source_tweet_id": [
+            "2078656111574483172"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2078876129939882325",
+        "created_at": "2026-07-19T16:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078876129939882325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1411453032928272386",
+              "start": 3,
+              "username": "pulverdoom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjlIwXPXzH",
+              "end": 108,
+              "expanded_url": "https://x.com/pulverdoom/status/2078656111574483172/photo/1",
+              "media_key": "3_2078656105178144769",
+              "start": 85,
+              "url": "https://t.co/xjlIwXPXzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078876129939882325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 932
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078656111574483172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pulverdoom: that one girl who loves to tell everybody that she used to be a nazi https://t.co/xjlIwXPXzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 310,
+          "like_count": 2675,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T22:34:16.000Z",
+        "description": "kanien'kehá:ka & wapanaki on amerikkkan-occupied land🫀19 yo 🥩 INTERSEX/DsD 2sprit transsexual. ⚥ ☣️ pro-self expression 🧠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pulverdoom.straw.page",
+                "end": 23,
+                "expanded_url": "https://pulverdoom.straw.page",
+                "start": 0,
+                "url": "https://t.co/logMAWubBt"
+              }
+            ]
+          }
+        },
+        "id": "1411453032928272386",
+        "location": "🌈🍖 profic ⛔️ he/she",
+        "name": "🪶pulver",
+        "pinned_tweet_id": "2054773434647793700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037372836315021312/9Tet8_EB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4839,
+          "following_count": 2750,
+          "like_count": 399191,
+          "listed_count": 41,
+          "media_count": 6274,
+          "tweet_count": 68071
+        },
+        "url": "https://t.co/logMAWubBt",
+        "username": "pulverdoom",
+        "verified": false
+      }
+    ]
+  }
+}

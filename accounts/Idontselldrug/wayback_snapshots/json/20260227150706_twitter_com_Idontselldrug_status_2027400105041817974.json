@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027316911990812956",
+    "created_at": "2026-02-27T15:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027400105041817974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20265…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/status/2026591513493602528",
+          "start": 15,
+          "url": "https://t.co/IGX4lVs5Jg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027400105041817974",
+    "in_reply_to_user_id": "69280655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026591513493602528",
+        "type": "quoted"
+      },
+      {
+        "id": "2027316911990812956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang https://t.co/IGX4lVs5Jg\n\n偷洋人的的post就是有价值的内容吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2027316899336634368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ5-pAbQAAXzbp.jpg",
+        "width": 1694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027316911990812956",
+        "created_at": "2026-02-27T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027400105041817974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20265…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/status/2026591513493602528",
+              "start": 15,
+              "url": "https://t.co/IGX4lVs5Jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027400105041817974",
+        "in_reply_to_user_id": "69280655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026591513493602528",
+            "type": "quoted"
+          },
+          {
+            "id": "2027316911990812956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang https://t.co/IGX4lVs5Jg\n\n偷洋人的的post就是有价值的内容吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2026591513493602528",
+        "created_at": "2026-02-25T09:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026591513493602528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026591513493602528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去你妈的流量 我要写有价值的内容"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027316899336634368"
+          ]
+        },
+        "author_id": "69280655",
+        "conversation_id": "2027316911990812956",
+        "created_at": "2026-02-27T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027316911990812956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHujUB73AP",
+              "end": 163,
+              "expanded_url": "https://x.com/paipaipaitang/status/2027316911990812956/photo/1",
+              "media_key": "3_2027316899336634368",
+              "start": 140,
+              "url": "https://t.co/jHujUB73AP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027316911990812956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 266,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚走进一家苹果专卖店。\n抓住一名员工的胳膊说：“我正在努力摆脱永远的底层阶级地位。”\n他看了我5秒钟，然后笑了笑，“不用多说了，兄弟。”\n他从桌子底下的柜子里拿出这个，然后递给我一台 Mac mini 让我付款，说：“去把你的家谱保存下来吧。”\n那可能是我人生中最重要的五分钟。 https://t.co/jHujUB73AP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 229,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 90,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 430
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

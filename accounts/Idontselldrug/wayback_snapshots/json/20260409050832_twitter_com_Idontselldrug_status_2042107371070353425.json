@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042107369283612672"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2042107371070353425",
+    "created_at": "2026-04-09T05:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042107371070353425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JzIskDek4P",
+          "end": 32,
+          "expanded_url": "https://x.com/Idontselldrug/status/2042107371070353425/photo/1",
+          "media_key": "3_2042107369283612672",
+          "start": 9,
+          "url": "https://t.co/JzIskDek4P"
+        },
+        {
+          "display_url": "x.com/elonmusk/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/elonmusk/status/2042071143532966387",
+          "start": 33,
+          "url": "https://t.co/TgFRYd546e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042107371070353425",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042071143532966387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "\"cooked\" https://t.co/JzIskDek4P https://t.co/TgFRYd546e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2042107369283612672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcF1TNbcAAzC5U.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042107369283612672"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2042107371070353425",
+        "created_at": "2026-04-09T05:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042107371070353425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzIskDek4P",
+              "end": 32,
+              "expanded_url": "https://x.com/Idontselldrug/status/2042107371070353425/photo/1",
+              "media_key": "3_2042107369283612672",
+              "start": 9,
+              "url": "https://t.co/JzIskDek4P"
+            },
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/elonmusk/status/2042071143532966387",
+              "start": 33,
+              "url": "https://t.co/TgFRYd546e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042107371070353425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042071143532966387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"cooked\" https://t.co/JzIskDek4P https://t.co/TgFRYd546e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44196397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2042071143532966387",
+        "created_at": "2026-04-09T02:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042071143532966387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samanthataghoy…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/samanthataghoy/status/2042038086742225012",
+              "start": 17,
+              "url": "https://t.co/dQbQvcjqzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042071143532966387",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14543,
+          "impression_count": 12417649,
+          "like_count": 119637,
+          "quote_count": 533,
+          "reply_count": 5343,
+          "retweet_count": 10465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042038086742225012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Canada is cooked https://t.co/dQbQvcjqzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 242,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/dDtDyVssfm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.ai",
+                "end": 23,
+                "expanded_url": "http://Terafab.ai",
+                "start": 0,
+                "url": "https://t.co/dDtDyVssfm"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2041754402239975479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237762389,
+          "following_count": 1310,
+          "like_count": 221621,
+          "listed_count": 167809,
+          "media_count": 4436,
+          "tweet_count": 100879
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027844840315351247",
+    "created_at": "2026-03-01T05:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027980280091578869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        },
+        {
+          "end": 26,
+          "id": "1278030418613276674",
+          "start": 13,
+          "username": "FeedMyGlutes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027980280091578869",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027976789629538486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back @FeedMyGlutes 老公老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027844840315351247",
+        "created_at": "2026-03-01T05:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027980280091578869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            },
+            {
+              "end": 26,
+              "id": "1278030418613276674",
+              "start": 13,
+              "username": "FeedMyGlutes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027980280091578869",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027976789629538486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back @FeedMyGlutes 老公老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944351426827735040",
+        "conversation_id": "2027844840315351247",
+        "created_at": "2026-03-01T05:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027976789629538486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 28,
+              "id": "1278030418613276674",
+              "start": 15,
+              "username": "FeedMyGlutes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027976789629538486",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027895120650244428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @FeedMyGlutes 可能个头 你就是 bl小说看多了\nbl被腐女写的1和脑残霸道总裁一样 0就是个小娇妻 \n尼玛这现实吗？而且为啥我是1啊？小娇妻求你别幻想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 230,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 167,
+          "like_count": 1402,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1069
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T18:19:48.000Z",
+        "description": "跨性别男性气质（transmasculine）aka性别是masc/(he/him/his)/泛性恋/Dom➕ switch/定期分享生活/没有门槛因为不是黄推（也不加联系方式）/高强度键政",
+        "id": "1278030418613276674",
+        "name": "纯恨战士（变性版）",
+        "pinned_tweet_id": "1938294846252257414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913042399527411712/x_AjTXga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 293,
+          "like_count": 6735,
+          "listed_count": 13,
+          "media_count": 433,
+          "tweet_count": 4527
+        },
+        "username": "FeedMyGlutes",
+        "verified": false
+      }
+    ]
+  }
+}

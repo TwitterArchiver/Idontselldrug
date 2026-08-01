@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2075471281953362003",
+    "created_at": "2026-07-10T16:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075613750074528123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "RyuuseiMk1WEAS"
+        },
+        {
+          "end": 27,
+          "id": "1657055349982244865",
+          "start": 16,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075613750074528123",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075526061836640615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuseiMk1WEAS @Glagagapot 能问出这种话挺不幽默的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2075471281953362003",
+        "created_at": "2026-07-10T16:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075613750074528123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "RyuuseiMk1WEAS"
+            },
+            {
+              "end": 27,
+              "id": "1657055349982244865",
+              "start": 16,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075613750074528123",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075526061836640615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuseiMk1WEAS @Glagagapot 能问出这种话挺不幽默的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986894257194737665",
+        "conversation_id": "2075471281953362003",
+        "created_at": "2026-07-10T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075526061836640615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075526061836640615",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075471281953362003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 我幽默嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 293,
+          "like_count": 2571,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mmP5Va7sfv",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mmP5Va7sfv",
+                "start": 0,
+                "url": "https://t.co/kso1Sq8Kdv"
+              }
+            ]
+          }
+        },
+        "id": "1986894257194737665",
+        "location": "Le monologue du meurtre",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2063428991030018274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043721630887944192/n9dg2haI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 928,
+          "like_count": 4052,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/kso1Sq8Kdv",
+        "username": "RyuuseiMk1WEAS",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "世界上最坏的鸟类",
+        "id": "1657055349982244865",
+        "name": "嘎王",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036197980899024896/KwnbLGby_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1070,
+          "like_count": 86820,
+          "listed_count": 8,
+          "media_count": 2443,
+          "tweet_count": 28916
+        },
+        "url": "",
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

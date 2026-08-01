@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pink floyd",
+          "id": "877850715552489475",
+          "name": "Pink Floyd"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Pink floyd",
+          "id": "877850715552489475",
+          "name": "Pink Floyd"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1306964321985937409",
+          "name": "Progressive rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pink floyd",
+          "id": "877850715552489475",
+          "name": "Pink Floyd"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306964321985937409",
+          "name": "Progressive rock"
+        }
+      }
+    ],
+    "conversation_id": "2005880457448103963",
+    "created_at": "2025-12-30T05:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T06:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005880457448103963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/internation050…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/internation0501/status/2005555907766460860",
+          "start": 14,
+          "url": "https://t.co/eIeseCdCa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005880457448103963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005555907766460860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有不喜欢平克弗洛伊德的吗？ https://t.co/eIeseCdCa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2005547516692148224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ui1zCaMAAwkUh.png",
+        "width": 827
+      },
+      {
+        "height": 1262,
+        "media_key": "3_2005547982784192512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UjQ7XaYAAHzCh.jpg",
+        "width": 1280
+      },
+      {
+        "height": 386,
+        "media_key": "3_2005551779824664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Umt8caAAAn5X8.jpg",
+        "width": 386
+      },
+      {
+        "height": 250,
+        "media_key": "3_2005554404775362561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UpGvJbAAE79NO.png",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1306964321985937409",
+              "name": "Progressive rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306964321985937409",
+              "name": "Progressive rock"
+            }
+          }
+        ],
+        "conversation_id": "2005880457448103963",
+        "created_at": "2025-12-30T05:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005880457448103963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/internation050…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/internation0501/status/2005555907766460860",
+              "start": 14,
+              "url": "https://t.co/eIeseCdCa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005880457448103963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005555907766460860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有不喜欢平克弗洛伊德的吗？ https://t.co/eIeseCdCa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005547516692148224",
+            "3_2005547982784192512",
+            "3_2005551779824664576",
+            "3_2005554404775362561"
+          ]
+        },
+        "author_id": "178794303",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1306964321985937409",
+              "name": "Progressive rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pink floyd",
+              "id": "877850715552489475",
+              "name": "Pink Floyd"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306964321985937409",
+              "name": "Progressive rock"
+            }
+          }
+        ],
+        "conversation_id": "2005555907766460860",
+        "created_at": "2025-12-29T08:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005555907766460860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOuVDQAq88",
+              "end": 202,
+              "expanded_url": "https://x.com/internation0501/status/2005555907766460860/photo/1",
+              "media_key": "3_2005547516692148224",
+              "start": 179,
+              "url": "https://t.co/vOuVDQAq88"
+            },
+            {
+              "display_url": "pic.x.com/vOuVDQAq88",
+              "end": 202,
+              "expanded_url": "https://x.com/internation0501/status/2005555907766460860/photo/1",
+              "media_key": "3_2005547982784192512",
+              "start": 179,
+              "url": "https://t.co/vOuVDQAq88"
+            },
+            {
+              "display_url": "pic.x.com/vOuVDQAq88",
+              "end": 202,
+              "expanded_url": "https://x.com/internation0501/status/2005555907766460860/photo/1",
+              "media_key": "3_2005551779824664576",
+              "start": 179,
+              "url": "https://t.co/vOuVDQAq88"
+            },
+            {
+              "display_url": "pic.x.com/vOuVDQAq88",
+              "end": 202,
+              "expanded_url": "https://x.com/internation0501/status/2005555907766460860/photo/1",
+              "media_key": "3_2005554404775362561",
+              "start": 179,
+              "url": "https://t.co/vOuVDQAq88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005555907766460860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 15376,
+          "like_count": 247,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "左翼还是搞艺术\nPink Floyd乐队1974年巴黎演出直接投影毛泽东头像\n坂本龙一歌曲《Thousand Knives》歌曲开头采样是《水调歌头·重上井冈山》朗诵\nJAPAN乐队最后一张专辑《Tin Drum》更是表达左翼运动陷入沉寂的失落\n爵士乐队Old and New Dreams的同名专辑第三首曲子《Chairman Mao》采样了毛逝世的广播 https://t.co/vOuVDQAq88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 205,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "上海市",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880,
+          "following_count": 511,
+          "like_count": 22954,
+          "listed_count": 19,
+          "media_count": 4132,
+          "tweet_count": 24202
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987440734098923595",
+    "created_at": "2025-11-09T18:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T19:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987587118781415640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987587118781415640",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987440734098923595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 就要扶她"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 147,
+        "media_key": "3_1987440729308991488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TO0DqbEAA0tGt.jpg",
+        "width": 147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987440734098923595",
+        "created_at": "2025-11-09T18:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T19:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987587118781415640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987587118781415640",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987440734098923595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 就要扶她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987440729308991488"
+          ]
+        },
+        "author_id": "954724026806448128",
+        "conversation_id": "1987440734098923595",
+        "created_at": "2025-11-09T08:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987440734098923595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O64fImT7X8",
+              "end": 28,
+              "expanded_url": "https://x.com/libertyelysium/status/1987440734098923595/photo/1",
+              "media_key": "3_1987440729308991488",
+              "start": 5,
+              "url": "https://t.co/O64fImT7X8"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/hsn8086/status/1987380508851159247",
+              "start": 29,
+              "url": "https://t.co/JLlWC0otOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987440734098923595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 823,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987380508851159247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要找的 https://t.co/O64fImT7X8 https://t.co/JLlWC0otOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 120,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10195,
+          "following_count": 651,
+          "like_count": 82014,
+          "listed_count": 39,
+          "media_count": 1966,
+          "tweet_count": 30470
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

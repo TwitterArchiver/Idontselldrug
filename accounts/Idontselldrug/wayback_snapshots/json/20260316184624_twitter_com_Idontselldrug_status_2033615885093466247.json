@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033536321994838016"
+      ],
+      "media_source_tweet_id": [
+        "2033536335391396165"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2033615885093466247",
+    "created_at": "2026-03-16T18:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033615885093466247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1941398737840111623",
+          "start": 3,
+          "username": "songbansha6606"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mltfn0ofjQ",
+          "end": 43,
+          "expanded_url": "https://x.com/songbansha6606/status/2033536335391396165/video/1",
+          "media_key": "13_2033536321994838016",
+          "start": 20,
+          "url": "https://t.co/Mltfn0ofjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033615885093466247",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033536335391396165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @songbansha6606: https://t.co/Mltfn0ofjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3521,
+        "height": 640,
+        "media_key": "13_2033536321994838016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033536321994838016/img/cEe4z9MS2lKNpxVE.jpg",
+        "public_metrics": {
+          "view_count": 2445
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033536321994838016/vid/avc1/320x556/HQ2xY3oNbWzphimT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033536321994838016/vid/avc1/368x640/YxIm4QbLYuDj_cnJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033536321994838016/pl/-KeVdp4iCprUqRNq.m3u8"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033536321994838016"
+          ],
+          "media_source_tweet_id": [
+            "2033536335391396165"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2033615885093466247",
+        "created_at": "2026-03-16T18:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033615885093466247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1941398737840111623",
+              "start": 3,
+              "username": "songbansha6606"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mltfn0ofjQ",
+              "end": 43,
+              "expanded_url": "https://x.com/songbansha6606/status/2033536335391396165/video/1",
+              "media_key": "13_2033536321994838016",
+              "start": 20,
+              "url": "https://t.co/Mltfn0ofjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033615885093466247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033536335391396165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @songbansha6606: https://t.co/Mltfn0ofjQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033536321994838016"
+          ]
+        },
+        "author_id": "1941398737840111623",
+        "conversation_id": "2033536335391396165",
+        "created_at": "2026-03-16T13:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033536335391396165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mltfn0ofjQ",
+              "end": 23,
+              "expanded_url": "https://x.com/songbansha6606/status/2033536335391396165/video/1",
+              "media_key": "13_2033536321994838016",
+              "start": 0,
+              "url": "https://t.co/Mltfn0ofjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033536335391396165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4973,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mltfn0ofjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 236,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "棋谱",
+        "pinned_tweet_id": "2008363022130004474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095323103670275/N5qrG-cg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 16,
+          "like_count": 136,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 72
+        },
+        "username": "songbansha6606",
+        "verified": false
+      }
+    ]
+  }
+}

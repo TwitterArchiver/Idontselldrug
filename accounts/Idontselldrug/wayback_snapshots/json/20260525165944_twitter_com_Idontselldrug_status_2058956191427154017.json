@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058956183877328896"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2058956191427154017",
+    "created_at": "2026-05-25T16:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058956191427154017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmIhTZBLoe",
+          "end": 126,
+          "expanded_url": "https://x.com/Idontselldrug/status/2058956191427154017/photo/1",
+          "media_key": "3_2058956183877328896",
+          "start": 103,
+          "url": "https://t.co/AmIhTZBLoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058956191427154017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谷歌浏览器自带的那个gemini现在弱智的让我想笑\n问他任何药物的剂量，不管是什么药物，都会含糊不清的说一堆车轱辘话，来避免争议\n“阿司匹林一次吃多少合适？”\n“可以吃低剂量，也可以吃高剂量”\n我真流汗了 https://t.co/AmIhTZBLoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058956183877328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLhvYwaIAAdDMT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058956183877328896"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2058956191427154017",
+        "created_at": "2026-05-25T16:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058956191427154017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmIhTZBLoe",
+              "end": 126,
+              "expanded_url": "https://x.com/Idontselldrug/status/2058956191427154017/photo/1",
+              "media_key": "3_2058956183877328896",
+              "start": 103,
+              "url": "https://t.co/AmIhTZBLoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058956191427154017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌浏览器自带的那个gemini现在弱智的让我想笑\n问他任何药物的剂量，不管是什么药物，都会含糊不清的说一堆车轱辘话，来避免争议\n“阿司匹林一次吃多少合适？”\n“可以吃低剂量，也可以吃高剂量”\n我真流汗了 https://t.co/AmIhTZBLoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 286,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

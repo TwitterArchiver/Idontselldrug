@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {
+      "title": "我十四岁休学在家写挂的故事"
+    },
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2042806514281517254",
+    "created_at": "2026-04-11T03:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042806514281517254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2042…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2042771000409100292",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2042771000409100292",
+          "url": "https://t.co/JjFO1bXI9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042806514281517254",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JjFO1bXI9G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2042775248857407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFllRAgbIAAJXIO.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "我十四岁休学在家写挂的故事"
+        },
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2042806514281517254",
+        "created_at": "2026-04-11T03:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042806514281517254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2042…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2042771000409100292",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2042771000409100292",
+              "url": "https://t.co/JjFO1bXI9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042806514281517254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JjFO1bXI9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 244,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2382
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

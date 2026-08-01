@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2057829610197488099",
+    "created_at": "2026-05-22T14:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057829876372324570"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057829876372324570",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057829610197488099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Thread偷的，原帖主burningsappho"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2057829610197488099",
+        "created_at": "2026-05-22T14:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057829876372324570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057829876372324570",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057829610197488099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thread偷的，原帖主burningsappho"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2057829610197488099",
+        "created_at": "2026-05-22T14:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057829610197488099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057829610197488099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "妈妈说，“你选择同性恋这条路就是让我感觉世界上只剩我一个人。”\n\n我当下想起毛选：“谁是我们的盟友，谁是我们的敌人，团结一切你可以团结的力量。”\n\n我说，“老妈！我们是站在一边的。你爱我，我爱你，其他人都无关紧要。真正的敌人是试图分裂我们的人，你要和你的女儿站在一边啊！”\n\n这次妈妈确实停下来想了想。甚至开始有点认真听我说话。我们的关系取得了一小点的进步哇！\n\n原来我过去的斗争路径都是错误的，我在那里和她讲什么性别是流动的，heteronormativity，queer liberation，我的中国妈，听到除了本能的防御就是“你读那么多书就是用来对抗你的妈妈！送你出国就是被西方思想荼毒！”\n\n而这次，毛选完成了我在生活里的实践 ，和中国人做思想工作，还是要具有本土性！\n西方理论对亚洲爹妈不能照搬，鸡同鸭讲。停止无效的争论，还是要具体问题具体分析，从实际出发和结果导向。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈说，“你选择同性恋这条路就是让我感觉世界上只剩我一个人。”\n\n我当下想起毛选：“谁是我们的盟友，谁是我们的敌人，团结一切你可以团结的力量。”\n\n我说，“老妈！我们是站在一边的。你爱我，我爱你，其他人都无关紧要。真正的敌人是试图分裂我们的人，你要和你的女儿站在一边啊！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 282,
+          "like_count": 2292,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 2892
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

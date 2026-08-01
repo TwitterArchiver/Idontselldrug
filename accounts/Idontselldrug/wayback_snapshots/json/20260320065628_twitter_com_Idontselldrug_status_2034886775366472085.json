@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034886775366472085",
+    "created_at": "2026-03-20T06:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034886775366472085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2034883485111091535",
+          "start": 42,
+          "url": "https://t.co/ieojvxDzkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034886775366472085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034883485111091535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解读了一下，有些内容比较私人，不好公开说\n如果你好奇，可以私信问我，我很乐意告诉你 https://t.co/ieojvxDzkv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034886775366472085",
+        "created_at": "2026-03-20T06:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034886775366472085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2034883485111091535",
+              "start": 42,
+              "url": "https://t.co/ieojvxDzkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034886775366472085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034883485111091535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解读了一下，有些内容比较私人，不好公开说\n如果你好奇，可以私信问我，我很乐意告诉你 https://t.co/ieojvxDzkv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034883479411073478",
+        "created_at": "2026-03-20T06:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034883485111091535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034883485111091535",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034883483387273521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后我从连环梦里醒来，时间是凌晨一点，现实安全了很多但是还是让人烦恼，早上楼下政府会修路，现在晚上楼上会装修，钻机的声音从我去年九月过来一直都有，明天还有一堆作业due。我好累我好难受，我好想有人抱抱我告诉我我很安全，everything is gonna be ok，可是我真的只有自己一个人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 236,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

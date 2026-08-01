@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053681785155018752"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053681788028146139",
+    "created_at": "2026-05-11T03:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053681788028146139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1FHpnPSWl",
+          "end": 70,
+          "expanded_url": "https://x.com/Idontselldrug/status/2053681788028146139/photo/1",
+          "media_key": "3_2053681785155018752",
+          "start": 47,
+          "url": "https://t.co/T1FHpnPSWl"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2053477474076594355",
+          "start": 71,
+          "url": "https://t.co/t0Ka75EVYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053681788028146139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053477474076594355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一步，花120买个盐酥鸡和甜不辣\n我才发现甜不辣就是天妇罗\n\n还剩330台币，约70人民币 https://t.co/T1FHpnPSWl https://t.co/t0Ka75EVYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053681785155018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAks-Xa4AA6ePY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053477471333568513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9q4WEa0AEZuhe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053681785155018752"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053681788028146139",
+        "created_at": "2026-05-11T03:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053681788028146139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1FHpnPSWl",
+              "end": 70,
+              "expanded_url": "https://x.com/Idontselldrug/status/2053681788028146139/photo/1",
+              "media_key": "3_2053681785155018752",
+              "start": 47,
+              "url": "https://t.co/T1FHpnPSWl"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2053477474076594355",
+              "start": 71,
+              "url": "https://t.co/t0Ka75EVYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053681788028146139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053477474076594355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一步，花120买个盐酥鸡和甜不辣\n我才发现甜不辣就是天妇罗\n\n还剩330台币，约70人民币 https://t.co/T1FHpnPSWl https://t.co/t0Ka75EVYR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053477471333568513"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053477474076594355",
+        "created_at": "2026-05-10T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053477474076594355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRcxnnBXAH",
+              "end": 103,
+              "expanded_url": "https://x.com/Idontselldrug/status/2053477474076594355/photo/1",
+              "media_key": "3_2053477471333568513",
+              "start": 80,
+              "url": "https://t.co/qRcxnnBXAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053477474076594355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 532,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃一顿饭花了我1250台币，差不多三百人民币\n我手里有1700，付完钱还剩450台币，大概就100人民币左右\n\n100人民币如何在台湾活过四天，让我们拭目以待 https://t.co/qRcxnnBXAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 281,
+          "like_count": 2199,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

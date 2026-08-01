@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2035060000826302571",
+    "created_at": "2026-03-20T18:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T19:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035060000826302571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035060000826302571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Vyvanse 40mg\n长春西汀 10mg\nAlphagpc 30mg\nnoopept 10mg\n很遗憾vyvanse不再让我嗨了，虽然娱乐效果不是我追求的，但是效果减弱可能说明我耐药了或者受体钝化了，这不是好事\n本来我停药一段时间效果就会回来的，但是现在似乎停药也没用了，难道是蜜月期过了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2035060000826302571",
+        "created_at": "2026-03-20T18:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035060000826302571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035060000826302571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vyvanse 40mg\n长春西汀 10mg\nAlphagpc 30mg\nnoopept 10mg\n很遗憾vyvanse不再让我嗨了，虽然娱乐效果不是我追求的，但是效果减弱可能说明我耐药了或者受体钝化了，这不是好事\n本来我停药一段时间效果就会回来的，但是现在似乎停药也没用了，难道是蜜月期过了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 236,
+          "like_count": 1392,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996708698773926241",
+    "created_at": "2025-12-04T22:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T23:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996708701504467280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996708701504467280",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996708699780640861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总而言之，“我很难受，叫医生来”这一句话整体描述了一个毛主席发现问题，分析问题，并提出解决问题方法的过程，这是毛主席一个对毛泽东思想革命方法论的切实利用，毛主席在自己身体难受的时候还能贯彻毛泽东思想，实在是非常伟大，值得每个革命小将都深刻学习并切实利用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996708698773926241",
+        "created_at": "2025-12-04T22:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996708701504467280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996708701504467280",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996708699780640861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总而言之，“我很难受，叫医生来”这一句话整体描述了一个毛主席发现问题，分析问题，并提出解决问题方法的过程，这是毛主席一个对毛泽东思想革命方法论的切实利用，毛主席在自己身体难受的时候还能贯彻毛泽东思想，实在是非常伟大，值得每个革命小将都深刻学习并切实利用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996708698773926241",
+        "created_at": "2025-12-04T22:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996708699780640861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996708699780640861",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996708698773926241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明了毛主席即使感觉到自己的身体难受，仍然不对反动知识分子低头，对他们的态度还是“叫”，说明毛主席还是深刻地掌握了与知识分子的互动中的主导权。“教医生来”中的“来”既表明了毛主席稳重如泰山的镇定，即使很难受也不会屈尊去找医生，同时也暗示了毛主席的身体状况的严重性，即他可能不能移动身体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 182,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2032115884052136362",
+    "created_at": "2026-03-12T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032115884052136362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/squid_bees/sta…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/squid_bees/status/2031897555399819352",
+          "start": 44,
+          "url": "https://t.co/ulIfAwpGRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032115884052136362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031897555399819352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个sub专门讨论把空气清新剂/燃料/奇奇怪怪的压缩气体当毒吸，非常傻逼非常有节目效果 https://t.co/ulIfAwpGRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2031897549607747587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLADlBbQAMnOki.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2032115884052136362",
+        "created_at": "2026-03-12T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032115884052136362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/squid_bees/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/squid_bees/status/2031897555399819352",
+              "start": 44,
+              "url": "https://t.co/ulIfAwpGRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032115884052136362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031897555399819352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个sub专门讨论把空气清新剂/燃料/奇奇怪怪的压缩气体当毒吸，非常傻逼非常有节目效果 https://t.co/ulIfAwpGRA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031897549607747587"
+          ]
+        },
+        "author_id": "1753486749056049152",
+        "conversation_id": "2031897555399819352",
+        "created_at": "2026-03-12T00:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T01:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031897555399819352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWze5prthw",
+              "end": 51,
+              "expanded_url": "https://x.com/squid_bees/status/2031897555399819352/photo/1",
+              "media_key": "3_2031897549607747587",
+              "start": 28,
+              "url": "https://t.co/NWze5prthw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031897555399819352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1402,
+          "impression_count": 577657,
+          "like_count": 46878,
+          "quote_count": 54,
+          "reply_count": 50,
+          "retweet_count": 1422
+        },
+        "reply_settings": "everyone",
+        "text": "going on r/huffingcommunity https://t.co/NWze5prthw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 231,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T18:33:22.000Z",
+        "description": "🗝️🍎🏰 @djfunnymonkey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "djfunnymonkey"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "squidbees.straw.page",
+                "end": 23,
+                "expanded_url": "https://squidbees.straw.page",
+                "start": 0,
+                "url": "https://t.co/8pLjV9Y60n"
+              }
+            ]
+          }
+        },
+        "id": "1753486749056049152",
+        "location": "23",
+        "name": "sydney",
+        "pinned_tweet_id": "2027760514713976941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019485521920036865/oxVPwUmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 803,
+          "like_count": 147990,
+          "listed_count": 9,
+          "media_count": 1929,
+          "tweet_count": 13975
+        },
+        "url": "https://t.co/8pLjV9Y60n",
+        "username": "squid_bees",
+        "verified": false
+      }
+    ]
+  }
+}

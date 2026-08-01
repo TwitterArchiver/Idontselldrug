@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988048089131929885",
+    "created_at": "2025-11-11T00:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988048089131929885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stonersvilla/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/stonersvilla/status/1988006362081882449",
+          "start": 6,
+          "url": "https://t.co/j9C0L4ugDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988048089131929885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988006362081882449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黑鬼太坏了 https://t.co/j9C0L4ugDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24634,
+        "height": 720,
+        "media_key": "13_1934989618094460931",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934989618094460931/img/pgk7TF0Bh0ZTrxd2.jpg",
+        "public_metrics": {
+          "view_count": 76843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934989618094460931/vid/avc1/276x270/CkiWkS9U6Am29OSN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934989618094460931/vid/avc1/368x360/VrknvIQzApt8narH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934989618094460931/vid/avc1/738x720/JXKmBKkdlorZhi1t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934989618094460931/pl/E5Mh5UUmwiV8SUb4.m3u8?v=cfc"
+          }
+        ],
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988048089131929885",
+        "created_at": "2025-11-11T00:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988048089131929885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stonersvilla/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/stonersvilla/status/1988006362081882449",
+              "start": 6,
+              "url": "https://t.co/j9C0L4ugDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988048089131929885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988006362081882449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑鬼太坏了 https://t.co/j9C0L4ugDR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934989618094460931"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "conversation_id": "1988006362081882449",
+        "created_at": "2025-11-10T22:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988006362081882449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHmzaP4Kbm",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/1988006362081882449/video/1",
+              "media_key": "13_1934989618094460931",
+              "start": 0,
+              "url": "https://t.co/WHmzaP4Kbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988006362081882449",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 632,
+          "impression_count": 58089,
+          "like_count": 1683,
+          "quote_count": 31,
+          "reply_count": 116,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WHmzaP4Kbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 125,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "🧚🏼‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowhub.com",
+                "end": 23,
+                "expanded_url": "https://flowhub.com/",
+                "start": 0,
+                "url": "https://t.co/nE1O6jHFB5"
+              }
+            ]
+          }
+        },
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937865127497207808/_BuqHspm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375595,
+          "following_count": 2,
+          "like_count": 12388,
+          "listed_count": 450,
+          "media_count": 11432,
+          "tweet_count": 21563
+        },
+        "url": "https://t.co/nE1O6jHFB5",
+        "username": "stonersvilla",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

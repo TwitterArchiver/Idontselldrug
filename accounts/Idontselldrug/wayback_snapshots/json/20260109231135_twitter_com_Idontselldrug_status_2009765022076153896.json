@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009765019546992640"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009764051338076341",
+    "created_at": "2026-01-09T23:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T00:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009765022076153896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gr4FcLA5t",
+          "end": 31,
+          "expanded_url": "https://x.com/Idontselldrug/status/2009765022076153896/photo/1",
+          "media_key": "3_2009765019546992640",
+          "start": 8,
+          "url": "https://t.co/9gr4FcLA5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009765022076153896",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009764051338076341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "详细点的是这样 https://t.co/9gr4FcLA5t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009765019546992640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QeoxgawAA8HC4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009764048632500224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QdwQkXUAAKYfG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009765019546992640"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009764051338076341",
+        "created_at": "2026-01-09T23:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009765022076153896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gr4FcLA5t",
+              "end": 31,
+              "expanded_url": "https://x.com/Idontselldrug/status/2009765022076153896/photo/1",
+              "media_key": "3_2009765019546992640",
+              "start": 8,
+              "url": "https://t.co/9gr4FcLA5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009765022076153896",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009764051338076341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "详细点的是这样 https://t.co/9gr4FcLA5t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009764048632500224"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009764051338076341",
+        "created_at": "2026-01-09T23:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009764051338076341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3liHra4B0",
+              "end": 35,
+              "expanded_url": "https://x.com/Idontselldrug/status/2009764051338076341/photo/1",
+              "media_key": "3_2009764048632500224",
+              "start": 12,
+              "url": "https://t.co/j3liHra4B0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009764051338076341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我想我家乡中华民国了 https://t.co/j3liHra4B0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 220,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

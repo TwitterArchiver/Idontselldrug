@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008696507881730048"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008696509811089640",
+    "created_at": "2026-01-07T00:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T01:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008696509811089640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Y3Gk9WYJm",
+          "end": 110,
+          "expanded_url": "https://x.com/Idontselldrug/status/2008696509811089640/photo/1",
+          "media_key": "3_2008696507881730048",
+          "start": 87,
+          "url": "https://t.co/7Y3Gk9WYJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008696509811089640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来加拿大快半年了，第一次在地铁被查票，几个晶哥在车厢里一个个挑人查，貌似也不是每个人都查，我不知道我哪里可疑了，不过只是出示了一下地铁卡，晶哥也没查我刷没刷就去查下一个人了 https://t.co/7Y3Gk9WYJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008696507881730048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BS1NXbsAAu5lR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008696507881730048"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008696509811089640",
+        "created_at": "2026-01-07T00:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008696509811089640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y3Gk9WYJm",
+              "end": 110,
+              "expanded_url": "https://x.com/Idontselldrug/status/2008696509811089640/photo/1",
+              "media_key": "3_2008696507881730048",
+              "start": 87,
+              "url": "https://t.co/7Y3Gk9WYJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008696509811089640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来加拿大快半年了，第一次在地铁被查票，几个晶哥在车厢里一个个挑人查，貌似也不是每个人都查，我不知道我哪里可疑了，不过只是出示了一下地铁卡，晶哥也没查我刷没刷就去查下一个人了 https://t.co/7Y3Gk9WYJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 210,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2035318199021928951",
+    "created_at": "2026-03-23T01:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035886876876513427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2893510872",
+          "start": 0,
+          "username": "Hayami_kiraa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035886876876513427",
+    "in_reply_to_user_id": "2893510872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035318199021928951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayami_kiraa 还真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035318183351971840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7nGquWcAAvJZE.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2035318199021928951",
+        "created_at": "2026-03-23T01:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035886876876513427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2893510872",
+              "start": 0,
+              "username": "Hayami_kiraa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035886876876513427",
+        "in_reply_to_user_id": "2893510872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035318199021928951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayami_kiraa 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035318183351971840"
+          ]
+        },
+        "author_id": "2893510872",
+        "conversation_id": "2035318199021928951",
+        "created_at": "2026-03-21T11:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035318199021928951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnlJLHywUe",
+              "end": 86,
+              "expanded_url": "https://x.com/Hayami_kiraa/status/2035318199021928951/photo/1",
+              "media_key": "3_2035318183351971840",
+              "start": 63,
+              "url": "https://t.co/XnlJLHywUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035318199021928951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 318345,
+          "like_count": 2387,
+          "quote_count": 60,
+          "reply_count": 291,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "gemini记忆功能有时候也挺烦的，我只不过昨天买了猪肘的时候顺口问了句菜谱，后来学C语言什么都要硬带上猪肘……\n\n也是服了 https://t.co/XnlJLHywUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 238,
+          "like_count": 1426,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T08:13:17.000Z",
+        "description": "🇨🇳-🇩🇪 Shanghai - Berlin｜AI Builder｜ex Product manager Temu & Tiktok｜Content Creator｜IG：hayami_kiraa｜Tele：https://t.co/KoSOVOQSgX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hayami_kiraa",
+                "end": 128,
+                "expanded_url": "http://t.me/hayami_kiraa",
+                "start": 105,
+                "url": "https://t.co/KoSOVOQSgX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hayami.typlog.io",
+                "end": 23,
+                "expanded_url": "https://hayami.typlog.io",
+                "start": 0,
+                "url": "https://t.co/IrU2I5EGQP"
+              }
+            ]
+          }
+        },
+        "id": "2893510872",
+        "location": "Berlin",
+        "name": "早见Hayami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278520167060783105/hmseAOTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40838,
+          "following_count": 983,
+          "like_count": 408,
+          "listed_count": 253,
+          "media_count": 1283,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/IrU2I5EGQP",
+        "username": "Hayami_kiraa",
+        "verified": true
+      }
+    ]
+  }
+}

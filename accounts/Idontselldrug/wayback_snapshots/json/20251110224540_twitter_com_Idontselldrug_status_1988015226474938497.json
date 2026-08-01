@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988015226474938497",
+    "created_at": "2025-11-10T22:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T23:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988015226474938497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988015226474938497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很奇怪的一点是我很多时候莫名其妙难受 结果找到理由之后就好了\n比如说之前倒时差躯体化 意识到自己这样很正常之后就不难受了\n看看这次药物戒断是不是这样子\n不得不说我第一次戒断就遇到苯丙胺这种硬菜 难度也不低 我是准备跌的粉碎的\n但是话又说回来 普瑞巴林 bzd 剂量高起来戒断也不比这个容易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988015226474938497",
+        "created_at": "2025-11-10T22:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988015226474938497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988015226474938497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很奇怪的一点是我很多时候莫名其妙难受 结果找到理由之后就好了\n比如说之前倒时差躯体化 意识到自己这样很正常之后就不难受了\n看看这次药物戒断是不是这样子\n不得不说我第一次戒断就遇到苯丙胺这种硬菜 难度也不低 我是准备跌的粉碎的\n但是话又说回来 普瑞巴林 bzd 剂量高起来戒断也不比这个容易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 125,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

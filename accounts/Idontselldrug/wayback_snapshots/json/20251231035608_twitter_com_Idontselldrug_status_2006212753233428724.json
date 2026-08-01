@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006212753233428724",
+    "created_at": "2025-12-31T03:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006212753233428724"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006212753233428724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么埃德蒙顿比多伦多好：\n多伦多小留多，埃德蒙顿小留少，此为一赢\n多伦多雪化成水容易弄脏弄湿自己，埃德蒙顿雪根本化不掉，此为二赢\n多伦多税高，埃德蒙顿税低，此为三赢\n多伦多药检要三个工作日才能出结果，埃德蒙顿药检当场就能出结果，此为四赢\n（1/2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006212753233428724",
+        "created_at": "2025-12-31T03:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006212753233428724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006212753233428724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么埃德蒙顿比多伦多好：\n多伦多小留多，埃德蒙顿小留少，此为一赢\n多伦多雪化成水容易弄脏弄湿自己，埃德蒙顿雪根本化不掉，此为二赢\n多伦多税高，埃德蒙顿税低，此为三赢\n多伦多药检要三个工作日才能出结果，埃德蒙顿药检当场就能出结果，此为四赢\n（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 206,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

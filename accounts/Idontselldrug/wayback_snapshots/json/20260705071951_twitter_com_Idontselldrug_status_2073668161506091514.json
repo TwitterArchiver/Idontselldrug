@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073150217239638017"
+      ],
+      "media_source_tweet_id": [
+        "2073150384126759131"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2073668161506091514",
+    "created_at": "2026-07-05T07:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073668161506091514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1274424009753612292",
+          "start": 3,
+          "username": "NordickChad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TlyFryshxt",
+          "end": 40,
+          "expanded_url": "https://x.com/NordickChad/status/2073150384126759131/photo/1",
+          "media_key": "3_2073150217239638017",
+          "start": 17,
+          "url": "https://t.co/TlyFryshxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073668161506091514",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073150384126759131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NordickChad: https://t.co/TlyFryshxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2073150217239638017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVPI3iXsAECXI-.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073150217239638017"
+          ],
+          "media_source_tweet_id": [
+            "2073150384126759131"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2073668161506091514",
+        "created_at": "2026-07-05T07:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073668161506091514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1274424009753612292",
+              "start": 3,
+              "username": "NordickChad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TlyFryshxt",
+              "end": 40,
+              "expanded_url": "https://x.com/NordickChad/status/2073150384126759131/photo/1",
+              "media_key": "3_2073150217239638017",
+              "start": 17,
+              "url": "https://t.co/TlyFryshxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073668161506091514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073150384126759131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NordickChad: https://t.co/TlyFryshxt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073150217239638017"
+          ]
+        },
+        "author_id": "1274424009753612292",
+        "conversation_id": "2073150384126759131",
+        "created_at": "2026-07-03T21:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073150384126759131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TlyFryshxt",
+              "end": 23,
+              "expanded_url": "https://x.com/NordickChad/status/2073150384126759131/photo/1",
+              "media_key": "3_2073150217239638017",
+              "start": 0,
+              "url": "https://t.co/TlyFryshxt"
+            },
+            {
+              "display_url": "x.com/commiejunior16…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/commiejunior161/status/2073065060121919873",
+              "start": 24,
+              "url": "https://t.co/NWLSjwpzQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073150384126759131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 114775,
+          "like_count": 1247,
+          "quote_count": 13,
+          "reply_count": 51,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073065060121919873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/TlyFryshxt https://t.co/NWLSjwpzQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 286,
+          "like_count": 2490,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 3018
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-20T19:29:18.000Z",
+        "description": "",
+        "id": "1274424009753612292",
+        "location": "Hyperstition-Affiliated Media",
+        "name": "Literally Me 🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642450678130802689/1wsI2P9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4276,
+          "following_count": 1989,
+          "like_count": 194308,
+          "listed_count": 17,
+          "media_count": 6181,
+          "tweet_count": 31989
+        },
+        "url": "",
+        "username": "NordickChad",
+        "verified": false
+      }
+    ]
+  }
+}

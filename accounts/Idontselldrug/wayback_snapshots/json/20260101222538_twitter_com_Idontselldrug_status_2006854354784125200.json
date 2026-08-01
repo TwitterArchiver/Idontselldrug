@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006767266277249024"
+      ],
+      "media_source_tweet_id": [
+        "2006767280915623966"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2006854354784125200",
+    "created_at": "2026-01-01T22:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T23:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006854354784125200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "54313278",
+          "start": 3,
+          "username": "96Stats"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFLifqJ7d5",
+          "end": 106,
+          "expanded_url": "https://x.com/96Stats/status/2006767280915623966/photo/1",
+          "media_key": "3_2006767266277249024",
+          "start": 83,
+          "url": "https://t.co/hFLifqJ7d5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006854354784125200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006767280915623966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @96Stats: Hey @grok remove the bad president from this image, keep the good one https://t.co/hFLifqJ7d5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2006767266277249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l4MkVWUAAgwMW.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006767266277249024"
+          ],
+          "media_source_tweet_id": [
+            "2006767280915623966"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2006854354784125200",
+        "created_at": "2026-01-01T22:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T23:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006854354784125200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "54313278",
+              "start": 3,
+              "username": "96Stats"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFLifqJ7d5",
+              "end": 106,
+              "expanded_url": "https://x.com/96Stats/status/2006767280915623966/photo/1",
+              "media_key": "3_2006767266277249024",
+              "start": 83,
+              "url": "https://t.co/hFLifqJ7d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006854354784125200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006767280915623966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @96Stats: Hey @grok remove the bad president from this image, keep the good one https://t.co/hFLifqJ7d5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006767266277249024"
+          ]
+        },
+        "author_id": "54313278",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2006767280915623966",
+        "created_at": "2026-01-01T16:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006767280915623966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFLifqJ7d5",
+              "end": 93,
+              "expanded_url": "https://x.com/96Stats/status/2006767280915623966/photo/1",
+              "media_key": "3_2006767266277249024",
+              "start": 70,
+              "url": "https://t.co/hFLifqJ7d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006767280915623966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 107211,
+          "like_count": 608,
+          "quote_count": 24,
+          "reply_count": 38,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Hey @grok remove the bad president from this image, keep the good one https://t.co/hFLifqJ7d5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 206,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T19:56:38.000Z",
+        "description": "Graduated with AI PhD in Shanghai. Now working in Xinjiang.  Watch my YouTube : Dr Luke in China",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/livinlavidal…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/livinlavidaluke",
+                "start": 0,
+                "url": "https://t.co/c8YdNCKgrg"
+              }
+            ]
+          }
+        },
+        "id": "54313278",
+        "location": "Urumqi, Xinjiang",
+        "name": "Dr. Luke in China (livinlavidaluke)",
+        "pinned_tweet_id": "1872998337961746585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283655275208155136/G8toKLyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13905,
+          "following_count": 5515,
+          "like_count": 4152,
+          "listed_count": 109,
+          "media_count": 926,
+          "tweet_count": 3972
+        },
+        "url": "https://t.co/c8YdNCKgrg",
+        "username": "96Stats",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6964193,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5595,
+          "media_count": 4015049,
+          "tweet_count": 80556960
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

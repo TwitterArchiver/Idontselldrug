@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2072643558675501318",
+    "created_at": "2026-07-03T01:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072860205315236260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608684841729667073",
+          "start": 0,
+          "username": "tongzikin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072860205315236260",
+    "in_reply_to_user_id": "1608684841729667073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072643558675501318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongzikin wtf这是啥啊，gpt还会读你通讯录吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2072643190038118400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOCAABawAAm6gO.jpg",
+        "width": 1678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2072643558675501318",
+        "created_at": "2026-07-03T01:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072860205315236260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608684841729667073",
+              "start": 0,
+              "username": "tongzikin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072860205315236260",
+        "in_reply_to_user_id": "1608684841729667073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072643558675501318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongzikin wtf这是啥啊，gpt还会读你通讯录吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072643190038118400"
+          ]
+        },
+        "author_id": "1608684841729667073",
+        "conversation_id": "2072643558675501318",
+        "created_at": "2026-07-02T11:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072643558675501318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StG18pVdzs",
+              "end": 49,
+              "expanded_url": "https://x.com/tongzikin/status/2072643558675501318/photo/1",
+              "media_key": "3_2072643190038118400",
+              "start": 26,
+              "url": "https://t.co/StG18pVdzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072643558675501318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到这样子的通知都感觉很对不起闺蜜…不想吓到人 https://t.co/StG18pVdzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 285,
+          "like_count": 2466,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me / She|They / 臭学文科的\n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / 🐧 @Silent121_5 / 🌸 @Miaaaaaaama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "misaka1057"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Miaaaaaaama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRzmt4"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "location": "Edmonton AB /  Beijing",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2070238419540918343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021462204953096192/NHtcHi4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 2082,
+          "like_count": 26374,
+          "listed_count": 5,
+          "media_count": 1068,
+          "tweet_count": 3752
+        },
+        "url": "https://t.co/JbvqgRzmt4",
+        "username": "tongzikin",
+        "verified": true
+      }
+    ]
+  }
+}

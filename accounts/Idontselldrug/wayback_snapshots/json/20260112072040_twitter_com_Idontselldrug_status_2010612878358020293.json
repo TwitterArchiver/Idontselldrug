@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2010612878358020293",
+    "created_at": "2026-01-12T07:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010612878358020293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BobbyBroccole/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/BobbyBroccole/status/2010484332893175991",
+          "start": 7,
+          "url": "https://t.co/pAeqXBz3Pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010612878358020293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010484332893175991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇还有耽改剧 https://t.co/pAeqXBz3Pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_2010483884169850881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ascM6XcAEN9bS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 800,
+        "media_key": "3_2010483934203625472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-asfHTWQAAQiz5.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2010612878358020293",
+        "created_at": "2026-01-12T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010612878358020293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BobbyBroccole/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/BobbyBroccole/status/2010484332893175991",
+              "start": 7,
+              "url": "https://t.co/pAeqXBz3Pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010612878358020293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010484332893175991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇还有耽改剧 https://t.co/pAeqXBz3Pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010483884169850881",
+            "3_2010483934203625472"
+          ]
+        },
+        "author_id": "2735119156",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2010484332893175991",
+        "created_at": "2026-01-11T22:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010484332893175991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkOtlu1c58",
+              "end": 221,
+              "expanded_url": "https://x.com/BobbyBroccole/status/2010484332893175991/photo/1",
+              "media_key": "3_2010483884169850881",
+              "start": 198,
+              "url": "https://t.co/HkOtlu1c58"
+            },
+            {
+              "display_url": "pic.x.com/HkOtlu1c58",
+              "end": 221,
+              "expanded_url": "https://x.com/BobbyBroccole/status/2010484332893175991/photo/1",
+              "media_key": "3_2010483934203625472",
+              "start": 198,
+              "url": "https://t.co/HkOtlu1c58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010484332893175991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 235257,
+          "like_count": 8842,
+          "quote_count": 69,
+          "reply_count": 46,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "The beauty of Canadian television is that the government uses my tax dollars to fund two shows about hockey that were made in a lab to be either as gay or as heterosexual as scientifically possible https://t.co/HkOtlu1c58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 220,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-06T13:43:11.000Z",
+        "description": "howdy, I do youtube videos (he/him)\nI'm also on @watchnebula\n\nPatreon: https://t.co/WZCptt3prb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "watchnebula"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/bobbybroccoli",
+                "end": 94,
+                "expanded_url": "http://patreon.com/bobbybroccoli",
+                "start": 71,
+                "url": "https://t.co/WZCptt3prb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/BobbyBroc…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/BobbyBroccoli",
+                "start": 0,
+                "url": "https://t.co/ao0Kt4qMDm"
+              }
+            ]
+          }
+        },
+        "id": "2735119156",
+        "location": "Canada",
+        "name": "BobbyBroccoli 🤠",
+        "pinned_tweet_id": "1846600584104685744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271673539729506305/pq4vXdrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17647,
+          "following_count": 409,
+          "like_count": 29677,
+          "listed_count": 16,
+          "media_count": 1196,
+          "tweet_count": 9064
+        },
+        "url": "https://t.co/ao0Kt4qMDm",
+        "username": "BobbyBroccole",
+        "verified": false
+      }
+    ]
+  }
+}

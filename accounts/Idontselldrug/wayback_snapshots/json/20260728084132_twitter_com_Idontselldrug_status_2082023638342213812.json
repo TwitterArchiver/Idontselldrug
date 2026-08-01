@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081856336665444352"
+      ],
+      "media_source_tweet_id": [
+        "2081856357624398049"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082023638342213812",
+    "created_at": "2026-07-28T08:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082023638342213812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1366359728515911682",
+          "start": 3,
+          "username": "PepNakkie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfJFHHaf0K",
+          "end": 74,
+          "expanded_url": "https://x.com/PepNakkie/status/2081856357624398049/photo/1",
+          "media_key": "3_2081856336665444352",
+          "start": 51,
+          "url": "https://t.co/GfJFHHaf0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082023638342213812",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 454
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081856357624398049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PepNakkie: Talking to 15 boys at the same time https://t.co/GfJFHHaf0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081856336665444352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQ9TtxXAAA1rxs.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081856336665444352"
+          ]
+        },
+        "author_id": "1366359728515911682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081856357624398049",
+        "created_at": "2026-07-27T21:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081856357624398049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfJFHHaf0K",
+              "end": 59,
+              "expanded_url": "https://x.com/PepNakkie/status/2081856357624398049/photo/1",
+              "media_key": "3_2081856336665444352",
+              "start": 36,
+              "url": "https://t.co/GfJFHHaf0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081856357624398049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 60635,
+          "like_count": 5660,
+          "quote_count": 30,
+          "reply_count": 12,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "Talking to 15 boys at the same time https://t.co/GfJFHHaf0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081856336665444352"
+          ],
+          "media_source_tweet_id": [
+            "2081856357624398049"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082023638342213812",
+        "created_at": "2026-07-28T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082023638342213812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1366359728515911682",
+              "start": 3,
+              "username": "PepNakkie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfJFHHaf0K",
+              "end": 74,
+              "expanded_url": "https://x.com/PepNakkie/status/2081856357624398049/photo/1",
+              "media_key": "3_2081856336665444352",
+              "start": 51,
+              "url": "https://t.co/GfJFHHaf0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082023638342213812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 454
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081856357624398049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PepNakkie: Talking to 15 boys at the same time https://t.co/GfJFHHaf0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 311,
+          "like_count": 2805,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 3305
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T12:08:47.000Z",
+        "description": "I took the top off🫢 im dripping like hot saus😖💧🔥 PINKFANTASY🤭❤️",
+        "id": "1366359728515911682",
+        "name": "Nakkiepep VVS hoe",
+        "pinned_tweet_id": "1426954560933974020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729866321972920321/GPdMDvo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 205,
+          "like_count": 40161,
+          "listed_count": 0,
+          "media_count": 1515,
+          "tweet_count": 9909
+        },
+        "url": "",
+        "username": "PepNakkie",
+        "verified": false
+      }
+    ]
+  }
+}

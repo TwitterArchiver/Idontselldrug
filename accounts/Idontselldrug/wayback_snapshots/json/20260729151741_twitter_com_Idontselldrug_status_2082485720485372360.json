@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2082485720485372360",
+    "created_at": "2026-07-29T15:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082485720485372360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "In this preliminary sample, daridorexant was associated with improvements in sleep, attention, mood and anxiety in adults with ADHD and insomnia, supporting further controlled trials.",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/42066563/",
+          "end": 49,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/42066563/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/2082485721747881984/hqyZSTzF?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082485721747881984/hqyZSTzF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "Daridorexant for adults with attention deficit hyperactivity disorder (ADHD) and insomnia disorder: An exploratory study - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/42066563/",
+          "url": "https://t.co/uZQJA5m1N9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082485720485372360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "达利雷生改善失眠adhd患者的注意力\n虽然是小样本\nhttps://t.co/uZQJA5m1N9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2082485720485372360",
+        "created_at": "2026-07-29T15:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082485720485372360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In this preliminary sample, daridorexant was associated with improvements in sleep, attention, mood and anxiety in adults with ADHD and insomnia, supporting further controlled trials.",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/42066563/",
+              "end": 49,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/42066563/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/2082485721747881984/hqyZSTzF?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082485721747881984/hqyZSTzF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "Daridorexant for adults with attention deficit hyperactivity disorder (ADHD) and insomnia disorder: An exploratory study - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/42066563/",
+              "url": "https://t.co/uZQJA5m1N9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082485720485372360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "达利雷生改善失眠adhd患者的注意力\n虽然是小样本\nhttps://t.co/uZQJA5m1N9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 308,
+          "like_count": 2829,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

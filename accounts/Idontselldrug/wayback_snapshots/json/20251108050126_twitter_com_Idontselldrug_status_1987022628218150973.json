@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1986967459153453224",
+    "created_at": "2025-11-08T05:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T06:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987022628218150973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1344660543131557895",
+          "start": 0,
+          "username": "k3Cat24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987022628218150973",
+    "in_reply_to_user_id": "1344660543131557895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987016167220027734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3Cat24 温哥华的也是ftir，样本是我自己给他们很多，多的我也不要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1986967459153453224",
+        "created_at": "2025-11-08T05:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T06:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987022628218150973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1344660543131557895",
+              "start": 0,
+              "username": "k3Cat24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987022628218150973",
+        "in_reply_to_user_id": "1344660543131557895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987016167220027734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3Cat24 温哥华的也是ftir，样本是我自己给他们很多，多的我也不要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344660543131557895",
+        "conversation_id": "1986967459153453224",
+        "created_at": "2025-11-08T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987016167220027734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987016167220027734",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986967459153453224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 啊？\n我以为检测是什么gc-ms  结果怎么是ir啊  而且这怎么一次加这么多样本  这量我能量5次了（量完了还能回收一部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 113,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-31T15:04:51.000Z",
+        "description": "为什么是猫猫却要用狐狸头像？因为可爱。。。。qvq  #成分请自己查\n// 期望回fo直接私信就好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "成分请自己查"
+              }
+            ]
+          }
+        },
+        "id": "1344660543131557895",
+        "name": "k᳐3喵᳐੭ 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 421,
+          "like_count": 3914,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 2326
+        },
+        "username": "k3Cat24",
+        "verified": false
+      }
+    ]
+  }
+}

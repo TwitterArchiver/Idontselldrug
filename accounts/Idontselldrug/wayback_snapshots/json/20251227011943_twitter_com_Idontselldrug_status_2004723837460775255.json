@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2004336914560602112"
+      ],
+      "media_source_tweet_id": [
+        "2004336927819157886"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004723837460775255",
+    "created_at": "2025-12-27T01:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004723837460775255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767239803966279680",
+          "start": 3,
+          "username": "dinocwelino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlIkD4EAed",
+          "end": 40,
+          "expanded_url": "https://x.com/dinocwelino/status/2004336927819157886/video/1",
+          "media_key": "7_2004336914560602112",
+          "start": 17,
+          "url": "https://t.co/xlIkD4EAed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004723837460775255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004336927819157886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dinocwelino: https://t.co/xlIkD4EAed"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14558,
+        "height": 768,
+        "media_key": "7_2004336914560602112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004336914560602112/pu/img/VPgizmE6X7pTkW8e.jpg",
+        "public_metrics": {
+          "view_count": 11146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004336914560602112/pu/vid/avc1/320x426/GQ0GXUezg_j8FWWC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004336914560602112/pu/vid/avc1/480x640/-211sniYcxYEOUns.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004336914560602112/pu/vid/avc1/576x768/x1HbSVQRP7p6x9i4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004336914560602112/pu/pl/AKlcPoUP3uzXLecD.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004336914560602112"
+          ],
+          "media_source_tweet_id": [
+            "2004336927819157886"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004723837460775255",
+        "created_at": "2025-12-27T01:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004723837460775255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767239803966279680",
+              "start": 3,
+              "username": "dinocwelino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlIkD4EAed",
+              "end": 40,
+              "expanded_url": "https://x.com/dinocwelino/status/2004336927819157886/video/1",
+              "media_key": "7_2004336914560602112",
+              "start": 17,
+              "url": "https://t.co/xlIkD4EAed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004723837460775255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004336927819157886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dinocwelino: https://t.co/xlIkD4EAed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004336914560602112"
+          ]
+        },
+        "author_id": "1767239803966279680",
+        "conversation_id": "2004336927819157886",
+        "created_at": "2025-12-25T23:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T00:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004336927819157886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlIkD4EAed",
+              "end": 23,
+              "expanded_url": "https://x.com/dinocwelino/status/2004336927819157886/video/1",
+              "media_key": "7_2004336914560602112",
+              "start": 0,
+              "url": "https://t.co/xlIkD4EAed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004336927819157886",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 23577,
+          "like_count": 810,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xlIkD4EAed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 203,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T17:23:02.000Z",
+        "description": "shitpost i OSINT",
+        "id": "1767239803966279680",
+        "name": "Gadzilla",
+        "pinned_tweet_id": "1979825742960828791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003778386175356928/zVa37Ohg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 1703,
+          "like_count": 197511,
+          "listed_count": 11,
+          "media_count": 3158,
+          "tweet_count": 45513
+        },
+        "username": "dinocwelino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1995074473016586469",
+    "created_at": "2025-11-30T10:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995074473016586469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SagerRgyalpo/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/SagerRgyalpo/status/1994962173635010565",
+          "start": 11,
+          "url": "https://t.co/LIRiQdIESS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995074473016586469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994962173635010565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还有徐昊龙的事？ https://t.co/LIRiQdIESS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_1994962168975167488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-Hhd4bkAAUnDM.jpg",
+        "width": 631
+      },
+      {
+        "height": 198,
+        "media_key": "3_1994962168966778880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-Hhd2bkAANQ6V.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1995074473016586469",
+        "created_at": "2025-11-30T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995074473016586469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SagerRgyalpo/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/SagerRgyalpo/status/1994962173635010565",
+              "start": 11,
+              "url": "https://t.co/LIRiQdIESS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995074473016586469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994962173635010565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有徐昊龙的事？ https://t.co/LIRiQdIESS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994962168975167488",
+            "3_1994962168966778880"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "1994962173635010565",
+        "created_at": "2025-11-30T02:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994962173635010565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PwOHApmTT",
+              "end": 57,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/1994962173635010565/photo/1",
+              "media_key": "3_1994962168975167488",
+              "start": 34,
+              "url": "https://t.co/4PwOHApmTT"
+            },
+            {
+              "display_url": "pic.x.com/4PwOHApmTT",
+              "end": 57,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/1994962173635010565/photo/1",
+              "media_key": "3_1994962168966778880",
+              "start": 34,
+              "url": "https://t.co/4PwOHApmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994962173635010565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11611,
+          "like_count": 109,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "B站头部up主逍遥散人，被指控“辱女”，掉粉近20万。\n（接投稿） https://t.co/4PwOHApmTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 179,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "女男平等｜gender equality｜성평등｜打倒“男性原罪论”｜反战☮️｜欢迎私信投稿｜📧SagerRgyalpo@gmail.com｜https://t.co/PbBajSghIE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sagerrgyalpo",
+                "end": 94,
+                "expanded_url": "https://youtube.com/@sagerrgyalpo",
+                "start": 71,
+                "url": "https://t.co/PbBajSghIE"
+              }
+            ]
+          }
+        },
+        "id": "1622255626066731010",
+        "location": "Mongolia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "1973412095841673321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799019346704080896/RyOiFbUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7547,
+          "following_count": 348,
+          "like_count": 852,
+          "listed_count": 23,
+          "media_count": 1144,
+          "tweet_count": 2954
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

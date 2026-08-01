@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2037609710854221859",
+    "created_at": "2026-03-27T19:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037609712762728949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037609712762728949",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037609710854221859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "免责声明：P1是把40mg的vyvanse拆一半吸进嘴里，不是在鼻吸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037609708773871616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcLPAJakAAN6rY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037609708203524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcLO-BbwAA-KuN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037609708635463680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcLO_oaoAAMisO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2037609710854221859",
+        "created_at": "2026-03-27T19:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037609712762728949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037609712762728949",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037609710854221859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "免责声明：P1是把40mg的vyvanse拆一半吸进嘴里，不是在鼻吸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037609708773871616",
+            "3_2037609708203524096",
+            "3_2037609708635463680"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037609710854221859",
+        "created_at": "2026-03-27T19:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037609710854221859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZVUKco2rO",
+              "end": 60,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037609710854221859/photo/1",
+              "media_key": "3_2037609708773871616",
+              "start": 37,
+              "url": "https://t.co/yZVUKco2rO"
+            },
+            {
+              "display_url": "pic.x.com/yZVUKco2rO",
+              "end": 60,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037609710854221859/photo/1",
+              "media_key": "3_2037609708203524096",
+              "start": 37,
+              "url": "https://t.co/yZVUKco2rO"
+            },
+            {
+              "display_url": "pic.x.com/yZVUKco2rO",
+              "end": 60,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037609710854221859/photo/1",
+              "media_key": "3_2037609708635463680",
+              "start": 37,
+              "url": "https://t.co/yZVUKco2rO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037609710854221859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Know I gotta keep the drugs round me https://t.co/yZVUKco2rO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 237,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051661025360166912",
+        "3_2051661031206981632",
+        "3_2051661032989573120",
+        "3_2051661032574377984"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051661045174087951",
+    "created_at": "2026-05-05T13:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051661045174087951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wngHKUpOH3",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+          "media_key": "7_2051661025360166912",
+          "start": 51,
+          "url": "https://t.co/wngHKUpOH3"
+        },
+        {
+          "display_url": "pic.x.com/wngHKUpOH3",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+          "media_key": "3_2051661031206981632",
+          "start": 51,
+          "url": "https://t.co/wngHKUpOH3"
+        },
+        {
+          "display_url": "pic.x.com/wngHKUpOH3",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+          "media_key": "3_2051661032989573120",
+          "start": 51,
+          "url": "https://t.co/wngHKUpOH3"
+        },
+        {
+          "display_url": "pic.x.com/wngHKUpOH3",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+          "media_key": "3_2051661032574377984",
+          "start": 51,
+          "url": "https://t.co/wngHKUpOH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051661045174087951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些法轮功的宣传给我看笑了，去年在台湾的时候就在这里，今年还在这里，一点都没变。他们广告费是不用钱吗 https://t.co/wngHKUpOH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4842,
+        "height": 1280,
+        "media_key": "7_2051661025360166912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051661025360166912/pu/img/kOhkL3AMoiVJuM8N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051661025360166912/pu/vid/avc1/320x568/9xXoz9AwQEDjhTIx.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051661025360166912/pu/vid/avc1/480x852/r3s7O_mj66ScfHYh.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051661025360166912/pu/vid/avc1/720x1280/5KSZe6zmUHmieaPe.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051661025360166912/pu/pl/91Nvrm8jApvDNcOp.m3u8?tag=25"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051661031206981632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj21nSakAAUZD4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051661032989573120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj21t7awAATGia.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051661032574377984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj21sYbYAAkJxS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051661025360166912",
+            "3_2051661031206981632",
+            "3_2051661032989573120",
+            "3_2051661032574377984"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051661045174087951",
+        "created_at": "2026-05-05T13:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051661045174087951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wngHKUpOH3",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+              "media_key": "7_2051661025360166912",
+              "start": 51,
+              "url": "https://t.co/wngHKUpOH3"
+            },
+            {
+              "display_url": "pic.x.com/wngHKUpOH3",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+              "media_key": "3_2051661031206981632",
+              "start": 51,
+              "url": "https://t.co/wngHKUpOH3"
+            },
+            {
+              "display_url": "pic.x.com/wngHKUpOH3",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+              "media_key": "3_2051661032989573120",
+              "start": 51,
+              "url": "https://t.co/wngHKUpOH3"
+            },
+            {
+              "display_url": "pic.x.com/wngHKUpOH3",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051661045174087951/video/1",
+              "media_key": "3_2051661032574377984",
+              "start": 51,
+              "url": "https://t.co/wngHKUpOH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051661045174087951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些法轮功的宣传给我看笑了，去年在台湾的时候就在这里，今年还在这里，一点都没变。他们广告费是不用钱吗 https://t.co/wngHKUpOH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 283,
+          "like_count": 2114,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

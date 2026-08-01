@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1990311538381787523",
+    "created_at": "2025-11-17T07:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T08:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990316408161595868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990316408161595868",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990311538381787523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 怎么这么好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990311509550104576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58BxdcbAAA1xbe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990311508866428929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58Bxa5a8AEJzo5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990311509663363072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58Bxd3bMAAHQ2U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990311509726212096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58BxeGaMAAoCBC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1990311538381787523",
+        "created_at": "2025-11-17T07:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990316408161595868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990316408161595868",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990311538381787523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 怎么这么好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990311509550104576",
+            "3_1990311508866428929",
+            "3_1990311509663363072",
+            "3_1990311509726212096"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "1990311538381787523",
+        "created_at": "2025-11-17T06:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990311538381787523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3e0TzQGDPh",
+              "end": 68,
+              "expanded_url": "https://x.com/jlxc2001/status/1990311538381787523/photo/1",
+              "media_key": "3_1990311509550104576",
+              "start": 45,
+              "url": "https://t.co/3e0TzQGDPh"
+            },
+            {
+              "display_url": "pic.x.com/3e0TzQGDPh",
+              "end": 68,
+              "expanded_url": "https://x.com/jlxc2001/status/1990311538381787523/photo/1",
+              "media_key": "3_1990311508866428929",
+              "start": 45,
+              "url": "https://t.co/3e0TzQGDPh"
+            },
+            {
+              "display_url": "pic.x.com/3e0TzQGDPh",
+              "end": 68,
+              "expanded_url": "https://x.com/jlxc2001/status/1990311538381787523/photo/1",
+              "media_key": "3_1990311509663363072",
+              "start": 45,
+              "url": "https://t.co/3e0TzQGDPh"
+            },
+            {
+              "display_url": "pic.x.com/3e0TzQGDPh",
+              "end": 68,
+              "expanded_url": "https://x.com/jlxc2001/status/1990311538381787523/photo/1",
+              "media_key": "3_1990311509726212096",
+              "start": 45,
+              "url": "https://t.co/3e0TzQGDPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990311538381787523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢来成都出差的原因就是，同样预算下成都的酒店要好很多，成都的酒店相对来说真的便宜好多。 https://t.co/3e0TzQGDPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 143,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "我一般会使用中文，日语，英语三种语言发帖。DIY SmartPhone Computer HatsuneMiku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "1935915100046868982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3988,
+          "following_count": 89,
+          "like_count": 143,
+          "listed_count": 12,
+          "media_count": 348,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2047066283762725302",
+    "created_at": "2026-04-22T21:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T22:33:20.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047066246873805020",
+      "2047066283762725302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/absenceshell/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/absenceshell/status/2046352404098994433",
+          "start": 19,
+          "url": "https://t.co/Q6amSGLI3c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047066283762725302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046352404098994433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些药物拟人都是谁画的，有人指个路吗 https://t.co/Q6amSGLI3c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2046352398575382529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYaqhpasAEBntm.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047066246873805020",
+        "created_at": "2026-04-22T21:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T22:33:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047066246873805020",
+          "2047066283762725302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/absenceshell/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/absenceshell/status/2046352404098994433",
+              "start": 19,
+              "url": "https://t.co/Q6amSGLI3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047066246873805020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046352404098994433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些药物拟人都是睡画的，有人指个路吗 https://t.co/Q6amSGLI3c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047066283762725302",
+        "created_at": "2026-04-22T21:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T22:33:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047066246873805020",
+          "2047066283762725302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/absenceshell/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/absenceshell/status/2046352404098994433",
+              "start": 19,
+              "url": "https://t.co/Q6amSGLI3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047066283762725302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046352404098994433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些药物拟人都是谁画的，有人指个路吗 https://t.co/Q6amSGLI3c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046352398575382529"
+          ]
+        },
+        "author_id": "1334667994442723328",
+        "conversation_id": "2046352404098994433",
+        "created_at": "2026-04-20T22:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046352404098994433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yhx8DNaXgB",
+              "end": 57,
+              "expanded_url": "https://x.com/absenceshell/status/2046352404098994433/photo/1",
+              "media_key": "3_2046352398575382529",
+              "start": 34,
+              "url": "https://t.co/Yhx8DNaXgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046352404098994433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 10044,
+          "like_count": 668,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "She makes all my problems go away https://t.co/Yhx8DNaXgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 257,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-04T01:17:48.000Z",
+        "description": "Archivist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winterdream.substack.com",
+                "end": 23,
+                "expanded_url": "http://winterdream.substack.com",
+                "start": 0,
+                "url": "https://t.co/V6s9b9oItO"
+              }
+            ]
+          }
+        },
+        "id": "1334667994442723328",
+        "name": "Billy",
+        "pinned_tweet_id": "2041137809004662820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018044976609816576/e3jVRAN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4010,
+          "following_count": 974,
+          "like_count": 30843,
+          "listed_count": 12,
+          "media_count": 469,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/V6s9b9oItO",
+        "username": "absenceshell",
+        "verified": true
+      }
+    ]
+  }
+}

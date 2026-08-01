@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990870847561641984",
+        "3_1990870847695810560"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1990870850292134168",
+    "created_at": "2025-11-18T19:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T20:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990870850292134168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8hQp7SqMTU",
+          "end": 149,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990870850292134168/photo/1",
+          "media_key": "3_1990870847561641984",
+          "start": 126,
+          "url": "https://t.co/8hQp7SqMTU"
+        },
+        {
+          "display_url": "pic.x.com/8hQp7SqMTU",
+          "end": 149,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990870850292134168/photo/1",
+          "media_key": "3_1990870847695810560",
+          "start": 126,
+          "url": "https://t.co/8hQp7SqMTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990870850292134168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典大麻，菠萝快车，一克五刀，也不贵，来自迷幻药店同一个老板的大麻店，但是是非法产品\n我不知道合法化了还有人在买非法产品，明明合法的花应该会好一点\n菠萝快车貌似是很经典的strain了，有部电影就叫这个名字，也不知道是大麻偷的电影名还是电影偷的大麻名 https://t.co/8hQp7SqMTU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990870847561641984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6D-fN6XsAA9znL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990870847695810560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6D-fOaW8AAa7a_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990870847561641984",
+            "3_1990870847695810560"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990870850292134168",
+        "created_at": "2025-11-18T19:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T20:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990870850292134168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hQp7SqMTU",
+              "end": 149,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990870850292134168/photo/1",
+              "media_key": "3_1990870847561641984",
+              "start": 126,
+              "url": "https://t.co/8hQp7SqMTU"
+            },
+            {
+              "display_url": "pic.x.com/8hQp7SqMTU",
+              "end": 149,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990870850292134168/photo/1",
+              "media_key": "3_1990870847695810560",
+              "start": 126,
+              "url": "https://t.co/8hQp7SqMTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990870850292134168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典大麻，菠萝快车，一克五刀，也不贵，来自迷幻药店同一个老板的大麻店，但是是非法产品\n我不知道合法化了还有人在买非法产品，明明合法的花应该会好一点\n菠萝快车貌似是很经典的strain了，有部电影就叫这个名字，也不知道是大麻偷的电影名还是电影偷的大麻名 https://t.co/8hQp7SqMTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 156,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049179597678260224"
+      ],
+      "media_source_tweet_id": [
+        "2049179606222065827"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049267030420082978",
+    "created_at": "2026-04-28T23:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049267030420082978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1405969291170746371",
+          "start": 3,
+          "username": "RAWigger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iSElXOUIqG",
+          "end": 37,
+          "expanded_url": "https://x.com/RAWigger/status/2049179606222065827/photo/1",
+          "media_key": "3_2049179597678260224",
+          "start": 14,
+          "url": "https://t.co/iSElXOUIqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049267030420082978",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049179606222065827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RAWigger: https://t.co/iSElXOUIqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 583,
+        "media_key": "3_2049179597678260224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAl_LCXMAAj_7m.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049179597678260224"
+          ],
+          "media_source_tweet_id": [
+            "2049179606222065827"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049267030420082978",
+        "created_at": "2026-04-28T23:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049267030420082978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1405969291170746371",
+              "start": 3,
+              "username": "RAWigger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSElXOUIqG",
+              "end": 37,
+              "expanded_url": "https://x.com/RAWigger/status/2049179606222065827/photo/1",
+              "media_key": "3_2049179597678260224",
+              "start": 14,
+              "url": "https://t.co/iSElXOUIqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049267030420082978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049179606222065827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RAWigger: https://t.co/iSElXOUIqG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049179597678260224"
+          ]
+        },
+        "author_id": "1405969291170746371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049179606222065827",
+        "created_at": "2026-04-28T17:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049179606222065827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSElXOUIqG",
+              "end": 23,
+              "expanded_url": "https://x.com/RAWigger/status/2049179606222065827/photo/1",
+              "media_key": "3_2049179597678260224",
+              "start": 0,
+              "url": "https://t.co/iSElXOUIqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049179606222065827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 55736,
+          "like_count": 6108,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iSElXOUIqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 282,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-18T19:23:22.000Z",
+        "description": "Goyslop implies the existence of Goygem",
+        "id": "1405969291170746371",
+        "name": "Real Ass Wigger",
+        "pinned_tweet_id": "1432743414676680707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007390510630219778/hoOggg75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59300,
+          "following_count": 99,
+          "like_count": 2681,
+          "listed_count": 111,
+          "media_count": 2318,
+          "tweet_count": 3763
+        },
+        "username": "RAWigger",
+        "verified": true
+      }
+    ]
+  }
+}

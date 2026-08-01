@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034535519770874280",
+    "created_at": "2026-03-19T07:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034535519770874280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1385671241667948544",
+          "start": 3,
+          "username": "DgnWojak"
+        },
+        {
+          "end": 26,
+          "id": "2031070855988715520",
+          "start": 14,
+          "username": "satorii1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034535519770874280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034463512911646729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @DgnWojak: @satorii1999 Foids when they realise sucrose is half glucose &amp; fructose just like most fruits 🫣🤯🤯🫣🤯😱😱😱\n\nIt’s not the sugar, i…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034535519770874280",
+        "created_at": "2026-03-19T07:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034535519770874280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1385671241667948544",
+              "start": 3,
+              "username": "DgnWojak"
+            },
+            {
+              "end": 26,
+              "id": "2031070855988715520",
+              "start": 14,
+              "username": "satorii1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034535519770874280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034463512911646729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @DgnWojak: @satorii1999 Foids when they realise sucrose is half glucose &amp; fructose just like most fruits 🫣🤯🤯🫣🤯😱😱😱\n\nIt’s not the sugar, i…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385671241667948544",
+        "conversation_id": "2034118054947524788",
+        "created_at": "2026-03-19T02:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T03:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034463512911646729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031070855988715520",
+              "start": 0,
+              "username": "satorii1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034463512911646729",
+        "in_reply_to_user_id": "2031070855988715520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1946,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034118054947524788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@satorii1999 Foids when they realise sucrose is half glucose &amp; fructose just like most fruits 🫣🤯🤯🫣🤯😱😱😱\n\nIt’s not the sugar, it’s bad fat, additives, toxic oils, etc etcc that makes you bloated. How is that hard to understand?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 237,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T19:05:51.000Z",
+        "description": "🧩 Last piece of the puzzle",
+        "id": "1385671241667948544",
+        "location": "Law of Attraction",
+        "name": "100x 📈",
+        "pinned_tweet_id": "1846775849623716209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799566494621118464/DE5zCaRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 478,
+          "like_count": 8037,
+          "listed_count": 5,
+          "media_count": 673,
+          "tweet_count": 8649
+        },
+        "username": "DgnWojak",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T18:15:18.000Z",
+        "description": "170 cm ♡︎ | BMI 20.7 | DNI shtwt !!\ndms open °❀⋆.ೃ࿔*:･",
+        "id": "2031070855988715520",
+        "location": "18",
+        "name": "satori ⋆˚𝜗𝜚˚⋆ | edtwt",
+        "pinned_tweet_id": "2031927079701528863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031071538989117441/4RRnH1q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 465,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 302
+        },
+        "username": "satorii1999",
+        "verified": false
+      }
+    ]
+  }
+}

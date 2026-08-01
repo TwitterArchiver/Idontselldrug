@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004640613598150656"
+      ],
+      "media_source_tweet_id": [
+        "2004640615468810350"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2004833348284518807",
+    "created_at": "2025-12-27T08:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T09:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004833348284518807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973407524498903042",
+          "start": 3,
+          "username": "memetexts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6xhF9NOwq",
+          "end": 38,
+          "expanded_url": "https://x.com/memetexts/status/2004640615468810350/photo/1",
+          "media_key": "3_2004640613598150656",
+          "start": 15,
+          "url": "https://t.co/m6xhF9NOwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004833348284518807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 735
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004640615468810350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memetexts: https://t.co/m6xhF9NOwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2004640613598150656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HqBFvWwAA2gBN.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004640613598150656"
+          ],
+          "media_source_tweet_id": [
+            "2004640615468810350"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2004833348284518807",
+        "created_at": "2025-12-27T08:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004833348284518807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973407524498903042",
+              "start": 3,
+              "username": "memetexts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6xhF9NOwq",
+              "end": 38,
+              "expanded_url": "https://x.com/memetexts/status/2004640615468810350/photo/1",
+              "media_key": "3_2004640613598150656",
+              "start": 15,
+              "url": "https://t.co/m6xhF9NOwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004833348284518807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 735
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004640615468810350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memetexts: https://t.co/m6xhF9NOwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004640613598150656"
+          ]
+        },
+        "author_id": "1973407524498903042",
+        "conversation_id": "2004640615468810350",
+        "created_at": "2025-12-26T19:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T20:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004640615468810350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6xhF9NOwq",
+              "end": 23,
+              "expanded_url": "https://x.com/memetexts/status/2004640615468810350/photo/1",
+              "media_key": "3_2004640613598150656",
+              "start": 0,
+              "url": "https://t.co/m6xhF9NOwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004640615468810350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 128921,
+          "like_count": 12903,
+          "quote_count": 92,
+          "reply_count": 19,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m6xhF9NOwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 205,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T15:20:06.000Z",
+        "description": "weird text messages | powered by @memelordtech | get memes sent to you daily 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/texts",
+                "end": 23,
+                "expanded_url": "http://signup.memelord.com/texts",
+                "start": 0,
+                "url": "https://t.co/54uq1OnQS2"
+              }
+            ]
+          }
+        },
+        "id": "1973407524498903042",
+        "name": "weird text messages",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973407838895497216/n6RFrhFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19332,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 11,
+          "media_count": 651,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/54uq1OnQS2",
+        "username": "memetexts",
+        "verified": true
+      }
+    ]
+  }
+}

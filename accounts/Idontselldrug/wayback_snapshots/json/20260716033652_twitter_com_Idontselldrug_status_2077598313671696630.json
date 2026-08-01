@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2077598313671696630",
+    "created_at": "2026-07-16T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077598313671696630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2059251362542563328",
+          "start": 3,
+          "username": "starmkommando"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077598313671696630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077287975096873032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starmkommando: My nigger is more aryan than your nigger"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2077598313671696630",
+        "created_at": "2026-07-16T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077598313671696630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2059251362542563328",
+              "start": 3,
+              "username": "starmkommando"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077598313671696630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077287975096873032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starmkommando: My nigger is more aryan than your nigger"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059251362542563328",
+        "conversation_id": "2077287975096873032",
+        "created_at": "2026-07-15T07:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077287975096873032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shanevogue/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/shanevogue/status/2077143037797417457",
+              "start": 41,
+              "url": "https://t.co/tepuFp2zOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077287975096873032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 48946,
+          "like_count": 2728,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077143037797417457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My nigger is more aryan than your nigger https://t.co/tepuFp2zOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 304,
+          "like_count": 2623,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T12:33:41.000Z",
+        "description": "52 IQ\nStarmerites own you\n40th percentile of men\nPoland wonned BTW\nI block you = I win\nYou block me = I win",
+        "id": "2059251362542563328",
+        "name": "Starmerian Übermensch",
+        "pinned_tweet_id": "2073173994346324364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059268398022823936/epokLiSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 84,
+          "like_count": 1637,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "starmkommando",
+        "verified": false
+      }
+    ]
+  }
+}

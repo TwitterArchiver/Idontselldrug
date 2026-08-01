@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074180808668282880"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2073860754592113071",
+    "created_at": "2026-07-06T17:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074180817941876814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKAHoaK11G",
+          "end": 38,
+          "expanded_url": "https://x.com/Idontselldrug/status/2074180817941876814/photo/1",
+          "media_key": "16_2074180808668282880",
+          "start": 15,
+          "url": "https://t.co/FKAHoaK11G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074180817941876814",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073860754592113071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw https://t.co/FKAHoaK11G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "16_2074180808668282880",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMj4dLybAAASo0F.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMj4dLybAAASo0F.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073860749709991936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfVXTQW4AAUsu5.jpg",
+        "width": 944
+      },
+      {
+        "height": 944,
+        "media_key": "3_2073860749697417217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfVXTNXAAEUfLP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074180808668282880"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2073860754592113071",
+        "created_at": "2026-07-06T17:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074180817941876814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKAHoaK11G",
+              "end": 38,
+              "expanded_url": "https://x.com/Idontselldrug/status/2074180817941876814/photo/1",
+              "media_key": "16_2074180808668282880",
+              "start": 15,
+              "url": "https://t.co/FKAHoaK11G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074180817941876814",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073860754592113071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw https://t.co/FKAHoaK11G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073860749709991936",
+            "3_2073860749697417217"
+          ]
+        },
+        "author_id": "1880109814241746944",
+        "conversation_id": "2073860754592113071",
+        "created_at": "2026-07-05T20:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073860754592113071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZXLz2QW48",
+              "end": 87,
+              "expanded_url": "https://x.com/fallenleavesw/status/2073860754592113071/photo/1",
+              "media_key": "3_2073860749709991936",
+              "start": 64,
+              "url": "https://t.co/PZXLz2QW48"
+            },
+            {
+              "display_url": "pic.x.com/PZXLz2QW48",
+              "end": 87,
+              "expanded_url": "https://x.com/fallenleavesw/status/2073860754592113071/photo/1",
+              "media_key": "3_2073860749697417217",
+              "start": 64,
+              "url": "https://t.co/PZXLz2QW48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073860754592113071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平生不修善果\n\n只爱杀人放火\n\n钱塘江上潮信来\n\n今日方知我是我\n\n（你那个嚷着做西格玛男人的朋友突然想起来自己点过化妆技能） https://t.co/PZXLz2QW48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 289,
+          "like_count": 2525,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "芜我转躁了，好开心",
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993024820426985473/tnWOr9SV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 590,
+          "like_count": 29850,
+          "listed_count": 4,
+          "media_count": 606,
+          "tweet_count": 5832
+        },
+        "url": "",
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

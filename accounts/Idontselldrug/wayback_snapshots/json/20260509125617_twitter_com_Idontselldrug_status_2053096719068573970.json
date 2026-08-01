@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053096716015190016",
+        "3_2053096715826409472",
+        "3_2053096715671203840"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053096719068573970",
+    "created_at": "2026-05-09T12:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053096719068573970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQIXMcmI1U",
+          "end": 167,
+          "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+          "media_key": "3_2053096716015190016",
+          "start": 144,
+          "url": "https://t.co/SQIXMcmI1U"
+        },
+        {
+          "display_url": "pic.x.com/SQIXMcmI1U",
+          "end": 167,
+          "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+          "media_key": "3_2053096715826409472",
+          "start": 144,
+          "url": "https://t.co/SQIXMcmI1U"
+        },
+        {
+          "display_url": "pic.x.com/SQIXMcmI1U",
+          "end": 167,
+          "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+          "media_key": "3_2053096715671203840",
+          "start": 144,
+          "url": "https://t.co/SQIXMcmI1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053096719068573970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道从什么时候开始心理状况越来越差，跟自杀热线的通话时长比跟家里人还多，每天情绪波动严重，兴奋的时候明明没嗑药却像磕了一样瞳孔放大下巴咬紧，我都感觉我是装的。\n看男的也烦看女的也烦，看男的女的在一起更烦，我感觉自己要变成一个像Elliot rodger一样的incel了，鹅肉面配酒。 https://t.co/SQIXMcmI1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053096716015190016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Qld-bQAABNki.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053096715826409472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4QldRasAAA9Oo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053096715671203840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4QlcsacAA00RF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053096716015190016",
+            "3_2053096715826409472",
+            "3_2053096715671203840"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053096719068573970",
+        "created_at": "2026-05-09T12:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053096719068573970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQIXMcmI1U",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+              "media_key": "3_2053096716015190016",
+              "start": 144,
+              "url": "https://t.co/SQIXMcmI1U"
+            },
+            {
+              "display_url": "pic.x.com/SQIXMcmI1U",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+              "media_key": "3_2053096715826409472",
+              "start": 144,
+              "url": "https://t.co/SQIXMcmI1U"
+            },
+            {
+              "display_url": "pic.x.com/SQIXMcmI1U",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2053096719068573970/photo/1",
+              "media_key": "3_2053096715671203840",
+              "start": 144,
+              "url": "https://t.co/SQIXMcmI1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053096719068573970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道从什么时候开始心理状况越来越差，跟自杀热线的通话时长比跟家里人还多，每天情绪波动严重，兴奋的时候明明没嗑药却像磕了一样瞳孔放大下巴咬紧，我都感觉我是装的。\n看男的也烦看女的也烦，看男的女的在一起更烦，我感觉自己要变成一个像Elliot rodger一样的incel了，鹅肉面配酒。 https://t.co/SQIXMcmI1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "现在只差临门一脚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 283,
+          "like_count": 2181,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

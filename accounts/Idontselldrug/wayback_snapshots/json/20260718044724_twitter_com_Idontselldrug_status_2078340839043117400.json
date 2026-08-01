@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078129457152270336"
+      ],
+      "media_source_tweet_id": [
+        "2078129466904019078"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2078340839043117400",
+    "created_at": "2026-07-18T04:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078340839043117400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897319458286211072",
+          "start": 3,
+          "username": "AnCapShow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VmLoMlVEVd",
+          "end": 38,
+          "expanded_url": "https://x.com/AnCapShow/status/2078129466904019078/photo/1",
+          "media_key": "3_2078129457152270336",
+          "start": 15,
+          "url": "https://t.co/VmLoMlVEVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078340839043117400",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1998
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078129466904019078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnCapShow: https://t.co/VmLoMlVEVd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078129457152270336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb_uxrWIAAatEv.png",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078129457152270336"
+          ]
+        },
+        "author_id": "1897319458286211072",
+        "conversation_id": "2078129466904019078",
+        "created_at": "2026-07-17T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078129466904019078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmLoMlVEVd",
+              "end": 23,
+              "expanded_url": "https://x.com/AnCapShow/status/2078129466904019078/photo/1",
+              "media_key": "3_2078129457152270336",
+              "start": 0,
+              "url": "https://t.co/VmLoMlVEVd"
+            },
+            {
+              "display_url": "x.com/gigazine/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gigazine/status/2078038824534290810",
+              "start": 24,
+              "url": "https://t.co/fgQXSNwVg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078129466904019078",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4636,
+          "impression_count": 1834179,
+          "like_count": 40952,
+          "quote_count": 72,
+          "reply_count": 130,
+          "retweet_count": 2001
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078038824534290810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VmLoMlVEVd https://t.co/fgQXSNwVg2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078129457152270336"
+          ],
+          "media_source_tweet_id": [
+            "2078129466904019078"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2078340839043117400",
+        "created_at": "2026-07-18T04:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078340839043117400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897319458286211072",
+              "start": 3,
+              "username": "AnCapShow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmLoMlVEVd",
+              "end": 38,
+              "expanded_url": "https://x.com/AnCapShow/status/2078129466904019078/photo/1",
+              "media_key": "3_2078129457152270336",
+              "start": 15,
+              "url": "https://t.co/VmLoMlVEVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078340839043117400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1998
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078129466904019078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnCapShow: https://t.co/VmLoMlVEVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 307,
+          "like_count": 2657,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T16:13:15.000Z",
+        "description": "Rumble: https://t.co/ymIHQbwvXM\nEng+Esp+Deu\nCo-host of @EatAwesomeSauce\nPronouns: Himothy\nFriends with @LibertyBear_\nThe Commie Larp ended\nIm not gay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "EatAwesomeSauce"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "LibertyBear_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rumble.com/c/c-7660250",
+                "end": 31,
+                "expanded_url": "https://rumble.com/c/c-7660250",
+                "start": 8,
+                "url": "https://t.co/ymIHQbwvXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "LibertyBear.Fun",
+                "end": 23,
+                "expanded_url": "http://LibertyBear.Fun",
+                "start": 0,
+                "url": "https://t.co/EZ2ovPacXm"
+              }
+            ]
+          }
+        },
+        "id": "1897319458286211072",
+        "location": "Tel Aviv, Mexico",
+        "name": "AnCap Seal",
+        "pinned_tweet_id": "2033968210186313760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059836401642799106/Nv-MIl12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1039,
+          "like_count": 47260,
+          "listed_count": 13,
+          "media_count": 2189,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/EZ2ovPacXm",
+        "username": "AnCapShow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996347798514761728",
+        "3_1996347799156490240"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1996347801333322067",
+    "created_at": "2025-12-03T22:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T23:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996347801333322067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ut1TIzuPZ7",
+          "end": 142,
+          "expanded_url": "https://x.com/Idontselldrug/status/1996347801333322067/photo/1",
+          "media_key": "3_1996347798514761728",
+          "start": 119,
+          "url": "https://t.co/ut1TIzuPZ7"
+        },
+        {
+          "display_url": "pic.x.com/ut1TIzuPZ7",
+          "end": 142,
+          "expanded_url": "https://x.com/Idontselldrug/status/1996347801333322067/photo/1",
+          "media_key": "3_1996347799156490240",
+          "start": 119,
+          "url": "https://t.co/ut1TIzuPZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996347801333322067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天埃德蒙顿很凉爽，都是零下一两度的温度，风也不大，还有小雪，我很喜欢这样的天气\n可惜过几天又要变冷了，零下一二十度我应该还是受不了，我甚至觉得温哥华夏天太热冬天太冷，我要月底才能去多伦多但是貌似多伦多比温哥华冬天冷一点，我应该会很喜欢 https://t.co/ut1TIzuPZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996347798514761728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RzvuKbAAAK8PQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996347799156490240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RzvwjbAAAtlwO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996347798514761728",
+            "3_1996347799156490240"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1996347801333322067",
+        "created_at": "2025-12-03T22:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996347801333322067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ut1TIzuPZ7",
+              "end": 142,
+              "expanded_url": "https://x.com/Idontselldrug/status/1996347801333322067/photo/1",
+              "media_key": "3_1996347798514761728",
+              "start": 119,
+              "url": "https://t.co/ut1TIzuPZ7"
+            },
+            {
+              "display_url": "pic.x.com/ut1TIzuPZ7",
+              "end": 142,
+              "expanded_url": "https://x.com/Idontselldrug/status/1996347801333322067/photo/1",
+              "media_key": "3_1996347799156490240",
+              "start": 119,
+              "url": "https://t.co/ut1TIzuPZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996347801333322067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天埃德蒙顿很凉爽，都是零下一两度的温度，风也不大，还有小雪，我很喜欢这样的天气\n可惜过几天又要变冷了，零下一二十度我应该还是受不了，我甚至觉得温哥华夏天太热冬天太冷，我要月底才能去多伦多但是貌似多伦多比温哥华冬天冷一点，我应该会很喜欢 https://t.co/ut1TIzuPZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 182,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

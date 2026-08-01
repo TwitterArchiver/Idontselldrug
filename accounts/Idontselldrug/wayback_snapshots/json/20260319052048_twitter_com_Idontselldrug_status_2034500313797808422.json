@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034200388455612545",
+    "created_at": "2026-03-19T05:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T06:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034500313797808422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034500313797808422",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034200388455612545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 达利雷生50mg 100粒的好像六七百就能买到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2034199897638158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDruB3zbwAAWmr4.jpg",
+        "width": 800
+      },
+      {
+        "height": 575,
+        "media_key": "3_2034199897596100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDruB3paAAAC19W.jpg",
+        "width": 678
+      },
+      {
+        "height": 959,
+        "media_key": "3_2034200382516416512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrueGHa0AAkPmj.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034200388455612545",
+        "created_at": "2026-03-19T05:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034500313797808422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034500313797808422",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034200388455612545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 达利雷生50mg 100粒的好像六七百就能买到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034199897638158336",
+            "3_2034199897596100608",
+            "3_2034200382516416512"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2034200388455612545",
+        "created_at": "2026-03-18T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:17:33.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034197506628931949",
+          "2034198520354500738",
+          "2034198812877860913",
+          "2034199904986530296",
+          "2034200388455612545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z99vi6wMtL",
+              "end": 147,
+              "expanded_url": "https://x.com/_ropu/status/2034200388455612545/photo/1",
+              "media_key": "3_2034199897638158336",
+              "start": 124,
+              "url": "https://t.co/z99vi6wMtL"
+            },
+            {
+              "display_url": "pic.x.com/z99vi6wMtL",
+              "end": 147,
+              "expanded_url": "https://x.com/_ropu/status/2034200388455612545/photo/1",
+              "media_key": "3_2034199897596100608",
+              "start": 124,
+              "url": "https://t.co/z99vi6wMtL"
+            },
+            {
+              "display_url": "pic.x.com/z99vi6wMtL",
+              "end": 147,
+              "expanded_url": "https://x.com/_ropu/status/2034200388455612545/photo/1",
+              "media_key": "3_2034200382516416512",
+              "start": 124,
+              "url": "https://t.co/z99vi6wMtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034200388455612545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很困惑并且恼火一件事情\n\n我现在在服用一种叫达利雷生的安眠药，国内进口品牌叫科维可（规格50mg×20粒）\n一盒的价格差不多在400元（无优惠），五盒在1600元左右（算上所有优惠）\n也就是说我要买下100粒50mg的达利雷生，单价是16元左右。\n\n但是同样的也是达利雷生50mg×100粒，日本的盐野义在拼多多含税价格只有1000元上下（视优惠力度浮动），单价在10元左右。\n\n即便是欧美版科维可，虽然规格是50mg×30粒，价格也不过在400上下浮动，单价是13-15元。\n\n有些时候真的会因为这些差价和税感到恼火和困惑… 这些新药不仅不进中国医保，还要面临着新药带来的巨大税费和差价，感觉这种事情还是要自寻出路啊。\n\n哦，多说一嘴，比如SSRI这样的精神药品和一些普通Rx、OTC药品，说不定也可以在拼多多上买到国外发行的同品牌的版本，价格便宜的也不是一星半点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5401,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很困惑并且恼火一件事情\n\n我现在在服用一种叫达利雷生的安眠药，国内进口品牌叫科维可（规格50mg×20粒）\n一盒的价格差不多在400元（无优惠），五盒在1600元左右（算上所有优惠）\n也就是说我要买下100粒50mg的达利雷生，单价是16元左右。 https://t.co/z99vi6wMtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 237,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "まのさば"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 57,
+                "start": 39,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ@共犯者",
+        "pinned_tweet_id": "2032810215159316963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006152830395244545/iz0dS4_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28636,
+          "following_count": 3809,
+          "like_count": 12749,
+          "listed_count": 29,
+          "media_count": 4526,
+          "tweet_count": 31665
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

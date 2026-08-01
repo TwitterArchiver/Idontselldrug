@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1998453854023668190",
+    "created_at": "2025-12-09T18:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T19:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998453854023668190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shitposts_mp4/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/shitposts_mp4/status/1998354438352961988",
+          "start": 35,
+          "url": "https://t.co/icL2cP2lKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998453854023668190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998354438352961988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "dssq后已经看到我的高中同学在那里一口一个agartha了，太潮了 https://t.co/icL2cP2lKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55680,
+        "height": 1280,
+        "media_key": "13_1998107117580869633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998107117580869633/img/FV95N6_TiyEGPhCz.jpg",
+        "public_metrics": {
+          "view_count": 25860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998107117580869633/vid/avc1/320x568/k1ftPjFJR69xazkr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998107117580869633/vid/avc1/480x852/I2JkVIqjEdVovlh5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998107117580869633/vid/avc1/720x1280/lFU1B7vAORCwIk4z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998107117580869633/pl/imDkBWhjgda9WW5b.m3u8?v=c13"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1998453854023668190",
+        "created_at": "2025-12-09T18:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998453854023668190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shitposts_mp4/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/shitposts_mp4/status/1998354438352961988",
+              "start": 35,
+              "url": "https://t.co/icL2cP2lKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998453854023668190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998354438352961988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dssq后已经看到我的高中同学在那里一口一个agartha了，太潮了 https://t.co/icL2cP2lKL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998107117580869633"
+          ]
+        },
+        "author_id": "1680320177949294592",
+        "conversation_id": "1998354438352961988",
+        "created_at": "2025-12-09T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998354438352961988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjU2yl6Puk",
+              "end": 23,
+              "expanded_url": "https://x.com/shitposts_mp4/status/1998354438352961988/video/1",
+              "media_key": "13_1998107117580869633",
+              "start": 0,
+              "url": "https://t.co/IjU2yl6Puk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998354438352961988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 821,
+          "impression_count": 48396,
+          "like_count": 2371,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IjU2yl6Puk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 184,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T20:55:38.000Z",
+        "description": "shitposts 💩 posted every hour, follow me if you laugh | dm for removal ✉️ (will reply at most within 24 hours)",
+        "id": "1680320177949294592",
+        "name": "🎞️ shitposts.mp4 🎞️",
+        "pinned_tweet_id": "1998007152519385589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702393983937208321/LDgd70_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249038,
+          "following_count": 233,
+          "like_count": 43612,
+          "listed_count": 297,
+          "media_count": 21391,
+          "tweet_count": 22338
+        },
+        "username": "shitposts_mp4",
+        "verified": true
+      }
+    ]
+  }
+}

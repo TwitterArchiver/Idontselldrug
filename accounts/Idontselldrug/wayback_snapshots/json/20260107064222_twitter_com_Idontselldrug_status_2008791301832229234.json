@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2008791301832229234",
+    "created_at": "2026-01-07T06:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T07:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008791301832229234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008791301832229234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享一下我日常使用的补剂堆栈\n\n早上：\n复合维生素，K2，D3，叶黄素，虾青素，木樨草素，肌酸，鱼油\n选择性服用vyvanse，咖啡因，alphagpc，拉西坦，长春西汀\n\n晚上：\n茶氨酸，cbd，甘氨酸镁\n选择性服用褪黑素，普瑞巴林\n\n目前我的处方药用量极少，近30天服用普瑞巴林五次，vyvanse七次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2008791301832229234",
+        "created_at": "2026-01-07T06:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008791301832229234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008791301832229234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一下我日常使用的补剂堆栈\n\n早上：\n复合维生素，K2，D3，叶黄素，虾青素，木樨草素，肌酸，鱼油\n选择性服用vyvanse，咖啡因，alphagpc，拉西坦，长春西汀\n\n晚上：\n茶氨酸，cbd，甘氨酸镁\n选择性服用褪黑素，普瑞巴林\n\n目前我的处方药用量极少，近30天服用普瑞巴林五次，vyvanse七次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 211,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

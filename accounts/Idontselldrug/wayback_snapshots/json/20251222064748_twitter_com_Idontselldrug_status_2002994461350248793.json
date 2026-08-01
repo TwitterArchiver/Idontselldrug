@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2002994434095349760"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2002994461350248793",
+    "created_at": "2025-12-22T06:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002994461350248793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "1690721268373581824",
+          "start": 27,
+          "username": "Celsius233C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TmkqwDlKqS",
+          "end": 63,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002994461350248793/video/1",
+          "media_key": "7_2002994434095349760",
+          "start": 40,
+          "url": "https://t.co/TmkqwDlKqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002994461350248793",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I'll be watching you👁️👁️👁️\n@Celsius233C https://t.co/TmkqwDlKqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21674,
+        "height": 1280,
+        "media_key": "7_2002994434095349760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002994434095349760/pu/img/0UwS7ULq9v6ETDIU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/320x568/xWgLOGMJb3dbg6Yv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/480x852/Npv19YIUwgTDaS6a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/720x1280/G8AlViF8zzOf4KLz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/pl/-3H2FgH9Dt2zdBNg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002994434095349760"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2002994461350248793",
+        "created_at": "2025-12-22T06:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002994461350248793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1690721268373581824",
+              "start": 27,
+              "username": "Celsius233C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmkqwDlKqS",
+              "end": 63,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002994461350248793/video/1",
+              "media_key": "7_2002994434095349760",
+              "start": 40,
+              "url": "https://t.co/TmkqwDlKqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002994461350248793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'll be watching you👁️👁️👁️\n@Celsius233C https://t.co/TmkqwDlKqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 194,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 881,
+          "like_count": 22661,
+          "listed_count": 22,
+          "media_count": 149,
+          "tweet_count": 2533
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

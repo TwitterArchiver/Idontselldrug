@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557342305748627457",
+          "name": "Andrew Tate"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Joe Rogan",
+          "id": "819538160606539777",
+          "name": "Joe Rogan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "Joe Rogan",
+          "id": "819538160606539777",
+          "name": "Joe Rogan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Sports Personality like 'Skip Bayless'",
+          "id": "92",
+          "name": "Sports Personality"
+        },
+        "entity": {
+          "description": "Joe Rogan",
+          "id": "819538160606539777",
+          "name": "Joe Rogan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Joe Rogan",
+          "id": "819538160606539777",
+          "name": "Joe Rogan"
+        }
+      }
+    ],
+    "conversation_id": "2048243260582477878",
+    "created_at": "2026-04-26T03:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048243260582477878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1265090871365697544",
+          "start": 3,
+          "username": "gator_gum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048243260582477878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048132938206707938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gator_gum: Joe Rogan refuses to come to Canada. Now, Andrew Tate refuses to come to Canada.\n\nAnd you said the Liberal Government doesn'…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557342305748627457",
+              "name": "Andrew Tate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          }
+        ],
+        "conversation_id": "2048243260582477878",
+        "created_at": "2026-04-26T03:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048243260582477878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1265090871365697544",
+              "start": 3,
+              "username": "gator_gum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048243260582477878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048132938206707938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gator_gum: Joe Rogan refuses to come to Canada. Now, Andrew Tate refuses to come to Canada.\n\nAnd you said the Liberal Government doesn'…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265090871365697544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557342305748627457",
+              "name": "Andrew Tate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Joe Rogan",
+              "id": "819538160606539777",
+              "name": "Joe Rogan"
+            }
+          }
+        ],
+        "conversation_id": "2048132938206707938",
+        "created_at": "2026-04-25T20:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048132938206707938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6ixbuzztv/stat…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/6ixbuzztv/status/2048099416884543842",
+              "start": 158,
+              "url": "https://t.co/DgYMlCqipE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048132938206707938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 132027,
+          "like_count": 8799,
+          "quote_count": 16,
+          "reply_count": 214,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048099416884543842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Joe Rogan refuses to come to Canada. Now, Andrew Tate refuses to come to Canada.\n\nAnd you said the Liberal Government doesn't do anything good for Canadians! https://t.co/DgYMlCqipE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 270,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-26T01:22:56.000Z",
+        "description": "#ChewAnon ⚡ Cogito Ergo Gum🐊\n\nPrestigious winner of The Internet. Reluctant owner of many ReplyGuys™\n\n Also, 3 time Clown of the Day! 🤡\n\n#SV4A",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "ChewAnon"
+              },
+              {
+                "end": 142,
+                "start": 137,
+                "tag": "SV4A"
+              }
+            ]
+          }
+        },
+        "id": "1265090871365697544",
+        "location": "#GatorNation ",
+        "name": "Gator⚡Gum",
+        "pinned_tweet_id": "2035234685442236509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902539513278455808/I5ssjhb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40177,
+          "following_count": 29194,
+          "like_count": 131072,
+          "listed_count": 188,
+          "media_count": 15843,
+          "tweet_count": 179791
+        },
+        "username": "gator_gum",
+        "verified": true
+      }
+    ]
+  }
+}

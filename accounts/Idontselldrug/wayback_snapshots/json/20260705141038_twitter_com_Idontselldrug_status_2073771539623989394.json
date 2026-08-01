@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2073668918884147506",
+    "created_at": "2026-07-05T14:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073771539623989394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073771539623989394",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073668918884147506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 你发啥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_2073668916782702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcm5J6aIAAWWKE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2073668918884147506",
+        "created_at": "2026-07-05T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073771539623989394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073771539623989394",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073668918884147506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 你发啥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073668916782702592"
+          ]
+        },
+        "author_id": "2073420644109504513",
+        "conversation_id": "2073668918884147506",
+        "created_at": "2026-07-05T07:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073668918884147506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQKBvQaBjv",
+              "end": 60,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2073668918884147506/photo/1",
+              "media_key": "3_2073668916782702592",
+              "start": 37,
+              "url": "https://t.co/OQKBvQaBjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073668918884147506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️馬斯克拉屎拉到脫肛\n不知道被炸幾次了，又要從頭開始\nRAP我的前世們 https://t.co/OQKBvQaBjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 289,
+          "like_count": 2496,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆，馬斯克又把我炸了，幫忙點點轉發尋回失散的互關感激不盡",
+        "id": "2073420644109504513",
+        "name": "？（3.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073630984806047745/lMVVljII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 62,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046770697947774976"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2046770704499241219",
+    "created_at": "2026-04-22T01:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046770704499241219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ciivf5scR6",
+          "end": 50,
+          "expanded_url": "https://x.com/Idontselldrug/status/2046770704499241219/video/1",
+          "media_key": "7_2046770697947774976",
+          "start": 27,
+          "url": "https://t.co/Ciivf5scR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046770704499241219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校心理咨询连着取消我两次，说是咨询师生病了，流汗了 https://t.co/Ciivf5scR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4899,
+        "height": 360,
+        "media_key": "7_2046770697947774976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046770697947774976/pu/img/He6aG_cUZPkU2kVM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046770697947774976/pu/vid/avc1/320x360/NTGoaHFA_3DX30av.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046770697947774976/pu/pl/CXjej_SYeHzs6qS_.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046770697947774976"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2046770704499241219",
+        "created_at": "2026-04-22T01:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046770704499241219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ciivf5scR6",
+              "end": 50,
+              "expanded_url": "https://x.com/Idontselldrug/status/2046770704499241219/video/1",
+              "media_key": "7_2046770697947774976",
+              "start": 27,
+              "url": "https://t.co/Ciivf5scR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770704499241219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校心理咨询连着取消我两次，说是咨询师生病了，流汗了 https://t.co/Ciivf5scR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 257,
+          "like_count": 1880,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2538
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2041864450928755170",
+    "created_at": "2026-04-09T04:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042102976916156885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1335220888917053440",
+          "start": 0,
+          "username": "S4U7A"
+        },
+        {
+          "end": 17,
+          "id": "2022980944723095552",
+          "start": 7,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042102976916156885",
+    "in_reply_to_user_id": "1335220888917053440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042100599861473539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S4U7A @tanka_TWT 别人在网易云还是哪里跟你互动 发推问你是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2041864450928755170",
+        "created_at": "2026-04-09T04:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042102976916156885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1335220888917053440",
+              "start": 0,
+              "username": "S4U7A"
+            },
+            {
+              "end": 17,
+              "id": "2022980944723095552",
+              "start": 7,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042102976916156885",
+        "in_reply_to_user_id": "1335220888917053440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042100599861473539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S4U7A @tanka_TWT 别人在网易云还是哪里跟你互动 发推问你是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335220888917053440",
+        "conversation_id": "2041864450928755170",
+        "created_at": "2026-04-09T04:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042100599861473539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            },
+            {
+              "end": 25,
+              "id": "1986452594206838785",
+              "start": 11,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042100599861473539",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042083247774171167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT @Idontselldrug 发生什么事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 242,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T13:54:10.000Z",
+        "description": "🏳️‍⚧️ She / Her / Helicopter | Mắt tôi nhìn thấy mọi thứ, nhưng chúng không phải của tôi. English/Español/Tiếng Việt/中文/日本語 / sis @kit_serizu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "kit_serizu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauta.trancymzk.xyz",
+                "end": 23,
+                "expanded_url": "https://sauta.trancymzk.xyz/",
+                "start": 0,
+                "url": "https://t.co/VYiDein306"
+              }
+            ]
+          }
+        },
+        "id": "1335220888917053440",
+        "location": "電子の海",
+        "name": "🈂️ | ℙ𝔸𝕊𝔸𝕌 𝕊𝕆𝕌ℕ𝔻𝕊 𝕧𝟚𝟘.𝟚𝟝 | #危宿三",
+        "pinned_tweet_id": "1963107556622323833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992665824210161664/knKCy6UD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 536,
+          "like_count": 11808,
+          "listed_count": 1,
+          "media_count": 546,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/VYiDein306",
+        "username": "S4U7A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢和投稿\n丨私信解锁RC菜单\n丨已逝的愛人@Edward_8964\n丨只是病弱小貓無法為任何言行負責 喜歡可以投餵\n丨有什么事跟1161说去吧！！\n丨提問https://t.co/Nz6tp4jrDq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 148,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 125,
+                "url": "https://t.co/Nz6tp4jrDq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOs0V"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "location": "🚪88/188無上限",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 279,
+          "like_count": 1368,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/J3Aw5nOs0V",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

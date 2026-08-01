@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051799829706338304",
+        "7_2051799890767024128"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2051800314375008719",
+    "created_at": "2026-05-05T23:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051800314375008719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/82ammq0HPU",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051800314375008719/video/1",
+          "media_key": "7_2051799829706338304",
+          "start": 14,
+          "url": "https://t.co/82ammq0HPU"
+        },
+        {
+          "display_url": "pic.x.com/82ammq0HPU",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051800314375008719/video/1",
+          "media_key": "7_2051799890767024128",
+          "start": 14,
+          "url": "https://t.co/82ammq0HPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051800314375008719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "台湾的唱片店，居然有肯卡森 https://t.co/82ammq0HPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35918,
+        "height": 1280,
+        "media_key": "7_2051799829706338304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051799829706338304/pu/img/ySEZt3AgnZCuCow9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799829706338304/pu/vid/avc1/320x568/D_t6JdoyFIjEt7i7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799829706338304/pu/vid/avc1/480x852/hDKHdGkdX1gvuAFH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799829706338304/pu/vid/avc1/720x1280/BLYU6B95vPyLAlLV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051799829706338304/pu/pl/h6Sg4sXswmI2RQqy.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6506,
+        "height": 1280,
+        "media_key": "7_2051799890767024128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051799890767024128/pu/img/4NmYGwqQ72pHVEaT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799890767024128/pu/vid/avc1/320x568/Tdo24C-o4nVJjuHM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799890767024128/pu/vid/avc1/480x852/g5j8D4oPXXWdV0vD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051799890767024128/pu/vid/avc1/720x1280/f7FtdXpTWbVv4coo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051799890767024128/pu/pl/885l5ytKzq4P5ivH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051799829706338304",
+            "7_2051799890767024128"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2051800314375008719",
+        "created_at": "2026-05-05T23:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051800314375008719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/82ammq0HPU",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051800314375008719/video/1",
+              "media_key": "7_2051799829706338304",
+              "start": 14,
+              "url": "https://t.co/82ammq0HPU"
+            },
+            {
+              "display_url": "pic.x.com/82ammq0HPU",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051800314375008719/video/1",
+              "media_key": "7_2051799890767024128",
+              "start": 14,
+              "url": "https://t.co/82ammq0HPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051800314375008719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台湾的唱片店，居然有肯卡森 https://t.co/82ammq0HPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 282,
+          "like_count": 2117,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

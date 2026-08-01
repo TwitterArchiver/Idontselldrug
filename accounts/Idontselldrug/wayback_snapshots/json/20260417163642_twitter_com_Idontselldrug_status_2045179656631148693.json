@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2045096767369437326",
+    "created_at": "2026-04-17T16:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045179656631148693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1561753484512612353",
+          "start": 0,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045179656631148693",
+    "in_reply_to_user_id": "1561753484512612353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045096767369437326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moutai_H_Maple 吧友一个月能跟这四个里任何一个不一样的陌生人说上一句话不"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2045096765909860353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGkrFdbgAEsTfQ.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2045096767369437326",
+        "created_at": "2026-04-17T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045179656631148693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561753484512612353",
+              "start": 0,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045179656631148693",
+        "in_reply_to_user_id": "1561753484512612353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045096767369437326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moutai_H_Maple 吧友一个月能跟这四个里任何一个不一样的陌生人说上一句话不"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045096765909860353"
+          ]
+        },
+        "author_id": "1561753484512612353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045096767369437326",
+        "created_at": "2026-04-17T11:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045096767369437326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCH9E5JuWI",
+              "end": 72,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2045096767369437326/photo/1",
+              "media_key": "3_2045096765909860353",
+              "start": 49,
+              "url": "https://t.co/xCH9E5JuWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045096767369437326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1751,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对于性取向不同的仇恨，甚至高于对于资产阶级的仇恨，也远远大于对女性的仇恨。\n足以写一篇报道和论文 https://t.co/xCH9E5JuWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 255,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。\n尝试学徒（Apprentice）、观众（Spectator）双途径｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2044829235974717911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 228,
+          "like_count": 1634,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 1787
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

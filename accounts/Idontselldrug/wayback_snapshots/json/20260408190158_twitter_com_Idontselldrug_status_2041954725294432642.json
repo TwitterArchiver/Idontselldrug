@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2041954725294432642",
+    "created_at": "2026-04-08T19:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041954725294432642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/homeostaxy/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/homeostaxy/status/2041593387254464764",
+          "start": 5,
+          "url": "https://t.co/cAekMxJkM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041954725294432642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041593387254464764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/cAekMxJkM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041593374105604096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUyW19bEAAsG_-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2041954725294432642",
+        "created_at": "2026-04-08T19:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041954725294432642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/homeostaxy/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/homeostaxy/status/2041593387254464764",
+              "start": 5,
+              "url": "https://t.co/cAekMxJkM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041954725294432642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041593387254464764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/cAekMxJkM9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041593374105604096"
+          ]
+        },
+        "author_id": "1976052343683551232",
+        "conversation_id": "2041593387254464764",
+        "created_at": "2026-04-07T19:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041593387254464764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEULIZwn7N",
+              "end": 50,
+              "expanded_url": "https://x.com/homeostaxy/status/2041593387254464764/photo/1",
+              "media_key": "3_2041593374105604096",
+              "start": 27,
+              "url": "https://t.co/JEULIZwn7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041593387254464764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3492,
+          "impression_count": 4403640,
+          "like_count": 35396,
+          "quote_count": 1659,
+          "reply_count": 1082,
+          "retweet_count": 1472
+        },
+        "reply_settings": "everyone",
+        "text": "God forbid you’re in class https://t.co/JEULIZwn7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 242,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T22:29:39.000Z",
+        "description": "I’m the freak in your dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ilovefreaks.straw.page",
+                "end": 23,
+                "expanded_url": "https://ilovefreaks.straw.page",
+                "start": 0,
+                "url": "https://t.co/P2tYhpkRzp"
+              }
+            ]
+          }
+        },
+        "id": "1976052343683551232",
+        "location": "18",
+        "name": "xy",
+        "pinned_tweet_id": "1976682093351444738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012012510728380416/iDJleVjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4348,
+          "following_count": 978,
+          "like_count": 6544,
+          "listed_count": 18,
+          "media_count": 3012,
+          "tweet_count": 5220
+        },
+        "url": "https://t.co/P2tYhpkRzp",
+        "username": "homeostaxy",
+        "verified": false
+      }
+    ]
+  }
+}

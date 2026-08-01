@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2006814147212632064"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006814147850481896",
+    "created_at": "2026-01-01T19:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006814147850481896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006814147850481896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜猜2026我能清醒几天不吃任何精神药品"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-01-02T19:45:52.000Z",
+        "id": "2006814147212632064",
+        "options": [
+          {
+            "label": "1-3天",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "3-7天",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "7天+",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2006814147212632064"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006814147850481896",
+        "created_at": "2026-01-01T19:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006814147850481896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006814147850481896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜2026我能清醒几天不吃任何精神药品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 206,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

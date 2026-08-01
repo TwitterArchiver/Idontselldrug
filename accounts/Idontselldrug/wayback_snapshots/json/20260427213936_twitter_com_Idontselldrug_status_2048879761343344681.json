@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048657913091338478",
+    "created_at": "2026-04-27T21:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048879761343344681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698896439206944769",
+          "start": 0,
+          "username": "combodiabestboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048879761343344681",
+    "in_reply_to_user_id": "1698896439206944769",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048750931374735699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@combodiabestboy Meat The Bun Bar &amp; Bistro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048657913091338478",
+        "created_at": "2026-04-27T21:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048879761343344681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698896439206944769",
+              "start": 0,
+              "username": "combodiabestboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048879761343344681",
+        "in_reply_to_user_id": "1698896439206944769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048750931374735699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@combodiabestboy Meat The Bun Bar &amp; Bistro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698896439206944769",
+        "conversation_id": "2048657913091338478",
+        "created_at": "2026-04-27T13:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048750931374735699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048750931374735699",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048657913091338478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 请问是埃德蒙顿的哪家餐厅？想去尝试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 277,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-05T03:11:02.000Z",
+        "description": "@tataqwq的头号粉丝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "tataqwq"
+              }
+            ]
+          }
+        },
+        "id": "1698896439206944769",
+        "location": "IP属地：猕猴星球Monpainisia",
+        "name": "塔子办事处（黑手）",
+        "pinned_tweet_id": "1859455386925043785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922781818702487552/OKA5P4BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 307,
+          "like_count": 40642,
+          "listed_count": 5,
+          "media_count": 1003,
+          "tweet_count": 10482
+        },
+        "username": "combodiabestboy",
+        "verified": false
+      }
+    ]
+  }
+}

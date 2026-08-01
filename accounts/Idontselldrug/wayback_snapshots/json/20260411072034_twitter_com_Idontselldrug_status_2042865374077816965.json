@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042452237318819840"
+      ],
+      "media_source_tweet_id": [
+        "2042452297104437611"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518689897296453633",
+          "name": "United States political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1540025039914795011",
+          "name": "Constitution of United States of America"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560651052130508803",
+          "name": "Gun rights in the United States"
+        }
+      }
+    ],
+    "conversation_id": "2042865374077816965",
+    "created_at": "2026-04-11T07:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042865374077816965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1570554794489643008",
+          "start": 3,
+          "username": "SomaKazima2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUV4DnvToI",
+          "end": 98,
+          "expanded_url": "https://x.com/SomaKazima2/status/2042452297104437611/video/1",
+          "media_key": "7_2042452237318819840",
+          "start": 75,
+          "url": "https://t.co/pUV4DnvToI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042865374077816965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2049
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042452297104437611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SomaKazima2: Now THIS is when you exercise your second amendment right https://t.co/pUV4DnvToI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 167788,
+        "height": 1052,
+        "media_key": "7_2042452237318819840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042452237318819840/pu/img/B6fOG7-YEN7gjZ00.jpg",
+        "public_metrics": {
+          "view_count": 5445131
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042452237318819840/pu/vid/avc1/320x466/7ijTDea7-HPNOZId.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042452237318819840/pu/vid/avc1/480x700/yJmIz-ob8f8A7aJa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042452237318819840/pu/vid/avc1/720x1052/DMWvN8iCBLCmNd4v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042452237318819840/pu/pl/w4FpxvvAJ0AjjxrJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042452237318819840"
+          ],
+          "media_source_tweet_id": [
+            "2042452297104437611"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1540025039914795011",
+              "name": "Constitution of United States of America"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560651052130508803",
+              "name": "Gun rights in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2042865374077816965",
+        "created_at": "2026-04-11T07:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042865374077816965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1570554794489643008",
+              "start": 3,
+              "username": "SomaKazima2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUV4DnvToI",
+              "end": 98,
+              "expanded_url": "https://x.com/SomaKazima2/status/2042452297104437611/video/1",
+              "media_key": "7_2042452237318819840",
+              "start": 75,
+              "url": "https://t.co/pUV4DnvToI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042865374077816965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2049
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042452297104437611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SomaKazima2: Now THIS is when you exercise your second amendment right https://t.co/pUV4DnvToI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042452237318819840"
+          ]
+        },
+        "author_id": "1570554794489643008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1540025039914795011",
+              "name": "Constitution of United States of America"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560651052130508803",
+              "name": "Gun rights in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2042452297104437611",
+        "created_at": "2026-04-10T03:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042452297104437611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUV4DnvToI",
+              "end": 81,
+              "expanded_url": "https://x.com/SomaKazima2/status/2042452297104437611/video/1",
+              "media_key": "7_2042452237318819840",
+              "start": 58,
+              "url": "https://t.co/pUV4DnvToI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042452297104437611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17658,
+          "impression_count": 7482533,
+          "like_count": 48686,
+          "quote_count": 1273,
+          "reply_count": 2535,
+          "retweet_count": 2049
+        },
+        "reply_settings": "everyone",
+        "text": "Now THIS is when you exercise your second amendment right https://t.co/pUV4DnvToI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 244,
+          "like_count": 1654,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T23:27:10.000Z",
+        "description": "SomaKazima's backup in case the X FEDS get me outta here",
+        "id": "1570554794489643008",
+        "name": "Ichigo Niggasake",
+        "pinned_tweet_id": "1935434866142888306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935423739753095168/b4eojCMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100760,
+          "following_count": 2260,
+          "like_count": 152677,
+          "listed_count": 142,
+          "media_count": 8441,
+          "tweet_count": 54597
+        },
+        "username": "SomaKazima2",
+        "verified": true
+      }
+    ]
+  }
+}

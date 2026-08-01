@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2044514680799170861",
+    "created_at": "2026-04-15T20:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044514680799170861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QueenNephi/sta…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/QueenNephi/status/2043748311874543969",
+          "start": 129,
+          "url": "https://t.co/27Qp0slKt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044514680799170861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043748311874543969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "集美不知道哥特和自闭症到底是什么，国男也不知道，但是集美知道自己只要穿一身黑然后像小孩一样胡言乱语，就会有国男说她是autistic goth girl然后对她撸断几把\n这是我在网上看到最傻逼的现象，硬生生把一个亚文化扭曲性化成手冲素材，还把原住民给逼走了 https://t.co/27Qp0slKt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28200,
+        "height": 1280,
+        "media_key": "13_2043748250121891840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043748250121891840/img/ZY3n3QXAQLSdJqlv.jpg",
+        "public_metrics": {
+          "view_count": 1053993
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043748250121891840/vid/avc1/320x568/f5kZah7K9ovAYxA7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043748250121891840/vid/avc1/480x852/tllED1FVhYV9sp1s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043748250121891840/vid/avc1/720x1280/1xiy7I3B2smt2iEG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043748250121891840/pl/RNEHUlT-GZsl6b2z.m3u8?v=6ce"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2044514680799170861",
+        "created_at": "2026-04-15T20:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044514680799170861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QueenNephi/sta…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/QueenNephi/status/2043748311874543969",
+              "start": 129,
+              "url": "https://t.co/27Qp0slKt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044514680799170861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043748311874543969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "集美不知道哥特和自闭症到底是什么，国男也不知道，但是集美知道自己只要穿一身黑然后像小孩一样胡言乱语，就会有国男说她是autistic goth girl然后对她撸断几把\n这是我在网上看到最傻逼的现象，硬生生把一个亚文化扭曲性化成手冲素材，还把原住民给逼走了 https://t.co/27Qp0slKt9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043748250121891840"
+          ]
+        },
+        "author_id": "1699874076087488512",
+        "conversation_id": "2043748311874543969",
+        "created_at": "2026-04-13T17:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043748311874543969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcgrBwqvH9",
+              "end": 56,
+              "expanded_url": "https://x.com/QueenNephi/status/2043748311874543969/video/1",
+              "media_key": "13_2043748250121891840",
+              "start": 33,
+              "url": "https://t.co/AcgrBwqvH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043748311874543969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4522,
+          "impression_count": 2871852,
+          "like_count": 11702,
+          "quote_count": 935,
+          "reply_count": 755,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "Are goth girls really like this? https://t.co/AcgrBwqvH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 249,
+          "like_count": 1774,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T19:55:52.000Z",
+        "description": "Hiya 😚 local goth girl who loves fashion and makeup 👻 I stream on Twitch! 👾 alt: @queen_nephilim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "queen_nephilim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/queennephie",
+                "end": 23,
+                "expanded_url": "https://link.me/queennephie",
+                "start": 0,
+                "url": "https://t.co/SS4GlWp7JB"
+              }
+            ]
+          }
+        },
+        "id": "1699874076087488512",
+        "name": "Queen Nephie",
+        "pinned_tweet_id": "1991580334513856817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699878472775020544/jBp5BIV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213156,
+          "following_count": 11,
+          "like_count": 18,
+          "listed_count": 244,
+          "media_count": 41,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/SS4GlWp7JB",
+        "username": "QueenNephi",
+        "verified": false
+      }
+    ]
+  }
+}

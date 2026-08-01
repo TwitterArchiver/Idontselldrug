@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989391467371270451",
+    "created_at": "2025-11-14T17:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T18:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989391467371270451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989391467371270451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了下阿戈美拉丁怎么又能抗抑郁又能改善睡眠 甚至还能促智 我都想吃了 这玩意有什么副作用吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989391467371270451",
+        "created_at": "2025-11-14T17:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989391467371270451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989391467371270451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了下阿戈美拉丁怎么又能抗抑郁又能改善睡眠 甚至还能促智 我都想吃了 这玩意有什么副作用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 141,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 155
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

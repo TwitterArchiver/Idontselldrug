@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2049248786799878238",
+    "created_at": "2026-04-28T22:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T23:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049248786799878238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049248786799878238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不亲身体验很难想象得到因为心理导致的进食问题有多难受，尤其是当你为了美食花了时间和机票钱来到一个新地方，却每天早上起来恶心的吃不下饭在那里吐的时候\n虽然我之前很担心成瘾问题 但是现在我真想嗯造普瑞巴林 一是因为潜在的成瘾风险比毁掉整个行程更好接受 还有就是我不是成瘾体质问题应该还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2049248786799878238",
+        "created_at": "2026-04-28T22:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049248786799878238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049248786799878238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不亲身体验很难想象得到因为心理导致的进食问题有多难受，尤其是当你为了美食花了时间和机票钱来到一个新地方，却每天早上起来恶心的吃不下饭在那里吐的时候\n虽然我之前很担心成瘾问题 但是现在我真想嗯造普瑞巴林 一是因为潜在的成瘾风险比毁掉整个行程更好接受 还有就是我不是成瘾体质问题应该还好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 282,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

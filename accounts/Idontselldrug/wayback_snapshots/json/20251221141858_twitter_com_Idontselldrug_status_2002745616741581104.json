@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2002745610676359168"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2002739450271703271",
+    "created_at": "2025-12-21T14:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T15:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002745616741581104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937692741305352192",
+          "start": 0,
+          "username": "wangduanxu2007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CGlcU9Jl4P",
+          "end": 39,
+          "expanded_url": "https://x.com/Idontselldrug/status/2002745616741581104/photo/1",
+          "media_key": "16_2002745610676359168",
+          "start": 16,
+          "url": "https://t.co/CGlcU9Jl4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002745616741581104",
+    "in_reply_to_user_id": "1937692741305352192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002745213799063827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangduanxu2007 https://t.co/CGlcU9Jl4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2002745610676359168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8suhZvWUAAMb5w.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8suhZvWUAAMb5w.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2002745610676359168"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2002739450271703271",
+        "created_at": "2025-12-21T14:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002745616741581104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937692741305352192",
+              "start": 0,
+              "username": "wangduanxu2007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGlcU9Jl4P",
+              "end": 39,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002745616741581104/photo/1",
+              "media_key": "16_2002745610676359168",
+              "start": 16,
+              "url": "https://t.co/CGlcU9Jl4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002745616741581104",
+        "in_reply_to_user_id": "1937692741305352192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002745213799063827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangduanxu2007 https://t.co/CGlcU9Jl4P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937692741305352192",
+        "conversation_id": "2002739450271703271",
+        "created_at": "2025-12-21T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002745213799063827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002745213799063827",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002739450271703271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug ✍️✍️✍️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 190,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T02:02:19.000Z",
+        "description": "做个好人，然后昆虫、花妖、左轮手枪",
+        "id": "1937692741305352192",
+        "location": "索科特拉岛",
+        "name": "王断续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956881227119755264/amZt5xe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 120,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 767
+        },
+        "username": "wangduanxu2007",
+        "verified": false
+      }
+    ]
+  }
+}

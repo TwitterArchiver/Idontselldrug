@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001436135474470913"
+      ],
+      "media_source_tweet_id": [
+        "2001436137852748072"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2001938236281594177",
+    "created_at": "2025-12-19T08:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001938236281594177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692554170358722560",
+          "start": 3,
+          "username": "hotpantsxoxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X22ZI6fWoF",
+          "end": 41,
+          "expanded_url": "https://x.com/hotpantsxoxo/status/2001436137852748072/photo/1",
+          "media_key": "3_2001436135474470913",
+          "start": 18,
+          "url": "https://t.co/X22ZI6fWoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001938236281594177",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2535
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001436137852748072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotpantsxoxo: https://t.co/X22ZI6fWoF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 275,
+        "media_key": "3_2001436135474470913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8aHj6eWIAEBQ0Y.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001436135474470913"
+          ],
+          "media_source_tweet_id": [
+            "2001436137852748072"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2001938236281594177",
+        "created_at": "2025-12-19T08:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001938236281594177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692554170358722560",
+              "start": 3,
+              "username": "hotpantsxoxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X22ZI6fWoF",
+              "end": 41,
+              "expanded_url": "https://x.com/hotpantsxoxo/status/2001436137852748072/photo/1",
+              "media_key": "3_2001436135474470913",
+              "start": 18,
+              "url": "https://t.co/X22ZI6fWoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001938236281594177",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2535
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001436137852748072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotpantsxoxo: https://t.co/X22ZI6fWoF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001436135474470913"
+          ]
+        },
+        "author_id": "1692554170358722560",
+        "conversation_id": "2001436137852748072",
+        "created_at": "2025-12-17T23:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T00:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001436137852748072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X22ZI6fWoF",
+              "end": 23,
+              "expanded_url": "https://x.com/hotpantsxoxo/status/2001436137852748072/photo/1",
+              "media_key": "3_2001436135474470913",
+              "start": 0,
+              "url": "https://t.co/X22ZI6fWoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001436137852748072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1237,
+          "impression_count": 878232,
+          "like_count": 40219,
+          "quote_count": 182,
+          "reply_count": 170,
+          "retweet_count": 2535
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X22ZI6fWoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 188,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T15:09:14.000Z",
+        "description": "• @lovesickenneas ♡ • Califoooooornia (＞人＜;)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "lovesickenneas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gyjoyuri.straw.page",
+                "end": 23,
+                "expanded_url": "https://gyjoyuri.straw.page",
+                "start": 0,
+                "url": "https://t.co/X4b37F21Kc"
+              }
+            ]
+          }
+        },
+        "id": "1692554170358722560",
+        "location": "• she/he • eng/esp • 19 •",
+        "name": "Cereza ⚢🇨🇺",
+        "pinned_tweet_id": "1934695382568546362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001512100611358720/4aIg1WWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 2222,
+          "like_count": 126509,
+          "listed_count": 60,
+          "media_count": 20688,
+          "tweet_count": 95203
+        },
+        "url": "https://t.co/X4b37F21Kc",
+        "username": "hotpantsxoxo",
+        "verified": false
+      }
+    ]
+  }
+}

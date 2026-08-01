@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010094066185191424"
+      ],
+      "media_source_tweet_id": [
+        "2010094072887951465"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2010170476530938139",
+    "created_at": "2026-01-11T02:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T03:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010170476530938139"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Edmonton",
+          "probability": 0.9581,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1295862146052403200",
+          "start": 3,
+          "username": "yegwave"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ETGByUeEZ",
+          "end": 63,
+          "expanded_url": "https://x.com/yegwave/status/2010094072887951465/photo/1",
+          "media_key": "3_2010094066185191424",
+          "start": 40,
+          "url": "https://t.co/8ETGByUeEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010170476530938139",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010094072887951465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yegwave: Seen in Edmonton just now. https://t.co/8ETGByUeEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2010094066185191424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VJ5zwWwAAZ9-2.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010094066185191424"
+          ],
+          "media_source_tweet_id": [
+            "2010094072887951465"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2010170476530938139",
+        "created_at": "2026-01-11T02:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010170476530938139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Edmonton",
+              "probability": 0.9581,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295862146052403200",
+              "start": 3,
+              "username": "yegwave"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ETGByUeEZ",
+              "end": 63,
+              "expanded_url": "https://x.com/yegwave/status/2010094072887951465/photo/1",
+              "media_key": "3_2010094066185191424",
+              "start": 40,
+              "url": "https://t.co/8ETGByUeEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010170476530938139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010094072887951465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yegwave: Seen in Edmonton just now. https://t.co/8ETGByUeEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010094066185191424"
+          ]
+        },
+        "author_id": "1295862146052403200",
+        "conversation_id": "2010094072887951465",
+        "created_at": "2026-01-10T20:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010094072887951465"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Edmonton",
+              "probability": 0.9647,
+              "start": 8,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ETGByUeEZ",
+              "end": 50,
+              "expanded_url": "https://x.com/yegwave/status/2010094072887951465/photo/1",
+              "media_key": "3_2010094066185191424",
+              "start": 27,
+              "url": "https://t.co/8ETGByUeEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010094072887951465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 179986,
+          "like_count": 15206,
+          "quote_count": 88,
+          "reply_count": 468,
+          "retweet_count": 1103
+        },
+        "reply_settings": "everyone",
+        "text": "Seen in Edmonton just now. https://t.co/8ETGByUeEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 220,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T23:16:37.000Z",
+        "description": "#1 Alberta Culture & Entertainment Page 🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yegwave",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yegwave",
+                "start": 0,
+                "url": "https://t.co/4ZiIL3U6yE"
+              }
+            ]
+          }
+        },
+        "id": "1295862146052403200",
+        "location": "Edmonton, Alberta",
+        "name": "YEGWAVE",
+        "pinned_tweet_id": "1962321520308396110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864446948784152576/IRjMTOyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118446,
+          "following_count": 69,
+          "like_count": 6070,
+          "listed_count": 113,
+          "media_count": 4337,
+          "tweet_count": 4856
+        },
+        "url": "https://t.co/4ZiIL3U6yE",
+        "username": "yegwave",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2042372850661933550",
+    "created_at": "2026-04-09T22:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T23:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042372850661933550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1689343347457138688",
+          "start": 3,
+          "username": "swiftie1ncanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042372850661933550",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042038362291499039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swiftie1ncanada: as a canadian in university it is so funny hearing everyone tell eachother to have a good summer when it’s the beginni…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2042372850661933550",
+        "created_at": "2026-04-09T22:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042372850661933550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1689343347457138688",
+              "start": 3,
+              "username": "swiftie1ncanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042372850661933550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042038362291499039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swiftie1ncanada: as a canadian in university it is so funny hearing everyone tell eachother to have a good summer when it’s the beginni…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689343347457138688",
+        "conversation_id": "2042038362291499039",
+        "created_at": "2026-04-09T00:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042038362291499039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042038362291499039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 18091,
+          "like_count": 1760,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "as a canadian in university it is so funny hearing everyone tell eachother to have a good summer when it’s the beginning of april and there’s still snow on the ground"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 241,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2367
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T18:30:22.000Z",
+        "description": "|20| fan account | eras seattle n2, van n1 n2 n3 | van relationships girl | tn x39 lhq x2 gack x3 | manifesting meeting tay -`🕯´- .𖥔 ݁ ˖ ⭑ ‧₊˚ ⋅ જ⁀➴๋࣭ ⭑๋࣭ ⸆⸉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/swiftie1ncanada",
+                "end": 23,
+                "expanded_url": "https://throne.com/swiftie1ncanada",
+                "start": 0,
+                "url": "https://t.co/Bo98BLH3yu"
+              }
+            ]
+          }
+        },
+        "id": "1689343347457138688",
+        "location": "BC,canada",
+        "name": "⋆˙⟡ ash ⸆⸉ 🐞",
+        "pinned_tweet_id": "1976348090656489579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982976990065111040/o39WKO4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7265,
+          "following_count": 5479,
+          "like_count": 94404,
+          "listed_count": 22,
+          "media_count": 10743,
+          "tweet_count": 60179
+        },
+        "url": "https://t.co/Bo98BLH3yu",
+        "username": "swiftie1ncanada",
+        "verified": false
+      }
+    ]
+  }
+}

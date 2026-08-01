@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009025806685884504",
+    "created_at": "2026-01-07T22:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T23:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009025806685884504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2598018877",
+          "start": 3,
+          "username": "MadsPosting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2008…",
+          "end": 40,
+          "expanded_url": "http://x.com/i/article/2008873091347169280",
+          "start": 17,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2008873091347169280",
+          "url": "https://t.co/aoHDhsbyNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009025806685884504",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008925990060183782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MadsPosting: https://t.co/aoHDhsbyNL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009025806685884504",
+        "created_at": "2026-01-07T22:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T23:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009025806685884504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2598018877",
+              "start": 3,
+              "username": "MadsPosting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 40,
+              "expanded_url": "http://x.com/i/article/2008873091347169280",
+              "start": 17,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008873091347169280",
+              "url": "https://t.co/aoHDhsbyNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009025806685884504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008925990060183782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MadsPosting: https://t.co/aoHDhsbyNL"
+      },
+      {
+        "article": {
+          "title": "the europemaxxing manifesto"
+        },
+        "attachments": {},
+        "author_id": "2598018877",
+        "conversation_id": "2008925990060183782",
+        "created_at": "2026-01-07T15:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925990060183782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2008873091347169280",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008873091347169280",
+              "url": "https://t.co/aoHDhsbyNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925990060183782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 54675,
+          "like_count": 836,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aoHDhsbyNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 214,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "I AM NOT MADS MIKKELSEN. Europemaxxer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/madsposting",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/madsposting",
+                "start": 0,
+                "url": "https://t.co/JZgEc5RYzr"
+              }
+            ]
+          }
+        },
+        "id": "2598018877",
+        "location": "Denmark",
+        "name": "Mads",
+        "pinned_tweet_id": "2008925990060183782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873316862378889216/V3fMYFzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104293,
+          "following_count": 247,
+          "like_count": 65142,
+          "listed_count": 238,
+          "media_count": 7523,
+          "tweet_count": 11095
+        },
+        "url": "https://t.co/JZgEc5RYzr",
+        "username": "MadsPosting",
+        "verified": true
+      }
+    ]
+  }
+}

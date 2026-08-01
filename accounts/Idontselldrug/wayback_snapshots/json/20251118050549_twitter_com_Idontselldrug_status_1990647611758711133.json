@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990647599314120704"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "1990647611758711133",
+    "created_at": "2025-11-18T05:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990647611758711133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ac81elV9OG",
+          "end": 54,
+          "expanded_url": "https://x.com/Idontselldrug/status/1990647611758711133/photo/1",
+          "media_key": "3_1990647599314120704",
+          "start": 31,
+          "url": "https://t.co/ac81elV9OG"
+        },
+        {
+          "display_url": "x.com/ohiojesustwink…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/ohiojesustwink/status/1990373388603543916",
+          "start": 55,
+          "url": "https://t.co/SUe4DO9zB8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990647611758711133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990373388603543916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以去看下genius上这首歌词的注释和评论，太有节目效果了 https://t.co/ac81elV9OG https://t.co/SUe4DO9zB8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990647599314120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AzcdYaMAAu4Zd.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 31916,
+        "height": 1084,
+        "media_key": "13_1990373307179536384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990373307179536384/img/AaGfqtRrTMMvipdk.jpg",
+        "public_metrics": {
+          "view_count": 431345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990373307179536384/vid/avc1/320x480/7f4gNiMlanbqeMzU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990373307179536384/vid/avc1/480x722/EC4WRffwJTqWheCa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990373307179536384/vid/avc1/720x1084/LBkmvgDzzbQ4QqkO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990373307179536384/pl/xuS8x1iUtoJjG0ba.m3u8?v=faa"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990647599314120704"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1990647611758711133",
+        "created_at": "2025-11-18T05:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990647611758711133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ac81elV9OG",
+              "end": 54,
+              "expanded_url": "https://x.com/Idontselldrug/status/1990647611758711133/photo/1",
+              "media_key": "3_1990647599314120704",
+              "start": 31,
+              "url": "https://t.co/ac81elV9OG"
+            },
+            {
+              "display_url": "x.com/ohiojesustwink…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/ohiojesustwink/status/1990373388603543916",
+              "start": 55,
+              "url": "https://t.co/SUe4DO9zB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990647611758711133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990373388603543916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以去看下genius上这首歌词的注释和评论，太有节目效果了 https://t.co/ac81elV9OG https://t.co/SUe4DO9zB8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990373307179536384"
+          ]
+        },
+        "author_id": "1239803271469879298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1990373388603543916",
+        "created_at": "2025-11-17T10:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990373388603543916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "Charlie Kirk",
+              "probability": 0.9629,
+              "start": 61,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R43IX7gJTs",
+              "end": 226,
+              "expanded_url": "https://x.com/ohiojesustwink/status/1990373388603543916/video/1",
+              "media_key": "13_1990373307179536384",
+              "start": 203,
+              "url": "https://t.co/R43IX7gJTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990373388603543916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8447,
+          "impression_count": 1332878,
+          "like_count": 27917,
+          "quote_count": 758,
+          "reply_count": 355,
+          "retweet_count": 2279
+        },
+        "reply_settings": "everyone",
+        "text": "Accidentally stumbled across this (presumably A.I generated) Charlie Kirk memorial song. It is, without question, the funniest thing I’ve ever heard. This has close to 100k monthly listeners, by the way https://t.co/R43IX7gJTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 144,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T06:38:39.000Z",
+        "description": "movie watcher. worlds foremost brian de palma scholar. marx fan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/1jzyl",
+                "end": 23,
+                "expanded_url": "https://boxd.it/1jzyl",
+                "start": 0,
+                "url": "https://t.co/GbJp1ZG763"
+              }
+            ]
+          }
+        },
+        "id": "1239803271469879298",
+        "location": "melbourne//naarm",
+        "name": "griffin🎃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743181269037395969/j5un9uQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 4550,
+          "like_count": 195682,
+          "listed_count": 9,
+          "media_count": 1207,
+          "tweet_count": 7791
+        },
+        "url": "https://t.co/GbJp1ZG763",
+        "username": "ohiojesustwink",
+        "verified": false
+      }
+    ]
+  }
+}

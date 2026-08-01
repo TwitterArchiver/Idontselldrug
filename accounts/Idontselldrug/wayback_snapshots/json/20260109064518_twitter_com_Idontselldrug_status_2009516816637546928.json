@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009516816637546928",
+    "created_at": "2026-01-09T06:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009516816637546928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uglyblender/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/uglyblender/status/2009188583647924563",
+          "start": 16,
+          "url": "https://t.co/7BymTWzqTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009516816637546928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009188583647924563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人愿意为了我拜访阿尔伯塔的吗 https://t.co/7BymTWzqTW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009516816637546928",
+        "created_at": "2026-01-09T06:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009516816637546928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uglyblender/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/uglyblender/status/2009188583647924563",
+              "start": 16,
+              "url": "https://t.co/7BymTWzqTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009516816637546928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009188583647924563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人愿意为了我拜访阿尔伯塔的吗 https://t.co/7BymTWzqTW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "998360894579949569",
+        "conversation_id": "2009188583647924563",
+        "created_at": "2026-01-08T09:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009188583647924563"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Alberta",
+              "probability": 0.9734,
+              "start": 67,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009188583647924563",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 26368,
+          "like_count": 1290,
+          "quote_count": 73,
+          "reply_count": 21,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "Love will have you thinking crazy thoughts like \"I'd like to visit Alberta\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 218,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-21T00:32:40.000Z",
+        "description": "President of the Vancouver East Bloc Québécois EDA / Présidente du Bloc Québécois de Vancouver-Est EDA",
+        "id": "998360894579949569",
+        "location": "Vancouver, BC",
+        "name": "sam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006436884323704832/TAphZFtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5072,
+          "following_count": 1320,
+          "like_count": 94924,
+          "listed_count": 28,
+          "media_count": 1618,
+          "tweet_count": 25188
+        },
+        "username": "uglyblender",
+        "verified": false
+      }
+    ]
+  }
+}

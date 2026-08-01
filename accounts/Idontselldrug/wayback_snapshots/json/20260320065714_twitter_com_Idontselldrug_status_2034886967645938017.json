@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034852558741889279",
+    "created_at": "2026-03-20T06:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034886967645938017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        },
+        {
+          "end": 27,
+          "id": "1198837480759287808",
+          "start": 16,
+          "username": "Inkingfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034886967645938017",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034856679884632363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium @Inkingfish 典"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034852558741889279",
+        "created_at": "2026-03-20T06:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034886967645938017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            },
+            {
+              "end": 27,
+              "id": "1198837480759287808",
+              "start": 16,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034886967645938017",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034856679884632363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium @Inkingfish 典"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2034852558741889279",
+        "created_at": "2026-03-20T04:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034856679884632363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1198837480759287808",
+              "start": 0,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034856679884632363",
+        "in_reply_to_user_id": "1198837480759287808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034852558741889279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inkingfish 如果老公是白男主页肯定有白男一家第一次吃中餐，赞叹中华文化博大精深的样板戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 236,
+          "like_count": 1384,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11307,
+          "following_count": 665,
+          "like_count": 85796,
+          "listed_count": 38,
+          "media_count": 2042,
+          "tweet_count": 31588
+        },
+        "username": "libertyelysium",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T05:35:10.000Z",
+        "description": "我虽独身，在此也住多年，常言道，寡妇门前是非多，好事不出门，坏事传千里，所以只能身居茅屋，眼观全球，脚踩污泥，胸怀天下，我说的对吗？",
+        "id": "1198837480759287808",
+        "location": "蚌埠，安徽",
+        "name": "小米汽车抚顺车友群",
+        "pinned_tweet_id": "1536905463412842496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902399849867440133/zJxjYFBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6941,
+          "following_count": 450,
+          "like_count": 12580,
+          "listed_count": 24,
+          "media_count": 370,
+          "tweet_count": 13308
+        },
+        "username": "Inkingfish",
+        "verified": false
+      }
+    ]
+  }
+}

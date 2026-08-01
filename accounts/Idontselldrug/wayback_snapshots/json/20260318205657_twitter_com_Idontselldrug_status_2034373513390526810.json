@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2033428411067289780",
+    "created_at": "2026-03-18T20:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034373513390526810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782169277753081856",
+          "start": 0,
+          "username": "Jing_100311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034373513390526810",
+    "in_reply_to_user_id": "1782169277753081856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034105690843701756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jing_100311 美国水果贵很多吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2033428411067289780",
+        "created_at": "2026-03-18T20:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034373513390526810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782169277753081856",
+              "start": 0,
+              "username": "Jing_100311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034373513390526810",
+        "in_reply_to_user_id": "1782169277753081856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034105690843701756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jing_100311 美国水果贵很多吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782169277753081856",
+        "conversation_id": "2033428411067289780",
+        "created_at": "2026-03-18T03:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034105690843701756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034105690843701756",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033428411067289780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 还是会被加拿大物价感动到。实在不行我攒点钱溜去加拿大住下得了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 236,
+          "like_count": 1338,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:07:29.000Z",
+        "description": "06/🇺🇸🇨🇳/凉席/od/日记/",
+        "id": "1782169277753081856",
+        "name": "景🍊",
+        "pinned_tweet_id": "1851093961563050467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984828650672271360/--E8X8II_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 343,
+          "like_count": 619,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 1151
+        },
+        "username": "Jing_100311",
+        "verified": false
+      }
+    ]
+  }
+}

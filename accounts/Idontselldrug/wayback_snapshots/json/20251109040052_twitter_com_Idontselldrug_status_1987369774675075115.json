@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987325687028719975",
+    "created_at": "2025-11-09T04:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T05:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987369774675075115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "822723579263393792",
+          "start": 0,
+          "username": "Nagareyama_kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987369774675075115",
+    "in_reply_to_user_id": "822723579263393792",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987357500472258992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nagareyama_kura indica"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987325687028719975",
+        "created_at": "2025-11-09T04:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T05:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987369774675075115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "822723579263393792",
+              "start": 0,
+              "username": "Nagareyama_kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987369774675075115",
+        "in_reply_to_user_id": "822723579263393792",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987357500472258992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nagareyama_kura indica"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822723579263393792",
+        "conversation_id": "1987325687028719975",
+        "created_at": "2025-11-09T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987357500472258992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987357500472258992",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987325687028719975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug indica還是sativa啊 我抽indica瘋狂想吃東西抽sativa會斷片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 119,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:32:41.000Z",
+        "description": "kura默默活┊demi/panromantic aegosexual┊she/her",
+        "id": "822723579263393792",
+        "name": "kuratheanti",
+        "pinned_tweet_id": "1244908355782692864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984909495718559744/aAQ0ARNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 97,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 357
+        },
+        "username": "Nagareyama_kura",
+        "verified": false
+      }
+    ]
+  }
+}

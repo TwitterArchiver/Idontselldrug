@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2001276546980757723",
+    "created_at": "2025-12-19T06:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T07:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001900889033052204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2445001998",
+          "start": 0,
+          "username": "binghe_sun"
+        },
+        {
+          "end": 28,
+          "id": "1496832772475785226",
+          "start": 12,
+          "username": "EdwardW55458573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001900889033052204",
+    "in_reply_to_user_id": "2445001998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001523824106574011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binghe_sun @EdwardW55458573 你是傻逼吧，被人骂还在这里精神胜利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2001276546980757723",
+        "created_at": "2025-12-19T06:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001900889033052204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2445001998",
+              "start": 0,
+              "username": "binghe_sun"
+            },
+            {
+              "end": 28,
+              "id": "1496832772475785226",
+              "start": 12,
+              "username": "EdwardW55458573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001900889033052204",
+        "in_reply_to_user_id": "2445001998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001523824106574011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binghe_sun @EdwardW55458573 你是傻逼吧，被人骂还在这里精神胜利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2445001998",
+        "conversation_id": "2001276546980757723",
+        "created_at": "2025-12-18T05:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001523824106574011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1496832772475785226",
+              "start": 0,
+              "username": "EdwardW55458573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001523824106574011",
+        "in_reply_to_user_id": "1496832772475785226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4552,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001500116440764600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EdwardW55458573 不这样写，你会评论吗？\n\n知道谁脑残了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 188,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-15T06:33:45.000Z",
+        "description": "🎉 爱技术，爱赚钱，爱分享！\n\n🐬 分享 赚钱项目 ｜打破信息壁垒 ｜副业避坑\n\n🌻 能拆解的赚钱项目才有意义\n\n🪐 知识星球社群/公众号：“钱来有道” \n\n🌌 小宇宙 |Podcasts |QQ音乐  播客 “钱来有道”\n\n🎀 搞钱训练营  https://t.co/58qRl0IBTf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qianlai.flowus.cn",
+                "end": 145,
+                "expanded_url": "http://qianlai.flowus.cn",
+                "start": 122,
+                "url": "https://t.co/58qRl0IBTf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qianlai.flowus.cn",
+                "end": 23,
+                "expanded_url": "http://qianlai.flowus.cn",
+                "start": 0,
+                "url": "https://t.co/58qRl0IBTf"
+              }
+            ]
+          }
+        },
+        "id": "2445001998",
+        "name": "冰河",
+        "pinned_tweet_id": "1888106642870612131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967594037571121152/jS1dH7FJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26257,
+          "following_count": 184,
+          "like_count": 440,
+          "listed_count": 159,
+          "media_count": 611,
+          "tweet_count": 3727
+        },
+        "url": "https://t.co/58qRl0IBTf",
+        "username": "binghe_sun",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-24T13:02:09.000Z",
+        "description": "",
+        "id": "1496832772475785226",
+        "name": "Ron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496832824086646792/R_E1vtdy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 102,
+          "like_count": 1250,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 1495
+        },
+        "username": "EdwardW55458573",
+        "verified": false
+      }
+    ]
+  }
+}

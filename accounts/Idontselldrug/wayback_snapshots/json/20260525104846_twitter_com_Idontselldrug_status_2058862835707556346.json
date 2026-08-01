@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058567833521475584"
+      ],
+      "media_source_tweet_id": [
+        "2058568304042631615"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2058862835707556346",
+    "created_at": "2026-05-25T10:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058862835707556346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1075188402",
+          "start": 3,
+          "username": "FloydTerminal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPM8bJFowY",
+          "end": 42,
+          "expanded_url": "https://x.com/FloydTerminal/status/2058568304042631615/video/1",
+          "media_key": "13_2058567833521475584",
+          "start": 19,
+          "url": "https://t.co/vPM8bJFowY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058862835707556346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2945
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058568304042631615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FloydTerminal: https://t.co/vPM8bJFowY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7791,
+        "height": 560,
+        "media_key": "13_2058567833521475584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058567833521475584/img/O1xI9Zx4R5Hjh002.jpg",
+        "public_metrics": {
+          "view_count": 375986
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058567833521475584/vid/avc1/408x270/QuN0H9ZfLOZTlpSk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058567833521475584/vid/avc1/544x360/5RrpjZ0U3ZMbGcHW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058567833521475584/vid/avc1/848x560/63ym6bg_Fx0e5sQK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058567833521475584/pl/r8uHoYNOzsG3tnwQ.m3u8"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058567833521475584"
+          ],
+          "media_source_tweet_id": [
+            "2058568304042631615"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2058862835707556346",
+        "created_at": "2026-05-25T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058862835707556346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1075188402",
+              "start": 3,
+              "username": "FloydTerminal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPM8bJFowY",
+              "end": 42,
+              "expanded_url": "https://x.com/FloydTerminal/status/2058568304042631615/video/1",
+              "media_key": "13_2058567833521475584",
+              "start": 19,
+              "url": "https://t.co/vPM8bJFowY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058862835707556346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2945
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058568304042631615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FloydTerminal: https://t.co/vPM8bJFowY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058567833521475584"
+          ]
+        },
+        "author_id": "1075188402",
+        "conversation_id": "2058568304042631615",
+        "created_at": "2026-05-24T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058568304042631615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPM8bJFowY",
+              "end": 23,
+              "expanded_url": "https://x.com/FloydTerminal/status/2058568304042631615/video/1",
+              "media_key": "13_2058567833521475584",
+              "start": 0,
+              "url": "https://t.co/vPM8bJFowY"
+            },
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/elonmusk/status/1873417011294093499",
+              "start": 24,
+              "url": "https://t.co/87qX7Du7kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058568304042631615",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4391,
+          "impression_count": 1456535,
+          "like_count": 49288,
+          "quote_count": 58,
+          "reply_count": 135,
+          "retweet_count": 2945
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873417011294093499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vPM8bJFowY https://t.co/87qX7Du7kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 287,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-09T23:41:42.000Z",
+        "description": "My name is George Droyd\nCreated by @iamfoose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "iamfoose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lordmilesroutledge.com/product/george…",
+                "end": 23,
+                "expanded_url": "https://lordmilesroutledge.com/product/george-floyd-lighter-crowdfunding/",
+                "start": 0,
+                "url": "https://t.co/nocLgvjmx1"
+              }
+            ]
+          }
+        },
+        "id": "1075188402",
+        "location": "Microsoft Labs",
+        "name": "FloydAI",
+        "pinned_tweet_id": "1966909944311214526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858401338750537728/PJgDSUOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57681,
+          "following_count": 1809,
+          "like_count": 12098,
+          "listed_count": 82,
+          "media_count": 338,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/nocLgvjmx1",
+        "username": "FloydTerminal",
+        "verified": true
+      }
+    ]
+  }
+}

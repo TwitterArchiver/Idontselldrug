@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988912829882331136",
+        "3_1988912830180196352",
+        "3_1988912830435979264",
+        "3_1988912830624784384"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988912833183027386",
+    "created_at": "2025-11-13T10:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988912833183027386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/slhQ9Ts9aN",
+          "end": 173,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+          "media_key": "3_1988912829882331136",
+          "start": 150,
+          "url": "https://t.co/slhQ9Ts9aN"
+        },
+        {
+          "display_url": "pic.x.com/slhQ9Ts9aN",
+          "end": 173,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+          "media_key": "3_1988912830180196352",
+          "start": 150,
+          "url": "https://t.co/slhQ9Ts9aN"
+        },
+        {
+          "display_url": "pic.x.com/slhQ9Ts9aN",
+          "end": 173,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+          "media_key": "3_1988912830435979264",
+          "start": 150,
+          "url": "https://t.co/slhQ9Ts9aN"
+        },
+        {
+          "display_url": "pic.x.com/slhQ9Ts9aN",
+          "end": 173,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+          "media_key": "3_1988912830624784384",
+          "start": 150,
+          "url": "https://t.co/slhQ9Ts9aN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988912833183027386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常精致的用餐体验 来自Anna lena\n本来预约满了遗憾错过 但是前一天有人取消了 被我捡漏了\n感觉就算我抽了大麻增强味觉也不值得这么昂贵的价钱 虽然服务很好情绪价值给的很足 菜品很好吃配酒也值得细品 但是我还是更喜欢中午那种鹅肝松露简单粗暴的 太复杂的我也吃不出来 我只会说这个是甜这个是咸的 https://t.co/slhQ9Ts9aN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988912829882331136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oJrlpacAAWvix.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1988912830180196352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oJrmwbgAAsQgB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988912830435979264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oJrntacAAjMna.jpg",
+        "width": 1153
+      },
+      {
+        "height": 1153,
+        "media_key": "3_1988912830624784384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oJroabYAA2kiD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988912829882331136",
+            "3_1988912830180196352",
+            "3_1988912830435979264",
+            "3_1988912830624784384"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988912833183027386",
+        "created_at": "2025-11-13T10:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988912833183027386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slhQ9Ts9aN",
+              "end": 173,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+              "media_key": "3_1988912829882331136",
+              "start": 150,
+              "url": "https://t.co/slhQ9Ts9aN"
+            },
+            {
+              "display_url": "pic.x.com/slhQ9Ts9aN",
+              "end": 173,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+              "media_key": "3_1988912830180196352",
+              "start": 150,
+              "url": "https://t.co/slhQ9Ts9aN"
+            },
+            {
+              "display_url": "pic.x.com/slhQ9Ts9aN",
+              "end": 173,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+              "media_key": "3_1988912830435979264",
+              "start": 150,
+              "url": "https://t.co/slhQ9Ts9aN"
+            },
+            {
+              "display_url": "pic.x.com/slhQ9Ts9aN",
+              "end": 173,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988912833183027386/photo/1",
+              "media_key": "3_1988912830624784384",
+              "start": 150,
+              "url": "https://t.co/slhQ9Ts9aN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988912833183027386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常精致的用餐体验 来自Anna lena\n本来预约满了遗憾错过 但是前一天有人取消了 被我捡漏了\n感觉就算我抽了大麻增强味觉也不值得这么昂贵的价钱 虽然服务很好情绪价值给的很足 菜品很好吃配酒也值得细品 但是我还是更喜欢中午那种鹅肝松露简单粗暴的 太复杂的我也吃不出来 我只会说这个是甜这个是咸的 https://t.co/slhQ9Ts9aN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 137,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 113
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

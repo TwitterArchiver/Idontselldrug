@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004995869003669504"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2004995871184912806",
+    "created_at": "2025-12-27T19:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004995871184912806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2FbvScCQbh",
+          "end": 135,
+          "expanded_url": "https://x.com/Idontselldrug/status/2004995871184912806/photo/1",
+          "media_key": "3_2004995869003669504",
+          "start": 112,
+          "url": "https://t.co/2FbvScCQbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004995871184912806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己对自我状态，特别是认知方面的监控和关注有点过度了，已经到了内耗影响注意力甚至反向安慰剂疑病的地步\n我之前甚至还想花几百刀买个运动手环，但想了想觉得自己如果花几百刀担心焦虑自己的睡眠，可能反而更加睡不好，不如躺平得了 https://t.co/2FbvScCQbh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2004995869003669504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MtHrQW4AAFL94.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004995869003669504"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2004995871184912806",
+        "created_at": "2025-12-27T19:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004995871184912806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FbvScCQbh",
+              "end": 135,
+              "expanded_url": "https://x.com/Idontselldrug/status/2004995871184912806/photo/1",
+              "media_key": "3_2004995869003669504",
+              "start": 112,
+              "url": "https://t.co/2FbvScCQbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004995871184912806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己对自我状态，特别是认知方面的监控和关注有点过度了，已经到了内耗影响注意力甚至反向安慰剂疑病的地步\n我之前甚至还想花几百刀买个运动手环，但想了想觉得自己如果花几百刀担心焦虑自己的睡眠，可能反而更加睡不好，不如躺平得了 https://t.co/2FbvScCQbh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 204,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

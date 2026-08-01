@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046633076001042432",
+        "3_2046633078232317952"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046633080556069225",
+    "created_at": "2026-04-21T16:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046633080556069225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944351426827735040",
+          "start": 3,
+          "username": "kiss_u_back"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZBhR4oHsn",
+          "end": 172,
+          "expanded_url": "https://x.com/Idontselldrug/status/2046633080556069225/photo/1",
+          "media_key": "3_2046633076001042432",
+          "start": 149,
+          "url": "https://t.co/cZBhR4oHsn"
+        },
+        {
+          "display_url": "pic.x.com/cZBhR4oHsn",
+          "end": 172,
+          "expanded_url": "https://x.com/Idontselldrug/status/2046633080556069225/photo/1",
+          "media_key": "3_2046633078232317952",
+          "start": 149,
+          "url": "https://t.co/cZBhR4oHsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046633080556069225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前女友@kiss_u_back 在我昨天自杀意愿最大的考试日+生日把我甩了，原因是觉得我焦虑型太烦了累到她了\n要是其他日子我还会怀疑她是要自杀怕我伤心所以分手，她在我最脆弱的时候把我甩了，我感到非常愤怒\n我在写文揭露她给晶哥当线人举报推友，以及欺骗我感情的事情\n因为我关注她的可以取关了\n敬请期待 https://t.co/cZBhR4oHsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046633076001042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcZ8GibcAALpiM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046633078232317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcZ8O2aAAAFoRn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046633076001042432",
+            "3_2046633078232317952"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046633080556069225",
+        "created_at": "2026-04-21T16:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046633080556069225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944351426827735040",
+              "start": 3,
+              "username": "kiss_u_back"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZBhR4oHsn",
+              "end": 172,
+              "expanded_url": "https://x.com/Idontselldrug/status/2046633080556069225/photo/1",
+              "media_key": "3_2046633076001042432",
+              "start": 149,
+              "url": "https://t.co/cZBhR4oHsn"
+            },
+            {
+              "display_url": "pic.x.com/cZBhR4oHsn",
+              "end": 172,
+              "expanded_url": "https://x.com/Idontselldrug/status/2046633080556069225/photo/1",
+              "media_key": "3_2046633078232317952",
+              "start": 149,
+              "url": "https://t.co/cZBhR4oHsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046633080556069225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前女友@kiss_u_back 在我昨天自杀意愿最大的考试日+生日把我甩了，原因是觉得我焦虑型太烦了累到她了\n要是其他日子我还会怀疑她是要自杀怕我伤心所以分手，她在我最脆弱的时候把我甩了，我感到非常愤怒\n我在写文揭露她给晶哥当线人举报推友，以及欺骗我感情的事情\n因为我关注她的可以取关了\n敬请期待 https://t.co/cZBhR4oHsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 257,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n已阳痿 勿骚扰",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 179,
+          "like_count": 1591,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 1307
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

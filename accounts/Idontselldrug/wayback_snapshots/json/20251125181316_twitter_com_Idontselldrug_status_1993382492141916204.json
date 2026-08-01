@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1993374844915007790",
+    "created_at": "2025-11-25T18:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T19:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993382492141916204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882203079220887552",
+          "start": 0,
+          "username": "shuiii1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993382492141916204",
+    "in_reply_to_user_id": "1882203079220887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993381418039492891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiii1219 推友给的港版普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1993374844915007790",
+        "created_at": "2025-11-25T18:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993382492141916204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882203079220887552",
+              "start": 0,
+              "username": "shuiii1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993382492141916204",
+        "in_reply_to_user_id": "1882203079220887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993381418039492891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiii1219 推友给的港版普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882203079220887552",
+        "conversation_id": "1993374844915007790",
+        "created_at": "2025-11-25T18:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993381418039492891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993381418039492891",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993376645437440319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 普瑞25mg怎么来的😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 172,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T23:06:18.000Z",
+        "description": "所有的一切都只是为了再幸福一点\n我是小睡",
+        "id": "1882203079220887552",
+        "name": "日日日日日安安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989564481119424514/M2e7OzgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 127,
+          "like_count": 2418,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 615
+        },
+        "username": "shuiii1219",
+        "verified": false
+      }
+    ]
+  }
+}

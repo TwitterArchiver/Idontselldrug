@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989217115312910681",
+    "created_at": "2025-11-14T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989217615953424460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989217615953424460",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989217115312910681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back Mommy....?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989217107134029824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sea2vaoAA1YLd.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989217107146584065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sea2yaMAE7Zix.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989217115312910681",
+        "created_at": "2025-11-14T06:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989217615953424460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989217615953424460",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989217115312910681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back Mommy....?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989217107134029824",
+            "3_1989217107146584065"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "1989217115312910681",
+        "created_at": "2025-11-14T06:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989217115312910681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTDdIWD8Af",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_u_back/status/1989217115312910681/photo/1",
+              "media_key": "3_1989217107134029824",
+              "start": 0,
+              "url": "https://t.co/PTDdIWD8Af"
+            },
+            {
+              "display_url": "pic.x.com/PTDdIWD8Af",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_u_back/status/1989217115312910681/photo/1",
+              "media_key": "3_1989217107146584065",
+              "start": 0,
+              "url": "https://t.co/PTDdIWD8Af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989217115312910681",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PTDdIWD8Af"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 139,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 144
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 98,
+          "like_count": 864,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

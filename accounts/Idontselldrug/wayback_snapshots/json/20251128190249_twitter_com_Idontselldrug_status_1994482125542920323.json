@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994166401267904513"
+      ],
+      "media_source_tweet_id": [
+        "1994166404728131659"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1994482125542920323",
+    "created_at": "2025-11-28T19:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T20:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994482125542920323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1304208025058783232",
+          "start": 3,
+          "username": "DefectivePigg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vANltacfLv",
+          "end": 42,
+          "expanded_url": "https://x.com/DefectivePigg/status/1994166404728131659/photo/1",
+          "media_key": "3_1994166401267904513",
+          "start": 19,
+          "url": "https://t.co/vANltacfLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994482125542920323",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 668
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994166404728131659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DefectivePigg: https://t.co/vANltacfLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1994166401267904513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yzxsKXsAEPRpM.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994166401267904513"
+          ],
+          "media_source_tweet_id": [
+            "1994166404728131659"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1994482125542920323",
+        "created_at": "2025-11-28T19:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T20:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994482125542920323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1304208025058783232",
+              "start": 3,
+              "username": "DefectivePigg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vANltacfLv",
+              "end": 42,
+              "expanded_url": "https://x.com/DefectivePigg/status/1994166404728131659/photo/1",
+              "media_key": "3_1994166401267904513",
+              "start": 19,
+              "url": "https://t.co/vANltacfLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994482125542920323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 668
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994166404728131659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DefectivePigg: https://t.co/vANltacfLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994166401267904513"
+          ]
+        },
+        "author_id": "1304208025058783232",
+        "conversation_id": "1994166404728131659",
+        "created_at": "2025-11-27T22:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T23:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994166404728131659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vANltacfLv",
+              "end": 23,
+              "expanded_url": "https://x.com/DefectivePigg/status/1994166404728131659/photo/1",
+              "media_key": "3_1994166401267904513",
+              "start": 0,
+              "url": "https://t.co/vANltacfLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994166404728131659",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 69903,
+          "like_count": 12574,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 668
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vANltacfLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 179,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T00:00:08.000Z",
+        "description": "A creative swine",
+        "id": "1304208025058783232",
+        "name": "DeviantPigg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329834634750926848/Jj657F8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21387,
+          "following_count": 523,
+          "like_count": 29551,
+          "listed_count": 43,
+          "media_count": 13465,
+          "tweet_count": 27909
+        },
+        "username": "DefectivePigg",
+        "verified": true
+      }
+    ]
+  }
+}

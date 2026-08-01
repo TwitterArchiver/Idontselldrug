@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2010356921627213825"
+      ],
+      "media_source_tweet_id": [
+        "2010356996633993547"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2010937656029728816",
+    "created_at": "2026-01-13T04:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010937656029728816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529557088577396737",
+          "start": 3,
+          "username": "DarkOddCon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QiDynxV9Fy",
+          "end": 39,
+          "expanded_url": "https://x.com/DarkOddCon/status/2010356996633993547/video/1",
+          "media_key": "13_2010356921627213825",
+          "start": 16,
+          "url": "https://t.co/QiDynxV9Fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010937656029728816",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010356996633993547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkOddCon: https://t.co/QiDynxV9Fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17600,
+        "height": 1280,
+        "media_key": "13_2010356921627213825",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010356921627213825/img/glr8pM5KZvZKFohq.jpg",
+        "public_metrics": {
+          "view_count": 7936
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010356921627213825/vid/avc1/320x568/TbMdWiGPLBaWv9zk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010356921627213825/vid/avc1/480x852/zqQKKgZx09zNhQXL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010356921627213825/vid/avc1/720x1280/CigFfi3wmA4MCCfW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010356921627213825/pl/fF1ty133Kyi-NtYi.m3u8?v=020"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010356921627213825"
+          ],
+          "media_source_tweet_id": [
+            "2010356996633993547"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2010937656029728816",
+        "created_at": "2026-01-13T04:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010937656029728816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529557088577396737",
+              "start": 3,
+              "username": "DarkOddCon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiDynxV9Fy",
+              "end": 39,
+              "expanded_url": "https://x.com/DarkOddCon/status/2010356996633993547/video/1",
+              "media_key": "13_2010356921627213825",
+              "start": 16,
+              "url": "https://t.co/QiDynxV9Fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010937656029728816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010356996633993547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkOddCon: https://t.co/QiDynxV9Fy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010356921627213825"
+          ]
+        },
+        "author_id": "1529557088577396737",
+        "conversation_id": "2010356996633993547",
+        "created_at": "2026-01-11T14:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010356996633993547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiDynxV9Fy",
+              "end": 23,
+              "expanded_url": "https://x.com/DarkOddCon/status/2010356996633993547/video/1",
+              "media_key": "13_2010356921627213825",
+              "start": 0,
+              "url": "https://t.co/QiDynxV9Fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010356996633993547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 12130,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QiDynxV9Fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 220,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T20:17:02.000Z",
+        "description": "I just post Dark Humor, Schizo, Conspiracy, Edgy, and Weird/Odd memes/posts along with regular memes too. Trying to be more active, posting regular memes too.",
+        "id": "1529557088577396737",
+        "location": "Insane Asylum",
+        "name": "Dark,Odd,Conspiracy",
+        "pinned_tweet_id": "1918862078724407667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529558209568157697/Sjv9-6f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316159,
+          "following_count": 125,
+          "like_count": 215,
+          "listed_count": 311,
+          "media_count": 5845,
+          "tweet_count": 7060
+        },
+        "username": "DarkOddCon",
+        "verified": true
+      }
+    ]
+  }
+}

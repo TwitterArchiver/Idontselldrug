@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027225075225969053",
+    "created_at": "2026-02-27T20:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T21:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027475436192862277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "821561198491549697",
+          "start": 0,
+          "username": "DNzkx7P7wiSw4Ib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027475436192862277",
+    "in_reply_to_user_id": "821561198491549697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027466159222866144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DNzkx7P7wiSw4Ib 血清素能致幻剂也能抗抑郁 原理跟ketamine不一样 ketamine是ampa+bdnf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027225075225969053",
+        "created_at": "2026-02-27T20:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027475436192862277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "821561198491549697",
+              "start": 0,
+              "username": "DNzkx7P7wiSw4Ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027475436192862277",
+        "in_reply_to_user_id": "821561198491549697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027466159222866144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DNzkx7P7wiSw4Ib 血清素能致幻剂也能抗抑郁 原理跟ketamine不一样 ketamine是ampa+bdnf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821561198491549697",
+        "conversation_id": "2027225075225969053",
+        "created_at": "2026-02-27T19:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027466159222866144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027466159222866144",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027225075225969053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 2cb抗抑鬱我怎麼沒聽過\n不是ketamine嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 229,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-18T03:33:48.000Z",
+        "description": "一個癮君子而已\n\n我的名字來源於一個遊戲  strangeland\n\n世界上只有一種英雄主義\n那就是知道這個世界是屎一樣\n一樣義無反顧的愛著這個世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/pz7k9aVjMVQ",
+                "end": 23,
+                "expanded_url": "https://youtu.be/pz7k9aVjMVQ",
+                "start": 0,
+                "url": "https://t.co/iWRzh6ZUDO"
+              }
+            ]
+          }
+        },
+        "id": "821561198491549697",
+        "location": "支那佔領區",
+        "name": "Hollow Rotta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633116497093484544/k7-bbzdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 2340,
+          "like_count": 88835,
+          "listed_count": 9,
+          "media_count": 2337,
+          "tweet_count": 29283
+        },
+        "url": "https://t.co/iWRzh6ZUDO",
+        "username": "DNzkx7P7wiSw4Ib",
+        "verified": false
+      }
+    ]
+  }
+}

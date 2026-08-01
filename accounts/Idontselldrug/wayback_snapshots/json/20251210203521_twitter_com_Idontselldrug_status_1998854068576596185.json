@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1998854068576596185",
+    "created_at": "2025-12-10T20:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T21:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998854068576596185"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998854068576596185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "vyvanse药效上来的那十几分钟真的是我体验过的能排前三的欣快感，而且不同于蘑菇之类的不稳定触发欣快的致幻剂，vyvanse的欣快感是每次都有的，而且我按医嘱使用耐受上去的很慢，基本上只要吃药就有感觉，不过我也不会特意为了欣快吃这玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1998854068576596185",
+        "created_at": "2025-12-10T20:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T21:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998854068576596185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998854068576596185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vyvanse药效上来的那十几分钟真的是我体验过的能排前三的欣快感，而且不同于蘑菇之类的不稳定触发欣快的致幻剂，vyvanse的欣快感是每次都有的，而且我按医嘱使用耐受上去的很慢，基本上只要吃药就有感觉，不过我也不会特意为了欣快吃这玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 185,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2081347330440352213",
+    "created_at": "2026-07-26T11:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081347330440352213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2081285602981659094",
+          "start": 12,
+          "url": "https://t.co/SA94thRpA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081347330440352213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081285602981659094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "视觉系怕了吗，报应来了 https://t.co/SA94thRpA1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2081347330440352213",
+        "created_at": "2026-07-26T11:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081347330440352213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2081285602981659094",
+              "start": 12,
+              "url": "https://t.co/SA94thRpA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081347330440352213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081285602981659094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "视觉系怕了吗，报应来了 https://t.co/SA94thRpA1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2081285602981659094",
+        "created_at": "2026-07-26T07:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081285602981659094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081285602981659094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 490,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不让你们吃屎是有原因的\n美金刚苯海索烷胺苯海拉明这些\n我不是个视觉系吗 我脖子上常戴七个项链\n吃完烷胺昏迷两天失去意识之后谵妄了无意识状态下差点把自己干死 脖子底部很深的一道又紫又黑的勒痕 憋了好几个月气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 311,
+          "like_count": 2761,
+          "listed_count": 1,
+          "media_count": 536,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 40,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

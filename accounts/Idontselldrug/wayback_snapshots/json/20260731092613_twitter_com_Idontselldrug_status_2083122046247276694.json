@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082702756863709184"
+      ],
+      "media_source_tweet_id": [
+        "2082702759887819261"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2083122046247276694",
+    "created_at": "2026-07-31T09:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083122046247276694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1865058581478825984",
+          "start": 3,
+          "username": "bornstunnabtc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jliiFQH9T",
+          "end": 92,
+          "expanded_url": "https://x.com/bornstunnabtc/status/2082702759887819261/photo/1",
+          "media_key": "3_2082702756863709184",
+          "start": 69,
+          "url": "https://t.co/1jliiFQH9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083122046247276694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082702759887819261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bornstunnabtc: just saw teens my age having fun on their stories https://t.co/1jliiFQH9T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2082702756863709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc_H2uWkAAjeVM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082702756863709184"
+          ]
+        },
+        "author_id": "1865058581478825984",
+        "conversation_id": "2082702759887819261",
+        "created_at": "2026-07-30T05:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082702759887819261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jliiFQH9T",
+              "end": 73,
+              "expanded_url": "https://x.com/bornstunnabtc/status/2082702759887819261/photo/1",
+              "media_key": "3_2082702756863709184",
+              "start": 50,
+              "url": "https://t.co/1jliiFQH9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082702759887819261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 560,
+          "impression_count": 176690,
+          "like_count": 24985,
+          "quote_count": 67,
+          "reply_count": 19,
+          "retweet_count": 5193
+        },
+        "reply_settings": "everyone",
+        "text": "just saw teens my age having fun on their stories https://t.co/1jliiFQH9T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082702756863709184"
+          ],
+          "media_source_tweet_id": [
+            "2082702759887819261"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2083122046247276694",
+        "created_at": "2026-07-31T09:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083122046247276694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1865058581478825984",
+              "start": 3,
+              "username": "bornstunnabtc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jliiFQH9T",
+              "end": 92,
+              "expanded_url": "https://x.com/bornstunnabtc/status/2082702759887819261/photo/1",
+              "media_key": "3_2082702756863709184",
+              "start": 69,
+              "url": "https://t.co/1jliiFQH9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083122046247276694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082702759887819261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bornstunnabtc: just saw teens my age having fun on their stories https://t.co/1jliiFQH9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 308,
+          "like_count": 2867,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:40:06.000Z",
+        "description": "follow me for cookies and ice cream",
+        "id": "1865058581478825984",
+        "name": "𑄝 andri",
+        "pinned_tweet_id": "2080080910246981960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081637309531774976/xsAbcZ4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 137,
+          "like_count": 14898,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 5608
+        },
+        "url": "",
+        "username": "bornstunnabtc",
+        "verified": false
+      }
+    ]
+  }
+}

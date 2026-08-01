@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2054939573357367624",
+    "created_at": "2026-05-14T14:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054939573357367624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2054935228263936442",
+          "start": 27,
+          "url": "https://t.co/sRAhEtZtSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054939573357367624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054935228263936442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁锁推偷偷引用我帖子，不要骂我好不好，实在不行我删了 https://t.co/sRAhEtZtSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054935223046221824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISYsqYbsAAdcu7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2054939573357367624",
+        "created_at": "2026-05-14T14:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054939573357367624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2054935228263936442",
+              "start": 27,
+              "url": "https://t.co/sRAhEtZtSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054939573357367624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054935228263936442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁锁推偷偷引用我帖子，不要骂我好不好，实在不行我删了 https://t.co/sRAhEtZtSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054935223046221824"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2054935228263936442",
+        "created_at": "2026-05-14T14:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054935228263936442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPAErXaCH3",
+              "end": 34,
+              "expanded_url": "https://x.com/Idontselldrug/status/2054935228263936442/photo/1",
+              "media_key": "3_2054935223046221824",
+              "start": 11,
+              "url": "https://t.co/QPAErXaCH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054935228263936442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点日常照有人爱看吗 https://t.co/QPAErXaCH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 278,
+          "like_count": 2218,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

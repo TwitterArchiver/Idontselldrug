@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042037790884687873"
+      ],
+      "media_source_tweet_id": [
+        "2042037794470756859"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2042378142032281925",
+    "created_at": "2026-04-09T23:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042378142032281925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1977919024966328320",
+          "start": 3,
+          "username": "qualitylearnc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkvULNhWcE",
+          "end": 54,
+          "expanded_url": "https://x.com/qualitylearnc/status/2042037794470756859/photo/1",
+          "media_key": "3_2042037790884687873",
+          "start": 31,
+          "url": "https://t.co/nkvULNhWcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042378142032281925",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042037794470756859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qualitylearnc: What an app https://t.co/nkvULNhWcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2042037790884687873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbGjTea8AEhQ3t.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042037790884687873"
+          ],
+          "media_source_tweet_id": [
+            "2042037794470756859"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2042378142032281925",
+        "created_at": "2026-04-09T23:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042378142032281925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1977919024966328320",
+              "start": 3,
+              "username": "qualitylearnc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkvULNhWcE",
+              "end": 54,
+              "expanded_url": "https://x.com/qualitylearnc/status/2042037794470756859/photo/1",
+              "media_key": "3_2042037790884687873",
+              "start": 31,
+              "url": "https://t.co/nkvULNhWcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042378142032281925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042037794470756859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qualitylearnc: What an app https://t.co/nkvULNhWcE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042037790884687873"
+          ]
+        },
+        "author_id": "1977919024966328320",
+        "conversation_id": "2042037794470756859",
+        "created_at": "2026-04-09T00:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042037794470756859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkvULNhWcE",
+              "end": 35,
+              "expanded_url": "https://x.com/qualitylearnc/status/2042037794470756859/photo/1",
+              "media_key": "3_2042037790884687873",
+              "start": 12,
+              "url": "https://t.co/nkvULNhWcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042037794470756859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9452,
+          "impression_count": 1958320,
+          "like_count": 120453,
+          "quote_count": 157,
+          "reply_count": 343,
+          "retweet_count": 7476
+        },
+        "reply_settings": "everyone",
+        "text": "What an app https://t.co/nkvULNhWcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 241,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T02:07:11.000Z",
+        "description": "",
+        "id": "1977919024966328320",
+        "name": "Quality Learing Center",
+        "pinned_tweet_id": "1977919589783892205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977920094866141184/cg8RkfV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32334,
+          "following_count": 2,
+          "like_count": 958,
+          "listed_count": 66,
+          "media_count": 939,
+          "tweet_count": 1500
+        },
+        "username": "qualitylearnc",
+        "verified": true
+      }
+    ]
+  }
+}

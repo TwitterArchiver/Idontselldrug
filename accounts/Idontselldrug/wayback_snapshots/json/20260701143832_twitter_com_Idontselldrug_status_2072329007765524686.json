@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2072329007765524686",
+    "created_at": "2026-07-01T14:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072329007765524686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1911684323360522240",
+          "start": 3,
+          "username": "idle128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072329007765524686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072021169427923426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @idle128: The type of pictures school shooters take a week before wounding 2 kids and then killing themselves"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2072329007765524686",
+        "created_at": "2026-07-01T14:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072329007765524686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1911684323360522240",
+              "start": 3,
+              "username": "idle128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072329007765524686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072021169427923426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @idle128: The type of pictures school shooters take a week before wounding 2 kids and then killing themselves"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911684323360522240",
+        "conversation_id": "2072021169427923426",
+        "created_at": "2026-06-30T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072021169427923426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/despacitodesp1…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/despacitodesp12/status/2071583960883155120",
+              "start": 100,
+              "url": "https://t.co/oWGuvvsUc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072021169427923426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 39279,
+          "like_count": 3823,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071583960883155120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The type of pictures school shooters take a week before wounding 2 kids and then killing themselves https://t.co/oWGuvvsUc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 284,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T07:34:04.000Z",
+        "description": "Semi Bilingual and 25% Mexican. Started using Twitter in November 2022. Construction Management Undergrad. Patron Saint is John the Apostle",
+        "id": "1911684323360522240",
+        "location": "Knoxville, TN",
+        "name": "idle🇻🇦",
+        "pinned_tweet_id": "2043864571933298846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911686725019033600/3frzlufk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 214,
+          "like_count": 28052,
+          "listed_count": 9,
+          "media_count": 1644,
+          "tweet_count": 11487
+        },
+        "url": "",
+        "username": "idle128",
+        "verified": false
+      }
+    ]
+  }
+}

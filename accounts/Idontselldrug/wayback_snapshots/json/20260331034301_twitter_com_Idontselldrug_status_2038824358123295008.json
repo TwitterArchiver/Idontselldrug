@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038824346643509248"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2038824358123295008",
+    "created_at": "2026-03-31T03:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038824358123295008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WZ6IE2yhb0",
+          "end": 57,
+          "expanded_url": "https://x.com/Idontselldrug/status/2038824358123295008/video/1",
+          "media_key": "7_2038824346643509248",
+          "start": 34,
+          "url": "https://t.co/WZ6IE2yhb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038824358123295008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校图书馆里居然有老鼠，我一直以为阿尔伯塔这么冷的地方不会有老鼠呢 https://t.co/WZ6IE2yhb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3562,
+        "height": 1074,
+        "media_key": "7_2038824346643509248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038824346643509248/pu/img/G6rE39pNc9khBM47.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038824346643509248/pu/vid/avc1/320x476/BNsliZz8LhWJYP7R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038824346643509248/pu/vid/avc1/480x716/7YpcMaLeah5zVyD1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038824346643509248/pu/vid/avc1/720x1074/n5XhGciQtkvyIg0A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038824346643509248/pu/pl/s07DcKLgZJz0_3Kb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038824346643509248"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2038824358123295008",
+        "created_at": "2026-03-31T03:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038824358123295008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZ6IE2yhb0",
+              "end": 57,
+              "expanded_url": "https://x.com/Idontselldrug/status/2038824358123295008/video/1",
+              "media_key": "7_2038824346643509248",
+              "start": 34,
+              "url": "https://t.co/WZ6IE2yhb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038824358123295008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校图书馆里居然有老鼠，我一直以为阿尔伯塔这么冷的地方不会有老鼠呢 https://t.co/WZ6IE2yhb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 237,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

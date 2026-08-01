@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2052028939267358837",
+    "created_at": "2026-05-06T14:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052028939267358837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052028939267358837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "理性来看，不仅是中国，全世界的禁毒一刀切导致的污名化，会显著降低迷幻疗法的推进进程。这导致医生和患者都畏手畏脚的，不能发挥物质的最大医疗价值。k粉现在是这样，蘑菇和mdma这后也会是这样。\n\n但话又说回来，在推特上义愤填膺当什么活动家是没有意义的行为，特别是在中国这种你再生气也不能抗议也不能投票的地方，只会让路过的健全人觉得毒虫真傻逼，最后什么都改变不了\n\n什么意思呢，意思就是健全人污名化迷幻疗法，是因为他们什么都不懂有偏见。但你要是因为这些东西跟健全人在推特吵起来，那你也是大傻逼"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "理性来看，不仅是中国，全世界的禁毒一刀切导致的污名化，会显著降低迷幻疗法的推进进程。这导致医生和患者都畏手畏脚的，不能发挥物质的最大医疗价值。k粉现在是这样，蘑菇和mdma这后也会是这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2052028939267358837",
+        "created_at": "2026-05-06T14:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052028939267358837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052028939267358837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "理性来看，不仅是中国，全世界的禁毒一刀切导致的污名化，会显著降低迷幻疗法的推进进程。这导致医生和患者都畏手畏脚的，不能发挥物质的最大医疗价值。k粉现在是这样，蘑菇和mdma这后也会是这样。\n\n但话又说回来，在推特上义愤填膺当什么活动家是没有意义的行为，特别是在中国这种你再生气也不能抗议也不能投票的地方，只会让路过的健全人觉得毒虫真傻逼，最后什么都改变不了\n\n什么意思呢，意思就是健全人污名化迷幻疗法，是因为他们什么都不懂有偏见。但你要是因为这些东西跟健全人在推特吵起来，那你也是大傻逼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理性来看，不仅是中国，全世界的禁毒一刀切导致的污名化，会显著降低迷幻疗法的推进进程。这导致医生和患者都畏手畏脚的，不能发挥物质的最大医疗价值。k粉现在是这样，蘑菇和mdma这后也会是这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 283,
+          "like_count": 2140,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

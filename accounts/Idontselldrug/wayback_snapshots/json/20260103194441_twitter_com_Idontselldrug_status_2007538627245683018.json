@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Perfumes",
+          "id": "855110667916918784",
+          "name": "Perfumes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fragrances",
+          "id": "856559465000091648",
+          "name": "Perfumes & fragrances"
+        }
+      }
+    ],
+    "conversation_id": "2007538627245683018",
+    "created_at": "2026-01-03T19:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T20:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007538627245683018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/washghost1/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/washghost1/status/2006754530294378731",
+          "start": 46,
+          "url": "https://t.co/UwEbWRI1S0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007538627245683018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006754530294378731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我在加拿大没怎么见到东西锁起来，最多香水之类的贵重物品，难道美国什么东西都锁起来了吗 https://t.co/UwEbWRI1S0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36935,
+        "height": 960,
+        "media_key": "13_2006754476019904512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006754476019904512/img/BQNkQZ3a-KUobj_v.jpg",
+        "public_metrics": {
+          "view_count": 946486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006754476019904512/vid/avc1/320x568/2wyBVnlx31ymLDlS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006754476019904512/vid/avc1/480x852/JTYSo9CkXUdbL_mh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006754476019904512/vid/avc1/540x960/TOzrn7tOsD7VmMlW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006754476019904512/pl/9_mKOLXEcyMNbt8A.m3u8?v=87d"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2007538627245683018",
+        "created_at": "2026-01-03T19:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007538627245683018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/washghost1/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/washghost1/status/2006754530294378731",
+              "start": 46,
+              "url": "https://t.co/UwEbWRI1S0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007538627245683018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006754530294378731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我在加拿大没怎么见到东西锁起来，最多香水之类的贵重物品，难道美国什么东西都锁起来了吗 https://t.co/UwEbWRI1S0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006754476019904512"
+          ]
+        },
+        "author_id": "717847958432124929",
+        "conversation_id": "2006754530294378731",
+        "created_at": "2026-01-01T15:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006754530294378731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhVbkcaCtY",
+              "end": 60,
+              "expanded_url": "https://x.com/washghost1/status/2006754530294378731/video/1",
+              "media_key": "13_2006754476019904512",
+              "start": 37,
+              "url": "https://t.co/VhVbkcaCtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006754530294378731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1392,
+          "impression_count": 2174674,
+          "like_count": 21121,
+          "quote_count": 172,
+          "reply_count": 598,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "That happens in a high trust society https://t.co/VhVbkcaCtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 204,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-06T22:54:25.000Z",
+        "description": "Stuff and things. Possibly a ghost. Vanilla villain. The everything account",
+        "id": "717847958432124929",
+        "location": "United States",
+        "name": "Washingtons ghost",
+        "pinned_tweet_id": "2007459721612079246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555297970974867456/3QQ5HfAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415449,
+          "following_count": 3805,
+          "like_count": 292187,
+          "listed_count": 88,
+          "media_count": 27401,
+          "tweet_count": 189922
+        },
+        "username": "washghost1",
+        "verified": true
+      }
+    ]
+  }
+}

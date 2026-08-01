@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1995246386271699415",
+    "created_at": "2025-11-30T21:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T22:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995246386271699415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995246386271699415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得不感叹用进废退 虽然我本身英语就有点说不明白但高中经常说 起码雅思能考过 但是上大学后由于本人自闭哑巴导致三四个月了都没怎么说英语 现在连基本的句子都说不明白 我真的要开始自恨了 怎么变成自己最讨厌的废物小留了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1995246386271699415",
+        "created_at": "2025-11-30T21:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T22:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995246386271699415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995246386271699415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不感叹用进废退 虽然我本身英语就有点说不明白但高中经常说 起码雅思能考过 但是上大学后由于本人自闭哑巴导致三四个月了都没怎么说英语 现在连基本的句子都说不明白 我真的要开始自恨了 怎么变成自己最讨厌的废物小留了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 179,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

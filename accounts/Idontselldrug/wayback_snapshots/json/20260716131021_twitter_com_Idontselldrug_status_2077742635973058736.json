@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2077652841460830379",
+    "created_at": "2026-07-16T13:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077742635973058736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1651908094912499712",
+          "start": 0,
+          "username": "ZgNq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077742635973058736",
+    "in_reply_to_user_id": "1651908094912499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077652841460830379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZgNq0 我这么大明星？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2077652841460830379",
+        "created_at": "2026-07-16T13:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077742635973058736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1651908094912499712",
+              "start": 0,
+              "username": "ZgNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077742635973058736",
+        "in_reply_to_user_id": "1651908094912499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077652841460830379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZgNq0 我这么大明星？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651908094912499712",
+        "conversation_id": "2077652841460830379",
+        "created_at": "2026-07-16T07:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077652841460830379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scott043645306…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/scott043645306/status/2077589275609334093",
+              "start": 26,
+              "url": "https://t.co/yFRjsfKisN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077652841460830379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077589275609334093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦我 记vvv之后又有推友来 我湖州也是好起来了 https://t.co/yFRjsfKisN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 304,
+          "like_count": 2631,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T11:16:07.000Z",
+        "description": "你家猫出门散步被我捡走了\n健康生活 远离滥用",
+        "id": "1651908094912499712",
+        "name": "ククも",
+        "pinned_tweet_id": "2038901700875133267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242629450780672/RIrIXKTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 366,
+          "like_count": 6355,
+          "listed_count": 2,
+          "media_count": 617,
+          "tweet_count": 6466
+        },
+        "url": "",
+        "username": "ZgNq0",
+        "verified": false
+      }
+    ]
+  }
+}

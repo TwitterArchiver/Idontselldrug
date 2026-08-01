@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2056970234528207340",
+    "created_at": "2026-05-20T05:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056970234528207340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pray2Arajs1918…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Pray2Arajs1918/status/2056825368057663857",
+          "start": 8,
+          "url": "https://t.co/UITGmizPFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056970234528207340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056825368057663857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈好多熟人啊 https://t.co/UITGmizPFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_2056825365939539968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItPxdXW0AAsvvU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2056970234528207340",
+        "created_at": "2026-05-20T05:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056970234528207340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pray2Arajs1918…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Pray2Arajs1918/status/2056825368057663857",
+              "start": 8,
+              "url": "https://t.co/UITGmizPFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056970234528207340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056825368057663857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈好多熟人啊 https://t.co/UITGmizPFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056825365939539968"
+          ]
+        },
+        "author_id": "1978770543751954432",
+        "conversation_id": "2056825368057663857",
+        "created_at": "2026-05-19T19:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056825368057663857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYUDCtUhPs",
+              "end": 47,
+              "expanded_url": "https://x.com/Pray2Arajs1918/status/2056825368057663857/photo/1",
+              "media_key": "3_2056825365939539968",
+              "start": 24,
+              "url": "https://t.co/xYUDCtUhPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056825368057663857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 120059,
+          "like_count": 1005,
+          "quote_count": 51,
+          "reply_count": 40,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "ASHLEY GRAVES NIGGA😭😭😭😭 https://t.co/xYUDCtUhPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 283,
+          "like_count": 2260,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 2874
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-16T10:30:50.000Z",
+        "description": "Cīņai sveiks\n\nmain: @LatvianSocNat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "LatvianSocNat"
+              }
+            ]
+          }
+        },
+        "id": "1978770543751954432",
+        "name": "Pray2Ārajs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978770764196089856/ns4DEIPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 504,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 587
+        },
+        "username": "Pray2Arajs1918",
+        "verified": false
+      }
+    ]
+  }
+}

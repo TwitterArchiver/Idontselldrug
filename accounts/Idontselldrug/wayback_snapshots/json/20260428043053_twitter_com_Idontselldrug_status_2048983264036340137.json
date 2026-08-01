@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048983264036340137",
+    "created_at": "2026-04-28T04:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048983264036340137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048983264036340137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048808828829946326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 山东就有全女餐厅，虽然其他省份管那个叫厨房"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048983264036340137",
+        "created_at": "2026-04-28T04:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048983264036340137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048983264036340137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048808828829946326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 山东就有全女餐厅，虽然其他省份管那个叫厨房"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2048808828829946326",
+        "created_at": "2026-04-27T16:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048808828829946326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/euphimia88/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/euphimia88/status/2047856438891118795",
+              "start": 22,
+              "url": "https://t.co/CJt5xGtKAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048808828829946326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1675,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047856438891118795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山东就有全女餐厅，虽然其他省份管那个叫厨房 https://t.co/CJt5xGtKAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 280,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2040787406735987006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 3982,
+          "like_count": 82269,
+          "listed_count": 4,
+          "media_count": 433,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

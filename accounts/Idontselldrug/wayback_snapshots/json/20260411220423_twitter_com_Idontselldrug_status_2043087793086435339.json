@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043087793086435339",
+    "created_at": "2026-04-11T22:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T23:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043087793086435339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "511316616",
+          "start": 3,
+          "username": "RaptorBreath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043087793086435339",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042747037205037358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaptorBreath: i would jump out the window and management would have it sealed and all my coworkers would be so mad at me!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043087793086435339",
+        "created_at": "2026-04-11T22:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T23:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043087793086435339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "511316616",
+              "start": 3,
+              "username": "RaptorBreath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043087793086435339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042747037205037358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaptorBreath: i would jump out the window and management would have it sealed and all my coworkers would be so mad at me!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "511316616",
+        "conversation_id": "2042747037205037358",
+        "created_at": "2026-04-10T23:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042747037205037358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pqdres/status/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/pqdres/status/2042700528237359552",
+              "start": 108,
+              "url": "https://t.co/vWcVdY5kFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042747037205037358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14789,
+          "like_count": 773,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042700528237359552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i would jump out the window and management would have it sealed and all my coworkers would be so mad at me! https://t.co/vWcVdY5kFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 249,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-02T03:51:15.000Z",
+        "description": "big dumb, shrek dick expert, forklift certified, trophy husband\n\ninventor of onion air",
+        "id": "511316616",
+        "location": "dingus",
+        "name": "Dr. Crud (smells great)",
+        "pinned_tweet_id": "1754548697981993419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958622435017637888/KM41tLPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 1293,
+          "like_count": 116906,
+          "listed_count": 17,
+          "media_count": 10464,
+          "tweet_count": 53330
+        },
+        "username": "RaptorBreath",
+        "verified": false
+      }
+    ]
+  }
+}

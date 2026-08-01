@@ -1,0 +1,742 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Hailing from Rockefeller Center in the heart of New York City, Jimmy has made it his mission to make sure viewers end the day with a smile. Each weeknight, he hosts A-list guests, from movie stars to athletes, comedians, public figures and everyone in between. He also delivers a signature nightly monologue, performs in topical comedy sketches, plays fan-favorite games, and presents recurring segments like Thank You Notes. Today's popular musical guests also stop by to perform alongside house band The Roots.",
+          "id": "10028788736",
+          "name": "The Tonight Show Starring Jimmy Fallon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223679385653219328",
+          "name": "The Tonight Show Starring Jimmy Fallon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281312750648479744",
+          "name": "Talk shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281313250630492161",
+          "name": "Late night talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223679385653219328",
+          "name": "The Tonight Show Starring Jimmy Fallon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045313015",
+          "name": "The Tonight Show"
+        }
+      }
+    ],
+    "conversation_id": "1996401480509862211",
+    "created_at": "2025-12-04T02:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T03:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996401480509862211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FallonTonight/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/FallonTonight/status/1995719502424572017",
+          "start": 17,
+          "url": "https://t.co/54FHVKQzJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996401480509862211",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995719502424572017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I'm going to kms https://t.co/54FHVKQzJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102669,
+        "height": 720,
+        "media_key": "13_1995688095258177536",
+        "preview_image_url": "https://pbs.twimg.com/media/G7IxHKqbgAAgSFu.jpg",
+        "public_metrics": {
+          "view_count": 2434680
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995688095258177536/vid/avc1/480x270/La5tg7uNpEpuLjkx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995688095258177536/pl/uY2DFlH8DcdV8kRu.m3u8?v=b29"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995688095258177536/vid/avc1/1920x1080/hkOqwEI1Rby1jmBL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995688095258177536/vid/avc1/640x360/APR1FUVDzFBjikgH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995688095258177536/vid/avc1/1280x720/y87NJpCjrlrjnmwm.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hailing from Rockefeller Center in the heart of New York City, Jimmy has made it his mission to make sure viewers end the day with a smile. Each weeknight, he hosts A-list guests, from movie stars to athletes, comedians, public figures and everyone in between. He also delivers a signature nightly monologue, performs in topical comedy sketches, plays fan-favorite games, and presents recurring segments like Thank You Notes. Today's popular musical guests also stop by to perform alongside house band The Roots.",
+              "id": "10028788736",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223679385653219328",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223679385653219328",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045313015",
+              "name": "The Tonight Show"
+            }
+          }
+        ],
+        "conversation_id": "1996401480509862211",
+        "created_at": "2025-12-04T02:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996401480509862211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FallonTonight/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/FallonTonight/status/1995719502424572017",
+              "start": 17,
+              "url": "https://t.co/54FHVKQzJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996401480509862211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995719502424572017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm going to kms https://t.co/54FHVKQzJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995688095258177536"
+          ]
+        },
+        "author_id": "19777398",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hailing from Rockefeller Center in the heart of New York City, Jimmy has made it his mission to make sure viewers end the day with a smile. Each weeknight, he hosts A-list guests, from movie stars to athletes, comedians, public figures and everyone in between. He also delivers a signature nightly monologue, performs in topical comedy sketches, plays fan-favorite games, and presents recurring segments like Thank You Notes. Today's popular musical guests also stop by to perform alongside house band The Roots.",
+              "id": "10028788736",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223679385653219328",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313250630492161",
+              "name": "Late night talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223679385653219328",
+              "name": "The Tonight Show Starring Jimmy Fallon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045313015",
+              "name": "The Tonight Show"
+            }
+          }
+        ],
+        "conversation_id": "1995719502424572017",
+        "created_at": "2025-12-02T04:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995719502424572017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Labubus",
+              "probability": 0.5061,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "McDonald’s Drive",
+              "probability": 0.5566,
+              "start": 62,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 86,
+              "tag": "FallonTonight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2225791442",
+              "start": 20,
+              "username": "sydney_sweeney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR4yHyZxVS",
+              "end": 124,
+              "expanded_url": "https://x.com/FallonTonight/status/1995719502424572017/video/1",
+              "media_key": "13_1995688095258177536",
+              "start": 101,
+              "url": "https://t.co/oR4yHyZxVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995719502424572017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4558,
+          "impression_count": 9544239,
+          "like_count": 10293,
+          "quote_count": 4684,
+          "reply_count": 839,
+          "retweet_count": 1119
+        },
+        "reply_settings": "everyone",
+        "text": "What’s Behind Me w/ @sydney_sweeney: 3 Labubus doing 6 7 at a McDonald’s Drive-Thru 🤣 #FallonTonight https://t.co/oR4yHyZxVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 182,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-30T17:26:46.000Z",
+        "description": "The official home of The Tonight Show Starring @JimmyFallon! Weeknights at 11:35/10:35c on @NBC and next day on @Peacock. #FallonTonight",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 122,
+                "tag": "FallonTonight"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "JimmyFallon"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "username": "NBC"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "Peacock"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pck.tv/3Pt2vuT",
+                "end": 23,
+                "expanded_url": "http://pck.tv/3Pt2vuT",
+                "start": 0,
+                "url": "https://t.co/dkiiftOFGZ"
+              }
+            ]
+          }
+        },
+        "id": "19777398",
+        "name": "The Tonight Show",
+        "pinned_tweet_id": "1993490808130171097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805458993076195328/ietzrnMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4129265,
+          "following_count": 18906,
+          "like_count": 128553,
+          "listed_count": 8764,
+          "media_count": 56455,
+          "tweet_count": 109014
+        },
+        "url": "https://t.co/dkiiftOFGZ",
+        "username": "FallonTonight",
+        "verified": true
+      }
+    ]
+  }
+}

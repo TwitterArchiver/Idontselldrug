@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006353505091789009",
+    "created_at": "2025-12-31T13:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T14:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006353505091789009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/420420420CTL/s…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/420420420CTL/status/2006282403799822339",
+          "start": 122,
+          "url": "https://t.co/LSk66on2UF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006353505091789009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006282403799822339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是傻逼吗，偷我内容然后拿ai洗稿写个看了让人尴尬的脚趾扣地板的流汗内容，你不仅偷我的还偷别人的，之前你偷小虚空的帖子我就发现不对劲了，你哪怕自己手写文案我都不会骂你\n鸡哥搬我图到自己频道都要向我征求许可，你问都没问直接偷我图，你比鸡哥都牛逼 https://t.co/LSk66on2UF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2006282394828169219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9e_NVbaYAMdKfe.jpg",
+        "width": 675
+      },
+      {
+        "height": 900,
+        "media_key": "3_2006282394832392192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9e_NVca0AAx3qT.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006353505091789009",
+        "created_at": "2025-12-31T13:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T14:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006353505091789009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/420420420CTL/s…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/420420420CTL/status/2006282403799822339",
+              "start": 122,
+              "url": "https://t.co/LSk66on2UF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006353505091789009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006282403799822339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是傻逼吗，偷我内容然后拿ai洗稿写个看了让人尴尬的脚趾扣地板的流汗内容，你不仅偷我的还偷别人的，之前你偷小虚空的帖子我就发现不对劲了，你哪怕自己手写文案我都不会骂你\n鸡哥搬我图到自己频道都要向我征求许可，你问都没问直接偷我图，你比鸡哥都牛逼 https://t.co/LSk66on2UF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006282394828169219",
+            "3_2006282394832392192"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006282403799822339",
+        "created_at": "2025-12-31T08:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006282403799822339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtmcYqKnh1",
+              "end": 160,
+              "expanded_url": "https://x.com/420420420CTL/status/2006282403799822339/photo/1",
+              "media_key": "3_2006282394828169219",
+              "start": 137,
+              "url": "https://t.co/ZtmcYqKnh1"
+            },
+            {
+              "display_url": "pic.x.com/ZtmcYqKnh1",
+              "end": 160,
+              "expanded_url": "https://x.com/420420420CTL/status/2006282403799822339/photo/1",
+              "media_key": "3_2006282394832392192",
+              "start": 137,
+              "url": "https://t.co/ZtmcYqKnh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006282403799822339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 593,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大公共卫生局检测机构内部的宣传海报，全世界很多地方绝对不可能见到这种海报，CATIE帮助预防艾滋病，丙型肝炎，和其他转染疾病而建立。\n加拿大式减害文化的核心也许就是——\n不论你做出了怎样的选择，你仍然是社会的一部分，值得被看到、被倾听、被帮助。素材來源—vvv从头再来 https://t.co/ZtmcYqKnh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 207,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1994233157906788612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997869953601712128/tL9oqeh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 585,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 759
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987464368087617774",
+    "created_at": "2025-11-10T01:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T02:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987686783153487915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934904279334338560",
+          "start": 0,
+          "username": "TakemeShark_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987686783153487915",
+    "in_reply_to_user_id": "1934904279334338560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987464368087617774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakemeShark_ 看看私信👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987464362945388544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TkTt0boAAaaMY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987464368087617774",
+        "created_at": "2025-11-10T01:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987686783153487915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934904279334338560",
+              "start": 0,
+              "username": "TakemeShark_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987686783153487915",
+        "in_reply_to_user_id": "1934904279334338560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987464368087617774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakemeShark_ 看看私信👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987464362945388544"
+          ]
+        },
+        "author_id": "1934904279334338560",
+        "conversation_id": "1987464368087617774",
+        "created_at": "2025-11-09T10:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987464368087617774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffaAxt0qLn",
+              "end": 30,
+              "expanded_url": "https://x.com/TakemeShark_/status/1987464368087617774/photo/1",
+              "media_key": "3_1987464362945388544",
+              "start": 7,
+              "url": "https://t.co/ffaAxt0qLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987464368087617774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寻麻疹略发作 https://t.co/ffaAxt0qLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 123,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T09:21:57.000Z",
+        "description": "",
+        "id": "1934904279334338560",
+        "location": "Vancouver, British Columbia",
+        "name": "Shark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950081431180652544/evO4GXNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 178
+        },
+        "username": "TakemeShark_",
+        "verified": false
+      }
+    ]
+  }
+}

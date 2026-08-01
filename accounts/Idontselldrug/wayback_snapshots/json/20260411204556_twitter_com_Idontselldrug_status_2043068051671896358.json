@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2043068051671896358",
+    "created_at": "2026-04-11T20:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043068051671896358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009354803466653696",
+          "start": 3,
+          "username": "yanvaresaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043068051671896358",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042764397064384990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanvaresaa: shedtwt can find 6 irls to sh with and drugtwt cannot find a single person in their area to get high with"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2043068051671896358",
+        "created_at": "2026-04-11T20:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043068051671896358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009354803466653696",
+              "start": 3,
+              "username": "yanvaresaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043068051671896358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042764397064384990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanvaresaa: shedtwt can find 6 irls to sh with and drugtwt cannot find a single person in their area to get high with"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009354803466653696",
+        "conversation_id": "2042764397064384990",
+        "created_at": "2026-04-11T00:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042764397064384990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/someone1511161…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/someone1511161/status/2042692084486819842",
+              "start": 106,
+              "url": "https://t.co/46f3s557bF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042764397064384990",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 100517,
+          "like_count": 7298,
+          "quote_count": 18,
+          "reply_count": 17,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042692084486819842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "shedtwt can find 6 irls to sh with and drugtwt cannot find a single person in their area to get high with https://t.co/46f3s557bF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 246,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T20:01:48.000Z",
+        "description": "⁺⭒  》  they/he   #sgtwt #drugtwt #obslove        \nall fake    \n✶    god's highest yapper\n               adult           backup @yanvaresaaa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "sgtwt"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "obslove"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "yanvaresaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanvaresa.straw.page",
+                "end": 23,
+                "expanded_url": "http://yanvaresa.straw.page",
+                "start": 0,
+                "url": "https://t.co/bbjhwBar1x"
+              }
+            ]
+          }
+        },
+        "id": "2009354803466653696",
+        "name": "var ❣",
+        "pinned_tweet_id": "2041641853447983390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009355978530082816/vJUbG29m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 524,
+          "like_count": 12229,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/bbjhwBar1x",
+        "username": "yanvaresaa",
+        "verified": false
+      }
+    ]
+  }
+}

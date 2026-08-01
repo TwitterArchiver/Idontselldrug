@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007547556595646464"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2007547562786730041",
+    "created_at": "2026-01-03T20:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T21:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007547562786730041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sGyRVTQ0tC",
+          "end": 131,
+          "expanded_url": "https://x.com/Idontselldrug/status/2007547562786730041/photo/1",
+          "media_key": "3_2007547556595646464",
+          "start": 108,
+          "url": "https://t.co/sGyRVTQ0tC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007547562786730041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把多伦多买的蘑菇巧克力寄到埃德蒙顿了，花了我四刀，但是我选的便宜的邮件寄送会很慢，起码要两周，不过我也不急\n这些黑鬼都疯了，直接把毒品带上飞机，要是被抓直接完蛋。我是觉得不值得为了几十块的毒品背负这么大的法律风险 https://t.co/sGyRVTQ0tC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007547556595646464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9w93cSWQAAIiwE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007547556595646464"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007547562786730041",
+        "created_at": "2026-01-03T20:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007547562786730041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGyRVTQ0tC",
+              "end": 131,
+              "expanded_url": "https://x.com/Idontselldrug/status/2007547562786730041/photo/1",
+              "media_key": "3_2007547556595646464",
+              "start": 108,
+              "url": "https://t.co/sGyRVTQ0tC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007547562786730041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把多伦多买的蘑菇巧克力寄到埃德蒙顿了，花了我四刀，但是我选的便宜的邮件寄送会很慢，起码要两周，不过我也不急\n这些黑鬼都疯了，直接把毒品带上飞机，要是被抓直接完蛋。我是觉得不值得为了几十块的毒品背负这么大的法律风险 https://t.co/sGyRVTQ0tC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 204,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

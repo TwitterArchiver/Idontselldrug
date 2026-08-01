@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2038037367018455047",
+    "created_at": "2026-03-28T23:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T00:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038037367018455047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pmamtraveller/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/pmamtraveller/status/2029822018514735115",
+          "start": 11,
+          "url": "https://t.co/LDehBH1kbS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038037367018455047",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029822018514735115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Me and who https://t.co/LDehBH1kbS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2029822010600103937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtgXTsWoAE5ABn.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2038037367018455047",
+        "created_at": "2026-03-28T23:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038037367018455047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pmamtraveller/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/pmamtraveller/status/2029822018514735115",
+              "start": 11,
+              "url": "https://t.co/LDehBH1kbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038037367018455047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029822018514735115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Me and who https://t.co/LDehBH1kbS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029822010600103937"
+          ]
+        },
+        "author_id": "1698338340381020161",
+        "conversation_id": "2029822018514735115",
+        "created_at": "2026-03-06T07:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029822018514735115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bRrUXIqjJ",
+              "end": 23,
+              "expanded_url": "https://x.com/pmamtraveller/status/2029822018514735115/photo/1",
+              "media_key": "3_2029822010600103937",
+              "start": 0,
+              "url": "https://t.co/1bRrUXIqjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029822018514735115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2586,
+          "impression_count": 5876733,
+          "like_count": 34104,
+          "quote_count": 1026,
+          "reply_count": 158,
+          "retweet_count": 5145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1bRrUXIqjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 237,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:13:32.000Z",
+        "description": "Ecce Mulier",
+        "id": "1698338340381020161",
+        "name": "PmAmTraveller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698381116388868096/mNqD6ClK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66904,
+          "following_count": 307,
+          "like_count": 18446,
+          "listed_count": 376,
+          "media_count": 7682,
+          "tweet_count": 7819
+        },
+        "username": "pmamtraveller",
+        "verified": true
+      }
+    ]
+  }
+}

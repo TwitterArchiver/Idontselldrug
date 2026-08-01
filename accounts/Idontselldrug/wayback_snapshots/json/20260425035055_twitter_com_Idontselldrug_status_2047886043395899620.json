@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047886040879480832"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2047886043395899620",
+    "created_at": "2026-04-25T03:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047886043395899620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvcC7ACbtr",
+          "end": 119,
+          "expanded_url": "https://x.com/Idontselldrug/status/2047886043395899620/photo/1",
+          "media_key": "3_2047886040879480832",
+          "start": 96,
+          "url": "https://t.co/fvcC7ACbtr"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2047601153626829254",
+          "start": 120,
+          "url": "https://t.co/IPArrJU4wK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047886043395899620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你们这些颐指气使的教师爷，在网上看到点事情就开始幻想自己是什么网络判官，可以从只言片语里看出谁对谁错\n\n指导欲溢出了可以去尝试给当地的人大代表投票，或者去美团闲鱼的法庭当志愿者，没必要来找我\n\n我不知道为什么有人会觉得我在拿自杀道德绑架，我并没有拿自杀威胁她要继续跟我在一起，事实上最终决定分手的是我。\n\n我理解网上情感纠纷让人很头晕眼花，这就是为什么我一再重复这是声明，不是檄文。我不想指控她引起争端，结果还是有不明事理的人过来凑热闹"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047601153626829254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这些颐指气使的教师爷，在网上看到点事情就开始幻想自己是什么网络判官，可以从只言片语里看出谁对谁错\n\n指导欲溢出了可以去尝试给当地的人大代表投票，或者去美团闲鱼的法庭当志愿者，没必要来找我 https://t.co/fvcC7ACbtr https://t.co/IPArrJU4wK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047886040879480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuNgQcaQAA2s5Z.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047601150820823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqKZeRbMAAo3Ls.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047601150963458049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqKZezboAENaEm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047886040879480832"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047886043395899620",
+        "created_at": "2026-04-25T03:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047886043395899620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvcC7ACbtr",
+              "end": 119,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047886043395899620/photo/1",
+              "media_key": "3_2047886040879480832",
+              "start": 96,
+              "url": "https://t.co/fvcC7ACbtr"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2047601153626829254",
+              "start": 120,
+              "url": "https://t.co/IPArrJU4wK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047886043395899620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们这些颐指气使的教师爷，在网上看到点事情就开始幻想自己是什么网络判官，可以从只言片语里看出谁对谁错\n\n指导欲溢出了可以去尝试给当地的人大代表投票，或者去美团闲鱼的法庭当志愿者，没必要来找我\n\n我不知道为什么有人会觉得我在拿自杀道德绑架，我并没有拿自杀威胁她要继续跟我在一起，事实上最终决定分手的是我。\n\n我理解网上情感纠纷让人很头晕眼花，这就是为什么我一再重复这是声明，不是檄文。我不想指控她引起争端，结果还是有不明事理的人过来凑热闹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047601153626829254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这些颐指气使的教师爷，在网上看到点事情就开始幻想自己是什么网络判官，可以从只言片语里看出谁对谁错\n\n指导欲溢出了可以去尝试给当地的人大代表投票，或者去美团闲鱼的法庭当志愿者，没必要来找我 https://t.co/fvcC7ACbtr https://t.co/IPArrJU4wK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047601150820823040",
+            "3_2047601150963458049"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047601153626829254",
+        "created_at": "2026-04-24T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047601153626829254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944351426827735040",
+              "start": 2,
+              "username": "kiss_u_back"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jso3GuW8ie",
+              "end": 160,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047601153626829254/photo/1",
+              "media_key": "3_2047601150820823040",
+              "start": 137,
+              "url": "https://t.co/jso3GuW8ie"
+            },
+            {
+              "display_url": "pic.x.com/jso3GuW8ie",
+              "end": 160,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047601153626829254/photo/1",
+              "media_key": "3_2047601150963458049",
+              "start": 137,
+              "url": "https://t.co/jso3GuW8ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047601153626829254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和@kiss_u_back 已在4.20分手，她在知道我生日+考试+自杀意愿很高的情况下，在我当天醒来后直接把我甩了，原因是嫌我焦虑型太烦谈着累。此前她一直消失没给我发消息\n\n这显著提升了我的自杀意愿，影响了我考试发挥。第二天她后悔了，但是后果已经无法挽回了，我们分手了\n\n我让她给我写道歉信发推上，她注销推特了只能我自己发了\n\n我跟她不想撕破脸，就先这样吧，我不想说太多细节指控她，不然显得我在博取同情。这是一个声明，不是一个檄文。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 63685,
+          "like_count": 107,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和@kiss_u_back 已在4.20分手，她在知道我生日+考试+自杀意愿很高的情况下，在我当天醒来后直接把我甩了，原因是嫌我焦虑型太烦谈着累。此前她一直消失没给我发消息\n\n这显著提升了我的自杀意愿，影响了我考试发挥。第二天她后悔了，但是后果已经无法挽回了，我们分手了 https://t.co/jso3GuW8ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 269,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

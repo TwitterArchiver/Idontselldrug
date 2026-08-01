@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002100083689771008"
+      ],
+      "media_source_tweet_id": [
+        "2002100092858478941"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2002504280440516962",
+    "created_at": "2025-12-20T22:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T23:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002504280440516962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961258157138952192",
+          "start": 3,
+          "username": "Gazzingbrume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B49WSrEYWv",
+          "end": 65,
+          "expanded_url": "https://x.com/Gazzingbrume/status/2002100092858478941/photo/1",
+          "media_key": "3_2002100083689771008",
+          "start": 42,
+          "url": "https://t.co/B49WSrEYWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002504280440516962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002100092858478941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gazzingbrume: 这张图足以让我给这两个人从老子造谣到2027年 https://t.co/B49WSrEYWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2002100083689771008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jjayUb0AAFfP7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002100083689771008"
+          ],
+          "media_source_tweet_id": [
+            "2002100092858478941"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2002504280440516962",
+        "created_at": "2025-12-20T22:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002504280440516962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961258157138952192",
+              "start": 3,
+              "username": "Gazzingbrume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B49WSrEYWv",
+              "end": 65,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2002100092858478941/photo/1",
+              "media_key": "3_2002100083689771008",
+              "start": 42,
+              "url": "https://t.co/B49WSrEYWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002504280440516962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002100092858478941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gazzingbrume: 这张图足以让我给这两个人从老子造谣到2027年 https://t.co/B49WSrEYWv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002100083689771008"
+          ]
+        },
+        "author_id": "1961258157138952192",
+        "conversation_id": "2002100092858478941",
+        "created_at": "2025-12-19T19:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T20:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002100092858478941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B49WSrEYWv",
+              "end": 47,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2002100092858478941/photo/1",
+              "media_key": "3_2002100083689771008",
+              "start": 24,
+              "url": "https://t.co/B49WSrEYWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002100092858478941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 244852,
+          "like_count": 917,
+          "quote_count": 5,
+          "reply_count": 61,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "这张图足以让我给这两个人从老子造谣到2027年 https://t.co/B49WSrEYWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 190,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T02:42:49.000Z",
+        "description": "不支持建制 搞点史同/拉黑你是我的错/辱骂所有中政男 不怎么看推用墙内比较多",
+        "id": "1961258157138952192",
+        "name": "栖雾听山",
+        "pinned_tweet_id": "1999546551614501151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961258341201498112/J-OLxVLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 23,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 35
+        },
+        "username": "Gazzingbrume",
+        "verified": false
+      }
+    ]
+  }
+}

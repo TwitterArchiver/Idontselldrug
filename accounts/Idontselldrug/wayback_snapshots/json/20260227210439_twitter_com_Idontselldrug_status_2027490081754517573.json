@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2027361039172386926",
+    "created_at": "2026-02-27T21:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T22:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027490081754517573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861007013662384128",
+          "start": 0,
+          "username": "xiaoBH9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027490081754517573",
+    "in_reply_to_user_id": "1861007013662384128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027361039172386926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoBH9C 有没有人想当我老公的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027361030058205185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKiHYwW4AE5OpL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2027361039172386926",
+        "created_at": "2026-02-27T21:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027490081754517573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861007013662384128",
+              "start": 0,
+              "username": "xiaoBH9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027490081754517573",
+        "in_reply_to_user_id": "1861007013662384128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027361039172386926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoBH9C 有没有人想当我老公的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027361030058205185"
+          ]
+        },
+        "author_id": "1861007013662384128",
+        "conversation_id": "2027361039172386926",
+        "created_at": "2026-02-27T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027361039172386926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nx44c7UoXg",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaoBH9C/status/2027361039172386926/photo/1",
+              "media_key": "3_2027361030058205185",
+              "start": 3,
+              "url": "https://t.co/nx44c7UoXg"
+            },
+            {
+              "display_url": "x.com/xiaobh9c/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xiaobh9c/status/2025214484956995775",
+              "start": 27,
+              "url": "https://t.co/9LxSmKqb2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027361039172386926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025214484956995775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻 https://t.co/nx44c7UoXg https://t.co/9LxSmKqb2z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 230,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:20:31.000Z",
+        "description": "此账号不涉黄不涉政，不交友不约炮，纯日常小号",
+        "id": "1861007013662384128",
+        "location": "London, England",
+        "name": "sayaka",
+        "pinned_tweet_id": "1896059562752688385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025178903308832768/t2f0Nelb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 178,
+          "like_count": 6162,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 2501
+        },
+        "username": "xiaoBH9C",
+        "verified": false
+      }
+    ]
+  }
+}

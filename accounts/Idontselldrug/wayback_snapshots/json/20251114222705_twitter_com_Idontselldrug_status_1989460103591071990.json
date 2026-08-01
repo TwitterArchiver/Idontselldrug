@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1989412882963210498",
+    "created_at": "2025-11-14T22:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T23:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989460103591071990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868121512710201344",
+          "start": 0,
+          "username": "Isacc0219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989460103591071990",
+    "in_reply_to_user_id": "1868121512710201344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989412882963210498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isacc0219 我一粒普瑞就嗨的样子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989412882963210498",
+        "created_at": "2025-11-14T22:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T23:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989460103591071990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "Isacc0219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989460103591071990",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989412882963210498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isacc0219 我一粒普瑞就嗨的样子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "1989412882963210498",
+        "created_at": "2025-11-14T19:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T20:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989412882963210498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989412882963210498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内之前和我有过一面之缘的初中地雷女一口气欧一把普瑞住院了，，感觉她还没咋建立耐受，所以说真的要o的话建议还是先了解一下自己要吃啥。我觉得od的隐形剂量歧视在墙内还是挺阴的，说实话你吃两粒普瑞就嗨的样子更美！珍惜耐受远离无克制的滥用！个人观点，支那地雷女别骂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 141,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 162
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "🇹🇼 CN/EN/ES | cis women , skoliosexual, digital painter",
+        "id": "1868121512710201344",
+        "location": "United States",
+        "name": "isac",
+        "pinned_tweet_id": "1989134540481392759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 82,
+          "like_count": 2523,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1431
+        },
+        "username": "Isacc0219",
+        "verified": false
+      }
+    ]
+  }
+}

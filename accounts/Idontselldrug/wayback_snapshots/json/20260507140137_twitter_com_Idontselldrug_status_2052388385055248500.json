@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052388381431377920",
+        "3_2052388382400225282",
+        "3_2052388382328999936"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2052388385055248500",
+    "created_at": "2026-05-07T14:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052388385055248500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZNlrZnAsd",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+          "media_key": "3_2052388381431377920",
+          "start": 0,
+          "url": "https://t.co/1ZNlrZnAsd"
+        },
+        {
+          "display_url": "pic.x.com/1ZNlrZnAsd",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+          "media_key": "3_2052388382400225282",
+          "start": 0,
+          "url": "https://t.co/1ZNlrZnAsd"
+        },
+        {
+          "display_url": "pic.x.com/1ZNlrZnAsd",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+          "media_key": "3_2052388382328999936",
+          "start": 0,
+          "url": "https://t.co/1ZNlrZnAsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052388385055248500",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1ZNlrZnAsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052388381431377920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuMW-BbMAAHptH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052388382400225282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuMXBoaoAI41pC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052388382328999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuMXBXb0AA1_kR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052388381431377920",
+            "3_2052388382400225282",
+            "3_2052388382328999936"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2052388385055248500",
+        "created_at": "2026-05-07T14:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052388385055248500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZNlrZnAsd",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+              "media_key": "3_2052388381431377920",
+              "start": 0,
+              "url": "https://t.co/1ZNlrZnAsd"
+            },
+            {
+              "display_url": "pic.x.com/1ZNlrZnAsd",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+              "media_key": "3_2052388382400225282",
+              "start": 0,
+              "url": "https://t.co/1ZNlrZnAsd"
+            },
+            {
+              "display_url": "pic.x.com/1ZNlrZnAsd",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/2052388385055248500/photo/1",
+              "media_key": "3_2052388382328999936",
+              "start": 0,
+              "url": "https://t.co/1ZNlrZnAsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388385055248500",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1ZNlrZnAsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 284,
+          "like_count": 2151,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 2782
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

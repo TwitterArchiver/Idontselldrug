@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048283333835293113",
+    "created_at": "2026-04-26T06:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048283333835293113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1571848301594705927",
+          "start": 3,
+          "username": "Bitwise23337074"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Opening this link will add chats to your Telegram app.",
+          "display_url": "t.me/addlist/X8h6-b…",
+          "end": 64,
+          "expanded_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "Telegram Chats: NRG",
+          "unwound_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+          "url": "https://t.co/6BoFYSSTNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048283333835293113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048282865000235392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitwise23337074: B17互fo寻回贴\n依旧送神秘小烟弹\n\nhttps://t.co/6BoFYSSTNV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048283333835293113",
+        "created_at": "2026-04-26T06:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048283333835293113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1571848301594705927",
+              "start": 3,
+              "username": "Bitwise23337074"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Opening this link will add chats to your Telegram app.",
+              "display_url": "t.me/addlist/X8h6-b…",
+              "end": 64,
+              "expanded_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "Telegram Chats: NRG",
+              "unwound_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+              "url": "https://t.co/6BoFYSSTNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048283333835293113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048282865000235392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitwise23337074: B17互fo寻回贴\n依旧送神秘小烟弹\n\nhttps://t.co/6BoFYSSTNV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2048282865000235392",
+        "created_at": "2026-04-26T06:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048282865000235392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Opening this link will add chats to your Telegram app.",
+              "display_url": "t.me/addlist/X8h6-b…",
+              "end": 43,
+              "expanded_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046789512546988032/ZJeOoFGq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "Telegram Chats: NRG",
+              "unwound_url": "https://t.me/addlist/X8h6-bB2xzFjNDg1",
+              "url": "https://t.co/6BoFYSSTNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048282865000235392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "B17互fo寻回贴\n依旧送神秘小烟弹\n\nhttps://t.co/6BoFYSSTNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 271,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "秽土转生",
+        "id": "1571848301594705927",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059701884227584/ddLLYPAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Bitwise23337074",
+        "verified": false
+      }
+    ]
+  }
+}

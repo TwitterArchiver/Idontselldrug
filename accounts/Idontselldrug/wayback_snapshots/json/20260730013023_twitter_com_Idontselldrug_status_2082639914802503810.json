@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2082639914802503810",
+    "created_at": "2026-07-30T01:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082639914802503810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sobbinginpubli…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/sobbinginpublic/status/2082287425900986872",
+          "start": 49,
+          "url": "https://t.co/hONfajLUMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082639914802503810",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082287425900986872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Boy who kills himself in his head 20 times a day https://t.co/hONfajLUMV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2082639914802503810",
+        "created_at": "2026-07-30T01:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082639914802503810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sobbinginpubli…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/sobbinginpublic/status/2082287425900986872",
+              "start": 49,
+              "url": "https://t.co/hONfajLUMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082639914802503810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082287425900986872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Boy who kills himself in his head 20 times a day https://t.co/hONfajLUMV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315533741628981248",
+        "conversation_id": "2082287425900986872",
+        "created_at": "2026-07-29T02:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082287425900986872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082287425900986872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 254668,
+          "like_count": 14990,
+          "quote_count": 63,
+          "reply_count": 12,
+          "retweet_count": 3113
+        },
+        "reply_settings": "everyone",
+        "text": "Girl who kills herself in her head 20 times a day"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 306,
+          "like_count": 2840,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T06:04:31.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/godlybum/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/godlybum/",
+                "start": 0,
+                "url": "https://t.co/kDhYQ1SLRS"
+              }
+            ]
+          }
+        },
+        "id": "1315533741628981248",
+        "location": "Texas, USA",
+        "name": "kiana",
+        "pinned_tweet_id": "1587179871314362368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533699232095420420/8tsRnl8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 742,
+          "like_count": 70933,
+          "listed_count": 10,
+          "media_count": 4710,
+          "tweet_count": 13620
+        },
+        "url": "https://t.co/kDhYQ1SLRS",
+        "username": "sobbinginpublic",
+        "verified": false
+      }
+    ]
+  }
+}

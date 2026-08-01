@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2052403751122788411",
+    "created_at": "2026-05-07T15:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052403751122788411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052403751122788411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "作息紊乱好难受 一天之内经历好多极端的mood swing 皮质醇让我感觉我的五脏六腑被翻出来了 明明可以很轻松地在台北躺两周 我却让非得到处跑给自己找罪受  究其原因是旅游的概念被异化 导致好像没去哪几个景点就不算是来旅游过了一样 享受本身反而被排到了其次\n前额叶在时差下彻底瘫痪 完全组织不了任务 家里人能给的帮助也很有限 我现在睡几个小时后就得爬起来赶动车 好想死"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作息紊乱好难受 一天之内经历好多极端的mood swing 皮质醇让我感觉我的五脏六腑被翻出来了 明明可以很轻松地在台北躺两周 我却让非得到处跑给自己找罪受  究其原因是旅游的概念被异化 导致好像没去哪几个景点就不算是来旅游过了一样 享受本身反而被排到了其次\n前额叶在时差下彻底瘫痪 完全组织不了任务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2052403751122788411",
+        "created_at": "2026-05-07T15:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052403751122788411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052403751122788411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "作息紊乱好难受 一天之内经历好多极端的mood swing 皮质醇让我感觉我的五脏六腑被翻出来了 明明可以很轻松地在台北躺两周 我却让非得到处跑给自己找罪受  究其原因是旅游的概念被异化 导致好像没去哪几个景点就不算是来旅游过了一样 享受本身反而被排到了其次\n前额叶在时差下彻底瘫痪 完全组织不了任务 家里人能给的帮助也很有限 我现在睡几个小时后就得爬起来赶动车 好想死"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作息紊乱好难受 一天之内经历好多极端的mood swing 皮质醇让我感觉我的五脏六腑被翻出来了 明明可以很轻松地在台北躺两周 我却让非得到处跑给自己找罪受  究其原因是旅游的概念被异化 导致好像没去哪几个景点就不算是来旅游过了一样 享受本身反而被排到了其次\n前额叶在时差下彻底瘫痪 完全组织不了任务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 284,
+          "like_count": 2151,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

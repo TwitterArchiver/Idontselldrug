@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2077608891777708536",
+    "created_at": "2026-07-16T04:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077608891777708536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1994661572124274688",
+          "start": 3,
+          "username": "oldhegelian1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077608891777708536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077344617729610166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oldhegelian1212: My trans friend did this"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2077608891777708536",
+        "created_at": "2026-07-16T04:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077608891777708536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1994661572124274688",
+              "start": 3,
+              "username": "oldhegelian1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077608891777708536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077344617729610166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oldhegelian1212: My trans friend did this"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994661572124274688",
+        "conversation_id": "2077344617729610166",
+        "created_at": "2026-07-15T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077344617729610166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/___thegoodwitc…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/___thegoodwitch/status/2077248883852231112",
+              "start": 25,
+              "url": "https://t.co/8RdgNz5DIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077344617729610166",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 106285,
+          "like_count": 7753,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077248883852231112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My trans friend did this https://t.co/8RdgNz5DIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 304,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T06:56:41.000Z",
+        "description": "Spenglerism and Memes",
+        "id": "1994661572124274688",
+        "location": "Somewhere in the USA",
+        "name": "Micheal Spenglerism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077015178378391552/-camy6I5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 1960,
+          "like_count": 27808,
+          "listed_count": 14,
+          "media_count": 1003,
+          "tweet_count": 16240
+        },
+        "url": "",
+        "username": "oldhegelian1212",
+        "verified": false
+      }
+    ]
+  }
+}

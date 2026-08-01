@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2009841867601670353",
+    "created_at": "2026-01-10T04:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T05:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009841867601670353"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": ":\nMamda",
+          "probability": 0.5509,
+          "start": 35,
+          "type": "Person"
+        },
+        {
+          "end": 73,
+          "normalized_text": "f Netanya",
+          "probability": 0.6422,
+          "start": 65,
+          "type": "Person"
+        },
+        {
+          "end": 84,
+          "normalized_text": "s N",
+          "probability": 0.9046,
+          "start": 82,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529570698493952000",
+          "start": 3,
+          "username": "RealConorOil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009841867601670353",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009797614854942740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealConorOil: 🚨🇺🇸 🏳️‍⚧️BREAKING:\nMamdani has announced that if Netanyahu enters NYC, he will be forced to take estrogen and undergo gen…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_2009797198951919619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Q753IasAMUTNu.png",
+        "width": 383
+      },
+      {
+        "height": 2947,
+        "media_key": "3_2009797260926926848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Q79eAaQAALT4u.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2009841867601670353",
+        "created_at": "2026-01-10T04:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009841867601670353"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": ":\nMamda",
+              "probability": 0.5509,
+              "start": 35,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "f Netanya",
+              "probability": 0.6422,
+              "start": 65,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "s N",
+              "probability": 0.9046,
+              "start": 82,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529570698493952000",
+              "start": 3,
+              "username": "RealConorOil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009841867601670353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009797614854942740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealConorOil: 🚨🇺🇸 🏳️‍⚧️BREAKING:\nMamdani has announced that if Netanyahu enters NYC, he will be forced to take estrogen and undergo gen…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009797198951919619",
+            "3_2009797260926926848"
+          ]
+        },
+        "author_id": "1529570698493952000",
+        "conversation_id": "2009797614854942740",
+        "created_at": "2026-01-10T01:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T02:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009797614854942740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": ":\nMamda",
+              "probability": 0.4626,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "f Netanya",
+              "probability": 0.6586,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "s N",
+              "probability": 0.9031,
+              "start": 64,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nF9D2yWnAp",
+              "end": 170,
+              "expanded_url": "https://x.com/RealConorOil/status/2009797614854942740/photo/1",
+              "media_key": "3_2009797198951919619",
+              "start": 147,
+              "url": "https://t.co/nF9D2yWnAp"
+            },
+            {
+              "display_url": "pic.x.com/nF9D2yWnAp",
+              "end": 170,
+              "expanded_url": "https://x.com/RealConorOil/status/2009797614854942740/photo/1",
+              "media_key": "3_2009797260926926848",
+              "start": 147,
+              "url": "https://t.co/nF9D2yWnAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009797614854942740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 20802,
+          "like_count": 2115,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇺🇸 🏳️‍⚧️BREAKING:\nMamdani has announced that if Netanyahu enters NYC, he will be forced to take estrogen and undergo gender reassignment surgery. https://t.co/nF9D2yWnAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 222,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T21:11:03.000Z",
+        "description": "The Oil Must Flow! Real 🇺🇸 American 🇺🇸 Patriot 🇺🇸, proud father of 3, and ender of woke. Conor D. Oil 2028! RIP Ms. Oil, you will be missed.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Oil",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Oil",
+                "start": 0,
+                "url": "https://t.co/KWjkfJc3xG"
+              }
+            ]
+          }
+        },
+        "id": "1529570698493952000",
+        "location": "Chicago, Illinois",
+        "name": "Conor D. Oil",
+        "pinned_tweet_id": "2009797614854942740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005366922603544576/Gtp66USO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36569,
+          "following_count": 375,
+          "like_count": 26265,
+          "listed_count": 140,
+          "media_count": 1903,
+          "tweet_count": 10785
+        },
+        "url": "https://t.co/KWjkfJc3xG",
+        "username": "RealConorOil",
+        "verified": true
+      }
+    ]
+  }
+}

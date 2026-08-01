@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2035022213263630338"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2034593550462243305",
+    "created_at": "2026-03-20T15:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035022220800794790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MFs1gFdLr",
+          "end": 36,
+          "expanded_url": "https://x.com/Idontselldrug/status/2035022220800794790/photo/1",
+          "media_key": "16_2035022213263630338",
+          "start": 13,
+          "url": "https://t.co/3MFs1gFdLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035022220800794790",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034593550462243305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv https://t.co/3MFs1gFdLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 170,
+        "media_key": "16_2035022213263630338",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HD3Z68OboAIXgtJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HD3Z68OboAIXgtJ.mp4"
+          }
+        ],
+        "width": 164
+      },
+      {
+        "duration_ms": 16716,
+        "height": 720,
+        "media_key": "13_2034593486893441024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034593486893441024/img/FUrC8OGctNxDwrQN.jpg",
+        "public_metrics": {
+          "view_count": 2253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/320x320/hm3lRexlRqVAsOje.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/540x540/suVux1SoQwbnXPd7.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/vid/avc1/720x720/BrzkBqurdyRPJEdl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034593486893441024/pl/X_e1JOQFXhFQhqcK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2035022213263630338"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2034593550462243305",
+        "created_at": "2026-03-20T15:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035022220800794790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MFs1gFdLr",
+              "end": 36,
+              "expanded_url": "https://x.com/Idontselldrug/status/2035022220800794790/photo/1",
+              "media_key": "16_2035022213263630338",
+              "start": 13,
+              "url": "https://t.co/3MFs1gFdLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035022220800794790",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034593550462243305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv https://t.co/3MFs1gFdLr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034593486893441024"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2034593550462243305",
+        "created_at": "2026-03-19T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034593550462243305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjJAF5PANo",
+              "end": 27,
+              "expanded_url": "https://x.com/dokigirlluv/status/2034593550462243305/video/1",
+              "media_key": "13_2034593486893441024",
+              "start": 4,
+              "url": "https://t.co/SjJAF5PANo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034593550462243305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6118,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "清真🕌 https://t.co/SjJAF5PANo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 236,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Sophia",
+        "pinned_tweet_id": "2026772813017919851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031710878304002048/Upi5Vm7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13362,
+          "following_count": 57,
+          "like_count": 785,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 395
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

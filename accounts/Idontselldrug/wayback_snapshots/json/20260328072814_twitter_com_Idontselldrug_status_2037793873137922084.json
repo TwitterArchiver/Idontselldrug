@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037793871120515072",
+        "3_2037793870780694528"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037793873137922084",
+    "created_at": "2026-03-28T07:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037793873137922084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/14tULa5zn4",
+          "end": 176,
+          "expanded_url": "https://x.com/Idontselldrug/status/2037793873137922084/photo/1",
+          "media_key": "3_2037793871120515072",
+          "start": 153,
+          "url": "https://t.co/14tULa5zn4"
+        },
+        {
+          "display_url": "pic.x.com/14tULa5zn4",
+          "end": 176,
+          "expanded_url": "https://x.com/Idontselldrug/status/2037793873137922084/photo/1",
+          "media_key": "3_2037793870780694528",
+          "start": 153,
+          "url": "https://t.co/14tULa5zn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037793873137922084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只剩50t达利雷生了，一天1t都有点不够吃\n\n这不是我最喜欢的药物但是绝对是我日常生活里功能性最强的药物，不逊色于bzd的助眠，无耐药无成瘾性，八小时的半衰期完胜其他两个DORA，唯一的不足就是偶有噩梦还有有时候早起还是会困\n打算之后整点还在三期临床的seltorexant，这个半衰期好像只有三四个小时 https://t.co/14tULa5zn4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037793871120515072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeyuqWbQAAoz7T.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037793870780694528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeyupFaAAAQCap.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037793871120515072",
+            "3_2037793870780694528"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037793873137922084",
+        "created_at": "2026-03-28T07:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037793873137922084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14tULa5zn4",
+              "end": 176,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037793873137922084/photo/1",
+              "media_key": "3_2037793871120515072",
+              "start": 153,
+              "url": "https://t.co/14tULa5zn4"
+            },
+            {
+              "display_url": "pic.x.com/14tULa5zn4",
+              "end": 176,
+              "expanded_url": "https://x.com/Idontselldrug/status/2037793873137922084/photo/1",
+              "media_key": "3_2037793870780694528",
+              "start": 153,
+              "url": "https://t.co/14tULa5zn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037793873137922084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只剩50t达利雷生了，一天1t都有点不够吃\n\n这不是我最喜欢的药物但是绝对是我日常生活里功能性最强的药物，不逊色于bzd的助眠，无耐药无成瘾性，八小时的半衰期完胜其他两个DORA，唯一的不足就是偶有噩梦还有有时候早起还是会困\n打算之后整点还在三期临床的seltorexant，这个半衰期好像只有三四个小时 https://t.co/14tULa5zn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 237,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2048925956635807879",
+    "created_at": "2026-04-28T00:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048925956635807879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2048104302041014760",
+          "start": 35,
+          "url": "https://t.co/JRu1G8XJrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048925956635807879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048104302041014760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以现在就是暂时复合了嗯\n我不知道怎么回事我也不知道怎么办 先这样吧 https://t.co/JRu1G8XJrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2048104296076742656",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGxUAYabEAAOE2r.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGxUAYabEAAOE2r.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048925956635807879",
+        "created_at": "2026-04-28T00:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048925956635807879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2048104302041014760",
+              "start": 35,
+              "url": "https://t.co/JRu1G8XJrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048925956635807879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048104302041014760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以现在就是暂时复合了嗯\n我不知道怎么回事我也不知道怎么办 先这样吧 https://t.co/JRu1G8XJrF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048104296076742656"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2048104302041014760",
+        "created_at": "2026-04-25T18:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048104302041014760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3D4JMMESX",
+              "end": 43,
+              "expanded_url": "https://x.com/Idontselldrug/status/2048104302041014760/photo/1",
+              "media_key": "16_2048104296076742656",
+              "start": 20,
+              "url": "https://t.co/L3D4JMMESX"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2047962864590500217",
+              "start": 44,
+              "url": "https://t.co/IE84VC85hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048104302041014760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047962864590500217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈 猜猜我吃完思诺思给谁打了电话😂🎉 https://t.co/L3D4JMMESX https://t.co/IE84VC85hA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 279,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2006937087350886590",
+    "created_at": "2026-01-02T03:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T04:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006937883467460713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "aya_the_raven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006937883467460713",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006937087350886590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aya_the_raven 我解析到你银行卡号和cvv了，你看看你账户里还剩多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2006937087350886590",
+        "created_at": "2026-01-02T03:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006937883467460713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "aya_the_raven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006937883467460713",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006937087350886590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aya_the_raven 我解析到你银行卡号和cvv了，你看看你账户里还剩多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680291377228259330",
+        "conversation_id": "2006937087350886590",
+        "created_at": "2026-01-02T03:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006937087350886590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idontselldrug/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/idontselldrug/status/2006935810298532001",
+              "start": 5,
+              "url": "https://t.co/UQkZCu46tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006937087350886590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006935810298532001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傾情出演 https://t.co/UQkZCu46tw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 206,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Domus mea domus orationis vocabitur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Novasibirsk, Adaptatsiya Ini.",
+        "name": "La période azurée de Aya",
+        "pinned_tweet_id": "2000388459484397737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928284741125410816/sg2I6KMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 3790,
+          "like_count": 49657,
+          "listed_count": 35,
+          "media_count": 1283,
+          "tweet_count": 14799
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      }
+    ]
+  }
+}

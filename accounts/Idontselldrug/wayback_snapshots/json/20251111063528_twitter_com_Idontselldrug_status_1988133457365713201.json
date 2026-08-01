@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988133455927144448"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1988023299100876984",
+    "created_at": "2025-11-11T06:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988133457365713201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980539279622492160",
+          "start": 0,
+          "username": "Pardon_Love_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TLVUvnJ5Nx",
+          "end": 55,
+          "expanded_url": "https://x.com/Idontselldrug/status/1988133457365713201/photo/1",
+          "media_key": "3_1988133455927144448",
+          "start": 32,
+          "url": "https://t.co/TLVUvnJ5Nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988133457365713201",
+    "in_reply_to_user_id": "1980539279622492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988023299100876984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pardon_Love_ 哈哈，你的头像太有意思了，我好喜欢 https://t.co/TLVUvnJ5Nx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988133455927144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dE2DabcAAxlDD.jpg",
+        "width": 732
+      },
+      {
+        "height": 400,
+        "media_key": "3_1988023288409493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bgpdbaEAAZdBf.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988133455927144448"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1988023299100876984",
+        "created_at": "2025-11-11T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988133457365713201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980539279622492160",
+              "start": 0,
+              "username": "Pardon_Love_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLVUvnJ5Nx",
+              "end": 55,
+              "expanded_url": "https://x.com/Idontselldrug/status/1988133457365713201/photo/1",
+              "media_key": "3_1988133455927144448",
+              "start": 32,
+              "url": "https://t.co/TLVUvnJ5Nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988133457365713201",
+        "in_reply_to_user_id": "1980539279622492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988023299100876984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pardon_Love_ 哈哈，你的头像太有意思了，我好喜欢 https://t.co/TLVUvnJ5Nx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988023288409493504"
+          ]
+        },
+        "author_id": "1980539279622492160",
+        "conversation_id": "1988023299100876984",
+        "created_at": "2025-11-10T23:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988023299100876984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ZZ4Pms39D",
+              "end": 28,
+              "expanded_url": "https://x.com/Pardon_Love_/status/1988023299100876984/photo/1",
+              "media_key": "3_1988023288409493504",
+              "start": 5,
+              "url": "https://t.co/7ZZ4Pms39D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988023299100876984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/7ZZ4Pms39D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 128,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T07:39:09.000Z",
+        "description": "※疯狂习近平乐队官方账号 420吸毒磕药强奸骚逼希特勒吸屌者旋转喷屎机感觉到鸡巴血脑屏障迷幻进食障碍外星黑鬼耶稣犹太叛徒变性肛交操逼冰毒可卡因核聚变毒气大麻婊子肥胖阴道的味道艾滋强奸犯哥们天生就是艺术家：小宝贝主人公主爸爸：@巴塔耶 @萨德 @CABR_Lies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "CABR_Lies"
+              }
+            ]
+          }
+        },
+        "id": "1980539279622492160",
+        "name": "卐疯狂习近平卍",
+        "pinned_tweet_id": "1980555891922686017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988023257128464386/WtEo5t6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 9,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 287
+        },
+        "username": "Pardon_Love_",
+        "verified": false
+      }
+    ]
+  }
+}

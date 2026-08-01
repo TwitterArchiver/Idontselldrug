@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2047802972982452728",
+    "created_at": "2026-04-24T22:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047805831442502068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047805831442502068",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047802972982452728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疑似有点过度刺激 犯恶心了 不应该啊 我不知道是什么物质导致的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047802970906230784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtB88rbAAA5Edk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047802972982452728",
+        "created_at": "2026-04-24T22:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047805831442502068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047805831442502068",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047802972982452728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似有点过度刺激 犯恶心了 不应该啊 我不知道是什么物质导致的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047802970906230784"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2047802972982452728",
+        "created_at": "2026-04-24T22:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047802972982452728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFRMMprvuJ",
+              "end": 119,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047802972982452728/photo/1",
+              "media_key": "3_2047802970906230784",
+              "start": 96,
+              "url": "https://t.co/PFRMMprvuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047802972982452728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在努力抑制自己自毁的欲望 导致我现在除了在网上怨声载道的自言自语什么发泄的事情都干不了\n我现在两只手都是僵的 像是弹钢琴的时候没有热身一样很笨拙\n我真想搞点催产素鼻喷和kisspeptin https://t.co/PFRMMprvuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 266,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

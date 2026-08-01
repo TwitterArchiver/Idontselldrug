@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2003688657711170042",
+    "created_at": "2025-12-24T18:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003894756347412879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 24,
+          "id": "1462208415837655043",
+          "start": 14,
+          "username": "Prechaska"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/zh-hans/%E8%84…",
+          "end": 56,
+          "expanded_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+          "start": 33,
+          "status": 200,
+          "title": "脑神经递质检测仪骗局 - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+          "url": "https://t.co/iMtl42UoIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003894756347412879",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003752726933737705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ @Prechaska 那玩意好像是假的https://t.co/iMtl42UoIB"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003752726933737705].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003752726933737705",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003752726933737705"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003688657711170042",
+        "created_at": "2025-12-24T18:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003894756347412879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 24,
+              "id": "1462208415837655043",
+              "start": 14,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/zh-hans/%E8%84…",
+              "end": 56,
+              "expanded_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "start": 33,
+              "status": 200,
+              "title": "脑神经递质检测仪骗局 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "url": "https://t.co/iMtl42UoIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003894756347412879",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003752726933737705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @Prechaska 那玩意好像是假的https://t.co/iMtl42UoIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 199,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "shungleemain"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 146,
+                "start": 133,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Merciless",
+        "pinned_tweet_id": "2003845801056104553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 707,
+          "like_count": 24695,
+          "listed_count": 1,
+          "media_count": 759,
+          "tweet_count": 11238
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 93,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1037
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

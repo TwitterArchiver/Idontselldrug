@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005027186319720448",
+        "3_2005027185883561984",
+        "3_2005027185887756288"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Adelaide",
+          "id": "855108741594718208",
+          "name": "Adelaide"
+        }
+      }
+    ],
+    "conversation_id": "2005027201083965875",
+    "created_at": "2025-12-27T21:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T22:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005027201083965875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PjtsslWmzd",
+          "end": 108,
+          "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+          "media_key": "3_2005027186319720448",
+          "start": 85,
+          "url": "https://t.co/PjtsslWmzd"
+        },
+        {
+          "display_url": "pic.x.com/PjtsslWmzd",
+          "end": 108,
+          "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+          "media_key": "3_2005027185883561984",
+          "start": 85,
+          "url": "https://t.co/PjtsslWmzd"
+        },
+        {
+          "display_url": "pic.x.com/PjtsslWmzd",
+          "end": 108,
+          "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+          "media_key": "3_2005027185887756288",
+          "start": 85,
+          "url": "https://t.co/PjtsslWmzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005027201083965875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Campechano Adelaide\n三个taco就吃了我快40刀，要200\n人民币了，我没想到仅仅是必比登都这么贵\np3这个青酱不够酸也不够辣，纯是里面鳄梨酱的味道 https://t.co/PjtsslWmzd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005027186319720448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NJmlWWgAAlSWg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005027185883561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NJmjuXQAAx-vl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005027185887756288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NJmjvXQAASFbl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005027186319720448",
+            "3_2005027185883561984",
+            "3_2005027185887756288"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Adelaide",
+              "id": "855108741594718208",
+              "name": "Adelaide"
+            }
+          }
+        ],
+        "conversation_id": "2005027201083965875",
+        "created_at": "2025-12-27T21:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T22:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005027201083965875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjtsslWmzd",
+              "end": 108,
+              "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+              "media_key": "3_2005027186319720448",
+              "start": 85,
+              "url": "https://t.co/PjtsslWmzd"
+            },
+            {
+              "display_url": "pic.x.com/PjtsslWmzd",
+              "end": 108,
+              "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+              "media_key": "3_2005027185883561984",
+              "start": 85,
+              "url": "https://t.co/PjtsslWmzd"
+            },
+            {
+              "display_url": "pic.x.com/PjtsslWmzd",
+              "end": 108,
+              "expanded_url": "https://x.com/Idontselldrug/status/2005027201083965875/photo/1",
+              "media_key": "3_2005027185887756288",
+              "start": 85,
+              "url": "https://t.co/PjtsslWmzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005027201083965875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Campechano Adelaide\n三个taco就吃了我快40刀，要200\n人民币了，我没想到仅仅是必比登都这么贵\np3这个青酱不够酸也不够辣，纯是里面鳄梨酱的味道 https://t.co/PjtsslWmzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 204,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

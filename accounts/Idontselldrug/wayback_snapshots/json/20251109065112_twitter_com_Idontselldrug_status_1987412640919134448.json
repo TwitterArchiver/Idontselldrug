@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1986902644531826688"
+      ],
+      "media_source_tweet_id": [
+        "1986902664974938336"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1987412640919134448",
+    "created_at": "2025-11-09T06:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987412640919134448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1747571237751300096",
+          "start": 3,
+          "username": "skitzuhfrenia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6uGf8xRcp2",
+          "end": 42,
+          "expanded_url": "https://x.com/skitzuhfrenia/status/1986902664974938336/video/1",
+          "media_key": "7_1986902644531826688",
+          "start": 19,
+          "url": "https://t.co/6uGf8xRcp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987412640919134448",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986902664974938336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skitzuhfrenia: https://t.co/6uGf8xRcp2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13931,
+        "height": 720,
+        "media_key": "7_1986902644531826688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986902644531826688/pu/img/2ROsQhDMOGjlEGe0.jpg",
+        "public_metrics": {
+          "view_count": 598251
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986902644531826688/pu/vid/avc1/392x270/KyQ7yO8uPkSzl7ZM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986902644531826688/pu/vid/avc1/524x360/fPOabLGunO73iXDJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986902644531826688/pu/vid/avc1/1048x720/lR0DtYUMTlvD_mIN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986902644531826688/pu/pl/8L24-29-G9IToRrW.m3u8?tag=12&v=bf8"
+          }
+        ],
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986902644531826688"
+          ],
+          "media_source_tweet_id": [
+            "1986902664974938336"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987412640919134448",
+        "created_at": "2025-11-09T06:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987412640919134448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1747571237751300096",
+              "start": 3,
+              "username": "skitzuhfrenia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uGf8xRcp2",
+              "end": 42,
+              "expanded_url": "https://x.com/skitzuhfrenia/status/1986902664974938336/video/1",
+              "media_key": "7_1986902644531826688",
+              "start": 19,
+              "url": "https://t.co/6uGf8xRcp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987412640919134448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986902664974938336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skitzuhfrenia: https://t.co/6uGf8xRcp2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986902644531826688"
+          ]
+        },
+        "author_id": "1747571237751300096",
+        "conversation_id": "1986902664974938336",
+        "created_at": "2025-11-07T21:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T22:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986902664974938336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uGf8xRcp2",
+              "end": 23,
+              "expanded_url": "https://x.com/skitzuhfrenia/status/1986902664974938336/video/1",
+              "media_key": "7_1986902644531826688",
+              "start": 0,
+              "url": "https://t.co/6uGf8xRcp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986902664974938336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5961,
+          "impression_count": 1069431,
+          "like_count": 101225,
+          "quote_count": 86,
+          "reply_count": 87,
+          "retweet_count": 9353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6uGf8xRcp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 120,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T10:47:14.000Z",
+        "description": "I'm like if Mae Borowski were a fox",
+        "id": "1747571237751300096",
+        "location": "19 any_all",
+        "name": "🦊Pepper🦊",
+        "pinned_tweet_id": "1965878255812219339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892573057761370112/SNOYAqb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 747,
+          "like_count": 274302,
+          "listed_count": 0,
+          "media_count": 5199,
+          "tweet_count": 46191
+        },
+        "username": "skitzuhfrenia",
+        "verified": false
+      }
+    ]
+  }
+}

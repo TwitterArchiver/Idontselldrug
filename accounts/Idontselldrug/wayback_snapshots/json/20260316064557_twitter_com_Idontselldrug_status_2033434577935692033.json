@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2033412407427731807",
+    "created_at": "2026-03-16T06:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033434577935692033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033434577935692033",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033412407427731807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 这种有点形式主义反抗了，感觉是专门跟老师作对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2033412407427731807",
+        "created_at": "2026-03-16T06:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033434577935692033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033434577935692033",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033412407427731807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 这种有点形式主义反抗了，感觉是专门跟老师作对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992300667395092480",
+        "conversation_id": "2033412407427731807",
+        "created_at": "2026-03-16T05:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033412407427731807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hsn8086/status/2033367542505639956",
+              "start": 32,
+              "url": "https://t.co/rqKcopFyKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033412407427731807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033367542505639956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们总能在我意想不到的地方爆发出超乎寻常的想象力和创造力😂😂😂 https://t.co/rqKcopFyKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 234,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|默认友好基本无雷|不关心政治|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgwQyL"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2011040777640820845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 178,
+          "like_count": 5618,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/xiOAWgwQyL",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

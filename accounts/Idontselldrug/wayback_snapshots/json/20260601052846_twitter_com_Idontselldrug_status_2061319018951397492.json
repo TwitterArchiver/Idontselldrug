@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2061310718226604043",
+    "created_at": "2026-06-01T05:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061319018951397492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490712352764968960",
+          "start": 0,
+          "username": "Oxalis66017377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061319018951397492",
+    "in_reply_to_user_id": "1490712352764968960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061311220955947442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oxalis66017377 你真shadowban了 我点进评论区看不到你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2061310718226604043",
+        "created_at": "2026-06-01T05:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061319018951397492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490712352764968960",
+              "start": 0,
+              "username": "Oxalis66017377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061319018951397492",
+        "in_reply_to_user_id": "1490712352764968960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061311220955947442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oxalis66017377 你真shadowban了 我点进评论区看不到你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490712352764968960",
+        "conversation_id": "2061310718226604043",
+        "created_at": "2026-06-01T04:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061311220955947442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061311220955947442",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061310718226604043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 我就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 283,
+          "like_count": 2435,
+          "listed_count": 1,
+          "media_count": 505,
+          "tweet_count": 2971
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T15:41:41.000Z",
+        "description": "不需要知晓我的姓名，因为我们心意相通…",
+        "id": "1490712352764968960",
+        "location": "they/them",
+        "name": "Oxalis",
+        "pinned_tweet_id": "2021933190789644667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804525961293266944/J8LA1ioi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 231,
+          "like_count": 4560,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 231
+        },
+        "username": "Oxalis66017377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2027316911990812956",
+    "created_at": "2026-02-27T15:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027409713244393852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20256…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/status/2025666780358983978",
+          "start": 15,
+          "url": "https://t.co/Phupofr1h0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027409713244393852",
+    "in_reply_to_user_id": "69280655",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025666780358983978",
+        "type": "quoted"
+      },
+      {
+        "id": "2027400607389385073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang https://t.co/Phupofr1h0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2025665643857756160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBycK6_awAA0cRs.jpg",
+        "width": 1694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2027316911990812956",
+        "created_at": "2026-02-27T15:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027409713244393852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20256…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/status/2025666780358983978",
+              "start": 15,
+              "url": "https://t.co/Phupofr1h0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027409713244393852",
+        "in_reply_to_user_id": "69280655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025666780358983978",
+            "type": "quoted"
+          },
+          {
+            "id": "2027400607389385073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang https://t.co/Phupofr1h0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025665643857756160"
+          ]
+        },
+        "author_id": "945817135816654848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2025666780358983978",
+        "created_at": "2026-02-22T20:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T21:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025666780358983978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Apple Store",
+              "probability": 0.6946,
+              "start": 20,
+              "type": "Product"
+            },
+            {
+              "end": 241,
+              "normalized_text": "iPad",
+              "probability": 0.9823,
+              "start": 238,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AYxsUspgn",
+              "end": 299,
+              "expanded_url": "https://x.com/TrungTPhan/status/2025666780358983978/photo/1",
+              "media_key": "3_2025665643857756160",
+              "start": 276,
+              "url": "https://t.co/5AYxsUspgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025666780358983978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Just walked into an Apple Store.\n\nGrabbed an employee's arm and said, \"I'm trying to escape the permanent underclass.\"\n\nHe looked at me for 5 second then smiled, \"Say no more fam.\"\n\nPulled this from box under the table. Then handed me an iPad to pay and said, \"Go secure your family tree.\"\n\nIt was the probably the most important 5 minutes of my life. Highly recommend."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 637441,
+          "like_count": 3057,
+          "quote_count": 26,
+          "reply_count": 153,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "Just walked into an Apple Store.\n\nGrabbed an employee's arm and said, \"I'm trying to escape the permanent underclass.\"\n\nHe looked at me for 5 second then smiled, \"Say no more fam.\"\n\nPulled this from box under the table. Then handed me an iPad to pay and said, \"Go secure your https://t.co/5AYxsUspgn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2027316911990812956",
+        "created_at": "2026-02-27T15:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027400607389385073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kkawsb/status/…",
+              "end": 38,
+              "expanded_url": "https://x.com/kkawsb/status/2025768072641126777?s=46",
+              "start": 15,
+              "url": "https://t.co/etQaupYEDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027400607389385073",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025768072641126777",
+            "type": "quoted"
+          },
+          {
+            "id": "2027400105041817974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug https://t.co/etQaupYEDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -117.469,
+                  52.28333
+                ],
+                "type": "Point"
+              },
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 229,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1808
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 90,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 431
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-27T00:42:32.000Z",
+        "description": "Write on business with @workweekinc. Building a privacy-first AI research app @bearlyai.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "workweekinc"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "bearlyai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "readtrung.com",
+                "end": 23,
+                "expanded_url": "https://www.readtrung.com",
+                "start": 0,
+                "url": "https://t.co/QXcmEZDls6"
+              }
+            ]
+          }
+        },
+        "id": "945817135816654848",
+        "location": "My Saturday newsletter ➡️",
+        "name": "Trung Phan",
+        "pinned_tweet_id": "1997347627470405993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724138,
+          "following_count": 4258,
+          "like_count": 201555,
+          "listed_count": 6041,
+          "media_count": 15866,
+          "tweet_count": 82408
+        },
+        "url": "https://t.co/QXcmEZDls6",
+        "username": "TrungTPhan",
+        "verified": true
+      }
+    ]
+  }
+}

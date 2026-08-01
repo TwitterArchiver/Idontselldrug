@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2050080081893265672",
+    "created_at": "2026-05-01T05:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050080081893265672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408634134088486916",
+          "start": 3,
+          "username": "FaODu7NPhqtZ5bu"
+        },
+        {
+          "end": 37,
+          "id": "1575765089030139905",
+          "start": 21,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050080081893265672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049749462722179441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FaODu7NPhqtZ5bu: @wodanggangqiang 男性吸烟率：43.9%，女性吸烟率： 1.8%，剩下的54.3%不男不女\n这不会是美国的数据吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2050080081893265672",
+        "created_at": "2026-05-01T05:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050080081893265672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408634134088486916",
+              "start": 3,
+              "username": "FaODu7NPhqtZ5bu"
+            },
+            {
+              "end": 37,
+              "id": "1575765089030139905",
+              "start": 21,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050080081893265672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749462722179441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FaODu7NPhqtZ5bu: @wodanggangqiang 男性吸烟率：43.9%，女性吸烟率： 1.8%，剩下的54.3%不男不女\n这不会是美国的数据吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408634134088486916",
+        "conversation_id": "2049588349850251406",
+        "created_at": "2026-04-30T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049749462722179441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749462722179441",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 230075,
+          "like_count": 59,
+          "quote_count": 43,
+          "reply_count": 59,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049588349850251406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 男性吸烟率：43.9%，女性吸烟率： 1.8%，剩下的54.3%不男不女\n这不会是美国的数据吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 280,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 2685
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-26T03:52:13.000Z",
+        "description": "1，对台武统派\n2，讲道理\n3，会挂人\n4，怕你们忘了，我是武统派",
+        "id": "1408634134088486916",
+        "location": "中国，新疆",
+        "name": "刀刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409357218596757504/SNgGpggL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 950,
+          "like_count": 100,
+          "listed_count": 12,
+          "media_count": 568,
+          "tweet_count": 6181
+        },
+        "username": "FaODu7NPhqtZ5bu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28880,
+          "following_count": 558,
+          "like_count": 35130,
+          "listed_count": 90,
+          "media_count": 9945,
+          "tweet_count": 27221
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

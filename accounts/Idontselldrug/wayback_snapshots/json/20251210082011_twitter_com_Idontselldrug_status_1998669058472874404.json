@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "1998349946630680649",
+    "created_at": "2025-12-10T08:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998669058472874404"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "sigma",
+          "probability": 0.6064,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918996104970141696",
+          "start": 0,
+          "username": "junshiguancha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998669058472874404",
+    "in_reply_to_user_id": "1918996104970141696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998349946630680649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junshiguancha Why it's not sigma face one"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1998349479385456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uQQ4fbYAAgYw2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1998349946630680649",
+        "created_at": "2025-12-10T08:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998669058472874404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "sigma",
+              "probability": 0.6064,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918996104970141696",
+              "start": 0,
+              "username": "junshiguancha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998669058472874404",
+        "in_reply_to_user_id": "1918996104970141696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998349946630680649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junshiguancha Why it's not sigma face one"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998349479385456640"
+          ]
+        },
+        "author_id": "1918996104970141696",
+        "conversation_id": "1998349946630680649",
+        "created_at": "2025-12-09T11:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998349946630680649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GylDpcJqKR",
+              "end": 42,
+              "expanded_url": "https://x.com/junshiguancha/status/1998349946630680649/photo/1",
+              "media_key": "3_1998349479385456640",
+              "start": 19,
+              "url": "https://t.co/GylDpcJqKR"
+            },
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/1998337576906928598",
+              "start": 43,
+              "url": "https://t.co/QRONOLXWbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998349946630680649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 151332,
+          "like_count": 3992,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998337576906928598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Do nothing.\nWin.🇨🇳 https://t.co/GylDpcJqKR https://t.co/QRONOLXWbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 185,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T11:48:29.000Z",
+        "description": "China's Defense & Tech Edge ⚡  \nVerified breakthroughs | News\nNo noise, just signal. FactsOnly",
+        "id": "1918996104970141696",
+        "location": "China",
+        "name": "PLA_Overwhelm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918996244657233920/oarwy7fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14504,
+          "following_count": 8,
+          "like_count": 4036,
+          "listed_count": 158,
+          "media_count": 1832,
+          "tweet_count": 5095
+        },
+        "username": "junshiguancha",
+        "verified": false
+      }
+    ]
+  }
+}

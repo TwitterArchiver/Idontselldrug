@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058827272333733888"
+      ],
+      "media_source_tweet_id": [
+        "2058827385890333006"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1266467007987253248",
+          "name": "George Floyd"
+        }
+      }
+    ],
+    "conversation_id": "2058960938720755992",
+    "created_at": "2026-05-25T17:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058960938720755992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1808413103220314112",
+          "start": 3,
+          "username": "willyfinger1920"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f0g4IJ9IPN",
+          "end": 77,
+          "expanded_url": "https://x.com/willyfinger1920/status/2058827385890333006/video/1",
+          "media_key": "13_2058827272333733888",
+          "start": 54,
+          "url": "https://t.co/f0g4IJ9IPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058960938720755992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058827385890333006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willyfinger1920: George Floyd 6 years drug free🥳🥳 https://t.co/f0g4IJ9IPN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29569,
+        "height": 480,
+        "media_key": "13_2058827272333733888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058827272333733888/img/2zPJA70-hfBfPVqq.jpg",
+        "public_metrics": {
+          "view_count": 21609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058827272333733888/vid/avc1/346x270/lu72Pi7GuypOFcNm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058827272333733888/vid/avc1/462x360/YgaBY4ErEagtTwEE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058827272333733888/vid/avc1/616x480/CepB7SVbmPRDQWjt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058827272333733888/pl/2ATJXGoXcTqsC_z-.m3u8?tag=14&v=6a7"
+          }
+        ],
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058827272333733888"
+          ],
+          "media_source_tweet_id": [
+            "2058827385890333006"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1266467007987253248",
+              "name": "George Floyd"
+            }
+          }
+        ],
+        "conversation_id": "2058960938720755992",
+        "created_at": "2026-05-25T17:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058960938720755992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1808413103220314112",
+              "start": 3,
+              "username": "willyfinger1920"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0g4IJ9IPN",
+              "end": 77,
+              "expanded_url": "https://x.com/willyfinger1920/status/2058827385890333006/video/1",
+              "media_key": "13_2058827272333733888",
+              "start": 54,
+              "url": "https://t.co/f0g4IJ9IPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058960938720755992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058827385890333006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @willyfinger1920: George Floyd 6 years drug free🥳🥳 https://t.co/f0g4IJ9IPN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058827272333733888"
+          ]
+        },
+        "author_id": "1808413103220314112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1266467007987253248",
+              "name": "George Floyd"
+            }
+          }
+        ],
+        "conversation_id": "2058827385890333006",
+        "created_at": "2026-05-25T08:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058827385890333006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0g4IJ9IPN",
+              "end": 56,
+              "expanded_url": "https://x.com/willyfinger1920/status/2058827385890333006/video/1",
+              "media_key": "13_2058827272333733888",
+              "start": 33,
+              "url": "https://t.co/f0g4IJ9IPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058827385890333006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 68865,
+          "like_count": 2246,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "George Floyd 6 years drug free🥳🥳 https://t.co/f0g4IJ9IPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 286,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T08:11:24.000Z",
+        "description": "Magyar blud | based and christpilled",
+        "id": "1808413103220314112",
+        "location": "Peaseant Village no. 1920",
+        "name": "Willy Finger🇭🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052516870712860673/XYAn1wmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 181,
+          "like_count": 4954,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 116
+        },
+        "username": "willyfinger1920",
+        "verified": false
+      }
+    ]
+  }
+}

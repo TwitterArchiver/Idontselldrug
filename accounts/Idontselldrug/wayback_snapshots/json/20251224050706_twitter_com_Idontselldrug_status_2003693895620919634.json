@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003693891883544577",
+        "3_2003693892177100801",
+        "3_2003693892600754176",
+        "3_2003693893016031232"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2003693895620919634",
+    "created_at": "2025-12-24T05:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003693895620919634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5TdUK1Q6y",
+          "end": 29,
+          "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+          "media_key": "3_2003693891883544577",
+          "start": 6,
+          "url": "https://t.co/I5TdUK1Q6y"
+        },
+        {
+          "display_url": "pic.x.com/I5TdUK1Q6y",
+          "end": 29,
+          "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+          "media_key": "3_2003693892177100801",
+          "start": 6,
+          "url": "https://t.co/I5TdUK1Q6y"
+        },
+        {
+          "display_url": "pic.x.com/I5TdUK1Q6y",
+          "end": 29,
+          "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+          "media_key": "3_2003693892600754176",
+          "start": 6,
+          "url": "https://t.co/I5TdUK1Q6y"
+        },
+        {
+          "display_url": "pic.x.com/I5TdUK1Q6y",
+          "end": 29,
+          "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+          "media_key": "3_2003693893016031232",
+          "start": 6,
+          "url": "https://t.co/I5TdUK1Q6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003693895620919634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "多伦多大学 https://t.co/I5TdUK1Q6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003693891883544577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86M-ohWsAEWvkS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003693892177100801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86M-pnWAAEzP_3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003693892600754176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86M-rMWcAAyp1Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003693893016031232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86M-svXEAAxH9p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003693891883544577",
+            "3_2003693892177100801",
+            "3_2003693892600754176",
+            "3_2003693893016031232"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003693895620919634",
+        "created_at": "2025-12-24T05:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003693895620919634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5TdUK1Q6y",
+              "end": 29,
+              "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+              "media_key": "3_2003693891883544577",
+              "start": 6,
+              "url": "https://t.co/I5TdUK1Q6y"
+            },
+            {
+              "display_url": "pic.x.com/I5TdUK1Q6y",
+              "end": 29,
+              "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+              "media_key": "3_2003693892177100801",
+              "start": 6,
+              "url": "https://t.co/I5TdUK1Q6y"
+            },
+            {
+              "display_url": "pic.x.com/I5TdUK1Q6y",
+              "end": 29,
+              "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+              "media_key": "3_2003693892600754176",
+              "start": 6,
+              "url": "https://t.co/I5TdUK1Q6y"
+            },
+            {
+              "display_url": "pic.x.com/I5TdUK1Q6y",
+              "end": 29,
+              "expanded_url": "https://x.com/Idontselldrug/status/2003693895620919634/photo/1",
+              "media_key": "3_2003693893016031232",
+              "start": 6,
+              "url": "https://t.co/I5TdUK1Q6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003693895620919634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多伦多大学 https://t.co/I5TdUK1Q6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 199,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

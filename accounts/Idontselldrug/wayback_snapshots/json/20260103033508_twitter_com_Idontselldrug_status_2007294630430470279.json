@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2007294630430470279",
+    "created_at": "2026-01-03T03:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007294630430470279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kenntnis22/sta…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Kenntnis22/status/2007210622262653307",
+          "start": 56,
+          "url": "https://t.co/GHeucTJZoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007294630430470279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007210622262653307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公交车，动车同理，买一等座就好很多\n加拿大倒是没有这样的问题，我在公交车上外放视频的一年见到几次，基本都是老中 https://t.co/GHeucTJZoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2007210616025399296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9sLa62WQAATh5e.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2007294630430470279",
+        "created_at": "2026-01-03T03:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007294630430470279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kenntnis22/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/2007210622262653307",
+              "start": 56,
+              "url": "https://t.co/GHeucTJZoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007294630430470279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007210622262653307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公交车，动车同理，买一等座就好很多\n加拿大倒是没有这样的问题，我在公交车上外放视频的一年见到几次，基本都是老中 https://t.co/GHeucTJZoO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007210616025399296"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2007210622262653307",
+        "created_at": "2026-01-02T22:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T23:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007210622262653307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PD3IE9xCm",
+              "end": 23,
+              "expanded_url": "https://x.com/Kenntnis22/status/2007210622262653307/photo/1",
+              "media_key": "3_2007210616025399296",
+              "start": 0,
+              "url": "https://t.co/4PD3IE9xCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007210622262653307",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 108665,
+          "like_count": 755,
+          "quote_count": 7,
+          "reply_count": 56,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4PD3IE9xCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 204,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2006855260543791521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47074,
+          "following_count": 348,
+          "like_count": 40531,
+          "listed_count": 231,
+          "media_count": 8372,
+          "tweet_count": 12758
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990047024062828544"
+      ],
+      "media_source_tweet_id": [
+        "1990047029792587857"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "1990168988081631589",
+    "created_at": "2025-11-16T21:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T22:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990168988081631589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "kirk",
+          "probability": 0.5512,
+          "start": 47,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1943756506891268096",
+          "start": 3,
+          "username": "junkfacejunebug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWqrAspzDH",
+          "end": 84,
+          "expanded_url": "https://x.com/junkfacejunebug/status/1990047029792587857/photo/1",
+          "media_key": "3_1990047024062828544",
+          "start": 61,
+          "url": "https://t.co/gWqrAspzDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990168988081631589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6697
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990047029792587857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junkfacejunebug: it has been 67 days since kirk was shot https://t.co/gWqrAspzDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1990047024062828544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54ROYOWkAArrQZ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990047024062828544"
+          ],
+          "media_source_tweet_id": [
+            "1990047029792587857"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1990168988081631589",
+        "created_at": "2025-11-16T21:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T22:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990168988081631589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "kirk",
+              "probability": 0.5512,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1943756506891268096",
+              "start": 3,
+              "username": "junkfacejunebug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWqrAspzDH",
+              "end": 84,
+              "expanded_url": "https://x.com/junkfacejunebug/status/1990047029792587857/photo/1",
+              "media_key": "3_1990047024062828544",
+              "start": 61,
+              "url": "https://t.co/gWqrAspzDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990168988081631589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6697
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990047029792587857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junkfacejunebug: it has been 67 days since kirk was shot https://t.co/gWqrAspzDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990047024062828544"
+          ]
+        },
+        "author_id": "1943756506891268096",
+        "conversation_id": "1990047029792587857",
+        "created_at": "2025-11-16T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990047029792587857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "kirk",
+              "probability": 0.5827,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWqrAspzDH",
+              "end": 63,
+              "expanded_url": "https://x.com/junkfacejunebug/status/1990047029792587857/photo/1",
+              "media_key": "3_1990047024062828544",
+              "start": 40,
+              "url": "https://t.co/gWqrAspzDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990047029792587857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1112,
+          "impression_count": 371817,
+          "like_count": 47036,
+          "quote_count": 171,
+          "reply_count": 225,
+          "retweet_count": 6697
+        },
+        "reply_settings": "everyone",
+        "text": "it has been 67 days since kirk was shot https://t.co/gWqrAspzDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 143,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T19:37:32.000Z",
+        "description": "he/she | fiore #2 defender | disventure camp freak ^^ | luv my oomfs sm ❤️‍🩹 | british 🫩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fiores.straw.page",
+                "end": 23,
+                "expanded_url": "http://fiores.straw.page",
+                "start": 0,
+                "url": "https://t.co/YI7da26blF"
+              }
+            ]
+          }
+        },
+        "id": "1943756506891268096",
+        "location": "camp tipiskaw",
+        "name": "OLLIE 🐦‍⬛🏳️‍🌈",
+        "pinned_tweet_id": "1982602502517444681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990085814865293313/Dohdst5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 82,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/YI7da26blF",
+        "username": "junkfacejunebug",
+        "verified": false
+      }
+    ]
+  }
+}
