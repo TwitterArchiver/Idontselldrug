@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086348359795879937"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086348370315235596",
+    "created_at": "2026-08-09T07:06:28.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086348370315235596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6YZ8f8vQIs",
+          "end": 49,
+          "expanded_url": "https://x.com/Idontselldrug/status/2086348370315235596/photo/1",
+          "media_key": "3_2086348359795879937",
+          "start": 26,
+          "url": "https://t.co/6YZ8f8vQIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086348370315235596",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086348359795879937"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Nigga think I'm a scale😂🎉 https://t.co/6YZ8f8vQIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2547,
+        "media_key": "3_2086348359795879937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQyx39aMAEOR1-.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086348359795879937"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086348370315235596",
+        "created_at": "2026-08-09T07:06:28.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086348370315235596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YZ8f8vQIs",
+              "end": 49,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086348370315235596/photo/1",
+              "media_key": "3_2086348359795879937",
+              "start": 26,
+              "url": "https://t.co/6YZ8f8vQIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086348370315235596",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086348359795879937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nigga think I'm a scale😂🎉 https://t.co/6YZ8f8vQIs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086348370315235596",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 315,
+          "like_count": 3035,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 3472
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

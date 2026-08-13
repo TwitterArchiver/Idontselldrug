@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2083538550117867677",
+    "created_at": "2026-08-01T14:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083555208936685727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083555208936685727",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538550117867677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 是组合还是单个物质？是氨基酸吗？动一氧化氮吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-01T14:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083555208936685727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083555208936685727",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538550117867677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 是组合还是单个物质？是氨基酸吗？动一氧化氮吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2083538550117867677",
+        "created_at": "2026-08-01T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083538550117867677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083538550117867677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS：無極Lab 正在开发提升性体验的性物质，多巴胺能的\n\n1 不是Drug，是一种supplement 组合拥有大量人类临床数据证明其安全性\n\n2 没有成瘾性\n\n3 没有导致心血管的副作用让男性养胃\n\n4 男女均可使用、可以极大改善性冷淡\n\n5 同时是认知提升剂，用工作学习\n\n6 无论男女均可提升有氧耐力增加续航"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 308,
+          "like_count": 2883,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 3365
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 104,
+          "like_count": 3173,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

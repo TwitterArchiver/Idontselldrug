@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086682088322088960"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304078935932592131",
+          "name": "University of Toronto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306194644137439234",
+          "name": "University of British Columbia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1304078935932592131",
+          "name": "University of Toronto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1306194644137439234",
+          "name": "University of British Columbia"
+        }
+      }
+    ],
+    "conversation_id": "2086682100665901348",
+    "created_at": "2026-08-10T05:12:36.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086682100665901348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mHL7GVWvSX",
+          "end": 157,
+          "expanded_url": "https://x.com/Idontselldrug/status/2086682100665901348/photo/1",
+          "media_key": "3_2086682088322088960",
+          "start": 134,
+          "url": "https://t.co/mHL7GVWvSX"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2086390476882817253",
+          "start": 158,
+          "url": "https://t.co/mupj2XtEXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086682100665901348",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086682088322088960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086390476882817253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很想去温哥华或者多伦多上学，但是最后还是去了气候不好的埃德蒙顿\n\n原因如下：\n1. 埃德蒙顿上学少花点钱，经济压力低\n2. 温哥华多伦多好的学校我申不上，坏的我看不上\n3. 我觉得AB省移民政策会好点\n\n但现在我其实在考虑转学去UBC或者Uoft，如果他们要我的话 https://t.co/mHL7GVWvSX https://t.co/mupj2XtEXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2086682088322088960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPViTbmbwAAdwdl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086682088322088960"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304078935932592131",
+              "name": "University of Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306194644137439234",
+              "name": "University of British Columbia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1304078935932592131",
+              "name": "University of Toronto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1306194644137439234",
+              "name": "University of British Columbia"
+            }
+          }
+        ],
+        "conversation_id": "2086682100665901348",
+        "created_at": "2026-08-10T05:12:36.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086682100665901348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHL7GVWvSX",
+              "end": 157,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086682100665901348/photo/1",
+              "media_key": "3_2086682088322088960",
+              "start": 134,
+              "url": "https://t.co/mHL7GVWvSX"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2086390476882817253",
+              "start": 158,
+              "url": "https://t.co/mupj2XtEXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086682100665901348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086682088322088960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086390476882817253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很想去温哥华或者多伦多上学，但是最后还是去了气候不好的埃德蒙顿\n\n原因如下：\n1. 埃德蒙顿上学少花点钱，经济压力低\n2. 温哥华多伦多好的学校我申不上，坏的我看不上\n3. 我觉得AB省移民政策会好点\n\n但现在我其实在考虑转学去UBC或者Uoft，如果他们要我的话 https://t.co/mHL7GVWvSX https://t.co/mupj2XtEXb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "card_uri": "https://t.co/VMwFxau5qI",
+        "conversation_id": "2086390476882817253",
+        "created_at": "2026-08-09T09:53:47.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086390476882817253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vvv8964",
+              "end": 58,
+              "expanded_url": "https://ngl.link/vvv8964",
+              "start": 35,
+              "status": 200,
+              "title": "@vvv8964: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vvv8964",
+              "url": "https://t.co/VMwFxau5qI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086390476882817253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1352,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没回ngl了，再发一下，点这个链接可以匿名给我发消息问问题之类的\nhttps://t.co/VMwFxau5qI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086682100665901348",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 315,
+          "like_count": 3055,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

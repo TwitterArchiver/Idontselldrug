@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084155665988341760"
+      ],
+      "media_source_tweet_id": [
+        "2084155677988286975"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2084519610616054017",
+    "created_at": "2026-08-04T05:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084519610616054017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943697421948903424",
+          "start": 3,
+          "username": "xioyouyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXBW4Ey7Ph",
+          "end": 43,
+          "expanded_url": "https://x.com/xioyouyu/status/2084155677988286975/photo/1",
+          "media_key": "3_2084155665988341760",
+          "start": 20,
+          "url": "https://t.co/tXBW4Ey7Ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084519610616054017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084155677988286975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xioyouyu: 我要笑死了 https://t.co/tXBW4Ey7Ph"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084155665988341760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxoiS_aUAA-c9d.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084155665988341760"
+          ]
+        },
+        "author_id": "1943697421948903424",
+        "conversation_id": "2084155677988286975",
+        "created_at": "2026-08-03T05:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084155677988286975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXBW4Ey7Ph",
+              "end": 29,
+              "expanded_url": "https://x.com/xioyouyu/status/2084155677988286975/photo/1",
+              "media_key": "3_2084155665988341760",
+              "start": 6,
+              "url": "https://t.co/tXBW4Ey7Ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084155677988286975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 142857,
+          "like_count": 1977,
+          "quote_count": 6,
+          "reply_count": 259,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/tXBW4Ey7Ph"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084155665988341760"
+          ],
+          "media_source_tweet_id": [
+            "2084155677988286975"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2084519610616054017",
+        "created_at": "2026-08-04T05:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084519610616054017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943697421948903424",
+              "start": 3,
+              "username": "xioyouyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXBW4Ey7Ph",
+              "end": 43,
+              "expanded_url": "https://x.com/xioyouyu/status/2084155677988286975/photo/1",
+              "media_key": "3_2084155665988341760",
+              "start": 20,
+              "url": "https://t.co/tXBW4Ey7Ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084519610616054017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084155677988286975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xioyouyu: 我要笑死了 https://t.co/tXBW4Ey7Ph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 310,
+          "like_count": 2931,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3396
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:42:58.000Z",
+        "description": "我只是一个脆弱的小女孩…",
+        "id": "1943697421948903424",
+        "name": "^-^",
+        "pinned_tweet_id": "1998279942686343374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078117540358955008/woGi4upN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 28,
+          "like_count": 652,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "xioyouyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2087079819267776868",
+    "created_at": "2026-08-11T07:32:59.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087079819267776868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1290521305561915394",
+          "start": 3,
+          "username": "_lakaiser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087079819267776868",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086990297955778729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_lakaiser: primera persona en mi linea de sangre en leer estas palabras en una misma oración"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2087079819267776868",
+        "created_at": "2026-08-11T07:32:59.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087079819267776868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1290521305561915394",
+              "start": 3,
+              "username": "_lakaiser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087079819267776868",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086990297955778729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_lakaiser: primera persona en mi linea de sangre en leer estas palabras en una misma oración"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290521305561915394",
+        "conversation_id": "2086990297955778729",
+        "created_at": "2026-08-11T01:37:16.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086990297955778729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skr_x_x_sub/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/skr_x_x_sub/status/2086800786064077264",
+              "start": 82,
+              "url": "https://t.co/XDOV0RxIsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086990297955778729",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2492,
+          "impression_count": 1001786,
+          "like_count": 44520,
+          "quote_count": 38,
+          "reply_count": 90,
+          "retweet_count": 3309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086800786064077264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "primera persona en mi linea de sangre en leer estas palabras en una misma oración https://t.co/XDOV0RxIsd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2087079819267776868",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 317,
+          "like_count": 3075,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-04T05:34:02.000Z",
+        "description": "eh?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/louformoso?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/louformoso?igsh=MWE1ZzJ2ZXR0cTI1aw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Fgtpw58QGS"
+              }
+            ]
+          }
+        },
+        "id": "1290521305561915394",
+        "is_identity_verified": false,
+        "location": "gon ♡",
+        "most_recent_tweet_id": "2087008511729242204",
+        "name": "lulu jr.",
+        "pinned_tweet_id": "1825363243663036926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290521305561915394/1702217655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023187126536273920/dTvFbuRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14882,
+          "following_count": 1156,
+          "like_count": 112817,
+          "listed_count": 21,
+          "media_count": 5173,
+          "tweet_count": 75609
+        },
+        "url": "https://t.co/Fgtpw58QGS",
+        "username": "_lakaiser",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

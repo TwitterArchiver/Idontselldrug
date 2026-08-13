@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086517516642189312"
+      ],
+      "media_source_tweet_id": [
+        "2086517563815547355"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2086703401971454106",
+    "created_at": "2026-08-10T06:37:14.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086703401971454106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1712604019716214784",
+          "start": 3,
+          "username": "BowTiedPhys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eb0kXhhVNf",
+          "end": 113,
+          "expanded_url": "https://x.com/BowTiedPhys/status/2086517563815547355/photo/1",
+          "media_key": "3_2086517516642189312",
+          "start": 90,
+          "url": "https://t.co/eb0kXhhVNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086703401971454106",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086517516642189312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086517563815547355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BowTiedPhys: Never lose sight of the fact 91.4% of your problems are fake &amp; ghey. https://t.co/eb0kXhhVNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1906,
+        "media_key": "3_2086517516642189312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTMoGUWgAA8qYK.jpg",
+        "width": 1659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086517516642189312"
+          ]
+        },
+        "author_id": "1712604019716214784",
+        "conversation_id": "2086517563815547355",
+        "created_at": "2026-08-09T18:18:47.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086517563815547355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb0kXhhVNf",
+              "end": 96,
+              "expanded_url": "https://x.com/BowTiedPhys/status/2086517563815547355/photo/1",
+              "media_key": "3_2086517516642189312",
+              "start": 73,
+              "url": "https://t.co/eb0kXhhVNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086517563815547355",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086517516642189312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 13869,
+          "like_count": 634,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "Never lose sight of the fact 91.4% of your problems are fake &amp; ghey. https://t.co/eb0kXhhVNf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086517516642189312"
+          ],
+          "media_source_tweet_id": [
+            "2086517563815547355"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2086703401971454106",
+        "created_at": "2026-08-10T06:37:14.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086703401971454106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1712604019716214784",
+              "start": 3,
+              "username": "BowTiedPhys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb0kXhhVNf",
+              "end": 113,
+              "expanded_url": "https://x.com/BowTiedPhys/status/2086517563815547355/photo/1",
+              "media_key": "3_2086517516642189312",
+              "start": 90,
+              "url": "https://t.co/eb0kXhhVNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086703401971454106",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086517516642189312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086517563815547355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BowTiedPhys: Never lose sight of the fact 91.4% of your problems are fake &amp; ghey. https://t.co/eb0kXhhVNf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086703401971454106",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 315,
+          "like_count": 3056,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T23:00:06.000Z",
+        "description": "Take what fits. Leave what doesn't. But now you know.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bowtiedphys",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bowtiedphys",
+                "start": 0,
+                "url": "https://t.co/8t3MXHeneI"
+              }
+            ]
+          }
+        },
+        "id": "1712604019716214784",
+        "is_identity_verified": true,
+        "location": "More sauce. Less slop. →",
+        "most_recent_tweet_id": "2086523556356137044",
+        "name": "BowTiedPhys",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712604019716214784/1740937428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751281394943225856/Y4mcbCir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33222,
+          "following_count": 503,
+          "like_count": 102347,
+          "listed_count": 287,
+          "media_count": 3523,
+          "tweet_count": 20410
+        },
+        "url": "https://t.co/8t3MXHeneI",
+        "username": "BowTiedPhys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

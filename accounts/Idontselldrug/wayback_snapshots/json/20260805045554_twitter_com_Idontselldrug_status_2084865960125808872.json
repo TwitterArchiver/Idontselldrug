@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084694119230713856"
+      ],
+      "media_source_tweet_id": [
+        "2084695134738792565"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084865960125808872",
+    "created_at": "2026-08-05T04:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084865960125808872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031947476694155269",
+          "start": 3,
+          "username": "00004nf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6ojFnPgSG",
+          "end": 66,
+          "expanded_url": "https://x.com/00004nf/status/2084695134738792565/video/1",
+          "media_key": "13_2084694119230713856",
+          "start": 43,
+          "url": "https://t.co/H6ojFnPgSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084865960125808872",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084695134738792565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @00004nf: nah this mod got me fucked up https://t.co/H6ojFnPgSG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90624,
+        "height": 1080,
+        "media_key": "13_2084694119230713856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084694119230713856/img/vxouTH-5mFjutEIP.jpg",
+        "public_metrics": {
+          "view_count": 84175
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084694119230713856/vid/avc1/480x270/uwYpvcc5FMNDcykl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084694119230713856/vid/avc1/640x360/E0Ko8g1Ec6SiRUiE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084694119230713856/vid/avc1/1280x720/Bz6M87jo1XC_Xqxd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084694119230713856/pl/pdzuUAK7yxcm3mPM.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084694119230713856"
+          ]
+        },
+        "author_id": "2031947476694155269",
+        "conversation_id": "2084695134738792565",
+        "created_at": "2026-08-04T17:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084695134738792565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6ojFnPgSG",
+              "end": 53,
+              "expanded_url": "https://x.com/00004nf/status/2084695134738792565/video/1",
+              "media_key": "13_2084694119230713856",
+              "start": 30,
+              "url": "https://t.co/H6ojFnPgSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084695134738792565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 955,
+          "impression_count": 136873,
+          "like_count": 4155,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "nah this mod got me fucked up https://t.co/H6ojFnPgSG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084694119230713856"
+          ],
+          "media_source_tweet_id": [
+            "2084695134738792565"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084865960125808872",
+        "created_at": "2026-08-05T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084865960125808872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031947476694155269",
+              "start": 3,
+              "username": "00004nf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6ojFnPgSG",
+              "end": 66,
+              "expanded_url": "https://x.com/00004nf/status/2084695134738792565/video/1",
+              "media_key": "13_2084694119230713856",
+              "start": 43,
+              "url": "https://t.co/H6ojFnPgSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084865960125808872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084695134738792565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @00004nf: nah this mod got me fucked up https://t.co/H6ojFnPgSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 312,
+          "like_count": 2957,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3411
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:16:53.000Z",
+        "description": "ava/m and mcsr posting NO REUPLOAD NO AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fourzerosfour.straw.page",
+                "end": 23,
+                "expanded_url": "https://fourzerosfour.straw.page/",
+                "start": 0,
+                "url": "https://t.co/JU8Om608Uw"
+              }
+            ]
+          }
+        },
+        "id": "2031947476694155269",
+        "name": "00004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057251339437031424/uPlT8P-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 45,
+          "like_count": 1935,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/JU8Om608Uw",
+        "username": "00004nf",
+        "verified": false
+      }
+    ]
+  }
+}

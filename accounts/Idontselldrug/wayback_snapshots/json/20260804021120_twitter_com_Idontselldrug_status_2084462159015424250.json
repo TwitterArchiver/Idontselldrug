@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084462148676444161"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2084462159015424250",
+    "created_at": "2026-08-04T02:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084462159015424250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlMb2E6STR",
+          "end": 147,
+          "expanded_url": "https://x.com/Idontselldrug/status/2084462159015424250/photo/1",
+          "media_key": "3_2084462148676444161",
+          "start": 124,
+          "url": "https://t.co/xlMb2E6STR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084462159015424250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开到了扎扎药，确诊了cptsd，难怪之前吃这么多抗抑郁药都不好使。\n现在准备以心理咨询为主药物治疗为辅，起码每月支出要几千块咨询费，我恨我的父母，他们给我造成了创伤，又让我对金钱敏感不想出钱治疗，一个月几千块真的能买我命了，我觉得我不值得这么多钱 https://t.co/xlMb2E6STR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2084462148676444161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1_R7-bYAEvunk.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084462148676444161"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2084462159015424250",
+        "created_at": "2026-08-04T02:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084462159015424250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlMb2E6STR",
+              "end": 147,
+              "expanded_url": "https://x.com/Idontselldrug/status/2084462159015424250/photo/1",
+              "media_key": "3_2084462148676444161",
+              "start": 124,
+              "url": "https://t.co/xlMb2E6STR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084462159015424250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开到了扎扎药，确诊了cptsd，难怪之前吃这么多抗抑郁药都不好使。\n现在准备以心理咨询为主药物治疗为辅，起码每月支出要几千块咨询费，我恨我的父母，他们给我造成了创伤，又让我对金钱敏感不想出钱治疗，一个月几千块真的能买我命了，我觉得我不值得这么多钱 https://t.co/xlMb2E6STR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 310,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

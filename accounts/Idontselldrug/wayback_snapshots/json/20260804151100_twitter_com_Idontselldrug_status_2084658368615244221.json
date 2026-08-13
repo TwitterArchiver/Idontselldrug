@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084426053162852352"
+      ],
+      "media_source_tweet_id": [
+        "2084426059445936172"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2084658368615244221",
+    "created_at": "2026-08-04T15:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084658368615244221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1093598766287015936",
+          "start": 3,
+          "username": "kingtisemedia"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Hdtoday.tr is official site of HDToday. Watch latest Hollywood, Bollywood, korean movies, Tv Shows, Dual Audio Movies and Web Series, Netflix WEB Series, Amazon Prime Series and lots more Series in Dual Audio (English and Hindi)",
+          "display_url": "Hdtoday.tr",
+          "end": 42,
+          "expanded_url": "http://Hdtoday.tr",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "Hdtoday ─ Watch latest movies online",
+          "unwound_url": "https://hdtoday.tr/",
+          "url": "https://t.co/VkeJaUM3HB"
+        },
+        {
+          "display_url": "pic.x.com/6R7F6O8xeR",
+          "end": 66,
+          "expanded_url": "https://x.com/kingtisemedia/status/2084426059445936172/photo/1",
+          "media_key": "16_2084426053162852352",
+          "start": 43,
+          "url": "https://t.co/6R7F6O8xeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084658368615244221",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084426059445936172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingtisemedia: https://t.co/VkeJaUM3HB https://t.co/6R7F6O8xeR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2084426053162852352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO1ec5tXYAAvNqK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO1ec5tXYAAvNqK.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084426053162852352"
+          ]
+        },
+        "author_id": "1093598766287015936",
+        "conversation_id": "2084426059445936172",
+        "created_at": "2026-08-03T23:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084426059445936172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Hdtoday.tr is official site of HDToday. Watch latest Hollywood, Bollywood, korean movies, Tv Shows, Dual Audio Movies and Web Series, Netflix WEB Series, Amazon Prime Series and lots more Series in Dual Audio (English and Hindi)",
+              "display_url": "Hdtoday.tr",
+              "end": 23,
+              "expanded_url": "http://Hdtoday.tr",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Hdtoday ─ Watch latest movies online",
+              "unwound_url": "https://hdtoday.tr/",
+              "url": "https://t.co/VkeJaUM3HB"
+            },
+            {
+              "display_url": "pic.x.com/6R7F6O8xeR",
+              "end": 47,
+              "expanded_url": "https://x.com/kingtisemedia/status/2084426059445936172/photo/1",
+              "media_key": "16_2084426053162852352",
+              "start": 24,
+              "url": "https://t.co/6R7F6O8xeR"
+            },
+            {
+              "display_url": "x.com/1cameronj/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/1cameronj/status/2084421446864982389",
+              "start": 48,
+              "url": "https://t.co/pAbzp1kWja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084426059445936172",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15277,
+          "impression_count": 865062,
+          "like_count": 14510,
+          "quote_count": 19,
+          "reply_count": 82,
+          "retweet_count": 539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084421446864982389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VkeJaUM3HB https://t.co/6R7F6O8xeR https://t.co/pAbzp1kWja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084426053162852352"
+          ],
+          "media_source_tweet_id": [
+            "2084426059445936172"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2084658368615244221",
+        "created_at": "2026-08-04T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084658368615244221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1093598766287015936",
+              "start": 3,
+              "username": "kingtisemedia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Hdtoday.tr is official site of HDToday. Watch latest Hollywood, Bollywood, korean movies, Tv Shows, Dual Audio Movies and Web Series, Netflix WEB Series, Amazon Prime Series and lots more Series in Dual Audio (English and Hindi)",
+              "display_url": "Hdtoday.tr",
+              "end": 42,
+              "expanded_url": "http://Hdtoday.tr",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2084426063510216704/oAKK7tKc?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "Hdtoday ─ Watch latest movies online",
+              "unwound_url": "https://hdtoday.tr/",
+              "url": "https://t.co/VkeJaUM3HB"
+            },
+            {
+              "display_url": "pic.x.com/6R7F6O8xeR",
+              "end": 66,
+              "expanded_url": "https://x.com/kingtisemedia/status/2084426059445936172/photo/1",
+              "media_key": "16_2084426053162852352",
+              "start": 43,
+              "url": "https://t.co/6R7F6O8xeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084658368615244221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084426059445936172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingtisemedia: https://t.co/VkeJaUM3HB https://t.co/6R7F6O8xeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 311,
+          "like_count": 2937,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-07T19:53:58.000Z",
+        "description": "idk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCD2pX…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCD2pXxpS3rhcGnAjbs8O0yg",
+                "start": 0,
+                "url": "https://t.co/MHwPK1hOSo"
+              }
+            ]
+          }
+        },
+        "id": "1093598766287015936",
+        "name": "kingtisemedia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066640782862192640/f4kDC9pJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 3884,
+          "like_count": 48381,
+          "listed_count": 64,
+          "media_count": 19429,
+          "tweet_count": 94594
+        },
+        "url": "https://t.co/MHwPK1hOSo",
+        "username": "kingtisemedia",
+        "verified": true
+      }
+    ]
+  }
+}

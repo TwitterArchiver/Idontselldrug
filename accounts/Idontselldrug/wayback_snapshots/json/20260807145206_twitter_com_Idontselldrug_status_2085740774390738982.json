@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2085740774390738982",
+    "created_at": "2026-08-07T14:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085740774390738982"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085740774390738982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想我在温哥华旅游七天是自己出去住还是厚脸皮白嫖我高中homestay的房子\n\n白嫖房子的好处是可以省钱，一天起码100刀，坏处是我怕我回家的时候一股大麻味被房东发现，然后就坏事了，他们会告诉我父母然后把我送中\n\n以我被害妄想症的性格本来应该果断搬出去住的，但是我是真想省点钱，好急好急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2085740774390738982",
+        "created_at": "2026-08-07T14:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085740774390738982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085740774390738982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想我在温哥华旅游七天是自己出去住还是厚脸皮白嫖我高中homestay的房子\n\n白嫖房子的好处是可以省钱，一天起码100刀，坏处是我怕我回家的时候一股大麻味被房东发现，然后就坏事了，他们会告诉我父母然后把我送中\n\n以我被害妄想症的性格本来应该果断搬出去住的，但是我是真想省点钱，好急好急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 313,
+          "like_count": 2998,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

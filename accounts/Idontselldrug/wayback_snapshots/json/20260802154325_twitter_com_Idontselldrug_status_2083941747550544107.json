@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2083941747550544107",
+    "created_at": "2026-08-02T15:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083941747550544107"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083941747550544107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又梦到创伤记忆了，梦到初中做题被折磨死活不想去学校，最后跟生物妈哭诉的时候吃了一块蛋糕，结果吃完了就把情绪给压下去了，最后去学校里写毛笔字，还挺有沉浸感的\n还梦到自己肌注脑蛋白水解物，不知道哪个部位还上网搜教程，之前从来不会肌注，梦醒之后真的有点鬼迷心窍想去试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2083941747550544107",
+        "created_at": "2026-08-02T15:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083941747550544107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083941747550544107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又梦到创伤记忆了，梦到初中做题被折磨死活不想去学校，最后跟生物妈哭诉的时候吃了一块蛋糕，结果吃完了就把情绪给压下去了，最后去学校里写毛笔字，还挺有沉浸感的\n还梦到自己肌注脑蛋白水解物，不知道哪个部位还上网搜教程，之前从来不会肌注，梦醒之后真的有点鬼迷心窍想去试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 309,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 3373
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

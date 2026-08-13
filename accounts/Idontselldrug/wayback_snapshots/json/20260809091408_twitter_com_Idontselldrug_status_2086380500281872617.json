@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086168023837130752"
+      ],
+      "media_source_tweet_id": [
+        "2086168026257228080"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2086380500281872617",
+    "created_at": "2026-08-09T09:14:08.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086380500281872617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568035825660690432",
+          "start": 3,
+          "username": "kamxdracos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k70gu9jSbb",
+          "end": 39,
+          "expanded_url": "https://x.com/kamxdracos/status/2086168026257228080/photo/1",
+          "media_key": "3_2086168023837130752",
+          "start": 16,
+          "url": "https://t.co/k70gu9jSbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086380500281872617",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086168023837130752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2026
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086168026257228080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamxdracos: https://t.co/k70gu9jSbb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2086168023837130752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOOw8KXQAAvCDf.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086168023837130752"
+          ]
+        },
+        "author_id": "1568035825660690432",
+        "conversation_id": "2086168026257228080",
+        "created_at": "2026-08-08T19:09:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086168026257228080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k70gu9jSbb",
+              "end": 23,
+              "expanded_url": "https://x.com/kamxdracos/status/2086168026257228080/photo/1",
+              "media_key": "3_2086168023837130752",
+              "start": 0,
+              "url": "https://t.co/k70gu9jSbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086168026257228080",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086168023837130752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 418,
+          "impression_count": 75264,
+          "like_count": 7862,
+          "quote_count": 44,
+          "reply_count": 8,
+          "retweet_count": 2026
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k70gu9jSbb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086168023837130752"
+          ],
+          "media_source_tweet_id": [
+            "2086168026257228080"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2086380500281872617",
+        "created_at": "2026-08-09T09:14:08.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086380500281872617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568035825660690432",
+              "start": 3,
+              "username": "kamxdracos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k70gu9jSbb",
+              "end": 39,
+              "expanded_url": "https://x.com/kamxdracos/status/2086168026257228080/photo/1",
+              "media_key": "3_2086168023837130752",
+              "start": 16,
+              "url": "https://t.co/k70gu9jSbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086380500281872617",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086168023837130752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2026
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086168026257228080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamxdracos: https://t.co/k70gu9jSbb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086380500281872617",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 315,
+          "like_count": 3040,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-09T00:37:40.000Z",
+        "description": "hustler",
+        "id": "1568035825660690432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086237084373729371",
+        "name": "Dracøs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568035825660690432/1766876007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082976936419000320/jBBFSdMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 393,
+          "like_count": 15518,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "kamxdracos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

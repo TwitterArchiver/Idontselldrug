@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2082677872884580376",
+    "created_at": "2026-07-30T04:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082677872884580376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This study aimed to evaluate the real-world effectiveness and psychiatric safety of tirzepatide among adults with schizophrenia spectrum disorders, focusing on the risks of mortality, hospitalization, and suicidal behavior. Based on the electronic health records from the TriNetX Global Collaborative …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/41389474/",
+          "end": 93,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/41389474/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/2082677874151284736/NvAaI6MF?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082677874151284736/NvAaI6MF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 70,
+          "status": 200,
+          "title": "Association between tirzepatide use and risk of mortality, hospitalization, and suicidal behavior in patients with schizophrenia spectrum disorders: A one-year retrospective cohort study of 3618 patients - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/41389474/",
+          "url": "https://t.co/pCTGP22aZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082677872884580376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "使用替尔泊肽的精神分裂患者自杀，住院等风险显著降低\n不一定是替尔泊肽导致的，但是存在联系\n反正我会考虑继续打这玩意，microdose试试\nhttps://t.co/pCTGP22aZ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2082677872884580376",
+        "created_at": "2026-07-30T04:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082677872884580376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This study aimed to evaluate the real-world effectiveness and psychiatric safety of tirzepatide among adults with schizophrenia spectrum disorders, focusing on the risks of mortality, hospitalization, and suicidal behavior. Based on the electronic health records from the TriNetX Global Collaborative …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/41389474/",
+              "end": 93,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/41389474/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/2082677874151284736/NvAaI6MF?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082677874151284736/NvAaI6MF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "Association between tirzepatide use and risk of mortality, hospitalization, and suicidal behavior in patients with schizophrenia spectrum disorders: A one-year retrospective cohort study of 3618 patients - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/41389474/",
+              "url": "https://t.co/pCTGP22aZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082677872884580376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用替尔泊肽的精神分裂患者自杀，住院等风险显著降低\n不一定是替尔泊肽导致的，但是存在联系\n反正我会考虑继续打这玩意，microdose试试\nhttps://t.co/pCTGP22aZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 306,
+          "like_count": 2842,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

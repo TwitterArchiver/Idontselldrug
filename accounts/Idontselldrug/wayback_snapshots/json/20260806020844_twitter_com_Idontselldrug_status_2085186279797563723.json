@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2085186279797563723",
+    "created_at": "2026-08-06T02:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085186279797563723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1272307487916597251",
+          "start": 3,
+          "username": "moreali2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085186279797563723",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085025765637210136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moreali2x: Y’all sexualized the word daddy too much my kids gonna have to call me nigger"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2085186279797563723",
+        "created_at": "2026-08-06T02:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085186279797563723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1272307487916597251",
+              "start": 3,
+              "username": "moreali2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085186279797563723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085025765637210136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moreali2x: Y’all sexualized the word daddy too much my kids gonna have to call me nigger"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272307487916597251",
+        "conversation_id": "2085025765637210136",
+        "created_at": "2026-08-05T15:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085025765637210136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085025765637210136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3891,
+          "impression_count": 1589919,
+          "like_count": 55582,
+          "quote_count": 337,
+          "reply_count": 295,
+          "retweet_count": 3341
+        },
+        "reply_settings": "everyone",
+        "text": "Y’all sexualized the word daddy too much my kids gonna have to call me nigger"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 312,
+          "like_count": 2975,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-14T23:18:48.000Z",
+        "description": "",
+        "id": "1272307487916597251",
+        "name": "•",
+        "pinned_tweet_id": "1802901331562074561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067290352864649216/MnAPH8kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 164,
+          "like_count": 6736,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "moreali2x",
+        "verified": false
+      }
+    ]
+  }
+}

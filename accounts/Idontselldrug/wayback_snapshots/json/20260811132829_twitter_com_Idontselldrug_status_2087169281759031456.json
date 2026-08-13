@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2087097487945568583",
+    "created_at": "2026-08-11T13:28:29.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087169281759031456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087169281759031456",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087097487945568583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 想给资产阶级敌人注入红色基因了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2087097487945568583",
+        "created_at": "2026-08-11T13:28:29.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087169281759031456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087169281759031456",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087097487945568583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 想给资产阶级敌人注入红色基因了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2087097487945568583",
+        "created_at": "2026-08-11T08:43:12.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087097487945568583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/libertyelysium…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/libertyelysium/status/2087096148305596592",
+              "start": 71,
+              "url": "https://t.co/CTRJ3q3vw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087097487945568583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087096148305596592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其中让我觉得最奇怪的是有人因为政治观点和前女友分手，但他xp之一又是操政治观点和自己相反的人享受那种征服敌方的感觉，我心想那做炮友不就好了吗 https://t.co/CTRJ3q3vw8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2087169281759031456",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 318,
+          "like_count": 3089,
+          "listed_count": 1,
+          "media_count": 563,
+          "tweet_count": 3526
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "is_identity_verified": false,
+        "location": "精神科",
+        "most_recent_tweet_id": "2087167674279399924",
+        "name": "周围神经病",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954724026806448128/1705667385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12154,
+          "following_count": 705,
+          "like_count": 91219,
+          "listed_count": 37,
+          "media_count": 2117,
+          "tweet_count": 32692
+        },
+        "url": "",
+        "username": "libertyelysium",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
