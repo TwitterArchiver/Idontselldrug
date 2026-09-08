@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093378399523975169"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2093378404829876317",
+    "created_at": "2026-08-28T16:41:19.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093378404829876317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFvtBnxqy0",
+          "end": 67,
+          "expanded_url": "https://x.com/Idontselldrug/status/2093378404829876317/photo/1",
+          "media_key": "3_2093378399523975169",
+          "start": 44,
+          "url": "https://t.co/AFvtBnxqy0"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2093358220995903738",
+          "start": 68,
+          "url": "https://t.co/qeHA7OF7DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093378404829876317",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093378399523975169"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093358220995903738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "演唱会票已经买了，提前奖励一下自己，因为我知道我会成功戒毒的\n\n主要是过几天估计会涨价 https://t.co/AFvtBnxqy0 https://t.co/qeHA7OF7DJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093378399523975169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0skCwaMAE20Pf.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093378399523975169"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093378404829876317",
+        "created_at": "2026-08-28T16:41:19.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093378404829876317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFvtBnxqy0",
+              "end": 67,
+              "expanded_url": "https://x.com/Idontselldrug/status/2093378404829876317/photo/1",
+              "media_key": "3_2093378399523975169",
+              "start": 44,
+              "url": "https://t.co/AFvtBnxqy0"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2093358220995903738",
+              "start": 68,
+              "url": "https://t.co/qeHA7OF7DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093378404829876317",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093378399523975169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093358220995903738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "演唱会票已经买了，提前奖励一下自己，因为我知道我会成功戒毒的\n\n主要是过几天估计会涨价 https://t.co/AFvtBnxqy0 https://t.co/qeHA7OF7DJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093358220995903738",
+        "created_at": "2026-08-28T15:21:07.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093358220995903738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093358220995903738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天我没一天清醒过 一直在吸毒 我觉得我要lock in了 开学了就不能这样子了 我必须保持清醒 不能再碰大麻和其他东西了\n\n虽然我没有上瘾，但是我手里的这些药物可以彻底断绝我对娱乐物质的冲动：\n安非他酮\n胍法辛\n莫达芬尼\nNAC\n纳曲酮\n替尔泊肽\n\n打算戒一周然后奖励自己一张去温哥华的机票和演唱会票"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2093378404829876317",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 339,
+          "like_count": 3605,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 3840
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

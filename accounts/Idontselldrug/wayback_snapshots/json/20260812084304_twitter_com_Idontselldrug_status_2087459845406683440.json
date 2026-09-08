@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087075261980241920"
+      ],
+      "media_source_tweet_id": [
+        "2087075298521108500"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2087459845406683440",
+    "created_at": "2026-08-12T08:43:04.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087459845406683440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3043299507",
+          "start": 3,
+          "username": "OdakTV1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/86VeSzVgeI",
+          "end": 87,
+          "expanded_url": "https://x.com/OdakTV1/status/2087075298521108500/video/1",
+          "media_key": "13_2087075261980241920",
+          "start": 64,
+          "url": "https://t.co/86VeSzVgeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087459845406683440",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2087075261980241920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087075298521108500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OdakTV1: Bir kedi, kendi bacağı tarafından saldırıya uğradı https://t.co/86VeSzVgeI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13966,
+        "height": 960,
+        "media_key": "13_2087075261980241920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087075261980241920/img/u3tfHCFoqACWP3dC.jpg",
+        "public_metrics": {
+          "view_count": 959636
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087075261980241920/vid/avc1/320x426/n9Fm5NLdCWMUOWjW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087075261980241920/vid/avc1/480x640/VFhyfLU0qgBEBFTM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087075261980241920/vid/avc1/720x960/FcIzmCwbEe63kpzb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087075261980241920/pl/nYuXIeGAJPfCKz9J.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087075261980241920"
+          ]
+        },
+        "author_id": "3043299507",
+        "conversation_id": "2087075298521108500",
+        "created_at": "2026-08-11T07:15:01.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087075298521108500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86VeSzVgeI",
+              "end": 74,
+              "expanded_url": "https://x.com/OdakTV1/status/2087075298521108500/video/1",
+              "media_key": "13_2087075261980241920",
+              "start": 51,
+              "url": "https://t.co/86VeSzVgeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087075298521108500",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2087075261980241920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3099,
+          "impression_count": 2097789,
+          "like_count": 37588,
+          "quote_count": 140,
+          "reply_count": 136,
+          "retweet_count": 2129
+        },
+        "reply_settings": "everyone",
+        "text": "Bir kedi, kendi bacağı tarafından saldırıya uğradı https://t.co/86VeSzVgeI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087075261980241920"
+          ],
+          "media_source_tweet_id": [
+            "2087075298521108500"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2087459845406683440",
+        "created_at": "2026-08-12T08:43:04.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087459845406683440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3043299507",
+              "start": 3,
+              "username": "OdakTV1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/86VeSzVgeI",
+              "end": 87,
+              "expanded_url": "https://x.com/OdakTV1/status/2087075298521108500/video/1",
+              "media_key": "13_2087075261980241920",
+              "start": 64,
+              "url": "https://t.co/86VeSzVgeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087459845406683440",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2087075261980241920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087075298521108500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OdakTV1: Bir kedi, kendi bacağı tarafından saldırıya uğradı https://t.co/86VeSzVgeI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2087459845406683440",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 320,
+          "like_count": 3118,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-17T18:49:48.000Z",
+        "description": "Yeni Nesil Dijital Medya. Türkiye'den ve dünyadan doğru, güvenilir, hızlı haber için 🔎DAK TV. İletişim ve haber ihbarı için: bilgi@odaktv.net",
+        "id": "3043299507",
+        "is_identity_verified": true,
+        "location": "İstanbul, Türkiye",
+        "most_recent_tweet_id": "2087459837768560743",
+        "name": "Odak TV",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3043299507/1726688375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836490262849212416/iZxtzdEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177748,
+          "following_count": 38,
+          "like_count": 27609,
+          "listed_count": 204,
+          "media_count": 47427,
+          "tweet_count": 51342
+        },
+        "url": "",
+        "username": "OdakTV1",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

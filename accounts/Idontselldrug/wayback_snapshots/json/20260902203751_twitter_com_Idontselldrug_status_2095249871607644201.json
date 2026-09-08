@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2095249871607644201",
+    "created_at": "2026-09-02T20:37:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095249871607644201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1842156639098707968",
+          "start": 3,
+          "username": "heyhexadecimal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095249871607644201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094844371745361964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heyhexadecimal: Winter arc challenge\nPorn daily\nAlcohol Daily\nNo exercising\n3-5 Hrs of sleep a night\n12+ Hours screentime\nDon't go to w…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2095249871607644201",
+        "created_at": "2026-09-02T20:37:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095249871607644201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1842156639098707968",
+              "start": 3,
+              "username": "heyhexadecimal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095249871607644201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094844371745361964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heyhexadecimal: Winter arc challenge\nPorn daily\nAlcohol Daily\nNo exercising\n3-5 Hrs of sleep a night\n12+ Hours screentime\nDon't go to w…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842156639098707968",
+        "conversation_id": "2094844371745361964",
+        "created_at": "2026-09-01T17:46:33.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094844371745361964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094844371745361964",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1017,
+          "impression_count": 344563,
+          "like_count": 15630,
+          "quote_count": 64,
+          "reply_count": 50,
+          "retweet_count": 1326
+        },
+        "reply_settings": "everyone",
+        "text": "Winter arc challenge\nPorn daily\nAlcohol Daily\nNo exercising\n3-5 Hrs of sleep a night\n12+ Hours screentime\nDon't go to work/ skip all classes\nIf in college GPA must stay below 2.0\nEat junk\nDespair daily"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095249871607644201",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 343,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 632,
+          "tweet_count": 3963
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-04T10:56:04.000Z",
+        "description": "engineer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hexadecimal.work",
+                "end": 23,
+                "expanded_url": "https://hexadecimal.work/",
+                "start": 0,
+                "url": "https://t.co/gSRfY46kaU"
+              }
+            ]
+          }
+        },
+        "id": "1842156639098707968",
+        "is_identity_verified": false,
+        "location": "vscode",
+        "most_recent_tweet_id": "2095188997555515503",
+        "name": "HexaDecimal",
+        "pinned_tweet_id": "1915640162886787178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842156639098707968/1763854830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995936624912588800/gZ0Zd0u7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7247,
+          "following_count": 353,
+          "like_count": 10802,
+          "listed_count": 8,
+          "media_count": 1238,
+          "tweet_count": 8157
+        },
+        "url": "https://t.co/gSRfY46kaU",
+        "username": "heyhexadecimal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094243856405671936"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094243861589819498",
+    "created_at": "2026-08-31T02:00:20.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094243861589819498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WF6blQ7mHA",
+          "end": 44,
+          "expanded_url": "https://x.com/Idontselldrug/status/2094243861589819498/photo/1",
+          "media_key": "3_2094243856405671936",
+          "start": 21,
+          "url": "https://t.co/WF6blQ7mHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094243861589819498",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094243856405671936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们中国人能吃点好的不，dmaa都吸上了 https://t.co/WF6blQ7mHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2094243856405671936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRA_sQ4asAA7bs8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094243856405671936"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094243861589819498",
+        "created_at": "2026-08-31T02:00:20.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094243861589819498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WF6blQ7mHA",
+              "end": 44,
+              "expanded_url": "https://x.com/Idontselldrug/status/2094243861589819498/photo/1",
+              "media_key": "3_2094243856405671936",
+              "start": 21,
+              "url": "https://t.co/WF6blQ7mHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094243861589819498",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094243856405671936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们中国人能吃点好的不，dmaa都吸上了 https://t.co/WF6blQ7mHA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094243861589819498",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 342,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

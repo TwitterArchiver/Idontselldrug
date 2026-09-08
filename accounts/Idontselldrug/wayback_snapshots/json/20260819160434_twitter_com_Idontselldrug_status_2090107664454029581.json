@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2090097798335397967",
+    "created_at": "2026-08-19T16:04:34.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090107664454029581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771182467128635392",
+          "start": 0,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090107664454029581",
+    "in_reply_to_user_id": "1771182467128635392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090107414511284587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PP_Konig 上海晶哥还很坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090097798335397967",
+        "created_at": "2026-08-19T16:04:34.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090107664454029581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771182467128635392",
+              "start": 0,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090107664454029581",
+        "in_reply_to_user_id": "1771182467128635392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090107414511284587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PP_Konig 上海晶哥还很坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771182467128635392",
+        "conversation_id": "2090097798335397967",
+        "created_at": "2026-08-19T16:03:34.000Z",
+        "display_text_range": [
+          15,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090107414511284587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090107414511284587",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090097798335397967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 上海人多 上海物价贵 上海人挤人 老一辈排外 就连我老家上海也不是很想死 上海确实活动很多西餐也好吃（为什么不去国外吃）但是当时是上海确实好贵啊 我气候好不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090107664454029581",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 329,
+          "like_count": 3308,
+          "listed_count": 0,
+          "media_count": 577,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以 妹妹@Rinko_zero8964女儿@Ace_purin好ro友@qngshu988723424",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ace_purin"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090107414511284587",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771182467128635392/1756391074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089893397285003264/fQDIRwOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 218,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

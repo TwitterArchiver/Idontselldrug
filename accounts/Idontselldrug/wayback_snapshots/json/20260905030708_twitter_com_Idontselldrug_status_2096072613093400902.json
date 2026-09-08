@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096072613093400902",
+    "created_at": "2026-09-05T03:07:08.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096072613093400902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2095334451048042550",
+          "start": 32,
+          "url": "https://t.co/QAEoUTrr9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096072613093400902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095334451048042550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个sativa好嗨，bodyhigh很明显我草 我要飞起来了 https://t.co/QAEoUTrr9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2095334435256442880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQfkTsaoAAnIiw.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2095334444643307520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQfk2qa0AA-ZFq.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096072613093400902",
+        "created_at": "2026-09-05T03:07:08.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096072613093400902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2095334451048042550",
+              "start": 32,
+              "url": "https://t.co/QAEoUTrr9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096072613093400902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095334451048042550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个sativa好嗨，bodyhigh很明显我草 我要飞起来了 https://t.co/QAEoUTrr9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095334435256442880",
+            "3_2095334444643307520"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095334451048042550",
+        "created_at": "2026-09-03T02:13:57.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095334451048042550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OWvUXvscI",
+              "end": 107,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095334451048042550/photo/1",
+              "media_key": "3_2095334435256442880",
+              "start": 84,
+              "url": "https://t.co/1OWvUXvscI"
+            },
+            {
+              "display_url": "pic.x.com/1OWvUXvscI",
+              "end": 107,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095334451048042550/photo/1",
+              "media_key": "3_2095334444643307520",
+              "start": 84,
+              "url": "https://t.co/1OWvUXvscI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095334451048042550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095334435256442880"
+          },
+          {
+            "media_key": "3_2095334444643307520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3451,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉大麻真的的是风险收益比最高的娱乐性药物之一了，我今天睡了六个小时去上课上的精疲力尽，试图抽点sativa让自己有力气爬起来整理家具，但是失败了，还是在床上接着躺着 https://t.co/1OWvUXvscI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096072613093400902",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 342,
+          "like_count": 3772,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

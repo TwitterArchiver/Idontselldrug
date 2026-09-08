@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094453454496510318",
+    "created_at": "2026-08-31T15:53:11.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094453454496510318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042352101624250368",
+          "start": 3,
+          "username": "dupreelingo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094453454496510318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094329959833616806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dupreelingo: this foreshadowing is too on the nose"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094453454496510318",
+        "created_at": "2026-08-31T15:53:11.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094453454496510318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042352101624250368",
+              "start": 3,
+              "username": "dupreelingo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094453454496510318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094329959833616806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dupreelingo: this foreshadowing is too on the nose"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042352101624250368",
+        "conversation_id": "2094329959833616806",
+        "created_at": "2026-08-31T07:42:27.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094329959833616806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quadrakyiro1/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/quadrakyiro1/status/2094233029526888690",
+              "start": 38,
+              "url": "https://t.co/71wOTu0tfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094329959833616806",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1203,
+          "impression_count": 990898,
+          "like_count": 21006,
+          "quote_count": 8,
+          "reply_count": 98,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094233029526888690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this foreshadowing is too on the nose https://t.co/71wOTu0tfB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094453454496510318",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 341,
+          "like_count": 3685,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3905
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T21:21:08.000Z",
+        "description": "bart",
+        "id": "2042352101624250368",
+        "is_identity_verified": false,
+        "location": "bart village",
+        "most_recent_tweet_id": "2094431688625394051",
+        "name": "dupreelingo",
+        "pinned_tweet_id": "2091574941212672429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042352101624250368/1787505583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061886468381978624/3Pl0etjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 207,
+          "like_count": 11649,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "dupreelingo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

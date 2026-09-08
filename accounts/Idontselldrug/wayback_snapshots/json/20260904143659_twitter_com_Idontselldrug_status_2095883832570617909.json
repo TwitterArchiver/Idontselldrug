@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095752378347569152"
+      ],
+      "media_source_tweet_id": [
+        "2095757946311344583"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095883832570617909",
+    "created_at": "2026-09-04T14:36:59.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095883832570617909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1324503416819863552",
+          "start": 3,
+          "username": "MikeDiplockre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9l7B5yO5J",
+          "end": 102,
+          "expanded_url": "https://x.com/MikeDiplockre/status/2095757946311344583/video/1",
+          "media_key": "13_2095752378347569152",
+          "start": 79,
+          "url": "https://t.co/c9l7B5yO5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095883832570617909",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095752378347569152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4355
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095757946311344583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikeDiplockre: You'll never guess what happens at 0:22\nAnd no, it's not AI https://t.co/c9l7B5yO5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105900,
+        "height": 1080,
+        "media_key": "13_2095752378347569152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095752378347569152/img/obeZkypXwHnppGRc.jpg",
+        "public_metrics": {
+          "view_count": 1715998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095752378347569152/vid/avc1/480x270/hrPv2TP25j1crcPu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095752378347569152/vid/avc1/640x360/cI41u4W5eFkPdFxv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095752378347569152/vid/avc1/1280x720/PMYKyBG-cD4f4hOW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095752378347569152/pl/Cl4wV4Y9EKgWMMcK.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095752378347569152"
+          ],
+          "media_source_tweet_id": [
+            "2095757946311344583"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095883832570617909",
+        "created_at": "2026-09-04T14:36:59.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095883832570617909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1324503416819863552",
+              "start": 3,
+              "username": "MikeDiplockre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9l7B5yO5J",
+              "end": 102,
+              "expanded_url": "https://x.com/MikeDiplockre/status/2095757946311344583/video/1",
+              "media_key": "13_2095752378347569152",
+              "start": 79,
+              "url": "https://t.co/c9l7B5yO5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095883832570617909",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095752378347569152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4355
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095757946311344583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikeDiplockre: You'll never guess what happens at 0:22\nAnd no, it's not AI https://t.co/c9l7B5yO5J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095752378347569152"
+          ]
+        },
+        "author_id": "1324503416819863552",
+        "conversation_id": "2095757946311344583",
+        "created_at": "2026-09-04T06:16:46.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095757946311344583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9l7B5yO5J",
+              "end": 83,
+              "expanded_url": "https://x.com/MikeDiplockre/status/2095757946311344583/video/1",
+              "media_key": "13_2095752378347569152",
+              "start": 60,
+              "url": "https://t.co/c9l7B5yO5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095757946311344583",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095752378347569152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17185,
+          "impression_count": 3851461,
+          "like_count": 78499,
+          "quote_count": 1181,
+          "reply_count": 773,
+          "retweet_count": 4356
+        },
+        "reply_settings": "everyone",
+        "text": "You'll never guess what happens at 0:22\nAnd no, it's not AI https://t.co/c9l7B5yO5J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095883832570617909",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 343,
+          "like_count": 3754,
+          "listed_count": 0,
+          "media_count": 634,
+          "tweet_count": 3990
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-06T00:06:48.000Z",
+        "description": "",
+        "id": "1324503416819863552",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2095757946311344583",
+        "name": "Mike Diplockre",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324503416819863552/1763860630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633515897016000519/1T1eZ_aP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8388,
+          "following_count": 632,
+          "like_count": 8887,
+          "listed_count": 39,
+          "media_count": 1684,
+          "tweet_count": 5449
+        },
+        "url": "",
+        "username": "MikeDiplockre",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

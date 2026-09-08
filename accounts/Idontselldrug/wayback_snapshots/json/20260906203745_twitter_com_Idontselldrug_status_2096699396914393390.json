@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096318852582019072"
+      ],
+      "media_source_tweet_id": [
+        "2096318878024421766"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096699396914393390",
+    "created_at": "2026-09-06T20:37:45.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096699396914393390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054483000365076480",
+          "start": 3,
+          "username": "Bahhumbuugs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6kXsAg7AB",
+          "end": 40,
+          "expanded_url": "https://x.com/Bahhumbuugs/status/2096318878024421766/video/1",
+          "media_key": "13_2096318852582019072",
+          "start": 17,
+          "url": "https://t.co/a6kXsAg7AB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096699396914393390",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2096318852582019072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6086
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096318878024421766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bahhumbuugs: https://t.co/a6kXsAg7AB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15400,
+        "height": 1280,
+        "media_key": "13_2096318852582019072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096318852582019072/img/0lqcPvfshQGZj_sh.jpg",
+        "public_metrics": {
+          "view_count": 147401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096318852582019072/vid/avc1/320x568/Wc1FyVympmZ6P7hf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096318852582019072/vid/avc1/480x852/bk6HjFSEptPT1lLT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096318852582019072/vid/avc1/720x1280/vB9dz2Evg98W8VLc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096318852582019072/pl/fBWc0aR7IqRt2cYh.m3u8?v=639"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096318852582019072"
+          ],
+          "media_source_tweet_id": [
+            "2096318878024421766"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096699396914393390",
+        "created_at": "2026-09-06T20:37:45.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096699396914393390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054483000365076480",
+              "start": 3,
+              "username": "Bahhumbuugs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6kXsAg7AB",
+              "end": 40,
+              "expanded_url": "https://x.com/Bahhumbuugs/status/2096318878024421766/video/1",
+              "media_key": "13_2096318852582019072",
+              "start": 17,
+              "url": "https://t.co/a6kXsAg7AB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096699396914393390",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2096318852582019072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6086
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096318878024421766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bahhumbuugs: https://t.co/a6kXsAg7AB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096318852582019072"
+          ]
+        },
+        "author_id": "2054483000365076480",
+        "conversation_id": "2096318878024421766",
+        "created_at": "2026-09-05T19:25:42.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096318878024421766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6kXsAg7AB",
+              "end": 23,
+              "expanded_url": "https://x.com/Bahhumbuugs/status/2096318878024421766/video/1",
+              "media_key": "13_2096318852582019072",
+              "start": 0,
+              "url": "https://t.co/a6kXsAg7AB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096318878024421766",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2096318852582019072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2624,
+          "impression_count": 251564,
+          "like_count": 28380,
+          "quote_count": 60,
+          "reply_count": 102,
+          "retweet_count": 6086
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a6kXsAg7AB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096699396914393390",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 343,
+          "like_count": 3810,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T08:46:22.000Z",
+        "description": "DNI: PEDO, N@ZI, racism, proshippers\nshitposting in ig daily or smth \nbanner by:@ifsaccount1 disc:18o92\nrblx: Mygoodroblax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "ifsaccount1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flexigons.straw.page",
+                "end": 23,
+                "expanded_url": "https://flexigons.straw.page",
+                "start": 0,
+                "url": "https://t.co/veGE1ZfOhD"
+              }
+            ]
+          }
+        },
+        "id": "2054483000365076480",
+        "is_identity_verified": false,
+        "location": "He/him, black ,18",
+        "most_recent_tweet_id": "2096698901776531812",
+        "name": "#1 Painkiller and Futuristic fan (Bahhumbug)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054483000365076480/1788037104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092286514973589504/E3CBs7_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 524,
+          "like_count": 17514,
+          "listed_count": 4,
+          "media_count": 1054,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/veGE1ZfOhD",
+        "username": "Bahhumbuugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

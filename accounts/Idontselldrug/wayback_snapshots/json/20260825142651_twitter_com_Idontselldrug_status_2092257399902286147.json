@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2092257399902286147",
+    "created_at": "2026-08-25T14:26:51.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092257399902286147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864784061597724672",
+          "start": 3,
+          "username": "RoseSilicon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092257399902286147",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092063931875418195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RoseSilicon: Sometimes I wonder if it’s better to sell my soul and do this for money"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2092257399902286147",
+        "created_at": "2026-08-25T14:26:51.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092257399902286147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864784061597724672",
+              "start": 3,
+              "username": "RoseSilicon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092257399902286147",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092063931875418195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RoseSilicon: Sometimes I wonder if it’s better to sell my soul and do this for money"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864784061597724672",
+        "conversation_id": "2092063931875418195",
+        "created_at": "2026-08-25T01:38:04.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092063931875418195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiayannn/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/reiayannn/status/2088405835747569892",
+              "start": 72,
+              "url": "https://t.co/AfTVLkY3ut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092063931875418195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 242436,
+          "like_count": 13954,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088405835747569892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sometimes I wonder if it’s better to sell my soul and do this for money https://t.co/AfTVLkY3ut"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092257399902286147",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 331,
+          "like_count": 3524,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T21:29:10.000Z",
+        "description": "I know too much and too little",
+        "id": "1864784061597724672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092256719804015090",
+        "name": "Sei K.",
+        "pinned_tweet_id": "1900019970777485418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864784061597724672/1787079814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061971995902844928/ggc2fmKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 2057,
+          "like_count": 73309,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 52812
+        },
+        "url": "",
+        "username": "RoseSilicon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

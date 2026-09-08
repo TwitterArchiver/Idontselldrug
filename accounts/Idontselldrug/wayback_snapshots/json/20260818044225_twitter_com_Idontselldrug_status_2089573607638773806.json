@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089573600877793280"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2089573607638773806",
+    "created_at": "2026-08-18T04:42:25.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089573607638773806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpsXwgHC8N",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/2089573607638773806/photo/1",
+          "media_key": "3_2089573600877793280",
+          "start": 0,
+          "url": "https://t.co/PpsXwgHC8N"
+        },
+        {
+          "display_url": "x.com/Nobara_kugii/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Nobara_kugii/status/2089073709814313022",
+          "start": 24,
+          "url": "https://t.co/NAo9evzKfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089573607638773806",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089573600877793280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089073709814313022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PpsXwgHC8N https://t.co/NAo9evzKfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2089573600877793280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-oHnRa0AAa6Q0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 716,
+        "media_key": "3_2088696243262566400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyKKrdbsAAAM_g.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089573600877793280"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2089573607638773806",
+        "created_at": "2026-08-18T04:42:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089573607638773806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpsXwgHC8N",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/2089573607638773806/photo/1",
+              "media_key": "3_2089573600877793280",
+              "start": 0,
+              "url": "https://t.co/PpsXwgHC8N"
+            },
+            {
+              "display_url": "x.com/Nobara_kugii/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Nobara_kugii/status/2089073709814313022",
+              "start": 24,
+              "url": "https://t.co/NAo9evzKfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089573607638773806",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089573600877793280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089073709814313022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PpsXwgHC8N https://t.co/NAo9evzKfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088696243262566400"
+          ]
+        },
+        "author_id": "2053082671308562432",
+        "conversation_id": "2089073709814313022",
+        "created_at": "2026-08-16T19:36:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089073709814313022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjAjTPGFvG",
+              "end": 23,
+              "expanded_url": "https://x.com/Nobara_kugii/status/2089073709814313022/photo/1",
+              "media_key": "3_2088696243262566400",
+              "start": 0,
+              "url": "https://t.co/TjAjTPGFvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089073709814313022",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088696243262566400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 21057,
+          "like_count": 1860,
+          "quote_count": 32,
+          "reply_count": 14,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TjAjTPGFvG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2089573618380669221",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 328,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T12:00:28.000Z",
+        "description": "✩ ✮ 𖤓ᰔ 𐔌՞ ܸ.ˬ.ܸ՞𐦯",
+        "id": "2053082671308562432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089550350894411840",
+        "name": "𖤓",
+        "pinned_tweet_id": "2055939888428486950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053082671308562432/1778328255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053083138071646208/otm2MCLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1003,
+          "like_count": 2186,
+          "listed_count": 3,
+          "media_count": 1228,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "Nobara_kugii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

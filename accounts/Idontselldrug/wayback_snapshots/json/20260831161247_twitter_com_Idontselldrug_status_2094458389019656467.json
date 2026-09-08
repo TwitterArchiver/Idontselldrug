@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094458389019656467",
+    "created_at": "2026-08-31T16:12:47.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094458389019656467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Isolation8964/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Isolation8964/status/2094352663467192752",
+          "start": 11,
+          "url": "https://t.co/Tim8ahu9YP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094458389019656467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094352663467192752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是男同小说狂热母猪 https://t.co/Tim8ahu9YP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094458389019656467",
+        "created_at": "2026-08-31T16:12:47.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094458389019656467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Isolation8964/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Isolation8964/status/2094352663467192752",
+              "start": 11,
+              "url": "https://t.co/Tim8ahu9YP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094458389019656467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094352663467192752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是男同小说狂热母猪 https://t.co/Tim8ahu9YP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972497129550860288",
+        "conversation_id": "2094352663467192752",
+        "created_at": "2026-08-31T09:12:40.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094352663467192752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094352663467192752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9101,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你开学的同学\n​1.男同小说狂热母猪\n​2.fps狂热笔电男大\n​3.假装爱玩gal的肥猪\n​4.玻璃心极端爱国粉蛆\n5.嘉豪臭屌体育生\n​6.音游推特双修痴(是我)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094458389019656467",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 341,
+          "like_count": 3685,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3912
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "参与率再次下跌\n查成分fo|INTP-A|CN/TW/EN|友跨非跨|自由主义|音游人|C-PTSD|生活健全\n能拥抱文明 能批判野蛮 / 与霸凌永恒敌对\nAsk: https://t.co/mUxacbDtRC\nOtherX:@Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 106,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 83,
+                "url": "https://t.co/mUxacbDtRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInHu2K"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Reality",
+        "most_recent_tweet_id": "2094448927303172437",
+        "name": "Is0.",
+        "pinned_tweet_id": "2093590069777232071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092784137187041280/9WWVwoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 167,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/lEYNInHu2K",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

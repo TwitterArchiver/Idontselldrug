@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094953138948087810"
+      ],
+      "media_source_tweet_id": [
+        "2094953383320756672"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2095247015961825590",
+    "created_at": "2026-09-02T20:26:31.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095247015961825590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "903393354905522176",
+          "start": 3,
+          "username": "Tismefullrajel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R9K0JLSOUP",
+          "end": 103,
+          "expanded_url": "https://x.com/Tismefullrajel/status/2094953383320756672/video/1",
+          "media_key": "13_2094953138948087810",
+          "start": 80,
+          "url": "https://t.co/R9K0JLSOUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095247015961825590",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "13_2094953138948087810"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 717
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094953383320756672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tismefullrajel: Revenir à la fac après 8h de brainrot par jour pendant 1 an https://t.co/R9K0JLSOUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10077,
+        "height": 1280,
+        "media_key": "13_2094953138948087810",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094953138948087810/img/5NirQKm8kMx3IIvI.jpg",
+        "public_metrics": {
+          "view_count": 93570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094953138948087810/vid/avc1/320x568/EAwjr9-pyNmpV3EE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094953138948087810/vid/avc1/480x852/LvA5Lef66jh9Ipyu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094953138948087810/vid/avc1/720x1280/nLbSdRJsG2THeIjS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094953138948087810/pl/lrgIwY4EAzfUntJ_.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094953138948087810"
+          ],
+          "media_source_tweet_id": [
+            "2094953383320756672"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2095247015961825590",
+        "created_at": "2026-09-02T20:26:31.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095247015961825590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "903393354905522176",
+              "start": 3,
+              "username": "Tismefullrajel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9K0JLSOUP",
+              "end": 103,
+              "expanded_url": "https://x.com/Tismefullrajel/status/2094953383320756672/video/1",
+              "media_key": "13_2094953138948087810",
+              "start": 80,
+              "url": "https://t.co/R9K0JLSOUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095247015961825590",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2094953138948087810"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 717
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094953383320756672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tismefullrajel: Revenir à la fac après 8h de brainrot par jour pendant 1 an https://t.co/R9K0JLSOUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094953138948087810"
+          ]
+        },
+        "author_id": "903393354905522176",
+        "conversation_id": "2094953383320756672",
+        "created_at": "2026-09-02T00:59:43.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094953383320756672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9K0JLSOUP",
+              "end": 83,
+              "expanded_url": "https://x.com/Tismefullrajel/status/2094953383320756672/video/1",
+              "media_key": "13_2094953138948087810",
+              "start": 60,
+              "url": "https://t.co/R9K0JLSOUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094953383320756672",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2094953138948087810"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 194635,
+          "like_count": 11598,
+          "quote_count": 24,
+          "reply_count": 17,
+          "retweet_count": 717
+        },
+        "reply_settings": "everyone",
+        "text": "Revenir à la fac après 8h de brainrot par jour pendant 1 an https://t.co/R9K0JLSOUP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095247015961825590",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 343,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 632,
+          "tweet_count": 3961
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-31T23:05:34.000Z",
+        "description": "Ticking time bomb \nՔրիստոս յարեաւ ի մեռելոց՜\n🇩🇿🇦🇲🇫🇷",
+        "id": "903393354905522176",
+        "is_identity_verified": false,
+        "location": "Wired",
+        "most_recent_tweet_id": "2095227905403945195",
+        "name": "D E G E N E R A T E",
+        "pinned_tweet_id": "2085931983125815531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/903393354905522176/1786298755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092925226526953472/Wim3otHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1000,
+          "like_count": 121724,
+          "listed_count": 1,
+          "media_count": 1802,
+          "tweet_count": 28444
+        },
+        "url": "",
+        "username": "Tismefullrajel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

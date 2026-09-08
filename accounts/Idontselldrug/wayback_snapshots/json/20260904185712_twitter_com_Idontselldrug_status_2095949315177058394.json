@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095947382496362496"
+      ],
+      "media_source_tweet_id": [
+        "2095947392302645321"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2095949315177058394",
+    "created_at": "2026-09-04T18:57:12.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095949315177058394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089393577118105600",
+          "start": 3,
+          "username": "jnrmvr_"
+        },
+        {
+          "end": 93,
+          "id": "1986452594206838785",
+          "start": 79,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/imzivaCXOE",
+          "end": 117,
+          "expanded_url": "https://x.com/jnrmvr_/status/2095947392302645321/photo/1",
+          "media_key": "3_2095947382496362496",
+          "start": 94,
+          "url": "https://t.co/imzivaCXOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095949315177058394",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095947382496362496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095947392302645321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jnrmvr_: its just amazing and wonderful to shit when u on some substances🫩😭@Idontselldrug https://t.co/imzivaCXOE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_2095947382496362496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZNCiGbAAA5060.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095947382496362496"
+          ],
+          "media_source_tweet_id": [
+            "2095947392302645321"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2095949315177058394",
+        "created_at": "2026-09-04T18:57:12.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095949315177058394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089393577118105600",
+              "start": 3,
+              "username": "jnrmvr_"
+            },
+            {
+              "end": 93,
+              "id": "1986452594206838785",
+              "start": 79,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/imzivaCXOE",
+              "end": 117,
+              "expanded_url": "https://x.com/jnrmvr_/status/2095947392302645321/photo/1",
+              "media_key": "3_2095947382496362496",
+              "start": 94,
+              "url": "https://t.co/imzivaCXOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095949315177058394",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095947382496362496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095947392302645321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jnrmvr_: its just amazing and wonderful to shit when u on some substances🫩😭@Idontselldrug https://t.co/imzivaCXOE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095947382496362496"
+          ]
+        },
+        "author_id": "2089393577118105600",
+        "conversation_id": "2095947392302645321",
+        "created_at": "2026-09-04T18:49:33.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095947392302645321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1986452594206838785",
+              "start": 66,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/imzivaCXOE",
+              "end": 104,
+              "expanded_url": "https://x.com/jnrmvr_/status/2095947392302645321/photo/1",
+              "media_key": "3_2095947382496362496",
+              "start": 81,
+              "url": "https://t.co/imzivaCXOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095947392302645321",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095947382496362496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "its just amazing and wonderful to shit when u on some substances🫩😭@Idontselldrug https://t.co/imzivaCXOE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095949315177058394",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 343,
+          "like_count": 3761,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 3996
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T16:48:51.000Z",
+        "description": "they/them",
+        "id": "2089393577118105600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095947392302645321",
+        "name": "Ratte",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089393577118105600/1786986222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090539950488088576/Boamv9OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 47,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "jnrmvr_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094994493577605124",
+        "3_2094994493598482434"
+      ],
+      "media_source_tweet_id": [
+        "2094994502343635052",
+        "2094994502343635052"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2095257477298458728",
+    "created_at": "2026-09-02T21:08:05.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T22:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095257477298458728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283979806783287298",
+          "start": 3,
+          "username": "ciccoria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6eW3sZqltx",
+          "end": 66,
+          "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+          "media_key": "3_2094994493577605124",
+          "start": 43,
+          "url": "https://t.co/6eW3sZqltx"
+        },
+        {
+          "display_url": "pic.x.com/6eW3sZqltx",
+          "end": 66,
+          "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+          "media_key": "3_2094994493598482434",
+          "start": 43,
+          "url": "https://t.co/6eW3sZqltx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095257477298458728",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2094994493577605124"
+      },
+      {
+        "media_key": "3_2094994493598482434"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094994502343635052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciccoria: how it looks vs how it feels https://t.co/6eW3sZqltx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094994493577605124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqZGQXsAQtMLu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 447,
+        "media_key": "3_2094994493598482434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLqZGVWQAI5Nua.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094994493577605124",
+            "3_2094994493598482434"
+          ],
+          "media_source_tweet_id": [
+            "2094994502343635052",
+            "2094994502343635052"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2095257477298458728",
+        "created_at": "2026-09-02T21:08:05.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T22:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095257477298458728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283979806783287298",
+              "start": 3,
+              "username": "ciccoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eW3sZqltx",
+              "end": 66,
+              "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+              "media_key": "3_2094994493577605124",
+              "start": 43,
+              "url": "https://t.co/6eW3sZqltx"
+            },
+            {
+              "display_url": "pic.x.com/6eW3sZqltx",
+              "end": 66,
+              "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+              "media_key": "3_2094994493598482434",
+              "start": 43,
+              "url": "https://t.co/6eW3sZqltx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095257477298458728",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094994493577605124"
+          },
+          {
+            "media_key": "3_2094994493598482434"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094994502343635052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciccoria: how it looks vs how it feels https://t.co/6eW3sZqltx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094994493577605124",
+            "3_2094994493598482434"
+          ]
+        },
+        "author_id": "1283979806783287298",
+        "conversation_id": "2094994502343635052",
+        "created_at": "2026-09-02T03:43:07.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094994502343635052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eW3sZqltx",
+              "end": 52,
+              "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+              "media_key": "3_2094994493577605124",
+              "start": 29,
+              "url": "https://t.co/6eW3sZqltx"
+            },
+            {
+              "display_url": "pic.x.com/6eW3sZqltx",
+              "end": 52,
+              "expanded_url": "https://x.com/ciccoria/status/2094994502343635052/photo/1",
+              "media_key": "3_2094994493598482434",
+              "start": 29,
+              "url": "https://t.co/6eW3sZqltx"
+            },
+            {
+              "display_url": "x.com/ciccoria/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/ciccoria/status/2078736449600475313",
+              "start": 53,
+              "url": "https://t.co/9hi6AkFSYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094994502343635052",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094994493577605124"
+          },
+          {
+            "media_key": "3_2094994493598482434"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2062,
+          "impression_count": 1274494,
+          "like_count": 40287,
+          "quote_count": 311,
+          "reply_count": 290,
+          "retweet_count": 2464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078736449600475313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "how it looks vs how it feels https://t.co/6eW3sZqltx https://t.co/9hi6AkFSYe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095257477298458728",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 343,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 632,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-17T04:20:44.000Z",
+        "description": "my names elena and im lovely and delightful",
+        "id": "1283979806783287298",
+        "is_identity_verified": false,
+        "location": "China, Nuevo León",
+        "most_recent_tweet_id": "2095216976222142843",
+        "name": "7",
+        "pinned_tweet_id": "1951541397586170005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283979806783287298/1775802289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046237187046244352/8gupAgoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1431,
+          "like_count": 47439,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "ciccoria",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

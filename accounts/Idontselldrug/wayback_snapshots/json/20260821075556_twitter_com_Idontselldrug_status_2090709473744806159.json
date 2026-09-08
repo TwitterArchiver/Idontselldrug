@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090709455486988288"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2090709473744806159",
+    "created_at": "2026-08-21T07:55:56.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090709473744806159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1549340020200247297",
+          "start": 16,
+          "username": "kkakakaww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlAbh5lIew",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2090709473744806159/photo/1",
+          "media_key": "3_2090709455486988288",
+          "start": 51,
+          "url": "https://t.co/zlAbh5lIew"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2090307533953249766",
+          "start": 75,
+          "url": "https://t.co/MRdzg6Yki3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090709473744806159",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090709455486988288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090307533953249766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好我收回这句话，来温哥华刚下飞机@kkakakaww 就给我roll上了，抽了三口就好大，一直在傻笑 https://t.co/zlAbh5lIew https://t.co/MRdzg6Yki3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2090709455486988288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOxLDbaMAANEdN.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090709455486988288"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090709473744806159",
+        "created_at": "2026-08-21T07:55:56.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090709473744806159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1549340020200247297",
+              "start": 16,
+              "username": "kkakakaww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlAbh5lIew",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090709473744806159/photo/1",
+              "media_key": "3_2090709455486988288",
+              "start": 51,
+              "url": "https://t.co/zlAbh5lIew"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2090307533953249766",
+              "start": 75,
+              "url": "https://t.co/MRdzg6Yki3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090709473744806159",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090709455486988288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090307533953249766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好我收回这句话，来温哥华刚下飞机@kkakakaww 就给我roll上了，抽了三口就好大，一直在傻笑 https://t.co/zlAbh5lIew https://t.co/MRdzg6Yki3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090307533953249766",
+        "created_at": "2026-08-20T05:18:46.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090307533953249766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090307533953249766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2714,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说出来你们可能不信，但我已经八个月没有摄入非法物质了，包括大麻，k粉之类的，我现在是中推禁毒大使"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090709473744806159",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 329,
+          "like_count": 3364,
+          "listed_count": 0,
+          "media_count": 583,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-19T10:27:08.000Z",
+        "description": "#drugtwt #weedtwt 蓝带法餐厨子\n社交电量时高时低 欢迎私信找我聊天\n免费提供大麻/药/毒相关咨询: 提问箱https://t.co/XCL3QhVP5r\n生命是由呼吸產生的幻覺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "weedtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mona66723",
+                "end": 85,
+                "expanded_url": "https://ngl.link/mona66723",
+                "start": 62,
+                "url": "https://t.co/XCL3QhVP5r"
+              }
+            ]
+          }
+        },
+        "id": "1549340020200247297",
+        "is_identity_verified": false,
+        "location": "North America",
+        "most_recent_tweet_id": "2090636238508421575",
+        "name": "桃奈^_-☆",
+        "pinned_tweet_id": "1592822586127552512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549340020200247297/1766844303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072438945481404416/tFuBDJyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 546,
+          "like_count": 1807,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "kkakakaww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

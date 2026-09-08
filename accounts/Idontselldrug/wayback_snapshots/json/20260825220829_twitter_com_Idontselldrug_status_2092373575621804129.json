@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092028741988048896"
+      ],
+      "media_source_tweet_id": [
+        "2092039254117376248"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092373575621804129",
+    "created_at": "2026-08-25T22:08:29.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T23:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092373575621804129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470363551407632384",
+          "start": 3,
+          "username": "koalakanru_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xikqzpVETT",
+          "end": 76,
+          "expanded_url": "https://x.com/koalakanru_/status/2092039254117376248/photo/1",
+          "media_key": "3_2092028741988048896",
+          "start": 53,
+          "url": "https://t.co/xikqzpVETT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092373575621804129",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092028741988048896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092039254117376248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koalakanru_: Argentinian Miku's Health Advice 🇦🇷 https://t.co/xikqzpVETT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_2092028741988048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQhhDooa4AASUXc.jpg",
+        "width": 2323
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092028741988048896"
+          ],
+          "media_source_tweet_id": [
+            "2092039254117376248"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092373575621804129",
+        "created_at": "2026-08-25T22:08:29.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092373575621804129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470363551407632384",
+              "start": 3,
+              "username": "koalakanru_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xikqzpVETT",
+              "end": 76,
+              "expanded_url": "https://x.com/koalakanru_/status/2092039254117376248/photo/1",
+              "media_key": "3_2092028741988048896",
+              "start": 53,
+              "url": "https://t.co/xikqzpVETT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092373575621804129",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092028741988048896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092039254117376248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koalakanru_: Argentinian Miku's Health Advice 🇦🇷 https://t.co/xikqzpVETT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092028741988048896"
+          ]
+        },
+        "author_id": "1470363551407632384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092039254117376248",
+        "created_at": "2026-08-25T00:00:01.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092039254117376248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xikqzpVETT",
+              "end": 59,
+              "expanded_url": "https://x.com/koalakanru_/status/2092039254117376248/photo/1",
+              "media_key": "3_2092028741988048896",
+              "start": 36,
+              "url": "https://t.co/xikqzpVETT"
+            },
+            {
+              "display_url": "x.com/DelindaArts/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/DelindaArts/status/2090550084387639629",
+              "start": 60,
+              "url": "https://t.co/vUV07wPzS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092039254117376248",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092028741988048896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 509,
+          "impression_count": 27589,
+          "like_count": 3938,
+          "quote_count": 17,
+          "reply_count": 34,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090550084387639629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Argentinian Miku's Health Advice 🇦🇷 https://t.co/xikqzpVETT https://t.co/vUV07wPzS2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092373575621804129",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 333,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 3780
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-13T12:02:58.000Z",
+        "description": "COMMISSIONS OPEN | artist | down atrocious for anime girls\nextras: @koalakanru_xtra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "koalakanru_xtra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/11217…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/112171214",
+                "start": 0,
+                "url": "https://t.co/ETjAjIpGlJ"
+              }
+            ]
+          }
+        },
+        "id": "1470363551407632384",
+        "is_identity_verified": false,
+        "location": "Commonwealth of Police State",
+        "most_recent_tweet_id": "2092223911211737148",
+        "name": "KKanru",
+        "pinned_tweet_id": "1957802970101281253",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470363551407632384/1780299447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047887365977628672/lYNGbpQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12048,
+          "following_count": 261,
+          "like_count": 91978,
+          "listed_count": 19,
+          "media_count": 390,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/ETjAjIpGlJ",
+        "username": "koalakanru_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

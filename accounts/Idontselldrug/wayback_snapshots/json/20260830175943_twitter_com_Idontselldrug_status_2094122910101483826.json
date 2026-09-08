@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1477389014458056707"
+      ],
+      "media_source_tweet_id": [
+        "1477389105176657927"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094122910101483826",
+    "created_at": "2026-08-30T17:59:43.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094122910101483826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945982978972094464",
+          "start": 3,
+          "username": "ragedoll03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNxFdTYyUx",
+          "end": 90,
+          "expanded_url": "https://x.com/Ejmiller25/status/1477389105176657927/video/1",
+          "media_key": "7_1477389014458056707",
+          "start": 67,
+          "url": "https://t.co/tNxFdTYyUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094122910101483826",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_1477389014458056707"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093827730810819055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ragedoll03: This has to be the result of some type of grooming https://t.co/tNxFdTYyUx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60066,
+        "height": 1024,
+        "media_key": "7_1477389014458056707",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1477389014458056707/pu/img/SQIfw96VeaSJGFQo.jpg",
+        "public_metrics": {
+          "view_count": 1308788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1477389014458056707/pu/vid/320x568/J2TDPhD9n-l45ozQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1477389014458056707/pu/vid/480x852/QRCEoKB8dCW4558F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1477389014458056707/pu/vid/576x1024/C9NCtxdy5LJHIwyW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1477389014458056707/pu/pl/iFvhE-nSALvZ6HvW.m3u8?tag=12&v=8a2"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1477389014458056707"
+          ],
+          "media_source_tweet_id": [
+            "1477389105176657927"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094122910101483826",
+        "created_at": "2026-08-30T17:59:43.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094122910101483826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945982978972094464",
+              "start": 3,
+              "username": "ragedoll03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNxFdTYyUx",
+              "end": 90,
+              "expanded_url": "https://x.com/Ejmiller25/status/1477389105176657927/video/1",
+              "media_key": "7_1477389014458056707",
+              "start": 67,
+              "url": "https://t.co/tNxFdTYyUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094122910101483826",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1477389014458056707"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093827730810819055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ragedoll03: This has to be the result of some type of grooming https://t.co/tNxFdTYyUx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1477389014458056707"
+          ],
+          "media_source_tweet_id": [
+            "1477389105176657927"
+          ]
+        },
+        "author_id": "1945982978972094464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093827730810819055",
+        "created_at": "2026-08-29T22:26:47.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T23:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093827730810819055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNxFdTYyUx",
+              "end": 74,
+              "expanded_url": "https://x.com/Ejmiller25/status/1477389105176657927/video/1",
+              "media_key": "7_1477389014458056707",
+              "start": 51,
+              "url": "https://t.co/tNxFdTYyUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093827730810819055",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1477389014458056707"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 676,
+          "impression_count": 311210,
+          "like_count": 3031,
+          "quote_count": 82,
+          "reply_count": 110,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "This has to be the result of some type of grooming https://t.co/tNxFdTYyUx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1477389014458056707"
+          ]
+        },
+        "author_id": "162857046",
+        "conversation_id": "1477389105176657927",
+        "created_at": "2022-01-01T21:19:45.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2022-01-01T21:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1477389105176657927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9I8TwCZWZ",
+              "end": 115,
+              "expanded_url": "https://x.com/Ejmiller25/status/1477389105176657927/video/1",
+              "media_key": "7_1477389014458056707",
+              "start": 92,
+              "url": "https://t.co/x9I8TwCZWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1477389105176657927",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1477389014458056707"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 0,
+          "like_count": 1636,
+          "quote_count": 471,
+          "reply_count": 164,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "Are white people okay? SSRIs should be a last resort, temporary, and not glamorized at all. https://t.co/x9I8TwCZWZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094122910101483826",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 340,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T23:04:40.000Z",
+        "description": "my diary :) no dni",
+        "id": "1945982978972094464",
+        "is_identity_verified": false,
+        "location": "NOT on SSRIs",
+        "most_recent_tweet_id": "2094120221732688171",
+        "name": "Reply Girl",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945982978972094464/1787534854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086218632405651456/cRtRKBme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 58,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "ragedoll03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

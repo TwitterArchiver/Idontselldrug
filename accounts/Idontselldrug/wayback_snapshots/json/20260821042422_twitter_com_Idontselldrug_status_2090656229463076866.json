@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2089544547701276672"
+      ],
+      "media_source_tweet_id": [
+        "2089544562301608329"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2090656229463076866",
+    "created_at": "2026-08-21T04:24:22.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090656229463076866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2017748191223988224",
+          "start": 3,
+          "username": "exxhibit_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3KSvqgohN",
+          "end": 105,
+          "expanded_url": "https://x.com/DemNationalist/status/2089544562301608329/photo/1",
+          "media_key": "16_2089544547701276672",
+          "start": 82,
+          "url": "https://t.co/I3KSvqgohN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090656229463076866",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2089544547701276672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1795
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090554988737032680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exxhibit_c: The intern who posted this realizing he left Epstein in the photo\nhttps://t.co/I3KSvqgohN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "16_2089544547701276672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HP-NsfwWwAAZLpx.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HP-NsfwWwAAZLpx.mp4"
+          }
+        ],
+        "width": 386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089544547701276672"
+          ],
+          "media_source_tweet_id": [
+            "2089544562301608329"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090656229463076866",
+        "created_at": "2026-08-21T04:24:22.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090656229463076866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2017748191223988224",
+              "start": 3,
+              "username": "exxhibit_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3KSvqgohN",
+              "end": 105,
+              "expanded_url": "https://x.com/DemNationalist/status/2089544562301608329/photo/1",
+              "media_key": "16_2089544547701276672",
+              "start": 82,
+              "url": "https://t.co/I3KSvqgohN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090656229463076866",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089544547701276672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1795
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090554988737032680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exxhibit_c: The intern who posted this realizing he left Epstein in the photo\nhttps://t.co/I3KSvqgohN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089544547701276672"
+          ],
+          "media_source_tweet_id": [
+            "2089544562301608329"
+          ]
+        },
+        "author_id": "2017748191223988224",
+        "conversation_id": "2090554988737032680",
+        "created_at": "2026-08-20T21:42:04.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T22:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090554988737032680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3KSvqgohN",
+              "end": 89,
+              "expanded_url": "https://x.com/DemNationalist/status/2089544562301608329/photo/1",
+              "media_key": "16_2089544547701276672",
+              "start": 66,
+              "url": "https://t.co/I3KSvqgohN"
+            },
+            {
+              "display_url": "x.com/usedgov/status…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/usedgov/status/2090122240360669200",
+              "start": 90,
+              "url": "https://t.co/fiq4PummDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090554988737032680",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089544547701276672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2651,
+          "impression_count": 1656161,
+          "like_count": 50128,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 1795
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090122240360669200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The intern who posted this realizing he left Epstein in the photo\nhttps://t.co/I3KSvqgohN https://t.co/fiq4PummDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089544547701276672"
+          ]
+        },
+        "author_id": "1345634006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2089544562301608329",
+        "created_at": "2026-08-18T02:47:00.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089544562301608329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iRyUV7KmF",
+              "end": 187,
+              "expanded_url": "https://x.com/DemNationalist/status/2089544562301608329/photo/1",
+              "media_key": "16_2089544547701276672",
+              "start": 164,
+              "url": "https://t.co/6iRyUV7KmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089544562301608329",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089544547701276672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 49618,
+          "like_count": 1157,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "“DAVID JOLLY CANT WIN” copers when they get a peek at the election results in November and it’s:\n\n(D) Jolly: 48.5%\n(R) Donalds: 41.7%\n(I) Fishback: 7.2% (Write-in) https://t.co/6iRyUV7KmF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090656229463076866",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 329,
+          "like_count": 3362,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 3698
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-31T23:54:31.000Z",
+        "description": "ladies & gentlemen I present: Exhibit C\nleftist politics/gaming/music/fitness/himbo\nDemocratic Socialist\nFor Those Who Come After",
+        "id": "2017748191223988224",
+        "is_identity_verified": false,
+        "location": "Sunshine State",
+        "most_recent_tweet_id": "2090649506681397759",
+        "name": "Exhibit C",
+        "pinned_tweet_id": "2054966149855531463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017748191223988224/1771814290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017748423588409347/umx4YRGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 674,
+          "like_count": 41679,
+          "listed_count": 5,
+          "media_count": 858,
+          "tweet_count": 6736
+        },
+        "url": "",
+        "username": "exxhibit_c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

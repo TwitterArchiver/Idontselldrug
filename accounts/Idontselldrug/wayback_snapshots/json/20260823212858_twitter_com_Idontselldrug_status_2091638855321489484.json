@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091638500013883392",
+        "3_2091638845695778816"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091638855321489484",
+    "created_at": "2026-08-23T21:28:58.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T22:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091638855321489484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vLgpoqIauj",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2091638855321489484/photo/1",
+          "media_key": "3_2091638500013883392",
+          "start": 51,
+          "url": "https://t.co/vLgpoqIauj"
+        },
+        {
+          "display_url": "pic.x.com/vLgpoqIauj",
+          "end": 74,
+          "expanded_url": "https://x.com/Idontselldrug/status/2091638855321489484/photo/1",
+          "media_key": "3_2091638845695778816",
+          "start": 51,
+          "url": "https://t.co/vLgpoqIauj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091638855321489484",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091638500013883392"
+      },
+      {
+        "media_key": "3_2091638845695778816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "温哥华是不是为数不多可以边吃正宗粤菜边抽大麻的地方\n这个红米肠好像跟我之前吃过的不一样 是虾滑和油条 https://t.co/vLgpoqIauj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2091638500013883392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQb-Ij_bwAAwGfZ.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2091638845695778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQb-crwa4AAP9Js.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091638500013883392",
+            "3_2091638845695778816"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091638855321489484",
+        "created_at": "2026-08-23T21:28:58.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T22:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091638855321489484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vLgpoqIauj",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2091638855321489484/photo/1",
+              "media_key": "3_2091638500013883392",
+              "start": 51,
+              "url": "https://t.co/vLgpoqIauj"
+            },
+            {
+              "display_url": "pic.x.com/vLgpoqIauj",
+              "end": 74,
+              "expanded_url": "https://x.com/Idontselldrug/status/2091638855321489484/photo/1",
+              "media_key": "3_2091638845695778816",
+              "start": 51,
+              "url": "https://t.co/vLgpoqIauj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091638855321489484",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091638500013883392"
+          },
+          {
+            "media_key": "3_2091638845695778816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温哥华是不是为数不多可以边吃正宗粤菜边抽大麻的地方\n这个红米肠好像跟我之前吃过的不一样 是虾滑和油条 https://t.co/vLgpoqIauj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2091638855321489484",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 330,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

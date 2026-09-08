@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2093165659496882505",
+    "created_at": "2026-08-28T02:35:57.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093165659496882505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tongzikin/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/tongzikin/status/2093162047534170112",
+          "start": 19,
+          "url": "https://t.co/ZikZU6mDyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093165659496882505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093162047534170112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能来个富婆看上我顺便送我个PR😾 https://t.co/ZikZU6mDyb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093165659496882505",
+        "created_at": "2026-08-28T02:35:57.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093165659496882505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tongzikin/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/tongzikin/status/2093162047534170112",
+              "start": 19,
+              "url": "https://t.co/ZikZU6mDyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093165659496882505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093162047534170112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能来个富婆看上我顺便送我个PR😾 https://t.co/ZikZU6mDyb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608684841729667073",
+        "conversation_id": "2093162047534170112",
+        "created_at": "2026-08-28T02:21:35.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093162047534170112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tongzikin/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/tongzikin/status/2093071759511855457",
+              "start": 19,
+              "url": "https://t.co/g0Vqa2gDvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093162047534170112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093071759511855457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "能不能来个富婆看上我顺便送我个PR😾 https://t.co/g0Vqa2gDvN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2093165659496882505",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 338,
+          "like_count": 3577,
+          "listed_count": 0,
+          "media_count": 608,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me / 🏳️‍⚧️ She|They / 臭学文科的\n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / 🐧 @Silent121_5 / 🌸 @Miaaaaaaama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "misaka1057"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Miaaaaaaama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRyODw"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "is_identity_verified": false,
+        "location": "Edmonton / Vancouver / Beijing",
+        "most_recent_tweet_id": "2093162047534170112",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2081796052462780489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608684841729667073/1675000942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080480264237842433/HA-o9WGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 2104,
+          "like_count": 29963,
+          "listed_count": 5,
+          "media_count": 1183,
+          "tweet_count": 4254
+        },
+        "url": "https://t.co/JbvqgRyODw",
+        "username": "tongzikin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

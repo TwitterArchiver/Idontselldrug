@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2088323505020395555",
+    "created_at": "2026-08-15T11:11:07.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088584266955489440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "RyuuseiMk1WEAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088584266955489440",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088323505020395555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuseiMk1WEAS 不如带枪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2088323505020395555",
+        "created_at": "2026-08-15T11:11:07.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088584266955489440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "RyuuseiMk1WEAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088584266955489440",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088323505020395555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuseiMk1WEAS 不如带枪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986894257194737665",
+        "conversation_id": "2088323505020395555",
+        "created_at": "2026-08-14T17:54:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088323505020395555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088323505020395555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們別jb吵帶不帶刀捅不捅人了 人人都concealed carry他才不亂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2088584266955489440",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 324,
+          "like_count": 3191,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mmP5Va7sfv",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mmP5Va7sfv",
+                "start": 0,
+                "url": "https://t.co/kso1Sq8Kdv"
+              }
+            ]
+          }
+        },
+        "id": "1986894257194737665",
+        "is_identity_verified": false,
+        "location": "Le monologue du meurtre",
+        "most_recent_tweet_id": "2088356117701128385",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2076293461788053565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986894257194737665/1774850697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087306385100787712/ZsUI5GOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1089,
+          "like_count": 4653,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/kso1Sq8Kdv",
+        "username": "RyuuseiMk1WEAS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091370879360139264",
+        "3_2091370879355891712"
+      ],
+      "media_source_tweet_id": [
+        "2091370892911915302",
+        "2091370892911915302"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091510970573345017",
+    "created_at": "2026-08-23T13:00:48.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091510970573345017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1549340020200247297",
+          "start": 3,
+          "username": "kkakakaww"
+        },
+        {
+          "end": 29,
+          "id": "1986452594206838785",
+          "start": 15,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14LPDbeZmv",
+          "end": 58,
+          "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+          "media_key": "3_2091370879360139264",
+          "start": 35,
+          "url": "https://t.co/14LPDbeZmv"
+        },
+        {
+          "display_url": "pic.x.com/14LPDbeZmv",
+          "end": 58,
+          "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+          "media_key": "3_2091370879355891712",
+          "start": 35,
+          "url": "https://t.co/14LPDbeZmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091510970573345017",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091370879360139264"
+      },
+      {
+        "media_key": "3_2091370879355891712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091370892911915302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkakakaww: @Idontselldrug 飞行野炊 https://t.co/14LPDbeZmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091370879360139264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYKu_XbgAAZ1ws.jpg",
+        "width": 1790
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091370879355891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYKu_WasAAs6eF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091370879360139264",
+            "3_2091370879355891712"
+          ],
+          "media_source_tweet_id": [
+            "2091370892911915302",
+            "2091370892911915302"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091510970573345017",
+        "created_at": "2026-08-23T13:00:48.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091510970573345017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1549340020200247297",
+              "start": 3,
+              "username": "kkakakaww"
+            },
+            {
+              "end": 29,
+              "id": "1986452594206838785",
+              "start": 15,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14LPDbeZmv",
+              "end": 58,
+              "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+              "media_key": "3_2091370879360139264",
+              "start": 35,
+              "url": "https://t.co/14LPDbeZmv"
+            },
+            {
+              "display_url": "pic.x.com/14LPDbeZmv",
+              "end": 58,
+              "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+              "media_key": "3_2091370879355891712",
+              "start": 35,
+              "url": "https://t.co/14LPDbeZmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091510970573345017",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091370879360139264"
+          },
+          {
+            "media_key": "3_2091370879355891712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091370892911915302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkakakaww: @Idontselldrug 飞行野炊 https://t.co/14LPDbeZmv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091370879360139264",
+            "3_2091370879355891712"
+          ]
+        },
+        "author_id": "1549340020200247297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091370892911915302",
+        "created_at": "2026-08-23T03:44:11.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091370892911915302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14LPDbeZmv",
+              "end": 43,
+              "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+              "media_key": "3_2091370879360139264",
+              "start": 20,
+              "url": "https://t.co/14LPDbeZmv"
+            },
+            {
+              "display_url": "pic.x.com/14LPDbeZmv",
+              "end": 43,
+              "expanded_url": "https://x.com/kkakakaww/status/2091370892911915302/photo/1",
+              "media_key": "3_2091370879355891712",
+              "start": 20,
+              "url": "https://t.co/14LPDbeZmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091370892911915302",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091370879360139264"
+          },
+          {
+            "media_key": "3_2091370879355891712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 202,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 飞行野炊 https://t.co/14LPDbeZmv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2091510970573345017",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 328,
+          "like_count": 3440,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-19T10:27:08.000Z",
+        "description": "#drugtwt #weedtwt 蓝带法餐厨子\n社交电量时高时低 欢迎私信找我聊天\n免费提供大麻/药/毒相关咨询: 提问箱https://t.co/XCL3QhVP5r\n生命是由呼吸產生的幻覺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "weedtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mona66723",
+                "end": 85,
+                "expanded_url": "https://ngl.link/mona66723",
+                "start": 62,
+                "url": "https://t.co/XCL3QhVP5r"
+              }
+            ]
+          }
+        },
+        "id": "1549340020200247297",
+        "is_identity_verified": false,
+        "location": "North America",
+        "most_recent_tweet_id": "2091371506735735118",
+        "name": "桃奈^_-☆",
+        "pinned_tweet_id": "1592822586127552512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549340020200247297/1766844303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072438945481404416/tFuBDJyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 544,
+          "like_count": 1812,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "kkakakaww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096005140704882688"
+      ],
+      "media_source_tweet_id": [
+        "2096005143133094309"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096286887979999506",
+    "created_at": "2026-09-05T17:18:35.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096286887979999506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1349146721499009027",
+          "start": 3,
+          "username": "Stickybun6699"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x8Zjogtwtw",
+          "end": 42,
+          "expanded_url": "https://x.com/Stickybun6699/status/2096005143133094309/photo/1",
+          "media_key": "3_2096005140704882688",
+          "start": 19,
+          "url": "https://t.co/x8Zjogtwtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096286887979999506",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096005140704882688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096005143133094309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stickybun6699: https://t.co/x8Zjogtwtw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2096005140704882688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRaBkgMbcAA2ExK.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096005140704882688"
+          ],
+          "media_source_tweet_id": [
+            "2096005143133094309"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096286887979999506",
+        "created_at": "2026-09-05T17:18:35.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096286887979999506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1349146721499009027",
+              "start": 3,
+              "username": "Stickybun6699"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8Zjogtwtw",
+              "end": 42,
+              "expanded_url": "https://x.com/Stickybun6699/status/2096005143133094309/photo/1",
+              "media_key": "3_2096005140704882688",
+              "start": 19,
+              "url": "https://t.co/x8Zjogtwtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096286887979999506",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096005140704882688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096005143133094309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stickybun6699: https://t.co/x8Zjogtwtw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096005140704882688"
+          ]
+        },
+        "author_id": "1349146721499009027",
+        "conversation_id": "2096005143133094309",
+        "created_at": "2026-09-04T22:39:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T23:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096005143133094309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8Zjogtwtw",
+              "end": 23,
+              "expanded_url": "https://x.com/Stickybun6699/status/2096005143133094309/photo/1",
+              "media_key": "3_2096005140704882688",
+              "start": 0,
+              "url": "https://t.co/x8Zjogtwtw"
+            },
+            {
+              "display_url": "x.com/charliekirk11/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/charliekirk11/status/2095542245344846032",
+              "start": 24,
+              "url": "https://t.co/I80Wtkzisy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096005143133094309",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096005140704882688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3144,
+          "impression_count": 4120173,
+          "like_count": 88701,
+          "quote_count": 19,
+          "reply_count": 24,
+          "retweet_count": 4860
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095542245344846032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/x8Zjogtwtw https://t.co/I80Wtkzisy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096286887979999506",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 342,
+          "like_count": 3782,
+          "listed_count": 0,
+          "media_count": 637,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-13T00:10:30.000Z",
+        "description": "",
+        "id": "1349146721499009027",
+        "is_identity_verified": false,
+        "location": "Honolulu, HI",
+        "most_recent_tweet_id": "2096005143133094309",
+        "name": "Aki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349146721499009027/1755331000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758404965054189568/ozMNwr43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 19,
+          "like_count": 7398,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "Stickybun6699",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

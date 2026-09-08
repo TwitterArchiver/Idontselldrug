@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094276195072557137",
+    "created_at": "2026-08-31T04:08:49.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T05:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094276195072557137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1122631844913143808",
+          "start": 3,
+          "username": "iiirite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094276195072557137",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094163609571991882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiirite: this video is frying me dude cant u see its dead. its rolled over on its back that means its dead. leave it alone"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094276195072557137",
+        "created_at": "2026-08-31T04:08:49.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094276195072557137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1122631844913143808",
+              "start": 3,
+              "username": "iiirite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094276195072557137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094163609571991882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiirite: this video is frying me dude cant u see its dead. its rolled over on its back that means its dead. leave it alone"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122631844913143808",
+        "conversation_id": "2094163609571991882",
+        "created_at": "2026-08-30T20:41:26.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094163609571991882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LendarioK7/sta…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/LendarioK7/status/2094145118810882478",
+              "start": 114,
+              "url": "https://t.co/bisnW80Kj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094163609571991882",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4862,
+          "impression_count": 2630512,
+          "like_count": 77156,
+          "quote_count": 35,
+          "reply_count": 100,
+          "retweet_count": 3243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094145118810882478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this video is frying me dude cant u see its dead. its rolled over on its back that means its dead. leave it alone https://t.co/bisnW80Kj4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094276195072557137",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 342,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3899
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-28T22:41:04.000Z",
+        "description": "baby(24) // dollthing 🎀🖤🤍 // magical girl 💖 // i love ramlethal valentine 🍀 // dms open // loves u!!! 💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "irite.straw.page",
+                "end": 23,
+                "expanded_url": "http://irite.straw.page",
+                "start": 0,
+                "url": "https://t.co/4kVNrs0E2b"
+              }
+            ]
+          }
+        },
+        "id": "1122631844913143808",
+        "is_identity_verified": false,
+        "location": "she/her/it/its",
+        "most_recent_tweet_id": "2094268357067329740",
+        "name": "princess irite 🎀",
+        "pinned_tweet_id": "1904317565083488494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122631844913143808/1752891169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031767663777615873/NCe5oD3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1133,
+          "like_count": 500777,
+          "listed_count": 6,
+          "media_count": 1137,
+          "tweet_count": 64895
+        },
+        "url": "https://t.co/4kVNrs0E2b",
+        "username": "iiirite",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

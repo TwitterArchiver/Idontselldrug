@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094088082655948800"
+      ],
+      "media_source_tweet_id": [
+        "2094088191158477060"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094272843102187988",
+    "created_at": "2026-08-31T03:55:30.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T04:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094272843102187988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1253378723363119105",
+          "start": 3,
+          "username": "LAscended"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kK5WUWoelQ",
+          "end": 38,
+          "expanded_url": "https://x.com/LAscended/status/2094088191158477060/video/1",
+          "media_key": "13_2094088082655948800",
+          "start": 15,
+          "url": "https://t.co/kK5WUWoelQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094272843102187988",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2094088082655948800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094088191158477060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LAscended: https://t.co/kK5WUWoelQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7291,
+        "height": 1024,
+        "media_key": "13_2094088082655948800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094088082655948800/img/GFP3cket-VWML5dI.jpg",
+        "public_metrics": {
+          "view_count": 45068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094088082655948800/vid/avc1/320x568/W9gdw4kM001turzR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094088082655948800/vid/avc1/480x852/pVN00t6z5bbDvPgN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094088082655948800/vid/avc1/576x1024/077AihYljo8yvMA4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094088082655948800/pl/Y-Ef7ItFGUFZrhls.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094088082655948800"
+          ],
+          "media_source_tweet_id": [
+            "2094088191158477060"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094272843102187988",
+        "created_at": "2026-08-31T03:55:30.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094272843102187988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1253378723363119105",
+              "start": 3,
+              "username": "LAscended"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK5WUWoelQ",
+              "end": 38,
+              "expanded_url": "https://x.com/LAscended/status/2094088191158477060/video/1",
+              "media_key": "13_2094088082655948800",
+              "start": 15,
+              "url": "https://t.co/kK5WUWoelQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094272843102187988",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094088082655948800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094088191158477060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LAscended: https://t.co/kK5WUWoelQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094088082655948800"
+          ]
+        },
+        "author_id": "1253378723363119105",
+        "conversation_id": "2094088191158477060",
+        "created_at": "2026-08-30T15:41:45.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094088191158477060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK5WUWoelQ",
+              "end": 23,
+              "expanded_url": "https://x.com/LAscended/status/2094088191158477060/video/1",
+              "media_key": "13_2094088082655948800",
+              "start": 0,
+              "url": "https://t.co/kK5WUWoelQ"
+            },
+            {
+              "display_url": "x.com/P0PKULTURE/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/P0PKULTURE/status/2033634343894352201",
+              "start": 24,
+              "url": "https://t.co/sHpVORjOdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094088191158477060",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094088082655948800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1084,
+          "impression_count": 109747,
+          "like_count": 5250,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033634343894352201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kK5WUWoelQ https://t.co/sHpVORjOdr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094272843102187988",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 342,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T17:42:35.000Z",
+        "description": "Formerly Lord Vucic, I like indie games and garbage memes. And also this one character called Salem by @SEA_URCHlN, really like that one a lot.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "SEA_URCHlN"
+              }
+            ]
+          }
+        },
+        "id": "1253378723363119105",
+        "is_identity_verified": false,
+        "location": "he/him, 23",
+        "most_recent_tweet_id": "2094252117036847571",
+        "name": "Lord Lobotomite ASCENDED",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253378723363119105/1613408049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527233697245700096/hbnYo-Rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 321,
+          "like_count": 555297,
+          "listed_count": 6,
+          "media_count": 2495,
+          "tweet_count": 67234
+        },
+        "url": "",
+        "username": "LAscended",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

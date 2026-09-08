@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092098464339660800",
+        "3_2092098474838048768"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2092098485285994594",
+    "created_at": "2026-08-25T03:55:22.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092098485285994594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fyFzIYbhDJ",
+          "end": 107,
+          "expanded_url": "https://x.com/Idontselldrug/status/2092098485285994594/photo/1",
+          "media_key": "3_2092098464339660800",
+          "start": 84,
+          "url": "https://t.co/fyFzIYbhDJ"
+        },
+        {
+          "display_url": "pic.x.com/fyFzIYbhDJ",
+          "end": 107,
+          "expanded_url": "https://x.com/Idontselldrug/status/2092098485285994594/photo/1",
+          "media_key": "3_2092098474838048768",
+          "start": 84,
+          "url": "https://t.co/fyFzIYbhDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092098485285994594",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092098464339660800"
+      },
+      {
+        "media_key": "3_2092098474838048768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道是吸了k还是抽了大麻，抑郁症好了不少，连出门犯恶心的躯体化这两天也从来没犯病\n\n痛苦的日子正在远去，现在我感觉很好，Tutto Passa，我相信一切都会过去的 https://t.co/fyFzIYbhDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2092098464339660800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQigeAobEAARyk6.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2092098474838048768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQigenvbwAAs7t9.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092098464339660800",
+            "3_2092098474838048768"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2092098485285994594",
+        "created_at": "2026-08-25T03:55:22.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092098485285994594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyFzIYbhDJ",
+              "end": 107,
+              "expanded_url": "https://x.com/Idontselldrug/status/2092098485285994594/photo/1",
+              "media_key": "3_2092098464339660800",
+              "start": 84,
+              "url": "https://t.co/fyFzIYbhDJ"
+            },
+            {
+              "display_url": "pic.x.com/fyFzIYbhDJ",
+              "end": 107,
+              "expanded_url": "https://x.com/Idontselldrug/status/2092098485285994594/photo/1",
+              "media_key": "3_2092098474838048768",
+              "start": 84,
+              "url": "https://t.co/fyFzIYbhDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092098485285994594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092098464339660800"
+          },
+          {
+            "media_key": "3_2092098474838048768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是吸了k还是抽了大麻，抑郁症好了不少，连出门犯恶心的躯体化这两天也从来没犯病\n\n痛苦的日子正在远去，现在我感觉很好，Tutto Passa，我相信一切都会过去的 https://t.co/fyFzIYbhDJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092098485285994594",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 331,
+          "like_count": 3515,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 3770
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

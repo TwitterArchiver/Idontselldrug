@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091611351080636416",
+        "3_2091611350988382208",
+        "3_2091611350996803584",
+        "3_2091611351072317440"
+      ],
+      "media_source_tweet_id": [
+        "2091611354515865959",
+        "2091611354515865959",
+        "2091611354515865959",
+        "2091611354515865959"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2091963396723974431",
+    "created_at": "2026-08-24T18:58:35.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091963396723974431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "107238136",
+          "start": 3,
+          "username": "duolingo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rm9Dd2holD",
+          "end": 58,
+          "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+          "media_key": "3_2091611351080636416",
+          "start": 35,
+          "url": "https://t.co/rm9Dd2holD"
+        },
+        {
+          "display_url": "pic.x.com/rm9Dd2holD",
+          "end": 58,
+          "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+          "media_key": "3_2091611350988382208",
+          "start": 35,
+          "url": "https://t.co/rm9Dd2holD"
+        },
+        {
+          "display_url": "pic.x.com/rm9Dd2holD",
+          "end": 58,
+          "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+          "media_key": "3_2091611350996803584",
+          "start": 35,
+          "url": "https://t.co/rm9Dd2holD"
+        },
+        {
+          "display_url": "pic.x.com/rm9Dd2holD",
+          "end": 58,
+          "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+          "media_key": "3_2091611351072317440",
+          "start": 35,
+          "url": "https://t.co/rm9Dd2holD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091963396723974431",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2091611351080636416"
+      },
+      {
+        "media_key": "3_2091611350988382208"
+      },
+      {
+        "media_key": "3_2091611350996803584"
+      },
+      {
+        "media_key": "3_2091611351072317440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091611354515865959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duolingo: two twos my bird fam https://t.co/rm9Dd2holD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2091611351080636416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblcSVWEAAFTkd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2091611350988382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblcR_WYAAPQIr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2091611350996803584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblcSBW4AAWA72.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2091611351072317440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblcSTXIAASNZ1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091611351080636416",
+            "3_2091611350988382208",
+            "3_2091611350996803584",
+            "3_2091611351072317440"
+          ],
+          "media_source_tweet_id": [
+            "2091611354515865959",
+            "2091611354515865959",
+            "2091611354515865959",
+            "2091611354515865959"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2091963396723974431",
+        "created_at": "2026-08-24T18:58:35.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091963396723974431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "107238136",
+              "start": 3,
+              "username": "duolingo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 58,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611351080636416",
+              "start": 35,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 58,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611350988382208",
+              "start": 35,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 58,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611350996803584",
+              "start": 35,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 58,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611351072317440",
+              "start": 35,
+              "url": "https://t.co/rm9Dd2holD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091963396723974431",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091611351080636416"
+          },
+          {
+            "media_key": "3_2091611350988382208"
+          },
+          {
+            "media_key": "3_2091611350996803584"
+          },
+          {
+            "media_key": "3_2091611351072317440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091611354515865959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duolingo: two twos my bird fam https://t.co/rm9Dd2holD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091611351080636416",
+            "3_2091611350988382208",
+            "3_2091611350996803584",
+            "3_2091611351072317440"
+          ]
+        },
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2091611354515865959",
+        "created_at": "2026-08-23T19:39:41.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091611354515865959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 44,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611351080636416",
+              "start": 21,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 44,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611350988382208",
+              "start": 21,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 44,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611350996803584",
+              "start": 21,
+              "url": "https://t.co/rm9Dd2holD"
+            },
+            {
+              "display_url": "pic.x.com/rm9Dd2holD",
+              "end": 44,
+              "expanded_url": "https://x.com/duolingo/status/2091611354515865959/photo/1",
+              "media_key": "3_2091611351072317440",
+              "start": 21,
+              "url": "https://t.co/rm9Dd2holD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091611354515865959",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091611351080636416"
+          },
+          {
+            "media_key": "3_2091611350988382208"
+          },
+          {
+            "media_key": "3_2091611350996803584"
+          },
+          {
+            "media_key": "3_2091611351072317440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 240956,
+          "like_count": 2878,
+          "quote_count": 130,
+          "reply_count": 77,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "two twos my bird fam https://t.co/rm9Dd2holD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2091963396723974431",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 332,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 598,
+          "tweet_count": 3756
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "hot owl summer 💚🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "http://duolingo.com",
+                "start": 0,
+                "url": "https://t.co/rkZWsyHSRz"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091903987750523326",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107238136/1770052240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072277831376093184/U5-jTCUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032130,
+          "following_count": 506,
+          "like_count": 24417,
+          "listed_count": 2786,
+          "media_count": 2086,
+          "tweet_count": 54213
+        },
+        "url": "https://t.co/rkZWsyHSRz",
+        "username": "duolingo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

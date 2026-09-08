@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093960056912154624",
+        "3_2093960067179847680"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2093960073349571028",
+    "created_at": "2026-08-30T07:12:40.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093960073349571028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/US1DWG66cv",
+          "end": 139,
+          "expanded_url": "https://x.com/Idontselldrug/status/2093960073349571028/photo/1",
+          "media_key": "3_2093960056912154624",
+          "start": 116,
+          "url": "https://t.co/US1DWG66cv"
+        },
+        {
+          "display_url": "pic.x.com/US1DWG66cv",
+          "end": 139,
+          "expanded_url": "https://x.com/Idontselldrug/status/2093960073349571028/photo/1",
+          "media_key": "3_2093960067179847680",
+          "start": 116,
+          "url": "https://t.co/US1DWG66cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093960073349571028",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093960056912154624"
+      },
+      {
+        "media_key": "3_2093960067179847680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我草天塌了，我把drug和迷幻艺术相框藏在洗手间水池下面的柜子里，然后给爹妈打电话展示新家，给他们炫耀家里柜子有多大的时候忘记里面藏东西了，打开了被他们看到了，这下literally 炸柜了\n\n不过他们好像没看出来，暂时蒙在鼓里 https://t.co/US1DWG66cv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2093960056912154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ89k9YbEAAV0Mi.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2093960067179847680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ89ljoboAAD8Dl.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093960056912154624",
+            "3_2093960067179847680"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093960073349571028",
+        "created_at": "2026-08-30T07:12:40.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093960073349571028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/US1DWG66cv",
+              "end": 139,
+              "expanded_url": "https://x.com/Idontselldrug/status/2093960073349571028/photo/1",
+              "media_key": "3_2093960056912154624",
+              "start": 116,
+              "url": "https://t.co/US1DWG66cv"
+            },
+            {
+              "display_url": "pic.x.com/US1DWG66cv",
+              "end": 139,
+              "expanded_url": "https://x.com/Idontselldrug/status/2093960073349571028/photo/1",
+              "media_key": "3_2093960067179847680",
+              "start": 116,
+              "url": "https://t.co/US1DWG66cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093960073349571028",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093960056912154624"
+          },
+          {
+            "media_key": "3_2093960067179847680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草天塌了，我把drug和迷幻艺术相框藏在洗手间水池下面的柜子里，然后给爹妈打电话展示新家，给他们炫耀家里柜子有多大的时候忘记里面藏东西了，打开了被他们看到了，这下literally 炸柜了\n\n不过他们好像没看出来，暂时蒙在鼓里 https://t.co/US1DWG66cv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2093960073349571028",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 340,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 620,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

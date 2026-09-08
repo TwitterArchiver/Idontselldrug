@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096593272173207552"
+      ],
+      "media_source_tweet_id": [
+        "2096593455468401096"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096813384050389452",
+    "created_at": "2026-09-07T04:10:42.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096813384050389452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2010214103395250176",
+          "start": 3,
+          "username": "harryshorribleh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R8GlRPLkIb",
+          "end": 71,
+          "expanded_url": "https://x.com/harryshorribleh/status/2096593455468401096/video/1",
+          "media_key": "13_2096593272173207552",
+          "start": 48,
+          "url": "https://t.co/R8GlRPLkIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096813384050389452",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2096593272173207552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096593455468401096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harryshorribleh: i tweaked it a bit for ya' https://t.co/R8GlRPLkIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39300,
+        "height": 1240,
+        "media_key": "13_2096593272173207552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096593272173207552/img/nmPIGx1jgy0B_82I.jpg",
+        "public_metrics": {
+          "view_count": 104322
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096593272173207552/vid/avc1/478x270/adV2v1CCNu99OR0b.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096593272173207552/vid/avc1/638x360/ab22zMCmVraziJpZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096593272173207552/vid/avc1/1278x720/9kxQsi_KlV08GqBh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096593272173207552/pl/1PFN_kGLEzq5b_CV.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096593272173207552"
+          ],
+          "media_source_tweet_id": [
+            "2096593455468401096"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096813384050389452",
+        "created_at": "2026-09-07T04:10:42.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096813384050389452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2010214103395250176",
+              "start": 3,
+              "username": "harryshorribleh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8GlRPLkIb",
+              "end": 71,
+              "expanded_url": "https://x.com/harryshorribleh/status/2096593455468401096/video/1",
+              "media_key": "13_2096593272173207552",
+              "start": 48,
+              "url": "https://t.co/R8GlRPLkIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096813384050389452",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096593272173207552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096593455468401096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harryshorribleh: i tweaked it a bit for ya' https://t.co/R8GlRPLkIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096593272173207552"
+          ]
+        },
+        "author_id": "2010214103395250176",
+        "conversation_id": "2096593455468401096",
+        "created_at": "2026-09-06T13:36:47.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096593455468401096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8GlRPLkIb",
+              "end": 50,
+              "expanded_url": "https://x.com/harryshorribleh/status/2096593455468401096/video/1",
+              "media_key": "13_2096593272173207552",
+              "start": 27,
+              "url": "https://t.co/R8GlRPLkIb"
+            },
+            {
+              "display_url": "x.com/lol_crackhead/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/lol_crackhead/status/2096384652323733969",
+              "start": 51,
+              "url": "https://t.co/mKemWacv7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096593455468401096",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096593272173207552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2750,
+          "impression_count": 253628,
+          "like_count": 13159,
+          "quote_count": 18,
+          "reply_count": 49,
+          "retweet_count": 2020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096384652323733969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i tweaked it a bit for ya' https://t.co/R8GlRPLkIb https://t.co/mKemWacv7C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096813384050389452",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 342,
+          "like_count": 3815,
+          "listed_count": 0,
+          "media_count": 646,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T04:56:16.000Z",
+        "description": "hi\nretired youtuber\nartist, animator, game developer, composer, VA-er, blablabla\n\n12/5 - 🇻🇳\n\nheads up, i'm a minor!\nexpect me to send a lotta bullshit on here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC2adF…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC2adFynHBHgn8fz43kNws_w",
+                "start": 0,
+                "url": "https://t.co/Nz1v3Jm36P"
+              }
+            ]
+          }
+        },
+        "id": "2010214103395250176",
+        "is_identity_verified": false,
+        "location": "Vietnam",
+        "most_recent_tweet_id": "2096593455468401096",
+        "name": "Harry'sHorribleHumor",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010214103395250176/1785398713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094804532744310785/kFoswhJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 11,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/Nz1v3Jm36P",
+        "username": "harryshorribleh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

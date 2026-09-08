@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2086671025778171904"
+      ],
+      "media_source_tweet_id": [
+        "2086671052202262716"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2091616969569304647",
+    "created_at": "2026-08-23T20:02:00.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T21:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091616969569304647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666550639353012224",
+          "start": 3,
+          "username": "sansairl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQ18HjGDfj",
+          "end": 59,
+          "expanded_url": "https://x.com/abortedamyadams/status/2086671052202262716/photo/1",
+          "media_key": "16_2086671025778171904",
+          "start": 36,
+          "url": "https://t.co/gQ18HjGDfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091616969569304647",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2086671025778171904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091258710949601504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sansairl: “r/piracy megathread” https://t.co/gQ18HjGDfj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2086671025778171904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPVYPgaboAASM4y.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPVYPgaboAASM4y.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086671025778171904"
+          ],
+          "media_source_tweet_id": [
+            "2086671052202262716"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2091616969569304647",
+        "created_at": "2026-08-23T20:02:00.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T21:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091616969569304647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666550639353012224",
+              "start": 3,
+              "username": "sansairl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQ18HjGDfj",
+              "end": 59,
+              "expanded_url": "https://x.com/abortedamyadams/status/2086671052202262716/photo/1",
+              "media_key": "16_2086671025778171904",
+              "start": 36,
+              "url": "https://t.co/gQ18HjGDfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091616969569304647",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086671025778171904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091258710949601504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sansairl: “r/piracy megathread” https://t.co/gQ18HjGDfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086671025778171904"
+          ],
+          "media_source_tweet_id": [
+            "2086671052202262716"
+          ]
+        },
+        "author_id": "1666550639353012224",
+        "conversation_id": "2091258710949601504",
+        "created_at": "2026-08-22T20:18:25.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091258710949601504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQ18HjGDfj",
+              "end": 45,
+              "expanded_url": "https://x.com/abortedamyadams/status/2086671052202262716/photo/1",
+              "media_key": "16_2086671025778171904",
+              "start": 22,
+              "url": "https://t.co/gQ18HjGDfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091258710949601504",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086671025778171904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1528,
+          "impression_count": 349997,
+          "like_count": 12182,
+          "quote_count": 74,
+          "reply_count": 48,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "“r/piracy megathread” https://t.co/gQ18HjGDfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086671025778171904"
+          ]
+        },
+        "author_id": "3278860226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The reign of House Targaryen begins with this prequel to popular HBO series \"Game of Thrones.\" Based on George R.R. Martin's \"Fire & Blood,\" \"House of the Dragon\" is set nearly 200 years before the events of \"Game of Thrones,\" telling the story of the Targaryen civil war with King Viserys I Targaryen's children battling for control of the Iron Throne.",
+              "id": "1445480650719461376",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The story of the Targaryen civil war that took place about 200 years before events portrayed in `Game of Thrones.'",
+              "id": "1556933385376788481",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1511331896805928962",
+              "name": "House of the Dragon"
+            }
+          }
+        ],
+        "conversation_id": "2086671052202262716",
+        "created_at": "2026-08-10T04:28:41.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086671052202262716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBPKAtqIye",
+              "end": 120,
+              "expanded_url": "https://x.com/abortedamyadams/status/2086671052202262716/photo/1",
+              "media_key": "16_2086671025778171904",
+              "start": 97,
+              "url": "https://t.co/TBPKAtqIye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086671052202262716",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086671025778171904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 14741,
+          "like_count": 280,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "“oh alicent doesn't even know yet :(” and what exactly is that cardboard cutout gonna do exactly https://t.co/TBPKAtqIye"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2091616969569304647",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 330,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 3741
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-07T21:00:17.000Z",
+        "description": "the big headed bitch on the left had the craziest attitude",
+        "id": "1666550639353012224",
+        "is_identity_verified": false,
+        "location": "she 21",
+        "most_recent_tweet_id": "2091614416299069564",
+        "name": "natalia",
+        "pinned_tweet_id": "1701304340848271784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666550639353012224/1783528131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090781277494386688/D3O_7T_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 472,
+          "like_count": 27447,
+          "listed_count": 7,
+          "media_count": 4544,
+          "tweet_count": 29638
+        },
+        "url": "",
+        "username": "sansairl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

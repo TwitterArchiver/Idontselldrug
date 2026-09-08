@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2088370870079398024",
+    "created_at": "2026-08-15T11:23:05.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088587276918169948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1448103761407217669",
+          "start": 0,
+          "username": "killthebadblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088587276918169948",
+    "in_reply_to_user_id": "1448103761407217669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088370870079398024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killthebadblood 酒精热量哪里不吸收了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088370863033012224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtiPDpb0AAjha4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2088370870079398024",
+        "created_at": "2026-08-15T11:23:05.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088587276918169948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1448103761407217669",
+              "start": 0,
+              "username": "killthebadblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088587276918169948",
+        "in_reply_to_user_id": "1448103761407217669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088370870079398024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killthebadblood 酒精热量哪里不吸收了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088370863033012224"
+          ]
+        },
+        "author_id": "1448103761407217669",
+        "conversation_id": "2088370870079398024",
+        "created_at": "2026-08-14T21:03:10.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T22:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088370870079398024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dlvGrQHtG",
+              "end": 83,
+              "expanded_url": "https://x.com/killthebadblood/status/2088370870079398024/photo/1",
+              "media_key": "3_2088370863033012224",
+              "start": 60,
+              "url": "https://t.co/9dlvGrQHtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088370870079398024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088370863033012224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆！\n考虑到酒精的热量不会 吸收，但是多少会影响脂肪代谢，所以实际热量盈余大概在900左右？\n控制两天大概可以平衡了🤓 https://t.co/9dlvGrQHtG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2088587276918169948",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 324,
+          "like_count": 3192,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 3607
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T01:50:33.000Z",
+        "description": "Iris ｜ Open relationship💞/left-lib/粉红和约炮请退散，此账号没有你们感兴趣的内容",
+        "id": "1448103761407217669",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2088560949594894398",
+        "name": "槍 擊 落 日",
+        "pinned_tweet_id": "2081801905513398766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448103761407217669/1641898695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584856223337263104/Dhk4r7cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 751,
+          "like_count": 39220,
+          "listed_count": 4,
+          "media_count": 1816,
+          "tweet_count": 6039
+        },
+        "url": "",
+        "username": "killthebadblood",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

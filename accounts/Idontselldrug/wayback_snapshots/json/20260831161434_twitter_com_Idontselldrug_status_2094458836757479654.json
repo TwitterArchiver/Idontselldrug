@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094241260995592192"
+      ],
+      "media_source_tweet_id": [
+        "2094241264325800065"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094458836757479654",
+    "created_at": "2026-08-31T16:14:34.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094458836757479654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625208896892833792",
+          "start": 3,
+          "username": "CanaduhOh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4ml06JcXc",
+          "end": 81,
+          "expanded_url": "https://x.com/CanaduhOh/status/2094241264325800065/photo/1",
+          "media_key": "3_2094241260995592192",
+          "start": 58,
+          "url": "https://t.co/S4ml06JcXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094458836757479654",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2094241260995592192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094241264325800065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CanaduhOh: What people think when I say l'm Canadian: https://t.co/S4ml06JcXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2094241260995592192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRA9VMObwAAz0Es.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094241260995592192"
+          ],
+          "media_source_tweet_id": [
+            "2094241264325800065"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094458836757479654",
+        "created_at": "2026-08-31T16:14:34.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094458836757479654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625208896892833792",
+              "start": 3,
+              "username": "CanaduhOh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4ml06JcXc",
+              "end": 81,
+              "expanded_url": "https://x.com/CanaduhOh/status/2094241264325800065/photo/1",
+              "media_key": "3_2094241260995592192",
+              "start": 58,
+              "url": "https://t.co/S4ml06JcXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094458836757479654",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094241260995592192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094241264325800065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CanaduhOh: What people think when I say l'm Canadian: https://t.co/S4ml06JcXc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094241260995592192"
+          ]
+        },
+        "author_id": "1625208896892833792",
+        "conversation_id": "2094241264325800065",
+        "created_at": "2026-08-31T01:50:01.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094241264325800065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4ml06JcXc",
+              "end": 66,
+              "expanded_url": "https://x.com/CanaduhOh/status/2094241264325800065/photo/1",
+              "media_key": "3_2094241260995592192",
+              "start": 43,
+              "url": "https://t.co/S4ml06JcXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094241264325800065",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094241260995592192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6463,
+          "like_count": 380,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "What people think when I say l'm Canadian: https://t.co/S4ml06JcXc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094458836757479654",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 341,
+          "like_count": 3687,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-13T19:02:59.000Z",
+        "description": "🇨🇦 Proudly Canadian | Your favourite Canadian content | Canadian memes, news and stories 🫎 | 300k+ on Instagram @ oh.canaduh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/smalltownmedia",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/smalltownmedia",
+                "start": 0,
+                "url": "https://t.co/X5TA0pGd8j"
+              }
+            ]
+          }
+        },
+        "id": "1625208896892833792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094241264325800065",
+        "name": "Oh Canaduh",
+        "pinned_tweet_id": "2093787779998380278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625208896892833792/1716331075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903595290646683648/IYjpsUsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10366,
+          "following_count": 4032,
+          "like_count": 3736,
+          "listed_count": 17,
+          "media_count": 723,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/X5TA0pGd8j",
+        "username": "CanaduhOh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

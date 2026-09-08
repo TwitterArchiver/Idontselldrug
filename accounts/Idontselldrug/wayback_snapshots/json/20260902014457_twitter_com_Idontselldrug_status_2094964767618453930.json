@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094863086511591424"
+      ],
+      "media_source_tweet_id": [
+        "2094863151074558047"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094964767618453930",
+    "created_at": "2026-09-02T01:44:57.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094964767618453930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "23416945",
+          "start": 3,
+          "username": "PartyPrat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5Z71kqoF4",
+          "end": 38,
+          "expanded_url": "https://x.com/PartyPrat/status/2094863151074558047/video/1",
+          "media_key": "13_2094863086511591424",
+          "start": 15,
+          "url": "https://t.co/l5Z71kqoF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094964767618453930",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2094863086511591424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094863151074558047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PartyPrat: https://t.co/l5Z71kqoF4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2466,
+        "height": 1280,
+        "media_key": "13_2094863086511591424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094863086511591424/img/yEg1FrHtEk0lKJXF.jpg",
+        "public_metrics": {
+          "view_count": 87669
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094863086511591424/vid/avc1/320x568/McSGxIrJ0M_cTwcu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094863086511591424/vid/avc1/480x852/cveGBdOEmIlYyTpu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094863086511591424/vid/avc1/720x1280/IB7nooi-mk5Dgjov.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094863086511591424/pl/hz71VGM5qKE4onD0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094863086511591424"
+          ],
+          "media_source_tweet_id": [
+            "2094863151074558047"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094964767618453930",
+        "created_at": "2026-09-02T01:44:57.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094964767618453930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "23416945",
+              "start": 3,
+              "username": "PartyPrat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5Z71kqoF4",
+              "end": 38,
+              "expanded_url": "https://x.com/PartyPrat/status/2094863151074558047/video/1",
+              "media_key": "13_2094863086511591424",
+              "start": 15,
+              "url": "https://t.co/l5Z71kqoF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094964767618453930",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094863086511591424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094863151074558047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PartyPrat: https://t.co/l5Z71kqoF4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094863086511591424"
+          ]
+        },
+        "author_id": "23416945",
+        "conversation_id": "2094863151074558047",
+        "created_at": "2026-09-01T19:01:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094863151074558047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5Z71kqoF4",
+              "end": 23,
+              "expanded_url": "https://x.com/PartyPrat/status/2094863151074558047/video/1",
+              "media_key": "13_2094863086511591424",
+              "start": 0,
+              "url": "https://t.co/l5Z71kqoF4"
+            },
+            {
+              "display_url": "x.com/sarobertson_/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sarobertson_/status/2094794882539778167",
+              "start": 24,
+              "url": "https://t.co/ZTLM7Kh1uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094863151074558047",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094863086511591424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 231336,
+          "like_count": 3340,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094794882539778167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/l5Z71kqoF4 https://t.co/ZTLM7Kh1uR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094964767618453930",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 343,
+          "like_count": 3718,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-09T09:02:28.000Z",
+        "description": "Thine Sanguine NeoAmazonian horse of Lemuria 🧡@Tokyozilla's💙 TV Animation Artist 🎨my art: @sterlingscarlxt header: @flamingomymango icon:@_mrsteak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "Tokyozilla"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "sterlingscarlxt"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "flamingomymango"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "_mrsteak"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/SterlingScarlxt",
+                "end": 23,
+                "expanded_url": "https://x.com/SterlingScarlxt",
+                "start": 0,
+                "url": "https://t.co/xmLF3Kyu36"
+              }
+            ]
+          }
+        },
+        "id": "23416945",
+        "is_identity_verified": false,
+        "location": "Vancity PhD in FDIBD - she/her",
+        "most_recent_tweet_id": "2094961763217465706",
+        "name": "☄️🥂 𝕻𝖞𝖙𝖍𝖎𝖆 ᴿᴬᴳᴱᑫDᵢ̄ᵥ 𝕾𝖍𝖎𝖒𝖙𝖊𝖗𝖊𝖉✈️",
+        "pinned_tweet_id": "1622353116359438336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23416945/1648227377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822752840747532288/mYENsk0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14580,
+          "following_count": 1214,
+          "like_count": 102227,
+          "listed_count": 93,
+          "media_count": 34082,
+          "tweet_count": 166360
+        },
+        "url": "https://t.co/xmLF3Kyu36",
+        "username": "PartyPrat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

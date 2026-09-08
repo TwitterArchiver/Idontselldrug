@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087171218587762688"
+      ],
+      "media_source_tweet_id": [
+        "2087185266733973918"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2087474373859090791",
+    "created_at": "2026-08-12T09:40:48.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087474373859090791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1634638966459703298",
+          "start": 3,
+          "username": "UbermenschMind"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iMJ1ydDZZw",
+          "end": 100,
+          "expanded_url": "https://x.com/UbermenschMind/status/2087185266733973918/video/1",
+          "media_key": "13_2087171218587762688",
+          "start": 77,
+          "url": "https://t.co/iMJ1ydDZZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087474373859090791",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2087171218587762688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087185266733973918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UbermenschMind: There are more slaves rn than ever before in history btw https://t.co/iMJ1ydDZZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46333,
+        "height": 982,
+        "media_key": "13_2087171218587762688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087171218587762688/img/ex9AEMz8DT2hK6P1.jpg",
+        "public_metrics": {
+          "view_count": 38929
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087171218587762688/vid/avc1/320x544/V7b9iFYp21k4Zwjc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087171218587762688/vid/avc1/480x818/zh4sv0s-8gk_RphI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087171218587762688/vid/avc1/576x982/x4043SDk-ilhyDgY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087171218587762688/pl/PAnXcjCCe4bGV3ZZ.m3u8?v=6f3"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087171218587762688"
+          ]
+        },
+        "author_id": "1634638966459703298",
+        "conversation_id": "2087185266733973918",
+        "created_at": "2026-08-11T14:32:00.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087185266733973918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMJ1ydDZZw",
+              "end": 80,
+              "expanded_url": "https://x.com/UbermenschMind/status/2087185266733973918/video/1",
+              "media_key": "13_2087171218587762688",
+              "start": 57,
+              "url": "https://t.co/iMJ1ydDZZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087185266733973918",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087171218587762688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 71868,
+          "like_count": 2085,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "There are more slaves rn than ever before in history btw https://t.co/iMJ1ydDZZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087171218587762688"
+          ],
+          "media_source_tweet_id": [
+            "2087185266733973918"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2087474373859090791",
+        "created_at": "2026-08-12T09:40:48.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087474373859090791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1634638966459703298",
+              "start": 3,
+              "username": "UbermenschMind"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMJ1ydDZZw",
+              "end": 100,
+              "expanded_url": "https://x.com/UbermenschMind/status/2087185266733973918/video/1",
+              "media_key": "13_2087171218587762688",
+              "start": 77,
+              "url": "https://t.co/iMJ1ydDZZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087474373859090791",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087171218587762688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087185266733973918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UbermenschMind: There are more slaves rn than ever before in history btw https://t.co/iMJ1ydDZZw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2087474373859090791",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 320,
+          "like_count": 3120,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 3550
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-11T19:34:51.000Z",
+        "description": "Otium et Bellum 𓊝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/NietzscheanVit…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/NietzscheanVitalist",
+                "start": 0,
+                "url": "https://t.co/kB8aCQqMM9"
+              }
+            ]
+          }
+        },
+        "id": "1634638966459703298",
+        "is_identity_verified": true,
+        "location": "Club Tropical Excellent",
+        "most_recent_tweet_id": "2087470404705067369",
+        "name": "Alexander 𖤓 Nietzschean Vitalist",
+        "pinned_tweet_id": "2068396947946246505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634638966459703298/1776763647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033208897998049280/AQw-ClHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43650,
+          "following_count": 238,
+          "like_count": 42523,
+          "listed_count": 198,
+          "media_count": 1415,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/kB8aCQqMM9",
+        "username": "UbermenschMind",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

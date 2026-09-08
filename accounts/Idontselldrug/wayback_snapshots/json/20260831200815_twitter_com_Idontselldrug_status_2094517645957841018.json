@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094489158077325422",
+    "created_at": "2026-08-31T20:08:15.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094517645957841018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716371954234494977",
+          "start": 0,
+          "username": "____7976___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094517645957841018",
+    "in_reply_to_user_id": "1716371954234494977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094489158077325422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@____7976___ Broke nigga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094489154830938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREeygubMAASekC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094489158077325422",
+        "created_at": "2026-08-31T20:08:15.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094517645957841018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716371954234494977",
+              "start": 0,
+              "username": "____7976___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094517645957841018",
+        "in_reply_to_user_id": "1716371954234494977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094489158077325422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@____7976___ Broke nigga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094489154830938112"
+          ]
+        },
+        "author_id": "1716371954234494977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094489158077325422",
+        "created_at": "2026-08-31T18:15:03.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094489158077325422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVTdSRvZLS",
+              "end": 81,
+              "expanded_url": "https://x.com/____7976___/status/2094489158077325422/photo/1",
+              "media_key": "3_2094489154830938112",
+              "start": 58,
+              "url": "https://t.co/QVTdSRvZLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094489158077325422",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094489154830938112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "my roommate gave me food! no more flatbread for five days https://t.co/QVTdSRvZLS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094517645957841018",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 341,
+          "like_count": 3693,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-23T08:32:20.000Z",
+        "description": "#FaZeUp #SPIRITED #TYLOOWIN\nPriv: @mousecig2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "FaZeUp"
+              },
+              {
+                "end": 17,
+                "start": 8,
+                "tag": "SPIRITED"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "TYLOOWIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "mousecig2"
+              }
+            ]
+          }
+        },
+        "id": "1716371954234494977",
+        "is_identity_verified": false,
+        "location": "21",
+        "most_recent_tweet_id": "2094515193590305178",
+        "name": "Mouse",
+        "pinned_tweet_id": "2088135496639844625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716371954234494977/1783148511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092611793839603712/k3F8KURT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 938,
+          "like_count": 153210,
+          "listed_count": 1,
+          "media_count": 1197,
+          "tweet_count": 13361
+        },
+        "url": "",
+        "username": "____7976___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

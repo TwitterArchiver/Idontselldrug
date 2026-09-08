@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096337237961326919",
+    "created_at": "2026-09-05T20:38:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096337237961326919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1417385204856021023",
+          "start": 3,
+          "username": "CarlosQuinto20_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/IR3zxIh",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/IR3zxIh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096337237961326919",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095902885447963013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarlosQuinto20_: Oe oe Bah demandez jamais à Tung Tung Tung Sahur ce qu'il faisait en Italie dans les années 20-30 https://t.co/IR3zxIh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2095902881090097155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYkkNcX0AMVk1x.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096337237961326919",
+        "created_at": "2026-09-05T20:38:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096337237961326919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1417385204856021023",
+              "start": 3,
+              "username": "CarlosQuinto20_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/IR3zxIh",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/IR3zxIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096337237961326919",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095902885447963013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CarlosQuinto20_: Oe oe Bah demandez jamais à Tung Tung Tung Sahur ce qu'il faisait en Italie dans les années 20-30 https://t.co/IR3zxIh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095902881090097155"
+          ]
+        },
+        "author_id": "1417385204856021023",
+        "conversation_id": "2095902885447963013",
+        "created_at": "2026-09-04T15:52:42.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095902885447963013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IR3zxIhbu2",
+              "end": 121,
+              "expanded_url": "https://x.com/CarlosQuinto20_/status/2095902885447963013/photo/1",
+              "media_key": "3_2095902881090097155",
+              "start": 98,
+              "url": "https://t.co/IR3zxIhbu2"
+            },
+            {
+              "display_url": "x.com/segurant93/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/segurant93/status/2095898460062994659",
+              "start": 122,
+              "url": "https://t.co/RTWC5qg9wJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095902885447963013",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2095902881090097155"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 777,
+          "impression_count": 367310,
+          "like_count": 12466,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095898460062994659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Oe oe Bah demandez jamais à Tung Tung Tung Sahur ce qu'il faisait en Italie dans les années 20-30 https://t.co/IR3zxIhbu2 https://t.co/RTWC5qg9wJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096337237961326919",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 342,
+          "like_count": 3790,
+          "listed_count": 0,
+          "media_count": 637,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-20T07:25:50.000Z",
+        "description": "Médiéviste taré spécialiste des Courtenay et des Capétiens.\n\nEntre le Christ, Luther et Marx. ✝️🚩 (De la Tess à la Messe) \n\npv: @hornystorian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "hornystorian"
+              }
+            ]
+          }
+        },
+        "id": "1417385204856021023",
+        "is_identity_verified": false,
+        "location": "Marseille/Paris ",
+        "most_recent_tweet_id": "2096325960303841444",
+        "name": "Massi 🇫🇷ⵣ🚩🦗3arbio-Médiéviste",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417385204856021023/1718391731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010494646728654848/-wVTyRnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 1443,
+          "like_count": 93662,
+          "listed_count": 27,
+          "media_count": 3663,
+          "tweet_count": 30437
+        },
+        "url": "",
+        "username": "CarlosQuinto20_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

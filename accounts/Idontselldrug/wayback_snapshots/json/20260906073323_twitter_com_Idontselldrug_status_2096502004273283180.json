@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096502004273283180",
+    "created_at": "2026-09-06T07:33:23.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096502004273283180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dempstrr/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/dempstrr/status/2096414388617875901",
+          "start": 21,
+          "url": "https://t.co/9Spzk9SnbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096502004273283180",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096414388617875901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Verity took ketamine https://t.co/9Spzk9SnbI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2096414384453021699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf1xn9XcAMKO84.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096502004273283180",
+        "created_at": "2026-09-06T07:33:23.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096502004273283180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dempstrr/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dempstrr/status/2096414388617875901",
+              "start": 21,
+              "url": "https://t.co/9Spzk9SnbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096502004273283180",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096414388617875901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Verity took ketamine https://t.co/9Spzk9SnbI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096414384453021699"
+          ]
+        },
+        "author_id": "1828594839283204096",
+        "conversation_id": "2096414388617875901",
+        "created_at": "2026-09-06T01:45:14.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096414388617875901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMLyqaZ89V",
+              "end": 48,
+              "expanded_url": "https://x.com/dempstrr/status/2096414388617875901/photo/1",
+              "media_key": "3_2096414384453021699",
+              "start": 25,
+              "url": "https://t.co/fMLyqaZ89V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096414388617875901",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096414384453021699"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 83513,
+          "like_count": 5833,
+          "quote_count": 92,
+          "reply_count": 34,
+          "retweet_count": 475
+        },
+        "reply_settings": "everyone",
+        "text": "i think about this a lot https://t.co/fMLyqaZ89V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096502004273283180",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 342,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 638,
+          "tweet_count": 4013
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-28T00:46:08.000Z",
+        "description": "i make art and music • 🚫DNI shedtwt/loli/MAGA🚫 • SFW but occasional mature themes (18+ preferred) • 💕 @puddingaffect (9/11/2023) 💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "puddingaffect"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/demp.co",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/demp.co",
+                "start": 0,
+                "url": "https://t.co/UG0CM0awJ6"
+              }
+            ]
+          }
+        },
+        "id": "1828594839283204096",
+        "is_identity_verified": false,
+        "location": "they • 18 • 🇨🇦",
+        "most_recent_tweet_id": "2096501209360224702",
+        "name": "jaiden",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828594839283204096/1788579154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096078759577124866/UJrTN3DH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 3862,
+          "like_count": 58654,
+          "listed_count": 5,
+          "media_count": 1618,
+          "tweet_count": 11290
+        },
+        "url": "https://t.co/UG0CM0awJ6",
+        "username": "dempstrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

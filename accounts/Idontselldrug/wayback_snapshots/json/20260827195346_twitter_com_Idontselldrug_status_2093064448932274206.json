@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2093043308935163981",
+    "created_at": "2026-08-27T19:53:46.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093064448932274206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1448103761407217669",
+          "start": 0,
+          "username": "killthebadblood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093064448932274206",
+    "in_reply_to_user_id": "1448103761407217669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093043308935163981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killthebadblood 机场的狗看到我怎么蹲下了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093043296092188672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv7ydMWcAAEyCs.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093043308935163981",
+        "created_at": "2026-08-27T19:53:46.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093064448932274206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1448103761407217669",
+              "start": 0,
+              "username": "killthebadblood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093064448932274206",
+        "in_reply_to_user_id": "1448103761407217669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093043308935163981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killthebadblood 机场的狗看到我怎么蹲下了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093043296092188672"
+          ]
+        },
+        "author_id": "1448103761407217669",
+        "conversation_id": "2093043308935163981",
+        "created_at": "2026-08-27T18:29:46.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093043308935163981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRC8yptpKz",
+              "end": 99,
+              "expanded_url": "https://x.com/killthebadblood/status/2093043308935163981/photo/1",
+              "media_key": "3_2093043296092188672",
+              "start": 76,
+              "url": "https://t.co/WRC8yptpKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093043308935163981",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093043296092188672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这加拿大入境给我拍得跟磕大了似的\n拉布拉猪来疯狂闻我的行李箱 然后就被分配去检查了，问有没有带肉制品\n有没有可能只是因为家里七只猫天天轮流在上面睡觉（ https://t.co/WRC8yptpKz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2093064448932274206",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 337,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 606,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-13T01:50:33.000Z",
+        "description": "Iris ｜ Open relationship💞/left-lib/粉红和约炮请退散，此账号没有你们感兴趣的内容",
+        "id": "1448103761407217669",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2093044149184258063",
+        "name": "槍 擊 落 日",
+        "pinned_tweet_id": "2081801905513398766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448103761407217669/1641898695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584856223337263104/Dhk4r7cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 753,
+          "like_count": 39685,
+          "listed_count": 4,
+          "media_count": 1841,
+          "tweet_count": 6122
+        },
+        "url": "",
+        "username": "killthebadblood",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

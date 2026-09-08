@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094239818511253506"
+      ],
+      "media_source_tweet_id": [
+        "2094239851310702653"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094460551388917948",
+    "created_at": "2026-08-31T16:21:23.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094460551388917948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1370925329578143746",
+          "start": 3,
+          "username": "Josh12_wastaken"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LSckX88rN",
+          "end": 81,
+          "expanded_url": "https://x.com/Josh12_wastaken/status/2094239851310702653/video/1",
+          "media_key": "13_2094239818511253506",
+          "start": 58,
+          "url": "https://t.co/0LSckX88rN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094460551388917948",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2094239818511253506"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094239851310702653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Josh12_wastaken: I did not want to see this on my fyp https://t.co/0LSckX88rN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22939,
+        "height": 1024,
+        "media_key": "13_2094239818511253506",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094239818511253506/img/vsvEvFZFUV3vSFW_.jpg",
+        "public_metrics": {
+          "view_count": 21161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094239818511253506/vid/avc1/320x568/RnwZ5QhTeKgWCegN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094239818511253506/vid/avc1/480x852/LNr-dk3nZlktAjM5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094239818511253506/vid/avc1/576x1024/qFGvGN7UQ9FZN5mc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094239818511253506/pl/em82cIQzwR2r7k4e.m3u8?v=c17"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094239818511253506"
+          ],
+          "media_source_tweet_id": [
+            "2094239851310702653"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094460551388917948",
+        "created_at": "2026-08-31T16:21:23.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094460551388917948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1370925329578143746",
+              "start": 3,
+              "username": "Josh12_wastaken"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LSckX88rN",
+              "end": 81,
+              "expanded_url": "https://x.com/Josh12_wastaken/status/2094239851310702653/video/1",
+              "media_key": "13_2094239818511253506",
+              "start": 58,
+              "url": "https://t.co/0LSckX88rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094460551388917948",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094239818511253506"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094239851310702653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Josh12_wastaken: I did not want to see this on my fyp https://t.co/0LSckX88rN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094239818511253506"
+          ]
+        },
+        "author_id": "1370925329578143746",
+        "conversation_id": "2094239851310702653",
+        "created_at": "2026-08-31T01:44:24.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094239851310702653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LSckX88rN",
+              "end": 60,
+              "expanded_url": "https://x.com/Josh12_wastaken/status/2094239851310702653/video/1",
+              "media_key": "13_2094239818511253506",
+              "start": 37,
+              "url": "https://t.co/0LSckX88rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094239851310702653",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094239818511253506"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 32818,
+          "like_count": 1490,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "I did not want to see this on my fyp https://t.co/0LSckX88rN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094460551388917948",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 341,
+          "like_count": 3689,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 3916
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-14T02:30:58.000Z",
+        "description": "he/him BIG firey fan the guy with a 2011X pfp. i like more than just object shows like Sonic and Fnaf, Slendytubbies and other stuff \nPriv:@JustaPrivLego",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 139,
+                "username": "JustaPrivLego"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lego12.straw.page",
+                "end": 23,
+                "expanded_url": "http://lego12.straw.page",
+                "start": 0,
+                "url": "https://t.co/6Rq1n6UzhJ"
+              }
+            ]
+          }
+        },
+        "id": "1370925329578143746",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094456518582120901",
+        "name": "Lego (Guy with 2011X pfp)",
+        "pinned_tweet_id": "2088895898562519174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370925329578143746/1776475856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093069799563649024/hylBdvoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 645,
+          "like_count": 11930,
+          "listed_count": 1,
+          "media_count": 6675,
+          "tweet_count": 18667
+        },
+        "url": "https://t.co/6Rq1n6UzhJ",
+        "username": "Josh12_wastaken",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

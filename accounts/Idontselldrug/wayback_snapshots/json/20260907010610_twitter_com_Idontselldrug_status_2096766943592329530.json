@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2096766943592329530",
+    "created_at": "2026-09-07T01:06:10.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096766943592329530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2084057279419023360",
+          "start": 3,
+          "username": "natattack7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096766943592329530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096429385712554158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natattack7777: if our lovity is falsity why are you my verity"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096766943592329530",
+        "created_at": "2026-09-07T01:06:10.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096766943592329530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2084057279419023360",
+              "start": 3,
+              "username": "natattack7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096766943592329530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096429385712554158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natattack7777: if our lovity is falsity why are you my verity"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084057279419023360",
+        "conversation_id": "2096429385712554158",
+        "created_at": "2026-09-06T02:44:49.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096429385712554158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096429385712554158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 117403,
+          "like_count": 12357,
+          "quote_count": 29,
+          "reply_count": 32,
+          "retweet_count": 2498
+        },
+        "reply_settings": "everyone",
+        "text": "if our lovity is falsity why are you my verity"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096766943592329530",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 343,
+          "like_count": 3813,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 4025
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T23:23:47.000Z",
+        "description": "hi im twitter",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "natattack7777.straw.page/h",
+                "end": 23,
+                "expanded_url": "https://natattack7777.straw.page/h",
+                "start": 0,
+                "url": "https://t.co/QjVNS0rxNl"
+              }
+            ]
+          }
+        },
+        "id": "2084057279419023360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096757185309020201",
+        "name": "Nat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084057279419023360/1785874768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094144410732670977/xmNVUIYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 395,
+          "like_count": 7455,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/QjVNS0rxNl",
+        "username": "natattack7777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

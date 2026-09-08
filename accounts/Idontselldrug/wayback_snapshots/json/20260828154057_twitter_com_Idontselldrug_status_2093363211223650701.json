@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2093350929529466943",
+    "created_at": "2026-08-28T15:40:57.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093363211223650701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 23,
+          "expanded_url": "https://x.com/Idontselldrug/status/2090353367411503211",
+          "start": 0,
+          "url": "https://t.co/l5EXURAVpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093363211223650701",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090353367411503211",
+        "type": "quoted"
+      },
+      {
+        "id": "2093350929529466943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/l5EXURAVpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3868,
+        "media_key": "3_2090353359136108544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJtThJaMAAFCDk.jpg",
+        "width": 3179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093350929529466943",
+        "created_at": "2026-08-28T15:40:57.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093363211223650701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090353367411503211",
+              "start": 0,
+              "url": "https://t.co/l5EXURAVpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093363211223650701",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090353367411503211",
+            "type": "quoted"
+          },
+          {
+            "id": "2093350929529466943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/l5EXURAVpr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2093350929529466943",
+        "created_at": "2026-08-28T14:52:08.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093350929529466943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "VVV从头再来's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1AxRn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1AxRnZmNlPaxl",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2093350930712272896/UnXjP5rC?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093350930712272896/UnXjP5rC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 聊聊天 / X",
+              "unwound_url": "https://x.com/i/spaces/1AxRnZmNlPaxl",
+              "url": "https://t.co/p1TE0NM3x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093350929529466943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p1TE0NM3x3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090353359136108544"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090353367411503211",
+        "created_at": "2026-08-20T08:20:54.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090353367411503211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAzDSl9sBR",
+              "end": 50,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090353367411503211/photo/1",
+              "media_key": "3_2090353359136108544",
+              "start": 27,
+              "url": "https://t.co/yAzDSl9sBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090353367411503211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090353359136108544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7008,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买的snpt被爹发现了，怎么办怎么办怎么办，要炸柜了 https://t.co/yAzDSl9sBR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2093363211223650701",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 339,
+          "like_count": 3604,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 3839
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

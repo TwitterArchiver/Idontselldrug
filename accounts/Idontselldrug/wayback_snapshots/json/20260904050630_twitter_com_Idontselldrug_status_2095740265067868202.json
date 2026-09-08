@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095740223221370880",
+        "3_2095740238135975941",
+        "3_2095740247631945731",
+        "16_2095740255915872256"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095740265067868202",
+    "created_at": "2026-09-04T05:06:30.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095740265067868202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VFGfBsZwQF",
+          "end": 130,
+          "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+          "media_key": "3_2095740223221370880",
+          "start": 107,
+          "url": "https://t.co/VFGfBsZwQF"
+        },
+        {
+          "display_url": "pic.x.com/VFGfBsZwQF",
+          "end": 130,
+          "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+          "media_key": "3_2095740238135975941",
+          "start": 107,
+          "url": "https://t.co/VFGfBsZwQF"
+        },
+        {
+          "display_url": "pic.x.com/VFGfBsZwQF",
+          "end": 130,
+          "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+          "media_key": "3_2095740247631945731",
+          "start": 107,
+          "url": "https://t.co/VFGfBsZwQF"
+        },
+        {
+          "display_url": "pic.x.com/VFGfBsZwQF",
+          "end": 130,
+          "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+          "media_key": "16_2095740255915872256",
+          "start": 107,
+          "url": "https://t.co/VFGfBsZwQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095740265067868202",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095740223221370880"
+      },
+      {
+        "media_key": "3_2095740238135975941"
+      },
+      {
+        "media_key": "3_2095740247631945731"
+      },
+      {
+        "media_key": "16_2095740255915872256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到同学的Instagram，火速买了mc联名的饼干，还好加拿大不算穷乡僻壤，世界上有啥事都能凑个热闹\n\n味道还可以，最惊喜的是苦力怕的，上面有绿色的小球，拿起来吃的时候小球掉下来声音跟苦力怕准备爆炸的咝咝声一样 https://t.co/VFGfBsZwQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095740223221370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQoRqbkAAuUgD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2095740238135975941",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQpJOWYAU_o85.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095740247631945731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWQpsmXYAMQV9o.jpg",
+        "width": 4096
+      },
+      {
+        "height": 476,
+        "media_key": "16_2095740255915872256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRWQqLdaEAAFlJV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRWQqLdaEAAFlJV.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095740223221370880",
+            "3_2095740238135975941",
+            "3_2095740247631945731",
+            "16_2095740255915872256"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095740265067868202",
+        "created_at": "2026-09-04T05:06:30.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095740265067868202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFGfBsZwQF",
+              "end": 130,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+              "media_key": "3_2095740223221370880",
+              "start": 107,
+              "url": "https://t.co/VFGfBsZwQF"
+            },
+            {
+              "display_url": "pic.x.com/VFGfBsZwQF",
+              "end": 130,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+              "media_key": "3_2095740238135975941",
+              "start": 107,
+              "url": "https://t.co/VFGfBsZwQF"
+            },
+            {
+              "display_url": "pic.x.com/VFGfBsZwQF",
+              "end": 130,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+              "media_key": "3_2095740247631945731",
+              "start": 107,
+              "url": "https://t.co/VFGfBsZwQF"
+            },
+            {
+              "display_url": "pic.x.com/VFGfBsZwQF",
+              "end": 130,
+              "expanded_url": "https://x.com/Idontselldrug/status/2095740265067868202/photo/1",
+              "media_key": "16_2095740255915872256",
+              "start": 107,
+              "url": "https://t.co/VFGfBsZwQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095740265067868202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095740223221370880"
+          },
+          {
+            "media_key": "3_2095740238135975941"
+          },
+          {
+            "media_key": "3_2095740247631945731"
+          },
+          {
+            "media_key": "16_2095740255915872256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到同学的Instagram，火速买了mc联名的饼干，还好加拿大不算穷乡僻壤，世界上有啥事都能凑个热闹\n\n味道还可以，最惊喜的是苦力怕的，上面有绿色的小球，拿起来吃的时候小球掉下来声音跟苦力怕准备爆炸的咝咝声一样 https://t.co/VFGfBsZwQF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095740265067868202",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 343,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 634,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

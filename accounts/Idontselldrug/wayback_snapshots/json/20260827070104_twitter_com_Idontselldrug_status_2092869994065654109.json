@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092634099676504065"
+      ],
+      "media_source_tweet_id": [
+        "2092634136858984676"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2092869994065654109",
+    "created_at": "2026-08-27T07:01:04.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092869994065654109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2083177655315083264",
+          "start": 3,
+          "username": "BaakChoyWat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/68i94iuy5O",
+          "end": 40,
+          "expanded_url": "https://x.com/BaakChoyWat/status/2092634136858984676/video/1",
+          "media_key": "13_2092634099676504065",
+          "start": 17,
+          "url": "https://t.co/68i94iuy5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092869994065654109",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092634099676504065"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092634136858984676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaakChoyWat: https://t.co/68i94iuy5O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18175,
+        "height": 1280,
+        "media_key": "13_2092634099676504065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092634099676504065/img/V1b9aVIGuumNqAgC.jpg",
+        "public_metrics": {
+          "view_count": 4839
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092634099676504065/vid/avc1/320x568/e_BtQFuOITpi02q3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092634099676504065/vid/avc1/480x852/IUEJMFGIMSSM5bfT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092634099676504065/vid/avc1/720x1280/ydU-5A_QAB5MsD-h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092634099676504065/pl/zmLyRDXnlR-MtELt.m3u8?v=16e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092634099676504065"
+          ],
+          "media_source_tweet_id": [
+            "2092634136858984676"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2092869994065654109",
+        "created_at": "2026-08-27T07:01:04.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092869994065654109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2083177655315083264",
+              "start": 3,
+              "username": "BaakChoyWat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/68i94iuy5O",
+              "end": 40,
+              "expanded_url": "https://x.com/BaakChoyWat/status/2092634136858984676/video/1",
+              "media_key": "13_2092634099676504065",
+              "start": 17,
+              "url": "https://t.co/68i94iuy5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092869994065654109",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092634099676504065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092634136858984676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaakChoyWat: https://t.co/68i94iuy5O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092634099676504065"
+          ]
+        },
+        "author_id": "2083177655315083264",
+        "conversation_id": "2092634136858984676",
+        "created_at": "2026-08-26T15:23:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092634136858984676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68i94iuy5O",
+              "end": 23,
+              "expanded_url": "https://x.com/BaakChoyWat/status/2092634136858984676/video/1",
+              "media_key": "13_2092634099676504065",
+              "start": 0,
+              "url": "https://t.co/68i94iuy5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092634136858984676",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092634099676504065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10660,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/68i94iuy5O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092869994065654109",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 339,
+          "like_count": 3561,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T13:08:25.000Z",
+        "description": "15yo\n英日と広東語と中国語\nSpeaks English, Japanese, learning Cantonese & Mandarin \n🇩🇪🇸🇪",
+        "id": "2083177655315083264",
+        "is_identity_verified": false,
+        "location": "Neppah, I.S.H.V.",
+        "most_recent_tweet_id": "2092832843558756547",
+        "name": "Hjälm ｳｪﾙﾑ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083177655315083264/1787448655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083178210666094593/VkpePS-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "BaakChoyWat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

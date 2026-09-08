@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095933148580532224"
+      ],
+      "media_source_tweet_id": [
+        "2095933190170902989"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Chicago",
+          "id": "1012378946615181312",
+          "name": "Chicago"
+        }
+      }
+    ],
+    "conversation_id": "2096072006802579665",
+    "created_at": "2026-09-05T03:04:44.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096072006802579665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1111851935903158273",
+          "start": 3,
+          "username": "brainmissin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOGufS2j2J",
+          "end": 73,
+          "expanded_url": "https://x.com/brainmissin/status/2095933190170902989/video/1",
+          "media_key": "13_2095933148580532224",
+          "start": 50,
+          "url": "https://t.co/LOGufS2j2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096072006802579665",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095933148580532224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095933190170902989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brainmissin: Ye performs “HH” live in Chicago https://t.co/LOGufS2j2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20266,
+        "height": 1280,
+        "media_key": "13_2095933148580532224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095933148580532224/img/Vlk2HHCp5aRuMErK.jpg",
+        "public_metrics": {
+          "view_count": 338336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095933148580532224/vid/avc1/320x568/ulSRTmI8L7dMM4V9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095933148580532224/vid/avc1/480x852/k2aapFdpRuybt93c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095933148580532224/vid/avc1/720x1280/T5a_deXWBlmUxdaF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095933148580532224/pl/lwBEsQ3QiGteovrj.m3u8?v=528"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095933148580532224"
+          ],
+          "media_source_tweet_id": [
+            "2095933190170902989"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2096072006802579665",
+        "created_at": "2026-09-05T03:04:44.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096072006802579665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1111851935903158273",
+              "start": 3,
+              "username": "brainmissin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOGufS2j2J",
+              "end": 73,
+              "expanded_url": "https://x.com/brainmissin/status/2095933190170902989/video/1",
+              "media_key": "13_2095933148580532224",
+              "start": 50,
+              "url": "https://t.co/LOGufS2j2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096072006802579665",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095933148580532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095933190170902989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brainmissin: Ye performs “HH” live in Chicago https://t.co/LOGufS2j2J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095933148580532224"
+          ]
+        },
+        "author_id": "1111851935903158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2095933190170902989",
+        "created_at": "2026-09-04T17:53:07.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095933190170902989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOGufS2j2J",
+              "end": 56,
+              "expanded_url": "https://x.com/brainmissin/status/2095933190170902989/video/1",
+              "media_key": "13_2095933148580532224",
+              "start": 33,
+              "url": "https://t.co/LOGufS2j2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095933190170902989",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095933148580532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2463,
+          "impression_count": 861583,
+          "like_count": 9856,
+          "quote_count": 120,
+          "reply_count": 151,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "Ye performs “HH” live in Chicago https://t.co/LOGufS2j2J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096072006802579665",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 342,
+          "like_count": 3772,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-30T04:45:33.000Z",
+        "description": "Music & Media Content | DM for Promo/Marketing",
+        "id": "1111851935903158273",
+        "is_identity_verified": false,
+        "location": "Chicago, IL",
+        "most_recent_tweet_id": "2096020653618958461",
+        "name": "zo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111851935903158273/1781123035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038318666886877185/STMZ0lEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 929,
+          "like_count": 80946,
+          "listed_count": 12,
+          "media_count": 2225,
+          "tweet_count": 19888
+        },
+        "url": "",
+        "username": "brainmissin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

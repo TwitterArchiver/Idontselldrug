@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095207052360704000"
+      ],
+      "media_source_tweet_id": [
+        "2095207145369174066"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2095258422157639752",
+    "created_at": "2026-09-02T21:11:50.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T22:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095258422157639752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1532357296323448834",
+          "start": 3,
+          "username": "zomb0ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fAMkZqc5jv",
+          "end": 50,
+          "expanded_url": "https://x.com/zomb0ss/status/2095207145369174066/photo/1",
+          "media_key": "3_2095207052360704000",
+          "start": 27,
+          "url": "https://t.co/fAMkZqc5jv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095258422157639752",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095207052360704000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 434
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095207145369174066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zomb0ss: Fuck this guy https://t.co/fAMkZqc5jv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 419,
+        "media_key": "3_2095207052360704000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROrtpbaYAAxsyP.png",
+        "width": 419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095207052360704000"
+          ],
+          "media_source_tweet_id": [
+            "2095207145369174066"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2095258422157639752",
+        "created_at": "2026-09-02T21:11:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T22:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095258422157639752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1532357296323448834",
+              "start": 3,
+              "username": "zomb0ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAMkZqc5jv",
+              "end": 50,
+              "expanded_url": "https://x.com/zomb0ss/status/2095207145369174066/photo/1",
+              "media_key": "3_2095207052360704000",
+              "start": 27,
+              "url": "https://t.co/fAMkZqc5jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095258422157639752",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095207052360704000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 434
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095207145369174066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zomb0ss: Fuck this guy https://t.co/fAMkZqc5jv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095207052360704000"
+          ]
+        },
+        "author_id": "1532357296323448834",
+        "conversation_id": "2095207145369174066",
+        "created_at": "2026-09-02T17:48:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095207145369174066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAMkZqc5jv",
+              "end": 37,
+              "expanded_url": "https://x.com/zomb0ss/status/2095207145369174066/photo/1",
+              "media_key": "3_2095207052360704000",
+              "start": 14,
+              "url": "https://t.co/fAMkZqc5jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095207145369174066",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095207052360704000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 764,
+          "impression_count": 261276,
+          "like_count": 14497,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "Fuck this guy https://t.co/fAMkZqc5jv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2095258422157639752",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 343,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 632,
+          "tweet_count": 3967
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-02T13:43:56.000Z",
+        "description": "rank 1 prev\neditor for @peer_content",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "peer_content"
+              }
+            ]
+          }
+        },
+        "id": "1532357296323448834",
+        "is_identity_verified": false,
+        "location": "DCXX",
+        "most_recent_tweet_id": "2095257669640573392",
+        "name": "zombie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532357296323448834/1783690955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089869279202037761/RPb-BoHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1108,
+          "like_count": 58957,
+          "listed_count": 11,
+          "media_count": 3863,
+          "tweet_count": 56329
+        },
+        "url": "",
+        "username": "zomb0ss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

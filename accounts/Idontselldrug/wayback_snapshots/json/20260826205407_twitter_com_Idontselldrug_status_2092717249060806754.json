@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092411758694797312"
+      ],
+      "media_source_tweet_id": [
+        "2092411811538915596"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092717249060806754",
+    "created_at": "2026-08-26T20:54:07.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092717249060806754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980721706651275264",
+          "start": 3,
+          "username": "andytarded"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGzWXfCaAA",
+          "end": 110,
+          "expanded_url": "https://x.com/g4n39C/status/2092411811538915596/video/1",
+          "media_key": "13_2092411758694797312",
+          "start": 87,
+          "url": "https://t.co/mGzWXfCaAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092717249060806754",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2092411758694797312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 773
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092418409862750656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andytarded: how it feels to tell your online friends your name or city you live in https://t.co/mGzWXfCaAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 720,
+        "media_key": "13_2092411758694797312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092411758694797312/img/chNktQDxJzrbHcRX.jpg",
+        "public_metrics": {
+          "view_count": 62795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092411758694797312/vid/avc1/480x270/N7BRNthxxKCRI79_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092411758694797312/vid/avc1/640x360/nlo3bZ0rx5LAdru0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092411758694797312/vid/avc1/1280x720/KEd8N-9Dc4nerYQO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092411758694797312/pl/aN4Z7yQA5tyCFLEZ.m3u8?tag=14&v=e66"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092411758694797312"
+          ],
+          "media_source_tweet_id": [
+            "2092411811538915596"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092717249060806754",
+        "created_at": "2026-08-26T20:54:07.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092717249060806754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980721706651275264",
+              "start": 3,
+              "username": "andytarded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGzWXfCaAA",
+              "end": 110,
+              "expanded_url": "https://x.com/g4n39C/status/2092411811538915596/video/1",
+              "media_key": "13_2092411758694797312",
+              "start": 87,
+              "url": "https://t.co/mGzWXfCaAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092717249060806754",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092411758694797312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 773
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092418409862750656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andytarded: how it feels to tell your online friends your name or city you live in https://t.co/mGzWXfCaAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092411758694797312"
+          ],
+          "media_source_tweet_id": [
+            "2092411811538915596"
+          ]
+        },
+        "author_id": "1980721706651275264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092418409862750656",
+        "created_at": "2026-08-26T01:06:38.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092418409862750656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGzWXfCaAA",
+              "end": 94,
+              "expanded_url": "https://x.com/g4n39C/status/2092411811538915596/video/1",
+              "media_key": "13_2092411758694797312",
+              "start": 71,
+              "url": "https://t.co/mGzWXfCaAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092418409862750656",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092411758694797312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 114378,
+          "like_count": 7565,
+          "quote_count": 39,
+          "reply_count": 40,
+          "retweet_count": 773
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels to tell your online friends your name or city you live in https://t.co/mGzWXfCaAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092411758694797312"
+          ]
+        },
+        "author_id": "2001132761256792064",
+        "conversation_id": "2092321265147347341",
+        "created_at": "2026-08-26T00:40:25.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092411811538915596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980721706651275264",
+              "start": 0,
+              "username": "andytarded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQQ8BRdGsX",
+              "end": 35,
+              "expanded_url": "https://x.com/g4n39C/status/2092411811538915596/video/1",
+              "media_key": "13_2092411758694797312",
+              "start": 12,
+              "url": "https://t.co/FQQ8BRdGsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092411811538915596",
+        "in_reply_to_user_id": "1980721706651275264",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2092411758694797312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 38613,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092321265147347341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andytarded https://t.co/FQQ8BRdGsX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092717249060806754",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 337,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 603,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T19:44:09.000Z",
+        "description": "andytarded on all platforms\n17\nthey/them\nwas @andystrying @andybrained\npriv @samtimental",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "andystrying"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "andybrained"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "samtimental"
+              }
+            ]
+          }
+        },
+        "id": "1980721706651275264",
+        "is_identity_verified": false,
+        "location": "Andyvillle, Andostan ND",
+        "most_recent_tweet_id": "2092706685089714473",
+        "name": "Andy",
+        "pinned_tweet_id": "2085483204367331350",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980721706651275264/1787237928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037787039022845952/C8Qqn_Zr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 661,
+          "like_count": 40972,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 4966
+        },
+        "url": "",
+        "username": "andytarded",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

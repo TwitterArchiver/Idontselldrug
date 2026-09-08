@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089807652477931520"
+      ],
+      "media_source_tweet_id": [
+        "2089807678025428993"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2090433764908540397",
+    "created_at": "2026-08-20T13:40:22.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090433764908540397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1801393634912210944",
+          "start": 3,
+          "username": "CunnyRedemption"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbnk7g4mB6",
+          "end": 44,
+          "expanded_url": "https://x.com/CunnyRedemption/status/2089807678025428993/video/1",
+          "media_key": "13_2089807652477931520",
+          "start": 21,
+          "url": "https://t.co/xbnk7g4mB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090433764908540397",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089807652477931520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089807678025428993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CunnyRedemption: https://t.co/xbnk7g4mB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3018,
+        "height": 720,
+        "media_key": "13_2089807652477931520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089807652477931520/img/WM8OQXW4Gro1_nDe.jpg",
+        "public_metrics": {
+          "view_count": 159378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089807652477931520/vid/avc1/320x320/d3zn2AgWcIRV3B9l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089807652477931520/vid/avc1/540x540/VehVE71P71Ltq8dM.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089807652477931520/vid/avc1/720x720/Wui5QJMDaskZLKuU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089807652477931520/pl/5e0tHyCOZjX9rvR6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089807652477931520"
+          ],
+          "media_source_tweet_id": [
+            "2089807678025428993"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090433764908540397",
+        "created_at": "2026-08-20T13:40:22.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090433764908540397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1801393634912210944",
+              "start": 3,
+              "username": "CunnyRedemption"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbnk7g4mB6",
+              "end": 44,
+              "expanded_url": "https://x.com/CunnyRedemption/status/2089807678025428993/video/1",
+              "media_key": "13_2089807652477931520",
+              "start": 21,
+              "url": "https://t.co/xbnk7g4mB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090433764908540397",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089807652477931520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089807678025428993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CunnyRedemption: https://t.co/xbnk7g4mB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089807652477931520"
+          ]
+        },
+        "author_id": "1801393634912210944",
+        "conversation_id": "2089807678025428993",
+        "created_at": "2026-08-18T20:12:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089807678025428993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbnk7g4mB6",
+              "end": 23,
+              "expanded_url": "https://x.com/CunnyRedemption/status/2089807678025428993/video/1",
+              "media_key": "13_2089807652477931520",
+              "start": 0,
+              "url": "https://t.co/xbnk7g4mB6"
+            },
+            {
+              "display_url": "x.com/BAPingLoud/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/BAPingLoud/status/2089769242400813395",
+              "start": 24,
+              "url": "https://t.co/1VXrddH4mL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089807678025428993",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089807652477931520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2723,
+          "impression_count": 456334,
+          "like_count": 9729,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089769242400813395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xbnk7g4mB6 https://t.co/1VXrddH4mL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090433764908540397",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 330,
+          "like_count": 3359,
+          "listed_count": 0,
+          "media_count": 581,
+          "tweet_count": 3693
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T23:18:13.000Z",
+        "description": "I'm hated everywhere I go",
+        "id": "1801393634912210944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090398830843793919",
+        "name": "Bowlingc",
+        "pinned_tweet_id": "1801599959193579729",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801393634912210944/1786541257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801393802772381696/j5A7Txdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 304,
+          "like_count": 26820,
+          "listed_count": 8,
+          "media_count": 1976,
+          "tweet_count": 3997
+        },
+        "url": "",
+        "username": "CunnyRedemption",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

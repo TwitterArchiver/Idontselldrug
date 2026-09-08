@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086935272973881344"
+      ],
+      "media_source_tweet_id": [
+        "2086935315508330679"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2090085010770645412",
+    "created_at": "2026-08-19T14:34:33.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090085010770645412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519477525461684224",
+          "start": 3,
+          "username": "bluegeaux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HCcYz3blX3",
+          "end": 89,
+          "expanded_url": "https://x.com/SambiSZN__/status/2086935315508330679/video/1",
+          "media_key": "13_2086935272973881344",
+          "start": 66,
+          "url": "https://t.co/HCcYz3blX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090085010770645412",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086935272973881344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089775931548410268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluegeaux: woke up and checked my gmail instead of instagram  https://t.co/HCcYz3blX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14633,
+        "height": 800,
+        "media_key": "13_2086935272973881344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086935272973881344/img/ellMEWA3FUbN2mnt.jpg",
+        "public_metrics": {
+          "view_count": 3052047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086935272973881344/vid/avc1/320x354/P4NOKAEefk6wOJsI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086935272973881344/vid/avc1/480x532/2ai8uLtV1ZXyGlKy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086935272973881344/vid/avc1/720x800/i8A4b1SNClp671ws.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086935272973881344/pl/OJM5MIE3H-bsSR_A.m3u8?v=6db"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086935272973881344"
+          ],
+          "media_source_tweet_id": [
+            "2086935315508330679"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2090085010770645412",
+        "created_at": "2026-08-19T14:34:33.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090085010770645412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519477525461684224",
+              "start": 3,
+              "username": "bluegeaux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCcYz3blX3",
+              "end": 89,
+              "expanded_url": "https://x.com/SambiSZN__/status/2086935315508330679/video/1",
+              "media_key": "13_2086935272973881344",
+              "start": 66,
+              "url": "https://t.co/HCcYz3blX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090085010770645412",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086935272973881344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089775931548410268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluegeaux: woke up and checked my gmail instead of instagram  https://t.co/HCcYz3blX3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086935272973881344"
+          ],
+          "media_source_tweet_id": [
+            "2086935315508330679"
+          ]
+        },
+        "author_id": "1519477525461684224",
+        "conversation_id": "2089775931548410268",
+        "created_at": "2026-08-18T18:06:22.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089775931548410268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCcYz3blX3",
+              "end": 74,
+              "expanded_url": "https://x.com/SambiSZN__/status/2086935315508330679/video/1",
+              "media_key": "13_2086935272973881344",
+              "start": 51,
+              "url": "https://t.co/HCcYz3blX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089775931548410268",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086935272973881344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5905,
+          "impression_count": 1089004,
+          "like_count": 125402,
+          "quote_count": 376,
+          "reply_count": 108,
+          "retweet_count": 17232
+        },
+        "reply_settings": "everyone",
+        "text": "woke up and checked my gmail instead of instagram  https://t.co/HCcYz3blX3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086935272973881344"
+          ]
+        },
+        "author_id": "1327337740388720640",
+        "conversation_id": "2086935315508330679",
+        "created_at": "2026-08-10T21:58:47.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086935315508330679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdGz2g1XcO",
+              "end": 74,
+              "expanded_url": "https://x.com/SambiSZN__/status/2086935315508330679/video/1",
+              "media_key": "13_2086935272973881344",
+              "start": 51,
+              "url": "https://t.co/wdGz2g1XcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086935315508330679",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086935272973881344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 759,
+          "impression_count": 5615355,
+          "like_count": 274,
+          "quote_count": 16,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "How it sounds like whenever SambiSZN serious posts https://t.co/wdGz2g1XcO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090085010770645412",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 329,
+          "like_count": 3301,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 3656
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T00:44:17.000Z",
+        "description": "Licensed Helicopter Pilot | PhD from Hustlers University | formerly @bluegoh | #ClipperNation #RepTheHalo |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "ClipperNation"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "tag": "RepTheHalo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "bluegoh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Indeed.com",
+                "end": 23,
+                "expanded_url": "http://Indeed.com",
+                "start": 0,
+                "url": "https://t.co/Fj1WJ8oMcp"
+              }
+            ]
+          }
+        },
+        "id": "1519477525461684224",
+        "is_identity_verified": false,
+        "location": "FLEXICO",
+        "most_recent_tweet_id": "2089964916484837764",
+        "name": "1017 🚁🇲🇽ひ",
+        "pinned_tweet_id": "2026140185101279449",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519477525461684224/1780641882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030561485240545280/bqBPpssC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 895,
+          "like_count": 89324,
+          "listed_count": 2,
+          "media_count": 6311,
+          "tweet_count": 39480
+        },
+        "url": "https://t.co/Fj1WJ8oMcp",
+        "username": "bluegeaux",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

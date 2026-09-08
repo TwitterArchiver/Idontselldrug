@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2092271469698940928"
+      ],
+      "media_source_tweet_id": [
+        "2092271486878757100"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2092366232028844508",
+    "created_at": "2026-08-25T21:39:18.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T22:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092366232028844508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796600566493118464",
+          "start": 3,
+          "username": "blvckmarloo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXhvf8D0h5",
+          "end": 65,
+          "expanded_url": "https://x.com/strwberryvape/status/2092271486878757100/photo/1",
+          "media_key": "16_2092271469698940928",
+          "start": 42,
+          "url": "https://t.co/IXhvf8D0h5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092366232028844508",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2092271469698940928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092271486878757100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blvckmarloo: It's September next week https://t.co/IXhvf8D0h5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "16_2092271469698940928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQk90P0XAAAJnES.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQk90P0XAAAJnES.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2092271469698940928"
+          ],
+          "media_source_tweet_id": [
+            "2092271486878757100"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2092366232028844508",
+        "created_at": "2026-08-25T21:39:18.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092366232028844508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796600566493118464",
+              "start": 3,
+              "username": "blvckmarloo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXhvf8D0h5",
+              "end": 65,
+              "expanded_url": "https://x.com/strwberryvape/status/2092271486878757100/photo/1",
+              "media_key": "16_2092271469698940928",
+              "start": 42,
+              "url": "https://t.co/IXhvf8D0h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092366232028844508",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2092271469698940928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092271486878757100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blvckmarloo: It's September next week https://t.co/IXhvf8D0h5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2092271469698940928"
+          ]
+        },
+        "author_id": "1796600566493118464",
+        "conversation_id": "2092271486878757100",
+        "created_at": "2026-08-25T15:22:49.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092271486878757100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXhvf8D0h5",
+              "end": 48,
+              "expanded_url": "https://x.com/strwberryvape/status/2092271486878757100/photo/1",
+              "media_key": "16_2092271469698940928",
+              "start": 25,
+              "url": "https://t.co/IXhvf8D0h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092271486878757100",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2092271469698940928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 813,
+          "impression_count": 256465,
+          "like_count": 23973,
+          "quote_count": 419,
+          "reply_count": 42,
+          "retweet_count": 4202
+        },
+        "reply_settings": "everyone",
+        "text": "It's September next week https://t.co/IXhvf8D0h5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092366232028844508",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 333,
+          "like_count": 3532,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-31T17:52:21.000Z",
+        "description": "????????????????????????????????????fuck",
+        "id": "1796600566493118464",
+        "is_identity_verified": false,
+        "location": "Stewieville",
+        "most_recent_tweet_id": "2092364605276213753",
+        "name": "stewie garlic",
+        "pinned_tweet_id": "2091926672471638070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796600566493118464/1781987510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073137049062780928/fjxYZ6CQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 779,
+          "like_count": 38978,
+          "listed_count": 8,
+          "media_count": 274,
+          "tweet_count": 6057
+        },
+        "url": "",
+        "username": "blvckmarloo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

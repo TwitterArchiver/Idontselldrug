@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2091674100918087831",
+    "created_at": "2026-08-23T23:49:01.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091674100918087831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1639352455841341449",
+          "start": 3,
+          "username": "playboicurrryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091674100918087831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091376021681643703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @playboicurrryy: this cant be the actual translation"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2091674100918087831",
+        "created_at": "2026-08-23T23:49:01.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091674100918087831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1639352455841341449",
+              "start": 3,
+              "username": "playboicurrryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091674100918087831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091376021681643703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @playboicurrryy: this cant be the actual translation"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639352455841341449",
+        "conversation_id": "2091376021681643703",
+        "created_at": "2026-08-23T04:04:34.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091376021681643703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mm__rong/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/mm__rong/status/2091223645557604457",
+              "start": 36,
+              "url": "https://t.co/PImUFvYKQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091376021681643703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1280,
+          "impression_count": 357495,
+          "like_count": 24532,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091223645557604457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this cant be the actual translation https://t.co/PImUFvYKQF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2091674100918087831",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 329,
+          "like_count": 3465,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 3744
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-24T19:44:23.000Z",
+        "description": "💬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/twitter",
+                "end": 23,
+                "expanded_url": "http://discord.gg/twitter",
+                "start": 0,
+                "url": "https://t.co/80p3qY7o6T"
+              }
+            ]
+          }
+        },
+        "id": "1639352455841341449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091639395573231808",
+        "name": ".",
+        "pinned_tweet_id": "2090549703834554625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639352455841341449/1778703102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057790452629504/SMfflHN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121986,
+          "following_count": 294,
+          "like_count": 93263,
+          "listed_count": 141,
+          "media_count": 6307,
+          "tweet_count": 22976
+        },
+        "url": "https://t.co/80p3qY7o6T",
+        "username": "playboicurrryy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

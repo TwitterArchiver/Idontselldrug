@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092338715020378112"
+      ],
+      "media_source_tweet_id": [
+        "2092338739980730709"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2092382785113927742",
+    "created_at": "2026-08-25T22:45:05.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T23:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092382785113927742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831470937444581376",
+          "start": 3,
+          "username": "_cool1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CY82d11l9S",
+          "end": 57,
+          "expanded_url": "https://x.com/_cool1234/status/2092338739980730709/photo/1",
+          "media_key": "3_2092338715020378112",
+          "start": 34,
+          "url": "https://t.co/CY82d11l9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092382785113927742",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092338715020378112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092338739980730709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_cool1234: Bro leave me alone https://t.co/CY82d11l9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2092338715020378112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQl6-cKWQAAeajU.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092338715020378112"
+          ],
+          "media_source_tweet_id": [
+            "2092338739980730709"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2092382785113927742",
+        "created_at": "2026-08-25T22:45:05.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092382785113927742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831470937444581376",
+              "start": 3,
+              "username": "_cool1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CY82d11l9S",
+              "end": 57,
+              "expanded_url": "https://x.com/_cool1234/status/2092338739980730709/photo/1",
+              "media_key": "3_2092338715020378112",
+              "start": 34,
+              "url": "https://t.co/CY82d11l9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092382785113927742",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092338715020378112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092338739980730709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_cool1234: Bro leave me alone https://t.co/CY82d11l9S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092338715020378112"
+          ]
+        },
+        "author_id": "1831470937444581376",
+        "conversation_id": "2092338739980730709",
+        "created_at": "2026-08-25T19:50:04.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092338739980730709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CY82d11l9S",
+              "end": 42,
+              "expanded_url": "https://x.com/_cool1234/status/2092338739980730709/photo/1",
+              "media_key": "3_2092338715020378112",
+              "start": 19,
+              "url": "https://t.co/CY82d11l9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092338739980730709",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092338715020378112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3761,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Bro leave me alone https://t.co/CY82d11l9S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2092382785113927742",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 333,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T23:14:37.000Z",
+        "description": "i follow back",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beibo1101.straw.page",
+                "end": 23,
+                "expanded_url": "http://beibo1101.straw.page",
+                "start": 0,
+                "url": "https://t.co/KGmZmNWRSx"
+              }
+            ]
+          }
+        },
+        "id": "1831470937444581376",
+        "is_identity_verified": false,
+        "location": "he him",
+        "most_recent_tweet_id": "2092341689683739089",
+        "name": "beibo",
+        "pinned_tweet_id": "2083226498337497161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831470937444581376/1780671261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062911494988222464/Dr36-G7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 952,
+          "like_count": 12589,
+          "listed_count": 4,
+          "media_count": 1114,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/KGmZmNWRSx",
+        "username": "_cool1234",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094597991206158336"
+      ],
+      "media_source_tweet_id": [
+        "2094597994825818354"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2094962630423384108",
+    "created_at": "2026-09-02T01:36:28.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094962630423384108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671817368564015105",
+          "start": 3,
+          "username": "bruyoy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6bzsJGwsU",
+          "end": 35,
+          "expanded_url": "https://x.com/bruyoy/status/2094597994825818354/photo/1",
+          "media_key": "3_2094597991206158336",
+          "start": 12,
+          "url": "https://t.co/o6bzsJGwsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094962630423384108",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094597991206158336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1936
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094597994825818354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bruyoy: https://t.co/o6bzsJGwsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2094597991206158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGBxn0XAAAJ4Jw.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094597991206158336"
+          ],
+          "media_source_tweet_id": [
+            "2094597994825818354"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2094962630423384108",
+        "created_at": "2026-09-02T01:36:28.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094962630423384108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671817368564015105",
+              "start": 3,
+              "username": "bruyoy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6bzsJGwsU",
+              "end": 35,
+              "expanded_url": "https://x.com/bruyoy/status/2094597994825818354/photo/1",
+              "media_key": "3_2094597991206158336",
+              "start": 12,
+              "url": "https://t.co/o6bzsJGwsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094962630423384108",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094597991206158336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1936
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094597994825818354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bruyoy: https://t.co/o6bzsJGwsU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094597991206158336"
+          ]
+        },
+        "author_id": "1671817368564015105",
+        "conversation_id": "2094597994825818354",
+        "created_at": "2026-09-01T01:27:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094597994825818354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6bzsJGwsU",
+              "end": 23,
+              "expanded_url": "https://x.com/bruyoy/status/2094597994825818354/photo/1",
+              "media_key": "3_2094597991206158336",
+              "start": 0,
+              "url": "https://t.co/o6bzsJGwsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094597994825818354",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094597991206158336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 82615,
+          "like_count": 12248,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 1936
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o6bzsJGwsU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2094962630423384108",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 343,
+          "like_count": 3718,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-22T09:48:31.000Z",
+        "description": "wαtching rick and morty\nİm new to rnm dont kill me\nsp/eng/pr/日本語\nanti-harassment and censorship \n(☞ ͡ ͡° ͜ ʖ ͡ ͡°)☞",
+        "id": "1671817368564015105",
+        "is_identity_verified": false,
+        "location": "♀️🇨🇺🇩🇪",
+        "most_recent_tweet_id": "2094929858056864214",
+        "name": "bruﾉყoy",
+        "pinned_tweet_id": "2094597994825818354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671817368564015105/1787921155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093307029758582784/ote6Bkcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 145,
+          "like_count": 8116,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "bruyoy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
