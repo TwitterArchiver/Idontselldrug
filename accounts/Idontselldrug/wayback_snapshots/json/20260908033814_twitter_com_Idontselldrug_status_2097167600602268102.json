@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097065054751600640"
+      ],
+      "media_source_tweet_id": [
+        "2097065329247600909"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097167600602268102",
+    "created_at": "2026-09-08T03:38:14.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097167600602268102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760237045794955264",
+          "start": 3,
+          "username": "Brownqbe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XevGKpAsk",
+          "end": 120,
+          "expanded_url": "https://x.com/Brownqbe/status/2097065329247600909/video/1",
+          "media_key": "13_2097065054751600640",
+          "start": 97,
+          "url": "https://t.co/9XevGKpAsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097167600602268102",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097065054751600640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097065329247600909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brownqbe: Rolled it. Lit it. Reloaded it.\nSome of y’all still smoking plain flower in 2026 😂 https://t.co/9XevGKpAsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58398,
+        "height": 1920,
+        "media_key": "13_2097065054751600640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097065054751600640/img/z6CPS-VY1AubgiDR.jpg",
+        "public_metrics": {
+          "view_count": 208836
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097065054751600640/vid/avc1/480x852/eC0uzquLBWIKXFLI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097065054751600640/vid/avc1/320x568/VG__YuizELsRaNVe.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097065054751600640/vid/avc1/1080x1920/shL_3DnaEsqlQimx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097065054751600640/vid/avc1/720x1280/Z0RE4F9gDkJ3jPe4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097065054751600640/pl/43qMErUWlYn2LN-t.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097065054751600640"
+          ],
+          "media_source_tweet_id": [
+            "2097065329247600909"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097167600602268102",
+        "created_at": "2026-09-08T03:38:14.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097167600602268102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760237045794955264",
+              "start": 3,
+              "username": "Brownqbe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XevGKpAsk",
+              "end": 120,
+              "expanded_url": "https://x.com/Brownqbe/status/2097065329247600909/video/1",
+              "media_key": "13_2097065054751600640",
+              "start": 97,
+              "url": "https://t.co/9XevGKpAsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097167600602268102",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097065054751600640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097065329247600909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brownqbe: Rolled it. Lit it. Reloaded it.\nSome of y’all still smoking plain flower in 2026 😂 https://t.co/9XevGKpAsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097065054751600640"
+          ]
+        },
+        "author_id": "1760237045794955264",
+        "conversation_id": "2097065329247600909",
+        "created_at": "2026-09-07T20:51:50.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097065329247600909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XevGKpAsk",
+              "end": 106,
+              "expanded_url": "https://x.com/Brownqbe/status/2097065329247600909/video/1",
+              "media_key": "13_2097065054751600640",
+              "start": 83,
+              "url": "https://t.co/9XevGKpAsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097065329247600909",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097065054751600640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 576,
+          "impression_count": 303399,
+          "like_count": 3142,
+          "quote_count": 35,
+          "reply_count": 104,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "Rolled it. Lit it. Reloaded it.\nSome of y’all still smoking plain flower in 2026 😂 https://t.co/9XevGKpAsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2097167600602268102",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 343,
+          "like_count": 3837,
+          "listed_count": 0,
+          "media_count": 647,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T09:38:18.000Z",
+        "description": "𝓛𝓲𝓿𝓲𝓷𝓰 𝓪 𝓵𝓲𝓿𝓮𝓵𝔂 𝓵𝓲𝓯𝓮 𝓪𝓷𝓭 𝓰𝓻𝓪𝓽𝓮𝓯𝓾𝓵 𝓽𝓸 𝓖𝓸𝓭🙏",
+        "id": "1760237045794955264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097092186793795786",
+        "name": "brown",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760237045794955264/1780574725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062505527507050496/haQNDhaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1488,
+          "like_count": 47579,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 2134
+        },
+        "url": "",
+        "username": "Brownqbe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2101082119149961690",
+    "created_at": "2026-09-18T23:05:28.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T00:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101085224926855607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101085224926855607",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101082119149961690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr Niggas streaming"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2101082119149961690",
+        "created_at": "2026-09-18T23:05:28.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101085224926855607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101085224926855607",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101082119149961690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr Niggas streaming"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2101082119149961690",
+        "created_at": "2026-09-18T22:53:08.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101082119149961690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "No social life so streaming",
+              "display_url": "youtube.com/live/GqSzG9eJH…",
+              "end": 97,
+              "expanded_url": "https://www.youtube.com/live/GqSzG9eJHFo?si=2XL2vjHDCtfOFtxU",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2101082123017007104/6eDdoA6X?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101082123017007104/6eDdoA6X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "Friday I'm in Love | Chat with me plzzzz ; ) | Working In Progress",
+              "unwound_url": "https://www.youtube.com/live/GqSzG9eJHFo?si=2XL2vjHDCtfOFtxU",
+              "url": "https://t.co/TuBflfoRa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101082119149961690",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Friday I'm in Love | Chat with me plzzzz ; ) \nhangout with me im bored af https://t.co/TuBflfoRa5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2101085224926855607",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 351,
+          "like_count": 4049,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 4254
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nOutcast of my \"people\", Nomad to nowhere · YT/TikTok: @beyondr3pairr Discord: https://t.co/bC8DKdsEdI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "beyondr3pairr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5NB4RN3TZk",
+                "end": 135,
+                "expanded_url": "https://discord.gg/5NB4RN3TZk",
+                "start": 112,
+                "url": "https://t.co/bC8DKdsEdI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7ml2"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2101082801009471851",
+        "name": "拼接碎片 - BeyondR3pairr 🇨🇦",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938969907548372992/1783356999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 159,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 1680,
+          "tweet_count": 9777
+        },
+        "url": "https://t.co/kdPl4R7ml2",
+        "username": "beyondr3pairr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

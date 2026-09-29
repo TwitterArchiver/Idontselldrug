@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100818569479233588",
+    "created_at": "2026-09-18T05:25:52.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100818569479233588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/YongQuan/status/2100568200169812322",
+          "start": 12,
+          "url": "https://t.co/EnSGa5hwF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100818569479233588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100568200169812322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "罗马还能直飞温州，笑了 https://t.co/EnSGa5hwF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100296554301227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXAlpoaAAAOy5p.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100818569479233588",
+        "created_at": "2026-09-18T05:25:52.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100818569479233588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/YongQuan/status/2100568200169812322",
+              "start": 12,
+              "url": "https://t.co/EnSGa5hwF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100818569479233588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100568200169812322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罗马还能直飞温州，笑了 https://t.co/EnSGa5hwF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100296554301227008"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2100568200169812322",
+        "created_at": "2026-09-17T12:51:00.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100568200169812322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyy90sVsz5",
+              "end": 58,
+              "expanded_url": "https://x.com/YongQuan/status/2100568200169812322/photo/1",
+              "media_key": "3_2100296554301227008",
+              "start": 35,
+              "url": "https://t.co/xyy90sVsz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100568200169812322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100296554301227008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 31893,
+          "like_count": 211,
+          "quote_count": 1,
+          "reply_count": 139,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大数据推送机制是怎样的。这大数据推送也太强了吧，这都能推送到机长那儿 https://t.co/xyy90sVsz5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100818569479233588",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 351,
+          "like_count": 4028,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2100814573750329690",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12303,
+          "following_count": 4887,
+          "like_count": 54444,
+          "listed_count": 42,
+          "media_count": 6669,
+          "tweet_count": 17909
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

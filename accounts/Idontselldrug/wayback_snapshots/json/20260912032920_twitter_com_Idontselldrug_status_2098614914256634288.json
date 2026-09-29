@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494700240905007105",
+          "name": "Panda Express"
+        }
+      }
+    ],
+    "conversation_id": "2098614914256634288",
+    "created_at": "2026-09-12T03:29:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T04:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098614914256634288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 95,
+          "tag": "RealNigga"
+        },
+        {
+          "end": 118,
+          "start": 106,
+          "tag": "NeverForget"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576918997781446656",
+          "start": 3,
+          "username": "JohnBummit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/2m",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098614914256634288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2490
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098574635977822289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JohnBummit: Went to Panda express, and didn't leave a tip. That's for pearl harbor, nigga! #RealNigga #NeverForget #911 https://t.co/2m…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2098574628658798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-igYva4AACAB0.jpg",
+        "width": 480
+      },
+      {
+        "height": 612,
+        "media_key": "3_2098574632341401600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-igmda8AAVH3S.jpg",
+        "width": 459
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494700240905007105",
+              "name": "Panda Express"
+            }
+          }
+        ],
+        "conversation_id": "2098614914256634288",
+        "created_at": "2026-09-12T03:29:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098614914256634288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 95,
+              "tag": "RealNigga"
+            },
+            {
+              "end": 118,
+              "start": 106,
+              "tag": "NeverForget"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576918997781446656",
+              "start": 3,
+              "username": "JohnBummit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/2m",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098614914256634288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2490
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098574635977822289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JohnBummit: Went to Panda express, and didn't leave a tip. That's for pearl harbor, nigga! #RealNigga #NeverForget #911 https://t.co/2m…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098574628658798592",
+            "3_2098574632341401600"
+          ]
+        },
+        "author_id": "1576918997781446656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494700240905007105",
+              "name": "Panda Express"
+            }
+          }
+        ],
+        "conversation_id": "2098574635977822289",
+        "created_at": "2026-09-12T00:49:17.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098574635977822289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 79,
+              "tag": "RealNigga"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "NeverForget"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mO4c3Hg4u",
+              "end": 131,
+              "expanded_url": "https://x.com/JohnBummit/status/2098574635977822289/photo/1",
+              "media_key": "3_2098574628658798592",
+              "start": 108,
+              "url": "https://t.co/2mO4c3Hg4u"
+            },
+            {
+              "display_url": "pic.x.com/2mO4c3Hg4u",
+              "end": 131,
+              "expanded_url": "https://x.com/JohnBummit/status/2098574635977822289/photo/1",
+              "media_key": "3_2098574632341401600",
+              "start": 108,
+              "url": "https://t.co/2mO4c3Hg4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098574635977822289",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098574628658798592"
+          },
+          {
+            "media_key": "3_2098574632341401600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4196,
+          "impression_count": 1466155,
+          "like_count": 51201,
+          "quote_count": 104,
+          "reply_count": 227,
+          "retweet_count": 2478
+        },
+        "reply_settings": "everyone",
+        "text": "Went to Panda express, and didn't leave a tip. That's for pearl harbor, nigga! #RealNigga #NeverForget #911 https://t.co/2mO4c3Hg4u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098614914256634288",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 349,
+          "like_count": 3914,
+          "listed_count": 0,
+          "media_count": 659,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-03T12:56:14.000Z",
+        "description": "Husband | Father | Christian | Bingo Lover | 62 year old Lillia main |\nTrump 2022 Nigga. | 5'4 | 3% black | My half grandson is black | That/Nigga | DM Fee $10",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JohnBummit",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JohnBummit",
+                "start": 0,
+                "url": "https://t.co/xn8gouGzpj"
+              }
+            ]
+          }
+        },
+        "id": "1576918997781446656",
+        "is_identity_verified": true,
+        "location": "Whitefish Bay, WI",
+        "most_recent_tweet_id": "2098614877598474484",
+        "name": "John Bummit, PhD.",
+        "pinned_tweet_id": "1944452227038343582",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576918997781446656/1691011591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905492536736587776/tGtTjAs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98208,
+          "following_count": 4660,
+          "like_count": 148155,
+          "listed_count": 23,
+          "media_count": 6268,
+          "tweet_count": 71341
+        },
+        "url": "https://t.co/xn8gouGzpj",
+        "username": "JohnBummit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

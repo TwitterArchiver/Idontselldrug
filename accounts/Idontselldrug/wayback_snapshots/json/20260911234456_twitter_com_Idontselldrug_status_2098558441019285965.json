@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2098558441019285965",
+    "created_at": "2026-09-11T23:44:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T00:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098558441019285965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571236793051238400",
+          "start": 3,
+          "username": "ImmortalXelf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098558441019285965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098383180646523065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ImmortalXelf: If you need to KYC on any casino or exchange here’s some info you can use 👇🏻 (Part 2)\n\nCharles James Kirk\n14/10/1993\n1023…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1956,
+        "media_key": "3_2098383174397251585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR70YSCa0AEhjRx.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2098383174241787905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR70YRdWoAEgjdF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2098558441019285965",
+        "created_at": "2026-09-11T23:44:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T00:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098558441019285965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571236793051238400",
+              "start": 3,
+              "username": "ImmortalXelf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098558441019285965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098383180646523065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ImmortalXelf: If you need to KYC on any casino or exchange here’s some info you can use 👇🏻 (Part 2)\n\nCharles James Kirk\n14/10/1993\n1023…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098383174397251585",
+            "3_2098383174241787905"
+          ]
+        },
+        "author_id": "1571236793051238400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Arizona",
+              "id": "1004434267835809792",
+              "name": "Arizona"
+            }
+          }
+        ],
+        "conversation_id": "2098383180646523065",
+        "created_at": "2026-09-11T12:08:30.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098383180646523065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzX6mhfKjj",
+              "end": 220,
+              "expanded_url": "https://x.com/ImmortalXelf/status/2098383180646523065/photo/1",
+              "media_key": "3_2098383174397251585",
+              "start": 197,
+              "url": "https://t.co/SzX6mhfKjj"
+            },
+            {
+              "display_url": "pic.x.com/SzX6mhfKjj",
+              "end": 220,
+              "expanded_url": "https://x.com/ImmortalXelf/status/2098383180646523065/photo/1",
+              "media_key": "3_2098383174241787905",
+              "start": 197,
+              "url": "https://t.co/SzX6mhfKjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098383180646523065",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098383174397251585"
+          },
+          {
+            "media_key": "3_2098383174241787905"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5372,
+          "impression_count": 1223226,
+          "like_count": 9425,
+          "quote_count": 14,
+          "reply_count": 84,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "If you need to KYC on any casino or exchange here’s some info you can use 👇🏻 (Part 2)\n\nCharles James Kirk\n14/10/1993\n10234 East Journey Lane, Unit 1353, Scottsdale, Arizona 85255, USA\n\nId + selfie https://t.co/SzX6mhfKjj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098558441019285965",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 349,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 4112
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1977041013848879104/NmO5f7wJ_bigger.jpg",
+          "description": "Degen",
+          "url": "https://twitter.com/degencom",
+          "user_id": [
+            "1869068814354104321"
+          ]
+        },
+        "created_at": "2022-09-17T20:37:05.000Z",
+        "description": "Natural born winner | @pumpfun @kastxyz @mexc | 2,5k monthly race on Degen 🎰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "pumpfun"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "username": "kastxyz"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "mexc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "degen.com/r/Xelf",
+                "end": 23,
+                "expanded_url": "https://degen.com/r/Xelf",
+                "start": 0,
+                "url": "https://t.co/aNO9lZv6gZ"
+              }
+            ]
+          }
+        },
+        "id": "1571236793051238400",
+        "is_identity_verified": true,
+        "location": "Little Saint James Island",
+        "most_recent_tweet_id": "2098556963424547204",
+        "name": "Xelf",
+        "pinned_tweet_id": "1821361337689071728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571236793051238400/1785114029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073739149153058816/kvp-4g4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26145,
+          "following_count": 4002,
+          "like_count": 43651,
+          "listed_count": 183,
+          "media_count": 6361,
+          "tweet_count": 21947
+        },
+        "url": "https://t.co/aNO9lZv6gZ",
+        "username": "ImmortalXelf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

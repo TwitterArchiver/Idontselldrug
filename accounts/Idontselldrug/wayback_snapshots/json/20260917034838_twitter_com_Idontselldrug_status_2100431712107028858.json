@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100339189262798849"
+      ],
+      "media_source_tweet_id": [
+        "2100339195449410002"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100431712107028858",
+    "created_at": "2026-09-17T03:48:38.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100431712107028858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008994992250028032",
+          "start": 3,
+          "username": "Hludwig64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DROij5K5V2",
+          "end": 43,
+          "expanded_url": "https://x.com/Hludwig64/status/2100339195449410002/photo/1",
+          "media_key": "3_2100339189262798849",
+          "start": 20,
+          "url": "https://t.co/DROij5K5V2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100431712107028858",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100339189262798849"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100339195449410002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hludwig64: &gt; https://t.co/DROij5K5V2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2100339189262798849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXnXVPXUAE3s1D.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100339189262798849"
+          ],
+          "media_source_tweet_id": [
+            "2100339195449410002"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100431712107028858",
+        "created_at": "2026-09-17T03:48:38.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100431712107028858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008994992250028032",
+              "start": 3,
+              "username": "Hludwig64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DROij5K5V2",
+              "end": 43,
+              "expanded_url": "https://x.com/Hludwig64/status/2100339195449410002/photo/1",
+              "media_key": "3_2100339189262798849",
+              "start": 20,
+              "url": "https://t.co/DROij5K5V2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100431712107028858",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100339189262798849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100339195449410002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hludwig64: &gt; https://t.co/DROij5K5V2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100339189262798849"
+          ]
+        },
+        "author_id": "2008994992250028032",
+        "conversation_id": "2100339195449410002",
+        "created_at": "2026-09-16T21:41:01.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100339195449410002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DROij5K5V2",
+              "end": 28,
+              "expanded_url": "https://x.com/Hludwig64/status/2100339195449410002/photo/1",
+              "media_key": "3_2100339189262798849",
+              "start": 5,
+              "url": "https://t.co/DROij5K5V2"
+            },
+            {
+              "display_url": "x.com/canard_nat/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/canard_nat/status/2100168015782248744",
+              "start": 29,
+              "url": "https://t.co/GsohHu9L3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100339195449410002",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100339189262798849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7148,
+          "like_count": 418,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100168015782248744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "&gt; https://t.co/DROij5K5V2 https://t.co/GsohHu9L3T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100431712107028858",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 350,
+          "like_count": 4006,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 4221
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T20:12:15.000Z",
+        "description": "futur warlord in the ruins of the Gallic Empire | Euromutt (Franco-Venitian) | flâneur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HludwigArchive",
+                "end": 23,
+                "expanded_url": "https://t.me/HludwigArchive",
+                "start": 0,
+                "url": "https://t.co/UKIj9LFG70"
+              }
+            ]
+          }
+        },
+        "id": "2008994992250028032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100418580235870468",
+        "name": "Hludwig🇫🇷 ♱ ☧",
+        "pinned_tweet_id": "2098781206686924837",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098835546986758144/JU6GqlJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 418,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/UKIj9LFG70",
+        "username": "Hludwig64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101795038912987136"
+      ],
+      "media_source_tweet_id": [
+        "2101795073637695896"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102622381005291624",
+    "created_at": "2026-09-23T04:53:35.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102622381005291624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777916920043352064",
+          "start": 3,
+          "username": "ChudMuncher_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/guoOafH418",
+          "end": 133,
+          "expanded_url": "https://x.com/IshidAnfardedII/status/2101795073637695896/video/1",
+          "media_key": "13_2101795038912987136",
+          "start": 110,
+          "url": "https://t.co/guoOafH418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102622381005291624",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2101795038912987136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102492217910952372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChudMuncher_: type of shit transphobes will send to trans people expecting them to take it 100% seriously https://t.co/guoOafH418"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25168,
+        "height": 720,
+        "media_key": "13_2101795038912987136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101795038912987136/img/LNCvaT3AUy3mdjHc.jpg",
+        "public_metrics": {
+          "view_count": 23268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101795038912987136/vid/avc1/276x270/1HdRf_po58pVmMCl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101795038912987136/vid/avc1/368x360/j1ZcOX8Whmnx9mHT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101795038912987136/vid/avc1/738x720/W5WyDca5P7NguZme.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101795038912987136/pl/wIOApmM95UogZCnt.m3u8?v=e02"
+          }
+        ],
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101795038912987136"
+          ],
+          "media_source_tweet_id": [
+            "2101795073637695896"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102622381005291624",
+        "created_at": "2026-09-23T04:53:35.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102622381005291624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777916920043352064",
+              "start": 3,
+              "username": "ChudMuncher_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guoOafH418",
+              "end": 133,
+              "expanded_url": "https://x.com/IshidAnfardedII/status/2101795073637695896/video/1",
+              "media_key": "13_2101795038912987136",
+              "start": 110,
+              "url": "https://t.co/guoOafH418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102622381005291624",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101795038912987136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102492217910952372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChudMuncher_: type of shit transphobes will send to trans people expecting them to take it 100% seriously https://t.co/guoOafH418"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101795038912987136"
+          ],
+          "media_source_tweet_id": [
+            "2101795073637695896"
+          ]
+        },
+        "author_id": "1777916920043352064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102492217910952372",
+        "created_at": "2026-09-22T20:16:21.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T21:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102492217910952372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/guoOafH418",
+              "end": 115,
+              "expanded_url": "https://x.com/IshidAnfardedII/status/2101795073637695896/video/1",
+              "media_key": "13_2101795038912987136",
+              "start": 92,
+              "url": "https://t.co/guoOafH418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102492217910952372",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101795038912987136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 28310,
+          "like_count": 2238,
+          "quote_count": 11,
+          "reply_count": 59,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "type of shit transphobes will send to trans people expecting them to take it 100% seriously https://t.co/guoOafH418"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101795038912987136"
+          ]
+        },
+        "author_id": "1217584252965081090",
+        "conversation_id": "2101795073637695896",
+        "created_at": "2026-09-20T22:06:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101795073637695896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyUfRgNm8S",
+              "end": 23,
+              "expanded_url": "https://x.com/IshidAnfardedII/status/2101795073637695896/video/1",
+              "media_key": "13_2101795038912987136",
+              "start": 0,
+              "url": "https://t.co/xyUfRgNm8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101795073637695896",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2101795038912987136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 21539,
+          "like_count": 626,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xyUfRgNm8S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102622381005291624",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 349,
+          "like_count": 4114,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 4336
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-10T04:30:19.000Z",
+        "description": "|| I am isaacer2000!!! ||Tiktok: isaacertwobillion Discord: Iamatmylimit||",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isaacer-2000.straw.page",
+                "end": 23,
+                "expanded_url": "https://isaacer-2000.straw.page",
+                "start": 0,
+                "url": "https://t.co/6RLAj8SUOM"
+              }
+            ]
+          }
+        },
+        "id": "1777916920043352064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102601185220022720",
+        "name": "Isaacer2000 #SuperEvilSatanBoner",
+        "pinned_tweet_id": "2097149364443693518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777916920043352064/1786780371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097461605512687616/Npd8sILM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 288,
+          "like_count": 7120,
+          "listed_count": 9,
+          "media_count": 513,
+          "tweet_count": 5243
+        },
+        "url": "https://t.co/6RLAj8SUOM",
+        "username": "ChudMuncher_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

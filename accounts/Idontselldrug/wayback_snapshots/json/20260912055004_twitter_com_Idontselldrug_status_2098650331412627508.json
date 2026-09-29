@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2098466129559838758",
+    "created_at": "2026-09-12T05:50:04.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098650331412627508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716371954234494977",
+          "start": 0,
+          "username": "____7976___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098650331412627508",
+    "in_reply_to_user_id": "1716371954234494977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098466129559838758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@____7976___ Omg a hit tweet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2098466129559838758",
+        "created_at": "2026-09-12T05:50:04.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098650331412627508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716371954234494977",
+              "start": 0,
+              "username": "____7976___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098650331412627508",
+        "in_reply_to_user_id": "1716371954234494977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098466129559838758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@____7976___ Omg a hit tweet"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716371954234494977",
+        "conversation_id": "2098466129559838758",
+        "created_at": "2026-09-11T17:38:07.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098466129559838758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/____7976___/st…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/____7976___/status/2098196678335488120",
+              "start": 194,
+              "url": "https://t.co/H76pjLKpKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098466129559838758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1209,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098196678335488120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "funny tweet to bang because nooo one is happy. either chuds being transphobic or cisher white women calling me a nazi for this. maybe we can be civil and just agree she’s a boring ass nepo baby https://t.co/H76pjLKpKk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098650331412627508",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 349,
+          "like_count": 3925,
+          "listed_count": 0,
+          "media_count": 659,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-23T08:32:20.000Z",
+        "description": "Fishing for Birds\nUnfortunate Transsexual\n#FaZeUp #SPIRITED #TYLOOWIN\npriv: @mousecig2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "FaZeUp"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "SPIRITED"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "TYLOOWIN"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "mousecig2"
+              }
+            ]
+          }
+        },
+        "id": "1716371954234494977",
+        "is_identity_verified": false,
+        "location": "21",
+        "most_recent_tweet_id": "2098622005813899347",
+        "name": "Mouse",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716371954234494977/1783148511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097845565979815936/KkTj7Q1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 945,
+          "like_count": 157766,
+          "listed_count": 1,
+          "media_count": 1256,
+          "tweet_count": 13998
+        },
+        "url": "",
+        "username": "____7976___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

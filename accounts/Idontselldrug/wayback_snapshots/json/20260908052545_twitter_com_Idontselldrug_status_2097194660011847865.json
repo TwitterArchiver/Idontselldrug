@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097194651371638784"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096846943469424727",
+    "created_at": "2026-09-08T05:25:45.000Z",
+    "display_text_range": [
+      14,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097194660011847865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277411486168756231",
+          "start": 0,
+          "username": "mangoiceshake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYm2cr6Fhz",
+          "end": 38,
+          "expanded_url": "https://x.com/Idontselldrug/status/2097194660011847865/photo/1",
+          "media_key": "3_2097194651371638784",
+          "start": 15,
+          "url": "https://t.co/WYm2cr6Fhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097194660011847865",
+    "in_reply_to_user_id": "1277411486168756231",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097194651371638784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097154373084189060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoiceshake https://t.co/WYm2cr6Fhz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2097194651371638784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7bIvbEAADFkN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097194651371638784"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096846943469424727",
+        "created_at": "2026-09-08T05:25:45.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097194660011847865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYm2cr6Fhz",
+              "end": 38,
+              "expanded_url": "https://x.com/Idontselldrug/status/2097194660011847865/photo/1",
+              "media_key": "3_2097194651371638784",
+              "start": 15,
+              "url": "https://t.co/WYm2cr6Fhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097194660011847865",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097194651371638784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097154373084189060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake https://t.co/WYm2cr6Fhz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277411486168756231",
+        "conversation_id": "2096846943469424727",
+        "created_at": "2026-09-08T02:45:40.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097154373084189060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097154373084189060",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096846943469424727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug k hole 是什么感觉🥺没到过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2097194660011847865",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 343,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 4052
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-29T01:20:17.000Z",
+        "description": "🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mangoiceshake1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mangoiceshake1",
+                "start": 0,
+                "url": "https://t.co/p0al7DZLqz"
+              }
+            ]
+          }
+        },
+        "id": "1277411486168756231",
+        "is_identity_verified": false,
+        "location": "加拿大有机三文鱼甜虾芒果冻干猫条",
+        "most_recent_tweet_id": "2097154373084189060",
+        "name": "🥭🐈❄️ 🍰🐙✨🍦困困猫猫(´⌯ ̫⌯`)",
+        "pinned_tweet_id": "1971718069535084995",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277411486168756231/1706426642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886264934683549696/hN-LO71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 480,
+          "like_count": 4816,
+          "listed_count": 4,
+          "media_count": 1045,
+          "tweet_count": 11808
+        },
+        "url": "https://t.co/p0al7DZLqz",
+        "username": "mangoiceshake",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

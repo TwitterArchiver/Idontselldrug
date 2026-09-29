@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104113880867721216"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2104113886089908452",
+    "created_at": "2026-09-27T07:40:17.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104113886089908452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kgSJctZFN5",
+          "end": 61,
+          "expanded_url": "https://x.com/Idontselldrug/status/2104113886089908452/photo/1",
+          "media_key": "3_2104113880867721216",
+          "start": 38,
+          "url": "https://t.co/kgSJctZFN5"
+        },
+        {
+          "display_url": "x.com/Alex_ybuild/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Alex_ybuild/status/2103901997250519263",
+          "start": 62,
+          "url": "https://t.co/c53IbFkEMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104113886089908452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104113880867721216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103901997250519263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了，选答案后他问我你真的确定吗，我就改了，没想到本来是对的改了就错了 https://t.co/kgSJctZFN5 https://t.co/c53IbFkEMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2104113880867721216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNQbTQW0AA937K.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2103901988140523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKPthVaoAAoNjT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2103901988048236544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKPtg_acAA6ycX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2103901988035731456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKPtg8boAAyHd7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2103901986534162432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKPtbWbgAAZp9v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104113880867721216"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2104113886089908452",
+        "created_at": "2026-09-27T07:40:17.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104113886089908452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgSJctZFN5",
+              "end": 61,
+              "expanded_url": "https://x.com/Idontselldrug/status/2104113886089908452/photo/1",
+              "media_key": "3_2104113880867721216",
+              "start": 38,
+              "url": "https://t.co/kgSJctZFN5"
+            },
+            {
+              "display_url": "x.com/Alex_ybuild/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Alex_ybuild/status/2103901997250519263",
+              "start": 62,
+              "url": "https://t.co/c53IbFkEMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104113886089908452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104113880867721216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103901997250519263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了，选答案后他问我你真的确定吗，我就改了，没想到本来是对的改了就错了 https://t.co/kgSJctZFN5 https://t.co/c53IbFkEMg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103901988140523520",
+            "3_2103901988048236544",
+            "3_2103901988035731456",
+            "3_2103901986534162432"
+          ]
+        },
+        "author_id": "717136685125873665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103901997250519263",
+        "created_at": "2026-09-26T17:38:19.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103901997250519263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "AI 翻过的车，这次换你来开。测出你的参数量、MoE 还是 Dense、AI 味和模型人格。",
+              "display_url": "humanbench.ybuild.ai",
+              "end": 59,
+              "expanded_url": "https://humanbench.ybuild.ai",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2103902006620704768/pUccPMo0?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103902006620704768/pUccPMo0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "你是几B的模型？",
+              "unwound_url": "https://humanbench.ybuild.ai",
+              "url": "https://t.co/mR5w936BKd"
+            },
+            {
+              "display_url": "pic.x.com/MouTNWhotb",
+              "end": 107,
+              "expanded_url": "https://x.com/Alex_ybuild/status/2103901997250519263/photo/1",
+              "media_key": "3_2103901988140523520",
+              "start": 84,
+              "url": "https://t.co/MouTNWhotb"
+            },
+            {
+              "display_url": "pic.x.com/MouTNWhotb",
+              "end": 107,
+              "expanded_url": "https://x.com/Alex_ybuild/status/2103901997250519263/photo/1",
+              "media_key": "3_2103901988048236544",
+              "start": 84,
+              "url": "https://t.co/MouTNWhotb"
+            },
+            {
+              "display_url": "pic.x.com/MouTNWhotb",
+              "end": 107,
+              "expanded_url": "https://x.com/Alex_ybuild/status/2103901997250519263/photo/1",
+              "media_key": "3_2103901988035731456",
+              "start": 84,
+              "url": "https://t.co/MouTNWhotb"
+            },
+            {
+              "display_url": "pic.x.com/MouTNWhotb",
+              "end": 107,
+              "expanded_url": "https://x.com/Alex_ybuild/status/2103901997250519263/photo/1",
+              "media_key": "3_2103901986534162432",
+              "start": 84,
+              "url": "https://t.co/MouTNWhotb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103901997250519263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103901988140523520"
+          },
+          {
+            "media_key": "3_2103901988048236544"
+          },
+          {
+            "media_key": "3_2103901988035731456"
+          },
+          {
+            "media_key": "3_2103901986534162432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6494,
+          "like_count": 54,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，向大家隆重介绍面向人类的benchmark—humanbench\nhttps://t.co/mR5w936BKd\n大家快来测一下自己相当于什么模型尺寸和模型人格 https://t.co/MouTNWhotb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2104113886089908452",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 352,
+          "like_count": 4181,
+          "listed_count": 0,
+          "media_count": 686,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-04T23:48:04.000Z",
+        "description": "ex-Tencent",
+        "id": "717136685125873665",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104112045264437454",
+        "name": "Alex",
+        "pinned_tweet_id": "2103901997250519263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717136685125873665/1759467074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/944589791558901760/w5tSSMW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 329,
+          "like_count": 1266,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "Alex_ybuild",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

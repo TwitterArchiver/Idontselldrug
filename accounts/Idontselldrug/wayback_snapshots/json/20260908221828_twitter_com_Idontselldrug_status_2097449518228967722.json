@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2097449518228967722",
+    "created_at": "2026-09-08T22:18:28.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T23:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097449518228967722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2025213827323674624",
+          "start": 3,
+          "username": "Celeste1497395"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097449518228967722",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097350076154732584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celeste1497395: Things that are more important than your mental health:\n\n• your GPA\n• skinny\n• your shitty job\n• not wanting to be anno…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2097449518228967722",
+        "created_at": "2026-09-08T22:18:28.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T23:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097449518228967722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2025213827323674624",
+              "start": 3,
+              "username": "Celeste1497395"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097449518228967722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097350076154732584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celeste1497395: Things that are more important than your mental health:\n\n• your GPA\n• skinny\n• your shitty job\n• not wanting to be anno…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025213827323674624",
+        "conversation_id": "2097350076154732584",
+        "created_at": "2026-09-08T15:43:19.000Z",
+        "display_text_range": [
+          0,
+          208
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097350076154732584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097350076154732584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 28264,
+          "like_count": 3614,
+          "quote_count": 29,
+          "reply_count": 12,
+          "retweet_count": 678
+        },
+        "reply_settings": "everyone",
+        "text": "Things that are more important than your mental health:\n\n• your GPA\n• skinny\n• your shitty job\n• not wanting to be annoying \n• organized religion\n• internet points\n• being \"chill\"\n• making everyone else happy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2097449518228967722",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 344,
+          "like_count": 3854,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 4058
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T14:19:53.000Z",
+        "description": "INTJ\n\n🙈🙉🙊\n\nBackup account: @Celeste_tpftm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Celeste_tpftm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "celestesnowangels.straw.page",
+                "end": 23,
+                "expanded_url": "https://celestesnowangels.straw.page",
+                "start": 0,
+                "url": "https://t.co/dgwPZudPsj"
+              }
+            ]
+          }
+        },
+        "id": "2025213827323674624",
+        "is_identity_verified": false,
+        "location": "bmi 19.4",
+        "most_recent_tweet_id": "2097363095886680169",
+        "name": "𝓒𝓮𝓬𝓮ᯓᡣ𐭩",
+        "pinned_tweet_id": "2097301954267423134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025213827323674624/1786509622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087397824379944960/AS3BMGkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 3011,
+          "like_count": 13098,
+          "listed_count": 15,
+          "media_count": 188,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/dgwPZudPsj",
+        "username": "Celeste1497395",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098297016896143360",
+        "3_2098297027532898305",
+        "3_2098297034625474560",
+        "3_2098297043060248576"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2098297050094076329",
+    "created_at": "2026-09-11T06:26:15.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098297050094076329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnOXKFRiJ9",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+          "media_key": "3_2098297016896143360",
+          "start": 68,
+          "url": "https://t.co/vnOXKFRiJ9"
+        },
+        {
+          "display_url": "pic.x.com/vnOXKFRiJ9",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+          "media_key": "3_2098297027532898305",
+          "start": 68,
+          "url": "https://t.co/vnOXKFRiJ9"
+        },
+        {
+          "display_url": "pic.x.com/vnOXKFRiJ9",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+          "media_key": "3_2098297034625474560",
+          "start": 68,
+          "url": "https://t.co/vnOXKFRiJ9"
+        },
+        {
+          "display_url": "pic.x.com/vnOXKFRiJ9",
+          "end": 91,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+          "media_key": "3_2098297043060248576",
+          "start": 68,
+          "url": "https://t.co/vnOXKFRiJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098297050094076329",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098297016896143360"
+      },
+      {
+        "media_key": "3_2098297027532898305"
+      },
+      {
+        "media_key": "3_2098297034625474560"
+      },
+      {
+        "media_key": "3_2098297043060248576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有两个月这个地方就要倒闭了，一文钱难倒英雄汉啊。\n这老板好像有点嬉皮士，还没来得及好好交流一下\n我充了个会员卡，得趁他们跑路前用完先 https://t.co/vnOXKFRiJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2098297016896143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6mBQVbQAAjZ28.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2098297027532898305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6mB39bQAE_vIV.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2098297034625474560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6mCSYbYAA7Gce.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2098297043060248576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6mCxzb0AA1Roo.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098297016896143360",
+            "3_2098297027532898305",
+            "3_2098297034625474560",
+            "3_2098297043060248576"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2098297050094076329",
+        "created_at": "2026-09-11T06:26:15.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098297050094076329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnOXKFRiJ9",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+              "media_key": "3_2098297016896143360",
+              "start": 68,
+              "url": "https://t.co/vnOXKFRiJ9"
+            },
+            {
+              "display_url": "pic.x.com/vnOXKFRiJ9",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+              "media_key": "3_2098297027532898305",
+              "start": 68,
+              "url": "https://t.co/vnOXKFRiJ9"
+            },
+            {
+              "display_url": "pic.x.com/vnOXKFRiJ9",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+              "media_key": "3_2098297034625474560",
+              "start": 68,
+              "url": "https://t.co/vnOXKFRiJ9"
+            },
+            {
+              "display_url": "pic.x.com/vnOXKFRiJ9",
+              "end": 91,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098297050094076329/photo/1",
+              "media_key": "3_2098297043060248576",
+              "start": 68,
+              "url": "https://t.co/vnOXKFRiJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098297050094076329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098297016896143360"
+          },
+          {
+            "media_key": "3_2098297027532898305"
+          },
+          {
+            "media_key": "3_2098297034625474560"
+          },
+          {
+            "media_key": "3_2098297043060248576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有两个月这个地方就要倒闭了，一文钱难倒英雄汉啊。\n这老板好像有点嬉皮士，还没来得及好好交流一下\n我充了个会员卡，得趁他们跑路前用完先 https://t.co/vnOXKFRiJ9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098297050094076329",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 349,
+          "like_count": 3900,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 4100
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

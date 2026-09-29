@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100946466130845696"
+      ],
+      "media_source_tweet_id": [
+        "2100946489035898937"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Young Thug ",
+          "id": "969336950288089088",
+          "name": "Young Thug "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Young Thug ",
+          "id": "969336950288089088",
+          "name": "Young Thug "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Young Thug ",
+          "id": "969336950288089088",
+          "name": "Young Thug "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2101369385554420066",
+    "created_at": "2026-09-19T17:54:37.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101369385554420066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052566384970719233",
+          "start": 3,
+          "username": "parfya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OHEIsFlPLv",
+          "end": 115,
+          "expanded_url": "https://x.com/parfya/status/2100946489035898937/video/1",
+          "media_key": "13_2100946466130845696",
+          "start": 92,
+          "url": "https://t.co/OHEIsFlPLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101369385554420066",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2100946466130845696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100946489035898937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parfya: fat niggas ALWAYS gotta pull that shirt down young thug thought we ain't notice https://t.co/OHEIsFlPLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8846,
+        "height": 1280,
+        "media_key": "13_2100946466130845696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100946466130845696/img/sC6xCgAsSB4yQQb3.jpg",
+        "public_metrics": {
+          "view_count": 452394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100946466130845696/vid/avc1/320x568/GF-R2zbBjpp1Wb7X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100946466130845696/vid/avc1/480x852/KSTaZBZGCDNEZo07.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100946466130845696/vid/avc1/720x1280/Ss1KCCF9QvWov6C5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100946466130845696/pl/V4oKYBZK3nqIB9Ye.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100946466130845696"
+          ],
+          "media_source_tweet_id": [
+            "2100946489035898937"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2101369385554420066",
+        "created_at": "2026-09-19T17:54:37.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101369385554420066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052566384970719233",
+              "start": 3,
+              "username": "parfya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHEIsFlPLv",
+              "end": 115,
+              "expanded_url": "https://x.com/parfya/status/2100946489035898937/video/1",
+              "media_key": "13_2100946466130845696",
+              "start": 92,
+              "url": "https://t.co/OHEIsFlPLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101369385554420066",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100946466130845696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100946489035898937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parfya: fat niggas ALWAYS gotta pull that shirt down young thug thought we ain't notice https://t.co/OHEIsFlPLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100946466130845696"
+          ]
+        },
+        "author_id": "2052566384970719233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Young Thug ",
+              "id": "969336950288089088",
+              "name": "Young Thug "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2100946489035898937",
+        "created_at": "2026-09-18T13:54:11.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100946489035898937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHEIsFlPLv",
+              "end": 103,
+              "expanded_url": "https://x.com/parfya/status/2100946489035898937/video/1",
+              "media_key": "13_2100946466130845696",
+              "start": 80,
+              "url": "https://t.co/OHEIsFlPLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100946489035898937",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100946466130845696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1285,
+          "impression_count": 1635926,
+          "like_count": 8575,
+          "quote_count": 151,
+          "reply_count": 77,
+          "retweet_count": 781
+        },
+        "reply_settings": "everyone",
+        "text": "fat niggas ALWAYS gotta pull that shirt down young thug thought we ain't notice https://t.co/OHEIsFlPLv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2101369385554420066",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 351,
+          "like_count": 4059,
+          "listed_count": 0,
+          "media_count": 671,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T01:49:10.000Z",
+        "description": "ultra woke far left extremist with 3 legs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 23,
+                "expanded_url": "https://arab.org",
+                "start": 0,
+                "url": "https://t.co/GbMj5CWi6n"
+              }
+            ]
+          }
+        },
+        "id": "2052566384970719233",
+        "is_identity_verified": false,
+        "location": "20 (alt: @chocodoodldoo)",
+        "most_recent_tweet_id": "2101361951586570686",
+        "name": "choc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052566384970719233/1787094010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089434405898981376/vSw52oH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 298,
+          "like_count": 10300,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/GbMj5CWi6n",
+        "username": "parfya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

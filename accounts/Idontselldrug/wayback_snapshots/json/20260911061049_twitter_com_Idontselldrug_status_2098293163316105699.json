@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098293154848096256"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "2098293163316105699",
+    "created_at": "2026-09-11T06:10:49.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098293163316105699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIJj7ELY6Q",
+          "end": 46,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098293163316105699/photo/1",
+          "media_key": "3_2098293154848096256",
+          "start": 23,
+          "url": "https://t.co/GIJj7ELY6Q"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2097199548011872331",
+          "start": 47,
+          "url": "https://t.co/iU5IPYGGVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098293163316105699",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098293154848096256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097199548011872331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "获得了好多人的认可，还有人跟我合照，笑死我了 https://t.co/GIJj7ELY6Q https://t.co/iU5IPYGGVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2098293154848096256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6igdFawAAse1h.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098293154848096256"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2098293163316105699",
+        "created_at": "2026-09-11T06:10:49.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098293163316105699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIJj7ELY6Q",
+              "end": 46,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098293163316105699/photo/1",
+              "media_key": "3_2098293154848096256",
+              "start": 23,
+              "url": "https://t.co/GIJj7ELY6Q"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2097199548011872331",
+              "start": 47,
+              "url": "https://t.co/iU5IPYGGVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098293163316105699",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098293154848096256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097199548011872331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "获得了好多人的认可，还有人跟我合照，笑死我了 https://t.co/GIJj7ELY6Q https://t.co/iU5IPYGGVi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2097199548011872331",
+        "created_at": "2026-09-08T05:45:10.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097199548011872331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2091584114768085209",
+              "start": 40,
+              "url": "https://t.co/I5mr1Pwd2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097199548011872331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091584114768085209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过两天就是charlie kirk遇刺一周年了，我要穿这身去学校，希望不会被打 https://t.co/I5mr1Pwd2m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098293163316105699",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 349,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 4096
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

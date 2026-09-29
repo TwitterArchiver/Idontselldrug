@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102398776199512064"
+      ],
+      "media_source_tweet_id": [
+        "2102398790225543674"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2102603287618843093",
+    "created_at": "2026-09-23T03:37:42.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102603287618843093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1969386446734966793",
+          "start": 3,
+          "username": "CountCukrescu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b8MeSRuaxi",
+          "end": 42,
+          "expanded_url": "https://x.com/CountCukrescu/status/2102398790225543674/photo/1",
+          "media_key": "3_2102398776199512064",
+          "start": 19,
+          "url": "https://t.co/b8MeSRuaxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102603287618843093",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102398776199512064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102398790225543674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CountCukrescu: https://t.co/b8MeSRuaxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2102398776199512064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS04jEeWgAAr5Ts.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102398776199512064"
+          ],
+          "media_source_tweet_id": [
+            "2102398790225543674"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2102603287618843093",
+        "created_at": "2026-09-23T03:37:42.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102603287618843093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1969386446734966793",
+              "start": 3,
+              "username": "CountCukrescu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8MeSRuaxi",
+              "end": 42,
+              "expanded_url": "https://x.com/CountCukrescu/status/2102398790225543674/photo/1",
+              "media_key": "3_2102398776199512064",
+              "start": 19,
+              "url": "https://t.co/b8MeSRuaxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102603287618843093",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102398776199512064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102398790225543674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CountCukrescu: https://t.co/b8MeSRuaxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102398776199512064"
+          ]
+        },
+        "author_id": "1969386446734966793",
+        "conversation_id": "2102398790225543674",
+        "created_at": "2026-09-22T14:05:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102398790225543674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8MeSRuaxi",
+              "end": 23,
+              "expanded_url": "https://x.com/CountCukrescu/status/2102398790225543674/photo/1",
+              "media_key": "3_2102398776199512064",
+              "start": 0,
+              "url": "https://t.co/b8MeSRuaxi"
+            },
+            {
+              "display_url": "x.com/Tokapejntp3403…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Tokapejntp3403/status/2101641161400070517",
+              "start": 24,
+              "url": "https://t.co/4z6GaizXAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102398790225543674",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102398776199512064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 44290,
+          "like_count": 1892,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101641161400070517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/b8MeSRuaxi https://t.co/4z6GaizXAM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102603287618843093",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 349,
+          "like_count": 4114,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-20T13:01:50.000Z",
+        "description": "Art account/backup: @CukrescuArt\nStone Cold Vampcel\n100% real vampire btw I'm 257 yo\nDon't take everything I say serious",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "CukrescuArt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CountCukrescuA…",
+                "end": 23,
+                "expanded_url": "https://t.me/CountCukrescuArt",
+                "start": 0,
+                "url": "https://t.co/HWTO164dPi"
+              }
+            ]
+          }
+        },
+        "id": "1969386446734966793",
+        "is_identity_verified": false,
+        "location": "Telegram →",
+        "most_recent_tweet_id": "2102573221996323030",
+        "name": "Cøunt",
+        "pinned_tweet_id": "2102567781451575742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969386446734966793/1783693214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075583846397935617/5vNrjwvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 355,
+          "like_count": 18745,
+          "listed_count": 8,
+          "media_count": 916,
+          "tweet_count": 6856
+        },
+        "url": "https://t.co/HWTO164dPi",
+        "username": "CountCukrescu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

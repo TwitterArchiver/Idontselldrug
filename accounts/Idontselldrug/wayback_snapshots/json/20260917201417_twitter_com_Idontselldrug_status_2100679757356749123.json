@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2100345336808067073"
+      ],
+      "media_source_tweet_id": [
+        "2100345387588493344"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100679757356749123",
+    "created_at": "2026-09-17T20:14:17.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T21:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100679757356749123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2062930182927728640",
+          "start": 3,
+          "username": "ihatebalkans381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTlvhOmJdD",
+          "end": 61,
+          "expanded_url": "https://x.com/ihatebalkans381/status/2100345387588493344/photo/1",
+          "media_key": "16_2100345336808067073",
+          "start": 38,
+          "url": "https://t.co/OTlvhOmJdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100679757356749123",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2100345336808067073"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100345387588493344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ihatebalkans381: \"we need a slur\" https://t.co/OTlvhOmJdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "16_2100345336808067073",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSXs9KoX0AEQfJO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSXs9KoX0AEQfJO.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100345336808067073"
+          ],
+          "media_source_tweet_id": [
+            "2100345387588493344"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100679757356749123",
+        "created_at": "2026-09-17T20:14:17.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T21:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100679757356749123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2062930182927728640",
+              "start": 3,
+              "username": "ihatebalkans381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTlvhOmJdD",
+              "end": 61,
+              "expanded_url": "https://x.com/ihatebalkans381/status/2100345387588493344/photo/1",
+              "media_key": "16_2100345336808067073",
+              "start": 38,
+              "url": "https://t.co/OTlvhOmJdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100679757356749123",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2100345336808067073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100345387588493344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ihatebalkans381: \"we need a slur\" https://t.co/OTlvhOmJdD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100345336808067073"
+          ]
+        },
+        "author_id": "2062930182927728640",
+        "conversation_id": "2100345387588493344",
+        "created_at": "2026-09-16T22:05:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100345387588493344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTlvhOmJdD",
+              "end": 40,
+              "expanded_url": "https://x.com/ihatebalkans381/status/2100345387588493344/photo/1",
+              "media_key": "16_2100345336808067073",
+              "start": 17,
+              "url": "https://t.co/OTlvhOmJdD"
+            },
+            {
+              "display_url": "x.com/temujoandidion…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/temujoandidion/status/2095585678490804245",
+              "start": 41,
+              "url": "https://t.co/SEJUXVNf1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100345387588493344",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2100345336808067073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 844,
+          "impression_count": 94810,
+          "like_count": 8764,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095585678490804245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"we need a slur\" https://t.co/OTlvhOmJdD https://t.co/SEJUXVNf1F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100679757356749123",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 351,
+          "like_count": 4017,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 4227
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T16:12:12.000Z",
+        "description": "the goyim have gone insane\ntotally not #theguy you're thinking of\n\n@ilovebalkans381 and @balkans381 are my WORST enemies\n\nblock me = I OWN YOU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "theguy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "ilovebalkans381"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "balkans381"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roblox.com/users/11091585…",
+                "end": 23,
+                "expanded_url": "https://www.roblox.com/users/11091585781/profile",
+                "start": 0,
+                "url": "https://t.co/slm9XpVFiJ"
+              }
+            ]
+          }
+        },
+        "id": "2062930182927728640",
+        "is_identity_verified": false,
+        "location": "DNB Factory",
+        "most_recent_tweet_id": "2100679624422302006",
+        "name": "untuff 🇷🇸",
+        "pinned_tweet_id": "2076816433455976922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062930182927728640/1785607179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087283351803555840/JGaBkFJN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 492,
+          "like_count": 1777,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 1402
+        },
+        "url": "https://t.co/slm9XpVFiJ",
+        "username": "ihatebalkans381",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2103715987141062676",
+    "created_at": "2026-09-26T05:19:11.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103715987141062676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pinkchyu/statu…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/pinkchyu/status/2103238968850747590",
+          "start": 67,
+          "url": "https://t.co/2mhX61pqHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103715987141062676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103238968850747590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看着这么多goth larper聚一起就像是毛泽东看邓小平习近平说自己是社会主义一样，感觉喜欢这些的人都是lower species https://t.co/2mhX61pqHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103238964291522560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTA0sdBbUAAT9kq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2103715987141062676",
+        "created_at": "2026-09-26T05:19:11.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103715987141062676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkchyu/statu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/pinkchyu/status/2103238968850747590",
+              "start": 67,
+              "url": "https://t.co/2mhX61pqHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103715987141062676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103238968850747590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着这么多goth larper聚一起就像是毛泽东看邓小平习近平说自己是社会主义一样，感觉喜欢这些的人都是lower species https://t.co/2mhX61pqHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103238964291522560"
+          ]
+        },
+        "author_id": "933880813762043904",
+        "conversation_id": "2103216683427000434",
+        "created_at": "2026-09-24T21:43:41.000Z",
+        "display_text_range": [
+          8,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T22:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103238968850747590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "745708855481425920",
+              "start": 0,
+              "username": "yoxics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9mrVJsAUI",
+              "end": 74,
+              "expanded_url": "https://x.com/pinkchyu/status/2103238968850747590/photo/1",
+              "media_key": "3_2103238964291522560",
+              "start": 51,
+              "url": "https://t.co/H9mrVJsAUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103238968850747590",
+        "in_reply_to_user_id": "745708855481425920",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103238964291522560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 292856,
+          "like_count": 806,
+          "quote_count": 36,
+          "reply_count": 43,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103216683427000434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoxics Yay! We’re gonna have so much fun together https://t.co/H9mrVJsAUI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2103715987141062676",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 352,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-24T02:11:51.000Z",
+        "description": "💕 Ur favorite Goth Baddie @pinkychuwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "pinkychuwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkchyuwu.com",
+                "end": 23,
+                "expanded_url": "http://pinkchyuwu.com",
+                "start": 0,
+                "url": "https://t.co/Xr6OIKDRzZ"
+              }
+            ]
+          }
+        },
+        "id": "933880813762043904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103617958631403546",
+        "name": "Pinkchyu",
+        "pinned_tweet_id": "2022758374538965188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/933880813762043904/1748289083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917132925214371840/4TNd7k6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057960,
+          "following_count": 486,
+          "like_count": 6136,
+          "listed_count": 1367,
+          "media_count": 407,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/Xr6OIKDRzZ",
+        "username": "pinkchyu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-22T20:03:40.000Z",
+        "description": "FBI ASSOCIATE | powered by @roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "roobet"
+              }
+            ]
+          }
+        },
+        "id": "745708855481425920",
+        "is_identity_verified": true,
+        "location": "dm 4 promo 🪐",
+        "most_recent_tweet_id": "2103665518641324465",
+        "name": "yoxic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745708855481425920/1682223634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603159442249248768/APJLtkBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697206,
+          "following_count": 967,
+          "like_count": 229968,
+          "listed_count": 519,
+          "media_count": 29090,
+          "tweet_count": 98110
+        },
+        "url": "",
+        "username": "yoxics",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

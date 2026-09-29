@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101149857675190272"
+      ],
+      "media_source_tweet_id": [
+        "2101149864763560022"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2101743304589365278",
+    "created_at": "2026-09-20T18:40:26.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101743304589365278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313647919908745220",
+          "start": 3,
+          "username": "7i__g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6L4CZtOjlb",
+          "end": 34,
+          "expanded_url": "https://x.com/7i__g/status/2101149864763560022/photo/1",
+          "media_key": "3_2101149857675190272",
+          "start": 11,
+          "url": "https://t.co/6L4CZtOjlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101743304589365278",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101149857675190272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3674
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101149864763560022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7i__g: https://t.co/6L4CZtOjlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2101149857675190272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjIqcaXoAAGymB.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101149857675190272"
+          ],
+          "media_source_tweet_id": [
+            "2101149864763560022"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2101743304589365278",
+        "created_at": "2026-09-20T18:40:26.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101743304589365278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313647919908745220",
+              "start": 3,
+              "username": "7i__g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6L4CZtOjlb",
+              "end": 34,
+              "expanded_url": "https://x.com/7i__g/status/2101149864763560022/photo/1",
+              "media_key": "3_2101149857675190272",
+              "start": 11,
+              "url": "https://t.co/6L4CZtOjlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101743304589365278",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101149857675190272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3674
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101149864763560022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7i__g: https://t.co/6L4CZtOjlb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101149857675190272"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2101149864763560022",
+        "created_at": "2026-09-19T03:22:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101149864763560022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6L4CZtOjlb",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2101149864763560022/photo/1",
+              "media_key": "3_2101149857675190272",
+              "start": 0,
+              "url": "https://t.co/6L4CZtOjlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101149864763560022",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101149857675190272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 137005,
+          "like_count": 29063,
+          "quote_count": 25,
+          "reply_count": 6,
+          "retweet_count": 3674
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6L4CZtOjlb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2101743304589365278",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 350,
+          "like_count": 4081,
+          "listed_count": 0,
+          "media_count": 673,
+          "tweet_count": 4288
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101742848328548473",
+        "name": "ًً",
+        "pinned_tweet_id": "2058592279900586263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313647919908745220/1765188049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35814,
+          "following_count": 30,
+          "like_count": 354671,
+          "listed_count": 65,
+          "media_count": 1726,
+          "tweet_count": 5319
+        },
+        "url": "",
+        "username": "7i__g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

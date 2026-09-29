@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2104037915374542848"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2103958244628763060",
+    "created_at": "2026-09-27T02:38:26.000Z",
+    "display_text_range": [
+      16,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104037923759014144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497038553875763203",
+          "start": 0,
+          "username": "Ozymandias_Jhin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XyONI6Cr4n",
+          "end": 40,
+          "expanded_url": "https://x.com/Idontselldrug/status/2104037923759014144/photo/1",
+          "media_key": "16_2104037915374542848",
+          "start": 17,
+          "url": "https://t.co/XyONI6Cr4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104037923759014144",
+    "in_reply_to_user_id": "1497038553875763203",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2104037915374542848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104033449267142659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ozymandias_Jhin https://t.co/XyONI6Cr4n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "16_2104037915374542848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTMLVhvaYAAwfgf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTMLVhvaYAAwfgf.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2104037915374542848"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2103958244628763060",
+        "created_at": "2026-09-27T02:38:26.000Z",
+        "display_text_range": [
+          16,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104037923759014144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497038553875763203",
+              "start": 0,
+              "username": "Ozymandias_Jhin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyONI6Cr4n",
+              "end": 40,
+              "expanded_url": "https://x.com/Idontselldrug/status/2104037923759014144/photo/1",
+              "media_key": "16_2104037915374542848",
+              "start": 17,
+              "url": "https://t.co/XyONI6Cr4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104037923759014144",
+        "in_reply_to_user_id": "1497038553875763203",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2104037915374542848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104033449267142659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ozymandias_Jhin https://t.co/XyONI6Cr4n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497038553875763203",
+        "conversation_id": "2103958244628763060",
+        "created_at": "2026-09-27T02:20:40.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104033449267142659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104033449267142659",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103958244628763060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 瑞克莫蒂里面的human music 听过吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2104037923759014144",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 352,
+          "like_count": 4171,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T02:39:47.000Z",
+        "description": "Make love, not war\n我本楚狂人  鳳歌笑孔丘",
+        "id": "1497038553875763203",
+        "is_identity_verified": false,
+        "location": "郢都",
+        "most_recent_tweet_id": "2104033449267142659",
+        "name": "Dionysus(無拘遊民)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497038553875763203/1652989065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497038906969104385/Ja8fcYBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 438,
+          "like_count": 3991,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 2152
+        },
+        "url": "",
+        "username": "Ozymandias_Jhin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

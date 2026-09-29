@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103521700134481920"
+      ],
+      "media_source_tweet_id": [
+        "2103521728404324802"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2103602532576845883",
+    "created_at": "2026-09-25T21:48:21.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T22:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103602532576845883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881813618054111233",
+          "start": 3,
+          "username": "Gm3rN3rd3zz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RRTveFm2zL",
+          "end": 61,
+          "expanded_url": "https://x.com/Gm3rN3rd3zz/status/2103521728404324802/photo/1",
+          "media_key": "3_2103521700134481920",
+          "start": 38,
+          "url": "https://t.co/RRTveFm2zL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103602532576845883",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103521700134481920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103521728404324802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gm3rN3rd3zz: Never kill yourself. https://t.co/RRTveFm2zL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2103521700134481920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTE112HXcAAB5Vk.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103521700134481920"
+          ],
+          "media_source_tweet_id": [
+            "2103521728404324802"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2103602532576845883",
+        "created_at": "2026-09-25T21:48:21.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T22:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103602532576845883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881813618054111233",
+              "start": 3,
+              "username": "Gm3rN3rd3zz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRTveFm2zL",
+              "end": 61,
+              "expanded_url": "https://x.com/Gm3rN3rd3zz/status/2103521728404324802/photo/1",
+              "media_key": "3_2103521700134481920",
+              "start": 38,
+              "url": "https://t.co/RRTveFm2zL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103602532576845883",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103521700134481920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103521728404324802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gm3rN3rd3zz: Never kill yourself. https://t.co/RRTveFm2zL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103521700134481920"
+          ]
+        },
+        "author_id": "1881813618054111233",
+        "conversation_id": "2103521728404324802",
+        "created_at": "2026-09-25T16:27:16.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103521728404324802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRTveFm2zL",
+              "end": 44,
+              "expanded_url": "https://x.com/Gm3rN3rd3zz/status/2103521728404324802/photo/1",
+              "media_key": "3_2103521700134481920",
+              "start": 21,
+              "url": "https://t.co/RRTveFm2zL"
+            },
+            {
+              "display_url": "x.com/lacy_73403/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/lacy_73403/status/2103281910931661189",
+              "start": 45,
+              "url": "https://t.co/e6Ij2EaRk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103521728404324802",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103521700134481920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 126358,
+          "like_count": 8857,
+          "quote_count": 20,
+          "reply_count": 52,
+          "retweet_count": 459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103281910931661189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Never kill yourself. https://t.co/RRTveFm2zL https://t.co/e6Ij2EaRk5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2103602532576845883",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 351,
+          "like_count": 4144,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 4367
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-21T21:18:35.000Z",
+        "description": "Christian woman all 39 years of my life. NS for the last 13. Tribe up or perish, White men and women. Against White women misogyny.\n\nFor the 🧃:\nMatthew 21:43",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gab.com/GamerNerdess",
+                "end": 23,
+                "expanded_url": "https://gab.com/GamerNerdess",
+                "start": 0,
+                "url": "https://t.co/3WqOM0jE5p"
+              }
+            ]
+          }
+        },
+        "id": "1881813618054111233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103602297032843658",
+        "name": "Tabby ✝️ o/",
+        "pinned_tweet_id": "2096216893707182341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881813618054111233/1755097545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094145070236639232/LEvQANSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 80,
+          "like_count": 3321,
+          "listed_count": 1,
+          "media_count": 1937,
+          "tweet_count": 8088
+        },
+        "url": "https://t.co/3WqOM0jE5p",
+        "username": "Gm3rN3rd3zz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

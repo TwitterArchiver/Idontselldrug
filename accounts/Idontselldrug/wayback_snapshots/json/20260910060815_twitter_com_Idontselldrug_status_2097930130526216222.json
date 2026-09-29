@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097875079145336832"
+      ],
+      "media_source_tweet_id": [
+        "2097875113722905027"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2097930130526216222",
+    "created_at": "2026-09-10T06:08:15.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097930130526216222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337217263515078662",
+          "start": 3,
+          "username": "Slatzism"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6bsolYtaJ",
+          "end": 56,
+          "expanded_url": "https://x.com/Slatzism/status/2097875113722905027/video/1",
+          "media_key": "13_2097875079145336832",
+          "start": 33,
+          "url": "https://t.co/A6bsolYtaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097930130526216222",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097875079145336832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097875113722905027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slatzism: rolling loud india https://t.co/A6bsolYtaJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22300,
+        "height": 1080,
+        "media_key": "13_2097875079145336832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097875079145336832/img/NEWezxQNyPG1czKk.jpg",
+        "public_metrics": {
+          "view_count": 47231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097875079145336832/pl/VUIs9hzg7kcKK-AI.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097875079145336832/vid/avc1/640x360/mU1s6VLz3lgrhBBT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097875079145336832/vid/avc1/1280x720/tBdLzvoO8UHgB7sb.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097875079145336832/vid/avc1/480x270/AHmHB5CIxcZtk1R0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097875079145336832/vid/avc1/1920x1080/5qEipw8cPpWMeugr.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097875079145336832"
+          ],
+          "media_source_tweet_id": [
+            "2097875113722905027"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2097930130526216222",
+        "created_at": "2026-09-10T06:08:15.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097930130526216222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1337217263515078662",
+              "start": 3,
+              "username": "Slatzism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6bsolYtaJ",
+              "end": 56,
+              "expanded_url": "https://x.com/Slatzism/status/2097875113722905027/video/1",
+              "media_key": "13_2097875079145336832",
+              "start": 33,
+              "url": "https://t.co/A6bsolYtaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097930130526216222",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097875079145336832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097875113722905027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Slatzism: rolling loud india https://t.co/A6bsolYtaJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097875079145336832"
+          ]
+        },
+        "author_id": "1337217263515078662",
+        "conversation_id": "2097875113722905027",
+        "created_at": "2026-09-10T02:29:38.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097875113722905027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6bsolYtaJ",
+              "end": 42,
+              "expanded_url": "https://x.com/Slatzism/status/2097875113722905027/video/1",
+              "media_key": "13_2097875079145336832",
+              "start": 19,
+              "url": "https://t.co/A6bsolYtaJ"
+            },
+            {
+              "display_url": "x.com/kurrco/status/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kurrco/status/2097757484064629190",
+              "start": 43,
+              "url": "https://t.co/TMDIzTHq8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097875113722905027",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097875079145336832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 183590,
+          "like_count": 3058,
+          "quote_count": 9,
+          "reply_count": 49,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097757484064629190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rolling loud india https://t.co/A6bsolYtaJ https://t.co/TMDIzTHq8U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2097930130526216222",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 346,
+          "like_count": 3881,
+          "listed_count": 0,
+          "media_count": 651,
+          "tweet_count": 4082
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-11T02:06:58.000Z",
+        "description": "la commedia è finita! homophobic correspondent @reduxx. the only nazbol here. “a powerhouse of bigotry”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "reduxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/DcsjEAfNff8t",
+                "end": 23,
+                "expanded_url": "https://youtu.be/DcsjEAfNff8t",
+                "start": 0,
+                "url": "https://t.co/TjZDX190cj"
+              }
+            ]
+          }
+        },
+        "id": "1337217263515078662",
+        "is_identity_verified": false,
+        "location": "either 🇨🇦 or 🇹🇷",
+        "most_recent_tweet_id": "2097893384501293554",
+        "name": "pagliacci the hated 🌝",
+        "pinned_tweet_id": "2025926720839098655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337217263515078662/1775856740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050093356454187008/N0lZTx7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159986,
+          "following_count": 827,
+          "like_count": 200835,
+          "listed_count": 559,
+          "media_count": 9005,
+          "tweet_count": 50112
+        },
+        "url": "https://t.co/TjZDX190cj",
+        "username": "Slatzism",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104310005227020288"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2104310008653709809",
+    "created_at": "2026-09-27T20:39:36.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104310008653709809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qnwxpMYFIb",
+          "end": 28,
+          "expanded_url": "https://x.com/Idontselldrug/status/2104310008653709809/photo/1",
+          "media_key": "3_2104310005227020288",
+          "start": 5,
+          "url": "https://t.co/qnwxpMYFIb"
+        },
+        {
+          "display_url": "x.com/Idontselldrug/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Idontselldrug/status/2104018368034636042",
+          "start": 29,
+          "url": "https://t.co/0MsjuUSt5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104310008653709809",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104310005227020288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104018368034636042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "资历证明 https://t.co/qnwxpMYFIb https://t.co/0MsjuUSt5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2104310005227020288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQCzPbbYAAXIq9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104310005227020288"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2104310008653709809",
+        "created_at": "2026-09-27T20:39:36.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104310008653709809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnwxpMYFIb",
+              "end": 28,
+              "expanded_url": "https://x.com/Idontselldrug/status/2104310008653709809/photo/1",
+              "media_key": "3_2104310005227020288",
+              "start": 5,
+              "url": "https://t.co/qnwxpMYFIb"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2104018368034636042",
+              "start": 29,
+              "url": "https://t.co/0MsjuUSt5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104310008653709809",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104310005227020288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104018368034636042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "资历证明 https://t.co/qnwxpMYFIb https://t.co/0MsjuUSt5F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2104018368034636042",
+        "created_at": "2026-09-27T01:20:44.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104018368034636042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nini_incrypto_…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/nini_incrypto_/status/2103784863790964995",
+              "start": 18,
+              "url": "https://t.co/zDnrzOGkGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104018368034636042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103784863790964995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是老资历，22年就开始用gpt了 https://t.co/zDnrzOGkGd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2104310008653709809",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 351,
+          "like_count": 4193,
+          "listed_count": 0,
+          "media_count": 687,
+          "tweet_count": 4419
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

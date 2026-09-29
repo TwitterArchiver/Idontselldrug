@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2102609501778309229",
+    "created_at": "2026-09-23T04:47:09.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102620764046585989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102620764046585989",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102609501778309229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 你是开发者吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2102609501778309229",
+        "created_at": "2026-09-23T04:47:09.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102620764046585989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102620764046585989",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102609501778309229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 你是开发者吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2102609501778309229",
+        "created_at": "2026-09-23T04:02:24.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102609501778309229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "An open encyclopedic database for the study of psychopharmacology",
+              "display_url": "dose.wiki",
+              "end": 51,
+              "expanded_url": "https://dose.wiki",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2100357713259581440/77wLoNxM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100357713259581440/77wLoNxM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "dose.wiki (beta v0.9)",
+              "unwound_url": "https://dose.wiki",
+              "url": "https://t.co/Pt3Oxrhynq"
+            },
+            {
+              "description": "一个用于研究精神药理学的开放百科数据库",
+              "display_url": "zh.dose.wiki",
+              "end": 84,
+              "expanded_url": "https://zh.dose.wiki",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2102609548288970752/ZsksHZIj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102609548288970752/ZsksHZIj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "dose.wiki (beta v0.9)",
+              "unwound_url": "https://zh.dose.wiki",
+              "url": "https://t.co/HfjkXnijY5"
+            },
+            {
+              "display_url": "x.com/n3kuv/status/2…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/n3kuv/status/2102595894113935420",
+              "start": 180,
+              "url": "https://t.co/cm1FwaGtgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102609501778309229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102595894113935420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "psychonautwiki的时代要结束了\n现在走来的是https://t.co/Pt3Oxrhynq，以及它的中文版本，https://t.co/HfjkXnijY5 ！\n尤其该看看上面的体验再现作品（replications），可以帮助各位更好的了解不同药物药效下的体验。Josie在体验再现上已经深耕多年了，而中文社区对此大多一无所知\n我有义务将其推广 https://t.co/cm1FwaGtgv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102620764046585989",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 349,
+          "like_count": 4114,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 4335
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | Responsible Drug Use | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "is_identity_verified": false,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2102609511693590880",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958507577077342208/1761901579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 808,
+          "like_count": 4132,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "Vacue138950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

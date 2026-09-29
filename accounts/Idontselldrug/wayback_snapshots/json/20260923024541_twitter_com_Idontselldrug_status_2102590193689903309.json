@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2102590181996204032"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2102487322759672054",
+    "created_at": "2026-09-23T02:45:41.000Z",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T03:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102590193689903309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ew5Hui0ODS",
+          "end": 37,
+          "expanded_url": "https://x.com/Idontselldrug/status/2102590193689903309/photo/1",
+          "media_key": "16_2102590181996204032",
+          "start": 14,
+          "url": "https://t.co/ew5Hui0ODS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102590193689903309",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2102590181996204032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102586050166276352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 https://t.co/ew5Hui0ODS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2102590181996204032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HS3moWobkAAe4Rm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HS3moWobkAAe4Rm.mp4"
+          }
+        ],
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2102590181996204032"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2102487322759672054",
+        "created_at": "2026-09-23T02:45:41.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102590193689903309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ew5Hui0ODS",
+              "end": 37,
+              "expanded_url": "https://x.com/Idontselldrug/status/2102590193689903309/photo/1",
+              "media_key": "16_2102590181996204032",
+              "start": 14,
+              "url": "https://t.co/ew5Hui0ODS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102590193689903309",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2102590181996204032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102586050166276352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 https://t.co/ew5Hui0ODS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2102487322759672054",
+        "created_at": "2026-09-23T02:29:13.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102586050166276352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102586050166276352",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102487322759672054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 那个巧克力酱 我会舔盘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102590193689903309",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 349,
+          "like_count": 4112,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 4329
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/If_I_remember",
+                "end": 23,
+                "expanded_url": "https://t.me/If_I_remember",
+                "start": 0,
+                "url": "https://t.co/FvZmK5rulL"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "is_identity_verified": false,
+        "location": "法兰西第五共和国",
+        "most_recent_tweet_id": "2102586050166276352",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908630026012004353/1783281221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 624,
+          "like_count": 4115,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/FvZmK5rulL",
+        "username": "Oscxiar_0716",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

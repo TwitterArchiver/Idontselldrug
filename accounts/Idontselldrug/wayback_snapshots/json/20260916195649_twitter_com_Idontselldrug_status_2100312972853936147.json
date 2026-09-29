@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100145980020810210",
+    "created_at": "2026-09-16T19:56:49.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100312972853936147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100312972853936147",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100145980020810210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 瘫坐一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2100145843299123200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU3hHZbgAANFkN.jpg",
+        "width": 1384
+      },
+      {
+        "height": 415,
+        "media_key": "3_2100145842632220672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU3hE6bYAALDzg.jpg",
+        "width": 972
+      },
+      {
+        "height": 372,
+        "media_key": "3_2100145843479379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSU3hIEaAAAtWCI.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100145980020810210",
+        "created_at": "2026-09-16T19:56:49.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100312972853936147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100312972853936147",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100145980020810210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 瘫坐一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100145843299123200",
+            "3_2100145842632220672",
+            "3_2100145843479379968"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "conversation_id": "2100145980020810210",
+        "created_at": "2026-09-16T08:53:15.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100145980020810210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hOwbRAouc",
+              "end": 40,
+              "expanded_url": "https://x.com/galaxy1025850/status/2100145980020810210/photo/1",
+              "media_key": "3_2100145843299123200",
+              "start": 17,
+              "url": "https://t.co/0hOwbRAouc"
+            },
+            {
+              "display_url": "pic.x.com/0hOwbRAouc",
+              "end": 40,
+              "expanded_url": "https://x.com/galaxy1025850/status/2100145980020810210/photo/1",
+              "media_key": "3_2100145842632220672",
+              "start": 17,
+              "url": "https://t.co/0hOwbRAouc"
+            },
+            {
+              "display_url": "pic.x.com/0hOwbRAouc",
+              "end": 40,
+              "expanded_url": "https://x.com/galaxy1025850/status/2100145980020810210/photo/1",
+              "media_key": "3_2100145843479379968",
+              "start": 17,
+              "url": "https://t.co/0hOwbRAouc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100145980020810210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100145843299123200"
+          },
+          {
+            "media_key": "3_2100145842632220672"
+          },
+          {
+            "media_key": "3_2100145843479379968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 92574,
+          "like_count": 515,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "OI已经进入AI爆超std时代。 https://t.co/0hOwbRAouc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100312972853936147",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 350,
+          "like_count": 3996,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖 20 y.o. \n🥴准大三计科摆烂人，喜欢折腾ai，云和各种好玩的玩意\npan，非常友跨\n欢迎互 fo💫，发现被我莫名奇妙fo了就是暗恋你😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "在你家厨房偷吃大白菜",
+        "most_recent_tweet_id": "2100260020143469047",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1058,
+          "like_count": 3353,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

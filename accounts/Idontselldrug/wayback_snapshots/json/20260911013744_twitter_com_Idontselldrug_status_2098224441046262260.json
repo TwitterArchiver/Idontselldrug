@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098224410952183808",
+        "3_2098224422243201024",
+        "3_2098224435102892033"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098224441046262260",
+    "created_at": "2026-09-11T01:37:44.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098224441046262260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cWLk8b5Zz5",
+          "end": 43,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+          "media_key": "3_2098224410952183808",
+          "start": 20,
+          "url": "https://t.co/cWLk8b5Zz5"
+        },
+        {
+          "display_url": "pic.x.com/cWLk8b5Zz5",
+          "end": 43,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+          "media_key": "3_2098224422243201024",
+          "start": 20,
+          "url": "https://t.co/cWLk8b5Zz5"
+        },
+        {
+          "display_url": "pic.x.com/cWLk8b5Zz5",
+          "end": 43,
+          "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+          "media_key": "3_2098224435102892033",
+          "start": 20,
+          "url": "https://t.co/cWLk8b5Zz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098224441046262260",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098224410952183808"
+      },
+      {
+        "media_key": "3_2098224422243201024"
+      },
+      {
+        "media_key": "3_2098224435102892033"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "礼盒装的大麻，抽的我好大，吃了好多炸鸡 https://t.co/cWLk8b5Zz5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2098224410952183808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5j_CHbsAARsW-.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2098224422243201024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5j_sLa8AAe8Rn.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2098224435102892033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5kAcFaQAEpqwS.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098224410952183808",
+            "3_2098224422243201024",
+            "3_2098224435102892033"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098224441046262260",
+        "created_at": "2026-09-11T01:37:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098224441046262260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWLk8b5Zz5",
+              "end": 43,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+              "media_key": "3_2098224410952183808",
+              "start": 20,
+              "url": "https://t.co/cWLk8b5Zz5"
+            },
+            {
+              "display_url": "pic.x.com/cWLk8b5Zz5",
+              "end": 43,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+              "media_key": "3_2098224422243201024",
+              "start": 20,
+              "url": "https://t.co/cWLk8b5Zz5"
+            },
+            {
+              "display_url": "pic.x.com/cWLk8b5Zz5",
+              "end": 43,
+              "expanded_url": "https://x.com/Idontselldrug/status/2098224441046262260/photo/1",
+              "media_key": "3_2098224435102892033",
+              "start": 20,
+              "url": "https://t.co/cWLk8b5Zz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098224441046262260",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098224410952183808"
+          },
+          {
+            "media_key": "3_2098224422243201024"
+          },
+          {
+            "media_key": "3_2098224435102892033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "礼盒装的大麻，抽的我好大，吃了好多炸鸡 https://t.co/cWLk8b5Zz5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098224441046262260",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 346,
+          "like_count": 3895,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 4092
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

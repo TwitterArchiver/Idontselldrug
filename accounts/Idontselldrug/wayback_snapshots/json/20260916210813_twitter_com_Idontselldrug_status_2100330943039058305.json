@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095840646586073090"
+      ],
+      "media_source_tweet_id": [
+        "2095840705734213925"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100330943039058305",
+    "created_at": "2026-09-16T21:08:13.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T22:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100330943039058305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566089745960165378",
+          "start": 3,
+          "username": "charlielamb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRQXSRMVOL",
+          "end": 110,
+          "expanded_url": "https://x.com/realwethebest/status/2095840705734213925/video/1",
+          "media_key": "13_2095840646586073090",
+          "start": 87,
+          "url": "https://t.co/aRQXSRMVOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100330943039058305",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095840646586073090"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100202218385256709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @charlielamb: \"You've hit you're Fable 5.1 weekly usage limit, switching to Opus 5\" https://t.co/aRQXSRMVOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19751,
+        "height": 658,
+        "media_key": "13_2095840646586073090",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095840646586073090/img/654j4w7WbVdBIlwM.jpg",
+        "public_metrics": {
+          "view_count": 2433886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095840646586073090/vid/avc1/480x270/y0AgnP1yDRGcgRsS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095840646586073090/vid/avc1/640x360/zAKqGOdvPAaJI_zI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095840646586073090/vid/avc1/1170x658/MT1iRwJ1eEzjfnIr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095840646586073090/pl/9-HXAISyJMQ84K7S.m3u8"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095840646586073090"
+          ],
+          "media_source_tweet_id": [
+            "2095840705734213925"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100330943039058305",
+        "created_at": "2026-09-16T21:08:13.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100330943039058305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566089745960165378",
+              "start": 3,
+              "username": "charlielamb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRQXSRMVOL",
+              "end": 110,
+              "expanded_url": "https://x.com/realwethebest/status/2095840705734213925/video/1",
+              "media_key": "13_2095840646586073090",
+              "start": 87,
+              "url": "https://t.co/aRQXSRMVOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100330943039058305",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095840646586073090"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100202218385256709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @charlielamb: \"You've hit you're Fable 5.1 weekly usage limit, switching to Opus 5\" https://t.co/aRQXSRMVOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095840646586073090"
+          ],
+          "media_source_tweet_id": [
+            "2095840705734213925"
+          ]
+        },
+        "author_id": "1566089745960165378",
+        "conversation_id": "2100202218385256709",
+        "created_at": "2026-09-16T12:36:43.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100202218385256709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRQXSRMVOL",
+              "end": 93,
+              "expanded_url": "https://x.com/realwethebest/status/2095840705734213925/video/1",
+              "media_key": "13_2095840646586073090",
+              "start": 70,
+              "url": "https://t.co/aRQXSRMVOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100202218385256709",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095840646586073090"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 52207,
+          "like_count": 1163,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "\"You've hit you're Fable 5.1 weekly usage limit, switching to Opus 5\" https://t.co/aRQXSRMVOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095840646586073090"
+          ]
+        },
+        "author_id": "1962749375836291072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tyler The Creator",
+              "id": "807324589298622464",
+              "name": "Tyler The Creator"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Tyler The Creator",
+              "id": "807324589298622464",
+              "name": "Tyler The Creator"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tyler The Creator",
+              "id": "807324589298622464",
+              "name": "Tyler The Creator"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2095840705734213925",
+        "created_at": "2026-09-04T11:45:37.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095840705734213925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OHX2IzrjJ",
+              "end": 50,
+              "expanded_url": "https://x.com/realwethebest/status/2095840705734213925/video/1",
+              "media_key": "13_2095840646586073090",
+              "start": 27,
+              "url": "https://t.co/0OHX2IzrjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095840705734213925",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095840646586073090"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14646,
+          "impression_count": 8100738,
+          "like_count": 59792,
+          "quote_count": 571,
+          "reply_count": 193,
+          "retweet_count": 4221
+        },
+        "reply_settings": "everyone",
+        "text": "“Feat. Tyler, the Creator” https://t.co/0OHX2IzrjJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100330943039058305",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 350,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 4216
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2095471605367390208/D6DUJksE_bigger.jpg",
+          "description": "Autumn",
+          "url": "https://twitter.com/autumnpricing",
+          "user_id": [
+            "1884600164570304512"
+          ]
+        },
+        "created_at": "2022-09-03T15:44:41.000Z",
+        "description": "cooking, founding engineering, forward deploying, framework migrating, shitposting, herding, yapping, saving gotham city @autumnpricing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "autumnpricing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "charlielamb.com",
+                "end": 23,
+                "expanded_url": "https://www.charlielamb.com/",
+                "start": 0,
+                "url": "https://t.co/KaM8GrvwYR"
+              }
+            ]
+          }
+        },
+        "id": "1566089745960165378",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100288736768512138",
+        "name": "Charlie Lamb",
+        "pinned_tweet_id": "2024962639982649444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566089745960165378/1784914041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021252252137365504/dhfYoec8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 346,
+          "like_count": 11389,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/KaM8GrvwYR",
+        "username": "charlielamb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

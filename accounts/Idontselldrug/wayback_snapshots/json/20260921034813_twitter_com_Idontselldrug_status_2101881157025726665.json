@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093157617187098625"
+      ],
+      "media_source_tweet_id": [
+        "2093157649609040015"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101881157025726665",
+    "created_at": "2026-09-21T03:48:13.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101881157025726665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2087269888624574464",
+          "start": 3,
+          "username": "ut_ethan25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INuv5am6hC",
+          "end": 67,
+          "expanded_url": "https://x.com/velvtbug/status/2093157649609040015/video/1",
+          "media_key": "13_2093157617187098625",
+          "start": 44,
+          "url": "https://t.co/INuv5am6hC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101881157025726665",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2093157617187098625"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101560278940807424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ut_ethan25: How people swear weed feels https://t.co/INuv5am6hC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10827,
+        "height": 688,
+        "media_key": "13_2093157617187098625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093157617187098625/img/x_cW75BBMTuaeIyJ.jpg",
+        "public_metrics": {
+          "view_count": 6707750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/320x320/fyZTY1UB3wTB2kbv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/540x540/CmRKB8RK1NPbir3S.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/vid/avc1/688x688/PNUjhVUclJN1gpmK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093157617187098625/pl/VtTR3xErGuWPUJdC.m3u8?v=cfc"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093157617187098625"
+          ],
+          "media_source_tweet_id": [
+            "2093157649609040015"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101881157025726665",
+        "created_at": "2026-09-21T03:48:13.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101881157025726665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2087269888624574464",
+              "start": 3,
+              "username": "ut_ethan25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INuv5am6hC",
+              "end": 67,
+              "expanded_url": "https://x.com/velvtbug/status/2093157649609040015/video/1",
+              "media_key": "13_2093157617187098625",
+              "start": 44,
+              "url": "https://t.co/INuv5am6hC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101881157025726665",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093157617187098625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101560278940807424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ut_ethan25: How people swear weed feels https://t.co/INuv5am6hC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093157617187098625"
+          ],
+          "media_source_tweet_id": [
+            "2093157649609040015"
+          ]
+        },
+        "author_id": "2087269888624574464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101560278940807424",
+        "created_at": "2026-09-20T06:33:10.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101560278940807424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INuv5am6hC",
+              "end": 51,
+              "expanded_url": "https://x.com/velvtbug/status/2093157649609040015/video/1",
+              "media_key": "13_2093157617187098625",
+              "start": 28,
+              "url": "https://t.co/INuv5am6hC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101560278940807424",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093157617187098625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1711,
+          "impression_count": 344281,
+          "like_count": 20202,
+          "quote_count": 239,
+          "reply_count": 168,
+          "retweet_count": 2701
+        },
+        "reply_settings": "everyone",
+        "text": "How people swear weed feels https://t.co/INuv5am6hC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093157617187098625"
+          ]
+        },
+        "author_id": "1886694643527782400",
+        "conversation_id": "2093157649609040015",
+        "created_at": "2026-08-28T02:04:07.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093157649609040015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBu9pSyKFx",
+              "end": 71,
+              "expanded_url": "https://x.com/Velvtbug/status/2093157649609040015/video/1",
+              "media_key": "13_2093157617187098625",
+              "start": 48,
+              "url": "https://t.co/FBu9pSyKFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093157649609040015",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093157617187098625"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3956,
+          "impression_count": 5827709,
+          "like_count": 10887,
+          "quote_count": 226,
+          "reply_count": 145,
+          "retweet_count": 1551
+        },
+        "reply_settings": "everyone",
+        "text": "What emotion is this even supposed to bring up? https://t.co/FBu9pSyKFx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2101881157025726665",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 350,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 673,
+          "tweet_count": 4294
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T20:08:45.000Z",
+        "description": "#jheneaikoisbae \n( this account is for fun don’t\n take this seriously lmao )",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 0,
+                "tag": "jheneaikoisbae"
+              }
+            ]
+          }
+        },
+        "id": "2087269888624574464",
+        "is_identity_verified": false,
+        "location": "In your head rent free",
+        "most_recent_tweet_id": "2101830187461550396",
+        "name": "Ethan Arreola",
+        "pinned_tweet_id": "2101560278940807424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087269888624574464/1786479055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087270217835479040/Svg93ig3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "ut_ethan25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104012713353420800"
+      ],
+      "media_source_tweet_id": [
+        "2104012759587242031"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2104307850290057413",
+    "created_at": "2026-09-27T20:31:02.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T21:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104307850290057413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1136136882893545473",
+          "start": 3,
+          "username": "haveasadlarpbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zNJwtXuwft",
+          "end": 98,
+          "expanded_url": "https://x.com/haveasadlarpbb/status/2104012759587242031/video/1",
+          "media_key": "13_2104012713353420800",
+          "start": 75,
+          "url": "https://t.co/zNJwtXuwft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104307850290057413",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2104012713353420800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104012759587242031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haveasadlarpbb: I’VE SEEN WUMPUS\n\nplease support all the artists &lt;3 https://t.co/zNJwtXuwft"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17323,
+        "height": 922,
+        "media_key": "13_2104012713353420800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104012713353420800/img/0gcMGaGjFRhU3yjr.jpg",
+        "public_metrics": {
+          "view_count": 43481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104012713353420800/vid/avc1/320x408/CO8-8oP-_2qPosCI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104012713353420800/vid/avc1/480x614/BJxKYF_N4glBOBlE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104012713353420800/vid/avc1/720x922/UUlthHrqo0iFkQDS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104012713353420800/pl/vFrY8Jeh0q6AHXuP.m3u8?v=79f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104012713353420800"
+          ],
+          "media_source_tweet_id": [
+            "2104012759587242031"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2104307850290057413",
+        "created_at": "2026-09-27T20:31:02.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104307850290057413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1136136882893545473",
+              "start": 3,
+              "username": "haveasadlarpbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNJwtXuwft",
+              "end": 98,
+              "expanded_url": "https://x.com/haveasadlarpbb/status/2104012759587242031/video/1",
+              "media_key": "13_2104012713353420800",
+              "start": 75,
+              "url": "https://t.co/zNJwtXuwft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104307850290057413",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104012713353420800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104012759587242031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haveasadlarpbb: I’VE SEEN WUMPUS\n\nplease support all the artists &lt;3 https://t.co/zNJwtXuwft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104012713353420800"
+          ]
+        },
+        "author_id": "1136136882893545473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2104012759587242031",
+        "created_at": "2026-09-27T00:58:27.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104012759587242031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNJwtXuwft",
+              "end": 78,
+              "expanded_url": "https://x.com/haveasadlarpbb/status/2104012759587242031/video/1",
+              "media_key": "13_2104012713353420800",
+              "start": 55,
+              "url": "https://t.co/zNJwtXuwft"
+            },
+            {
+              "display_url": "x.com/discord/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/discord/status/2102947640124244226",
+              "start": 79,
+              "url": "https://t.co/vD60OG28Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104012759587242031",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104012713353420800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1176,
+          "impression_count": 112895,
+          "like_count": 5749,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102947640124244226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’VE SEEN WUMPUS\n\nplease support all the artists &lt;3 https://t.co/zNJwtXuwft https://t.co/vD60OG28Zm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2104307850290057413",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 351,
+          "like_count": 4193,
+          "listed_count": 0,
+          "media_count": 686,
+          "tweet_count": 4417
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-05T05:05:16.000Z",
+        "description": "25, i have the woke mind virus, I’m a cuck it’s not an insult i gladly sit in the chair",
+        "id": "1136136882893545473",
+        "is_identity_verified": false,
+        "location": "Cumming, GA",
+        "most_recent_tweet_id": "2104249676186648768",
+        "name": "Convicted Larpist 🀄️",
+        "pinned_tweet_id": "2098538225459507304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136136882893545473/1789501949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099246495044435968/mZCaSvP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 2054,
+          "like_count": 131376,
+          "listed_count": 13,
+          "media_count": 9085,
+          "tweet_count": 66869
+        },
+        "url": "",
+        "username": "haveasadlarpbb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

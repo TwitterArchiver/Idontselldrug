@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      }
+    ],
+    "conversation_id": "2098570269183050025",
+    "created_at": "2026-09-12T00:31:56.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098570269183050025"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 48,
+          "tag": "DontDieNigga"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1983526165118885888",
+          "start": 3,
+          "username": "CyclicalYearner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098570269183050025",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098089664896737695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyclicalYearner: Cut the rope not ur wrists #DontDieNigga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          }
+        ],
+        "conversation_id": "2098570269183050025",
+        "created_at": "2026-09-12T00:31:56.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098570269183050025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "DontDieNigga"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1983526165118885888",
+              "start": 3,
+              "username": "CyclicalYearner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098570269183050025",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098089664896737695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyclicalYearner: Cut the rope not ur wrists #DontDieNigga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983526165118885888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          }
+        ],
+        "conversation_id": "2098089664896737695",
+        "created_at": "2026-09-10T16:42:11.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098089664896737695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 27,
+              "tag": "DontDieNigga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cut_the_rope/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/cut_the_rope/status/2098060315476856902",
+              "start": 41,
+              "url": "https://t.co/MOkHFgtnmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098089664896737695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4483,
+          "impression_count": 1498800,
+          "like_count": 122058,
+          "quote_count": 60,
+          "reply_count": 45,
+          "retweet_count": 11439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098060315476856902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cut the rope not ur wrists #DontDieNigga https://t.co/MOkHFgtnmI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098570269183050025",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 349,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 4115
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-29T13:27:51.000Z",
+        "description": "@RapeCod\n\nPluto Truther",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "RapeCod"
+              }
+            ]
+          }
+        },
+        "id": "1983526165118885888",
+        "is_identity_verified": false,
+        "location": "Cumming, GA",
+        "most_recent_tweet_id": "2098442713725071519",
+        "name": "Marlboro Apologist",
+        "pinned_tweet_id": "2020209956407103558",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983526165118885888/1773768854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048811079535632384/T3-BfB5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 99,
+          "like_count": 6400,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "CyclicalYearner",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

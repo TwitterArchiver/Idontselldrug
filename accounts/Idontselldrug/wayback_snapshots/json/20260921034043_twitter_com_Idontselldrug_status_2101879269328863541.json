@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2101029890552381624",
+    "created_at": "2026-09-21T03:40:43.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101879269328863541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "theOGschizoid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101879269328863541",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101129280692290015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theOGschizoid Where larp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "16_2101129272760930305",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSi18PoXEAEd1SS.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSi18PoXEAEd1SS.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2101029890552381624",
+        "created_at": "2026-09-21T03:40:43.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101879269328863541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "theOGschizoid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101879269328863541",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101129280692290015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theOGschizoid Where larp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101129272760930305"
+          ]
+        },
+        "author_id": "1986894257194737665",
+        "conversation_id": "2101029890552381624",
+        "created_at": "2026-09-19T02:00:32.000Z",
+        "display_text_range": [
+          14,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101129280692290015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUEngPvaTw",
+              "end": 38,
+              "expanded_url": "https://x.com/theOGschizoid/status/2101129280692290015/photo/1",
+              "media_key": "16_2101129272760930305",
+              "start": 15,
+              "url": "https://t.co/SUEngPvaTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101129280692290015",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2101129272760930305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101029890552381624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug https://t.co/SUEngPvaTw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2101879269328863541",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 350,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 673,
+          "tweet_count": 4293
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mmP5Va7sfv",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mmP5Va7sfv",
+                "start": 0,
+                "url": "https://t.co/kso1Sq8Kdv"
+              }
+            ]
+          }
+        },
+        "id": "1986894257194737665",
+        "is_identity_verified": false,
+        "location": "Le monologue du meurtre",
+        "most_recent_tweet_id": "2101873726740406634",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2097278790518862271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986894257194737665/1774850697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087306385100787712/ZsUI5GOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1261,
+          "like_count": 5889,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/kso1Sq8Kdv",
+        "username": "theOGschizoid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

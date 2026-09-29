@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2102590626445627638",
+    "created_at": "2026-09-23T02:47:24.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T03:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102590626445627638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1mnot2888/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/1mnot2888/status/2092329939446198426",
+          "start": 14,
+          "url": "https://t.co/MSBmUBP5f3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102590626445627638",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092329939446198426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I'm cryin 😭😭😭 https://t.co/MSBmUBP5f3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092329929748963328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQly_Eea4AAKjOk.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2102590626445627638",
+        "created_at": "2026-09-23T02:47:24.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102590626445627638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1mnot2888/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1mnot2888/status/2092329939446198426",
+              "start": 14,
+              "url": "https://t.co/MSBmUBP5f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102590626445627638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092329939446198426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm cryin 😭😭😭 https://t.co/MSBmUBP5f3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092329929748963328"
+          ]
+        },
+        "author_id": "1543182140975636480",
+        "conversation_id": "2092329939446198426",
+        "created_at": "2026-08-25T19:15:05.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092329939446198426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uBtp46Zcx",
+              "end": 27,
+              "expanded_url": "https://x.com/1mnot2888/status/2092329939446198426/photo/1",
+              "media_key": "3_2092329929748963328",
+              "start": 4,
+              "url": "https://t.co/2uBtp46Zcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092329939446198426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092329929748963328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 8087,
+          "like_count": 74,
+          "quote_count": 24,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我属性 https://t.co/2uBtp46Zcx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102590626445627638",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 349,
+          "like_count": 4114,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 4330
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-02T10:38:01.000Z",
+        "description": "20⬆️/中文&English/AI🚫/fanart\ndamn i am not longer filtering out NSFW content dis account might post NSFW stuff from now on",
+        "id": "1543182140975636480",
+        "is_identity_verified": false,
+        "location": "🪳🦇",
+        "most_recent_tweet_id": "2102559317799125032",
+        "name": "晚香玉念珠",
+        "pinned_tweet_id": "2086869936077717986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543182140975636480/1789295254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972360570658492416/6-OQmhxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6536,
+          "following_count": 150,
+          "like_count": 2362,
+          "listed_count": 27,
+          "media_count": 51,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "1mnot2888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

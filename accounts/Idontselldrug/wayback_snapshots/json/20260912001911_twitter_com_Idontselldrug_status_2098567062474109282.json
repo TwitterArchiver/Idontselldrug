@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      }
+    ],
+    "conversation_id": "2098567062474109282",
+    "created_at": "2026-09-12T00:19:11.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098567062474109282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PintsBeauty/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/PintsBeauty/status/2098516241673515327",
+          "start": 21,
+          "url": "https://t.co/1bkMrK5LLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098567062474109282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098516241673515327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很讨厌酒味但我觉得这个福佳白真的好好喝 https://t.co/1bkMrK5LLu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3649,
+        "media_key": "3_2098516208588877835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9tX5BW8Asrqfk.jpg",
+        "width": 2788
+      },
+      {
+        "height": 4028,
+        "media_key": "3_2098516217686528000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9tYa6aEAASFHe.jpg",
+        "width": 2915
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2098516229711355916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9tZHtWYAweXr0.jpg",
+        "width": 3284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2098567062474109282",
+        "created_at": "2026-09-12T00:19:11.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098567062474109282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PintsBeauty/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/PintsBeauty/status/2098516241673515327",
+              "start": 21,
+              "url": "https://t.co/1bkMrK5LLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098567062474109282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098516241673515327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很讨厌酒味但我觉得这个福佳白真的好好喝 https://t.co/1bkMrK5LLu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098516208588877835",
+            "3_2098516217686528000",
+            "3_2098516229711355916"
+          ]
+        },
+        "author_id": "1558105538071855104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2098516241673515327",
+        "created_at": "2026-09-11T20:57:15.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098516241673515327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KjmIHkWH4",
+              "end": 121,
+              "expanded_url": "https://x.com/PintsBeauty/status/2098516241673515327/photo/1",
+              "media_key": "3_2098516208588877835",
+              "start": 98,
+              "url": "https://t.co/7KjmIHkWH4"
+            },
+            {
+              "display_url": "pic.x.com/7KjmIHkWH4",
+              "end": 121,
+              "expanded_url": "https://x.com/PintsBeauty/status/2098516241673515327/photo/1",
+              "media_key": "3_2098516217686528000",
+              "start": 98,
+              "url": "https://t.co/7KjmIHkWH4"
+            },
+            {
+              "display_url": "pic.x.com/7KjmIHkWH4",
+              "end": 121,
+              "expanded_url": "https://x.com/PintsBeauty/status/2098516241673515327/photo/1",
+              "media_key": "3_2098516229711355916",
+              "start": 98,
+              "url": "https://t.co/7KjmIHkWH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098516241673515327",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098516208588877835"
+          },
+          {
+            "media_key": "3_2098516217686528000"
+          },
+          {
+            "media_key": "3_2098516229711355916"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 708,
+          "impression_count": 440055,
+          "like_count": 6881,
+          "quote_count": 307,
+          "reply_count": 190,
+          "retweet_count": 484
+        },
+        "reply_settings": "everyone",
+        "text": "3 LITRES of beer…in ONE glass!! Yes please 🍻\n\n3L of Hoegaarden at Tachikawa Beer Hall in Tokyo 🇯🇵 https://t.co/7KjmIHkWH4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098567062474109282",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 349,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-12T14:58:09.000Z",
+        "description": "Talking, debating and uploading the beauty of a beer in a glass, It's as simple as that. Email us on pints@pintsofbeauty.com 🍻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "etsy.com/uk/listing/455…",
+                "end": 23,
+                "expanded_url": "https://www.etsy.com/uk/listing/4556191440/bar-blade-bottle-opener?etsrc=sdt",
+                "start": 0,
+                "url": "https://t.co/4ojgt3aHXV"
+              }
+            ]
+          }
+        },
+        "id": "1558105538071855104",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2098516241673515327",
+        "name": "Pints Of Beauty",
+        "pinned_tweet_id": "1902057061262733797",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558105538071855104/1786134322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035010246565875712/Bz6rXmwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51372,
+          "following_count": 923,
+          "like_count": 26297,
+          "listed_count": 31,
+          "media_count": 2717,
+          "tweet_count": 12972
+        },
+        "url": "https://t.co/4ojgt3aHXV",
+        "username": "PintsBeauty",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100410386973601792"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100410404988141578",
+    "created_at": "2026-09-17T02:23:58.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100410404988141578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kryrsVLcxX",
+          "end": 47,
+          "expanded_url": "https://x.com/Idontselldrug/status/2100410404988141578/video/1",
+          "media_key": "13_2100410386973601792",
+          "start": 24,
+          "url": "https://t.co/kryrsVLcxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100410404988141578",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100410386973601792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了噻奈普汀去攀岩 太好玩啦\nUp up up https://t.co/kryrsVLcxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30046,
+        "height": 1280,
+        "media_key": "13_2100410386973601792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100410386973601792/img/D3UJqCNX653h3AUA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100410386973601792/vid/avc1/320x568/EkYrRGxjhzsGqwFC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100410386973601792/vid/avc1/480x852/6b0P5_5YS0nczpGN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100410386973601792/vid/avc1/720x1280/nNIonEoug70hMM9b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100410386973601792/pl/pHLJcw2j3ql_3JTJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100410386973601792"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100410404988141578",
+        "created_at": "2026-09-17T02:23:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100410404988141578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kryrsVLcxX",
+              "end": 47,
+              "expanded_url": "https://x.com/Idontselldrug/status/2100410404988141578/video/1",
+              "media_key": "13_2100410386973601792",
+              "start": 24,
+              "url": "https://t.co/kryrsVLcxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100410404988141578",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100410386973601792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了噻奈普汀去攀岩 太好玩啦\nUp up up https://t.co/kryrsVLcxX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100410404988141578",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 350,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

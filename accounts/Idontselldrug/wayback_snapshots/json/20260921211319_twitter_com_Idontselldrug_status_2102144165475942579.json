@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2102144165475942579",
+    "created_at": "2026-09-21T21:13:19.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T22:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102144165475942579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493301630460215297",
+          "start": 3,
+          "username": "ghttoyout"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102144165475942579",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2566
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101961514777227735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghttoyout: fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2102144165475942579",
+        "created_at": "2026-09-21T21:13:19.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102144165475942579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493301630460215297",
+              "start": 3,
+              "username": "ghttoyout"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102144165475942579",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2566
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101961514777227735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghttoyout: fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493301630460215297",
+        "conversation_id": "2101961514777227735",
+        "created_at": "2026-09-21T09:07:32.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101961514777227735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101961514777227735",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 679622,
+          "like_count": 17709,
+          "quote_count": 223,
+          "reply_count": 73,
+          "retweet_count": 2566
+        },
+        "reply_settings": "everyone",
+        "text": "fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam fuck eduroam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2102144165475942579",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 350,
+          "like_count": 4097,
+          "listed_count": 0,
+          "media_count": 673,
+          "tweet_count": 4309
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T19:10:39.000Z",
+        "description": "🇲🇦 bk. @realmadrid @manutd luton’s saviour 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "realmadrid"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "username": "manutd"
+              }
+            ]
+          }
+        },
+        "id": "1493301630460215297",
+        "is_identity_verified": false,
+        "location": "Luton, Greater London",
+        "most_recent_tweet_id": "2102069129675002015",
+        "name": "veezy",
+        "pinned_tweet_id": "1832909812796948530",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493301630460215297/1785089087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097889873415847940/NhXtaMTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 597,
+          "like_count": 34022,
+          "listed_count": 2,
+          "media_count": 1285,
+          "tweet_count": 14928
+        },
+        "url": "",
+        "username": "ghttoyout",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

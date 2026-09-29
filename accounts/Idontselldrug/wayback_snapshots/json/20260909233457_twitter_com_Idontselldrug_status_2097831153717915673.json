@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097629026684952576"
+      ],
+      "media_source_tweet_id": [
+        "2097629979538248101"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097831153717915673",
+    "created_at": "2026-09-09T23:34:57.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T00:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097831153717915673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "709172431211126785",
+          "start": 3,
+          "username": "vladk0r_vlr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bA2SyGS2t",
+          "end": 91,
+          "expanded_url": "https://x.com/vladk0r_vlr/status/2097629979538248101/video/1",
+          "media_key": "13_2097629026684952576",
+          "start": 68,
+          "url": "https://t.co/8bA2SyGS2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097831153717915673",
+    "lang": "tl",
+    "media_metadata": [
+      {
+        "media_key": "13_2097629026684952576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097629979538248101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vladk0r_vlr: kernel level anticheat vs tung tung tung cheat-hur https://t.co/8bA2SyGS2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33785,
+        "height": 720,
+        "media_key": "13_2097629026684952576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097629026684952576/img/G-rOU7BvXBzIMNNX.jpg",
+        "public_metrics": {
+          "view_count": 800007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097629026684952576/vid/avc1/480x270/vDAmmH2b9rvKv42R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097629026684952576/vid/avc1/640x360/KCSSfBAGs0bCyD8z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097629026684952576/vid/avc1/1280x720/3EL3I_0_aRMhKkB4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097629026684952576/pl/yuxTtGPaba62jHgq.m3u8?v=f63"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097629026684952576"
+          ],
+          "media_source_tweet_id": [
+            "2097629979538248101"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097831153717915673",
+        "created_at": "2026-09-09T23:34:57.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097831153717915673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "709172431211126785",
+              "start": 3,
+              "username": "vladk0r_vlr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bA2SyGS2t",
+              "end": 91,
+              "expanded_url": "https://x.com/vladk0r_vlr/status/2097629979538248101/video/1",
+              "media_key": "13_2097629026684952576",
+              "start": 68,
+              "url": "https://t.co/8bA2SyGS2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097831153717915673",
+        "lang": "tl",
+        "media_metadata": [
+          {
+            "media_key": "13_2097629026684952576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097629979538248101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vladk0r_vlr: kernel level anticheat vs tung tung tung cheat-hur https://t.co/8bA2SyGS2t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097629026684952576"
+          ]
+        },
+        "author_id": "709172431211126785",
+        "conversation_id": "2097629979538248101",
+        "created_at": "2026-09-09T10:15:33.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097629979538248101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bA2SyGS2t",
+              "end": 74,
+              "expanded_url": "https://x.com/vladk0r_vlr/status/2097629979538248101/video/1",
+              "media_key": "13_2097629026684952576",
+              "start": 51,
+              "url": "https://t.co/8bA2SyGS2t"
+            },
+            {
+              "display_url": "x.com/lhfaria/status…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/lhfaria/status/2097412226428915868",
+              "start": 75,
+              "url": "https://t.co/mWvw7zC2Lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097629979538248101",
+        "lang": "tl",
+        "media_metadata": [
+          {
+            "media_key": "13_2097629026684952576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5290,
+          "impression_count": 2112807,
+          "like_count": 48388,
+          "quote_count": 115,
+          "reply_count": 157,
+          "retweet_count": 2459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097412226428915868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kernel level anticheat vs tung tung tung cheat-hur https://t.co/8bA2SyGS2t https://t.co/mWvw7zC2Lg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2097831153717915673",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 345,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 651,
+          "tweet_count": 4073
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-14T00:20:58.000Z",
+        "description": "23 | lineups CEO | prev @GlobalEsportsIn @NRGgg @TwisMinds @firefluxesports | vladk0rbusiness@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "GlobalEsportsIn"
+              },
+              {
+                "end": 47,
+                "start": 41,
+                "username": "NRGgg"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "TwisMinds"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "firefluxesports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vladk0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/vladk0r",
+                "start": 0,
+                "url": "https://t.co/dyHzo56MbG"
+              }
+            ]
+          }
+        },
+        "id": "709172431211126785",
+        "is_identity_verified": false,
+        "location": "Custom Lobby",
+        "most_recent_tweet_id": "2097630487883751885",
+        "name": "vladk0r",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/709172431211126785/1765797483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021528434019860480/WGwodYX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22060,
+          "following_count": 4128,
+          "like_count": 73048,
+          "listed_count": 169,
+          "media_count": 2496,
+          "tweet_count": 6023
+        },
+        "url": "https://t.co/dyHzo56MbG",
+        "username": "vladk0r_vlr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

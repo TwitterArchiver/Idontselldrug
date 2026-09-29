@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2103587744908034096",
+    "created_at": "2026-09-26T02:23:38.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T03:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103671808922947936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103671808922947936",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103664550449127445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 是因为苹果手表续航太差我才不用的，才不是因为我买不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2103587744908034096",
+        "created_at": "2026-09-26T02:23:38.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103671808922947936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103671808922947936",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103664550449127445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 是因为苹果手表续航太差我才不用的，才不是因为我买不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "2103587744908034096",
+        "created_at": "2026-09-26T01:54:47.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T02:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103664550449127445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103664550449127445",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103587744908034096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 加爷（猪肝红版）也用小米手环吗（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2103671808922947936",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 352,
+          "like_count": 4150,
+          "listed_count": 0,
+          "media_count": 680,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜18大专牲｜INFP｜代词随意｜🏳️‍🌈喜欢男的｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew75829",
+                "start": 0,
+                "url": "https://t.co/I42jWGR17A"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "is_identity_verified": false,
+        "location": "青岛",
+        "most_recent_tweet_id": "2103664550449127445",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "2071353465612468377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503516796493590530/1734157751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6593,
+          "following_count": 2657,
+          "like_count": 65230,
+          "listed_count": 2,
+          "media_count": 814,
+          "tweet_count": 9789
+        },
+        "url": "https://t.co/I42jWGR17A",
+        "username": "orangefish_stew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

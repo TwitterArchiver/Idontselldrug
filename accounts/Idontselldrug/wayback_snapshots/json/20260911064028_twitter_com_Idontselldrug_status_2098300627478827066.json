@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986452594206838785",
+    "conversation_id": "2097914745651069385",
+    "created_at": "2026-09-11T06:40:28.000Z",
+    "display_text_range": [
+      23,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098300627478827066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089393577118105600",
+          "start": 0,
+          "username": "jnrmvr_"
+        },
+        {
+          "end": 22,
+          "id": "2079926361557524480",
+          "start": 9,
+          "username": "iwantredeyes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098300627478827066",
+    "in_reply_to_user_id": "2089393577118105600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097918494381932893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnrmvr_ @iwantredeyes 我送你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2097914745651069385",
+        "created_at": "2026-09-11T06:40:28.000Z",
+        "display_text_range": [
+          23,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098300627478827066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089393577118105600",
+              "start": 0,
+              "username": "jnrmvr_"
+            },
+            {
+              "end": 22,
+              "id": "2079926361557524480",
+              "start": 9,
+              "username": "iwantredeyes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098300627478827066",
+        "in_reply_to_user_id": "2089393577118105600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097918494381932893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnrmvr_ @iwantredeyes 我送你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089393577118105600",
+        "conversation_id": "2097914745651069385",
+        "created_at": "2026-09-10T05:22:01.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097918494381932893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097918494381932893",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097914745651069385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes 有人送我吃还是可以吃一下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2098300627478827066",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 349,
+          "like_count": 3900,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T16:48:51.000Z",
+        "description": "they/them",
+        "id": "2089393577118105600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097918761936556208",
+        "name": "Ratte",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089393577118105600/1786986222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090539950488088576/Boamv9OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "jnrmvr_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？@crispyvege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "crispyvege"
+              }
+            ]
+          }
+        },
+        "id": "2079926361557524480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098129219892990266",
+        "name": "红眼病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079926361557524480/1784733399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 107,
+          "like_count": 3955,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

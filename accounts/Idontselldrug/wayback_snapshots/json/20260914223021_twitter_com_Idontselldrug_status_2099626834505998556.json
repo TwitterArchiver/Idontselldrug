@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099511975487451136"
+      ],
+      "media_source_tweet_id": [
+        "2099511981594247332"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2099626834505998556",
+    "created_at": "2026-09-14T22:30:21.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099626834505998556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404733302607581184",
+          "start": 3,
+          "username": "0x_dcgbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fh90BShkHY",
+          "end": 65,
+          "expanded_url": "https://x.com/0x_dcgbb/status/2099511981594247332/photo/1",
+          "media_key": "3_2099511975487451136",
+          "start": 42,
+          "url": "https://t.co/fh90BShkHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099626834505998556",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099511975487451136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099511981594247332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x_dcgbb: 广州gogo无差别杀人，听说是这四个畜生，大家记住他们 https://t.co/fh90BShkHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2099511975487451136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL3BJybsAAsNv3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099511975487451136"
+          ],
+          "media_source_tweet_id": [
+            "2099511981594247332"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2099626834505998556",
+        "created_at": "2026-09-14T22:30:21.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099626834505998556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404733302607581184",
+              "start": 3,
+              "username": "0x_dcgbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fh90BShkHY",
+              "end": 65,
+              "expanded_url": "https://x.com/0x_dcgbb/status/2099511981594247332/photo/1",
+              "media_key": "3_2099511975487451136",
+              "start": 42,
+              "url": "https://t.co/fh90BShkHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099626834505998556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099511975487451136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099511981594247332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x_dcgbb: 广州gogo无差别杀人，听说是这四个畜生，大家记住他们 https://t.co/fh90BShkHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099511975487451136"
+          ]
+        },
+        "author_id": "1404733302607581184",
+        "conversation_id": "2099511981594247332",
+        "created_at": "2026-09-14T14:53:58.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099511981594247332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fh90BShkHY",
+              "end": 51,
+              "expanded_url": "https://x.com/0x_dcgbb/status/2099511981594247332/photo/1",
+              "media_key": "3_2099511975487451136",
+              "start": 28,
+              "url": "https://t.co/fh90BShkHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099511981594247332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099511975487451136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 278985,
+          "like_count": 443,
+          "quote_count": 5,
+          "reply_count": 183,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "广州gogo无差别杀人，听说是这四个畜生，大家记住他们 https://t.co/fh90BShkHY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2099626834505998556",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 350,
+          "like_count": 3951,
+          "listed_count": 0,
+          "media_count": 665,
+          "tweet_count": 4182
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-15T09:31:47.000Z",
+        "description": "Web3交易员｜X创作者｜#lovetesla",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "lovetesla"
+              }
+            ]
+          }
+        },
+        "id": "1404733302607581184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099517491026534795",
+        "name": "曾经是个赌神",
+        "pinned_tweet_id": "1962183240015647003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404733302607581184/1788963643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014648747712708608/ir5pOkBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16862,
+          "following_count": 6319,
+          "like_count": 117931,
+          "listed_count": 50,
+          "media_count": 290,
+          "tweet_count": 123107
+        },
+        "url": "",
+        "username": "0x_dcgbb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

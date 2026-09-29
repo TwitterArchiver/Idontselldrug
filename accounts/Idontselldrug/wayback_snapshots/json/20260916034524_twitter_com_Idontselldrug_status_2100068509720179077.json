@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099897038444113922"
+      ],
+      "media_source_tweet_id": [
+        "2099897046572675153"
+      ]
+    },
+    "author_id": "1986452594206838785",
+    "conversation_id": "2100068509720179077",
+    "created_at": "2026-09-16T03:45:24.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T04:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100068509720179077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1560293997884481536",
+          "start": 3,
+          "username": "njns17765738"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RGCAFI6Ln8",
+          "end": 66,
+          "expanded_url": "https://x.com/njns17765738/status/2099897046572675153/photo/1",
+          "media_key": "3_2099897038444113922",
+          "start": 43,
+          "url": "https://t.co/RGCAFI6Ln8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100068509720179077",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099897038444113922"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099897046572675153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @njns17765738: 我他妈想起以前学校让填的这个就好笑 完全是基操吧 https://t.co/RGCAFI6Ln8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2099897038444113922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRVOxFbMAI6nif.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099897038444113922"
+          ],
+          "media_source_tweet_id": [
+            "2099897046572675153"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100068509720179077",
+        "created_at": "2026-09-16T03:45:24.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100068509720179077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1560293997884481536",
+              "start": 3,
+              "username": "njns17765738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGCAFI6Ln8",
+              "end": 66,
+              "expanded_url": "https://x.com/njns17765738/status/2099897046572675153/photo/1",
+              "media_key": "3_2099897038444113922",
+              "start": 43,
+              "url": "https://t.co/RGCAFI6Ln8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100068509720179077",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099897038444113922"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099897046572675153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @njns17765738: 我他妈想起以前学校让填的这个就好笑 完全是基操吧 https://t.co/RGCAFI6Ln8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099897038444113922"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2099897046572675153",
+        "created_at": "2026-09-15T16:24:04.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099897046572675153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGCAFI6Ln8",
+              "end": 48,
+              "expanded_url": "https://x.com/njns17765738/status/2099897046572675153/photo/1",
+              "media_key": "3_2099897038444113922",
+              "start": 25,
+              "url": "https://t.co/RGCAFI6Ln8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099897046572675153",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099897038444113922"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1985,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈想起以前学校让填的这个就好笑 完全是基操吧 https://t.co/RGCAFI6Ln8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Edmonton, Alberta, Canada",
+              "geo": {
+                "coordinates": [
+                  -113.46871,
+                  53.55014
+                ],
+                "type": "Point"
+              },
+              "locality": "Edmonton",
+              "region": "Alberta"
+            }
+          ]
+        },
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100068509720179077",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 350,
+          "like_count": 3977,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 4202
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2100033756002390159",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 664,
+          "like_count": 2371,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
